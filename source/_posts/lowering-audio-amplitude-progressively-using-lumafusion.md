@@ -1,7 +1,7 @@
 ---
 title: "Lowering Audio Amplitude Progressively Using Lumafusion"
-date: 2024-05-19 20:51:54
-updated: 2024-05-21 11:30:21
+date: 2024-05-24T10:12:26.511Z
+updated: 2024-05-25T10:12:26.511Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,52 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-words-use-at-zero-expense/"><u>2024 Approved  Capture Words, Use at Zero Expense</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-walkthrough-to-craft-your-metaverse-identity/"><u>2024 Approved  A Step-by-Step Walkthrough to Craft Your Metaverse Identity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-deco-cool-walls-for-portable-pcs/"><u>Digital Deco  Cool Walls for Portable PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-access-premium-level-video-templates-for-free/"><u>[New] Access Premium-Level Video Templates for Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-business-communication-essentials-free-slide-show-tools/"><u>[Updated] Business Communication Essentials – Free Slide Show Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-in-show-a-compreeved-list-of-top-18-4k-recording-devices/"><u>In 2024, Best in Show  A Compreeved List of Top 18 4K Recording Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-5-drones-perfect-choices-for-experts/"><u>Elite 5 Drones  Perfect Choices for Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-of-radio-drama-crafting/"><u>Pinnacle of Radio Drama Crafting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-a-one-of-a-kind-digital-gag-now/"><u>[Updated] Craft a One-of-a-Kind Digital Gag Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cloud-storage-pricing-comparison-and-best-price-recommendations/"><u>In 2024, Cloud Storage Pricing Comparison and Best Price Recommendations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-connoisseurs-compendium-budget-friendly-photography-havens/"><u>In 2024, Connoisseur's Compendium  Budget-Friendly Photography Havens</u></a></li>
+<li><a href="https://extra-information.techidaily.com/paving-your-way-to-cost-savvy-cloud-choices/"><u>Paving Your Way to Cost-Savvy Cloud Choices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-a-robust-brand-partnership-portfolio-on-youtube/"><u>Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-visual-narratives-with-the-leading-frames/"><u>2024 Approved  Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-insight-into-simple-high-dynamic-range-capture/"><u>Comprehensive Insight Into Simple High-Dynamic Range Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-gopro-videos-time-lapse-guide/"><u>Enhance Your GoPro Videos  Time-Lapse Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-hidden-gems-time-lapse-photography-on-hero5-black/"><u>Discovering Hidden Gems  Time-Lapse Photography on Hero5 Black</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-combining-visual-and-auditory-elements-in-the-windows-photos-app/"><u>[New] Combining Visual and Auditory Elements in the Windows Photos App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-compelling-podcast-imagery-fundamental-tips/"><u>[New] Crafting Compelling Podcast Imagery  Fundamental Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/promotional-planning-perfection/"><u>Promotional Planning Perfection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-perfect-srt-output-with-premiere-pro/"><u>[New] Crafting Perfect SRT Output with Premiere Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-unbeatable-face-editing-tools-for-iphone-and-samsungs/"><u>In 2024, 10 Unbeatable Face-Editing Tools for iPhone & Samsungs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-spectrum-of-style-the-finest-photo-frame-software/"><u>A Spectrum of Style  The Finest Photo Frame Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-insights-efficiently-attaching-subtitles-to-mp4s/"><u>Expert Insights  Efficiently Attaching Subtitles to MP4s</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-down-augmented-realitys-mysteries/"><u>2024 Approved  Breaking Down Augmented Reality's Mysteries</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cinematic-sequence-best-video-cameras-for-extended-slow-motion/"><u>2024 Approved  Cinematic Sequence  Best Video Cameras for Extended Slow Motion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>Pushing Boundaries  Exploring iPhone X's Unique Lens Tech</u></a></li>
+<li><a href="https://extra-information.techidaily.com/are-video-reviews-of-goods-paid-for-by-creators/"><u>Are Video Reviews of Goods Paid For by Creators?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-guide-for-selecting-tiktok-wallpapers/"><u>Master Guide for Selecting TikTok Wallpapers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-m6-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco M6 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-spark-go-2023-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Spark Go (2023) Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-c65-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco C65 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-remove-noise-from-audio-online/"><u>Updated How to Remove Noise From Audio Online</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-snapchat-plus-twitter-duo-video-posting-guide-for-2024/"><u>[Updated] The Ultimate Snapchat + Twitter Duo (Video Posting Guide) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-diving-deep-into-instagrams-new-features/"><u>[New] 2024 Approved  Diving Deep Into Instagram's New Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tips-for-saving-webcam-chats-effectively-for-2024/"><u>[New] Tips for Saving Webcam Chats Effectively for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-a05s-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy A05s to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-10-mac-video-tag-editors-for-seamless-organization/"><u>In 2024, Top 10 Mac Video Tag Editors for Seamless Organization</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-asus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Asus</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-essential-tips-for-converting-audio-to-video-files/"><u>New 2024 Approved Essential Tips for Converting Audio to Video Files</u></a></li>
+</ul></div>
 

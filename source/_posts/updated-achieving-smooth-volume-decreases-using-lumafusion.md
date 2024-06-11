@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Achieving Smooth Volume Decreases Using Lumafusion"
-date: 2024-05-22 12:41:49
-updated: 2024-05-23 12:16:55
+date: 2024-05-24T12:33:27.717Z
+updated: 2024-05-25T12:33:27.717Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,83 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-android-essentials-for-immersive-video-and-vr-content/"><u>2024 Approved  Android Essentials for Immersive Video and VR Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bring-laughter-to-life-kapwing-creator/"><u>2024 Approved  Bring Laughter to Life – Kapwing Creator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-complete-overview-how-to-navigate-telegram-web/"><u>In 2024, Complete Overview  How To Navigate Telegram Web</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-educators-compendium-of-video-assisted-methods/"><u>The Educator's Compendium of Video-Assisted Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-asmr-insights-harnessing-soundscapes-for-slumber/"><u>[Updated] ASMR Insights  Harnessing Soundscapes for Slumber</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-your-screenplay-netflix-speed-controls/"><u>Mastering Your Screenplay (Netflix) - Speed Controls</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-resource-for-morphvox-audio-transformation/"><u>The Ultimate Resource for MorphVOX Audio Transformation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/recommendation-best-websites-to-download-alarm-ringtone/"><u>Recommendation  Best Websites To Download Alarm Ringtone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/restore-lost-airdrop-functionality-with-easy-solutions-for-iosmacos/"><u>Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/broadcast-capture-made-easy-your-comprehensive-guide-for-2024/"><u>Broadcast Capture Made Easy  Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-in-visuals-navigating-srgb-and-rgb/"><u>Precision in Visuals  Navigating Srgb & Rgb</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-soundstage-networking-for-2024/"><u>Best Soundstage Networking for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-practices-snatching-supreme-photos-for-free/"><u>[Updated] Best Practices  Snatching Supreme Photos for Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-the-appeal-what-makes-you-love-filmora-editing/"><u>Decoding the Appeal  What Makes You Love Filmora Editing?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-vector-images-a-beginners-overview-of-categories/"><u>Discovering Vector Images  A Beginner’s Overview of Categories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-formulating-successful-product-sponsorships-in-youtubespace/"><u>A Guide to Formulating Successful Product Sponsorships in YouTubespace</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-free-graphic-websites-for-quality-vectors/"><u>Leading Free Graphic Websites for Quality Vectors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-m1-macbook-showdown-light-vs-powerhouse/"><u>The Ultimate M1 MacBook Showdown  Light vs Powerhouse</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-vivocuts-new-capabilities/"><u>In 2024, A Comprehensive Guide to Mastering VivoCut's New Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-daydream-to-reality-a-short-vr-history/"><u>From Daydream to Reality  A Short VR History</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cloud-perfection-in-your-pocket-top-apps-for-android/"><u>[Updated] Cloud Perfection in Your Pocket  Top Apps for Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-connectedviewing-premium-streaming-plus-local-channels-synergy/"><u>[Updated] ConnectedViewing  Premium Streaming + Local Channels Synergy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-ever-approved-reddit-threads-a-historical-list/"><u>Top 10 Ever-Approved Reddit Threads  A Historical List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-presentations-with-powerpoint-soundtracks/"><u>Enhancing Presentations with PowerPoint Soundtracks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximizing-win11-performance-boosters-revealed/"><u>Maximizing Win11  Performance Boosters Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-affordable-shutterbug-gear-for-dynamic-action-scenes/"><u>[Updated] Affordable Shutterbug Gear for Dynamic Action Scenes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ranking-the-best-ios-videography-tech/"><u>Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-realities-made-tangible-6-metaverse-examples-reviewed/"><u>Virtual Realities Made Tangible  6 Metaverse Examples Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-close-up-mode-in-roblox-playground/"><u>Mastering Close-Up Mode in Roblox Playground</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-closer-views-for-efficient-tech-meetings/"><u>Navigating Closer Views for Efficient Tech Meetings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-zoom-tips-for-efficient-chromebook-use/"><u>Top 10 Zoom Tips for Efficient Chromebook Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-wearable-cameras-in-adrenaline-world/"><u>Pinnacle Wearable Cameras in Adrenaline World</u></a></li>
+<li><a href="https://extra-information.techidaily.com/globalviewers-access-unlimited-local-tv-for-life/"><u>GlobalViewers  Access Unlimited Local TV for Life</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-3d-text-a-step-by-step-guide-to-adobe-illustrator/"><u>[New] Crafting 3D Text  A Step-by-Step Guide to Adobe Illustrator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-the-essence-in-cloud-mix-free-space-plus-charged-backup-sanctuaries/"><u>[New] Capture the Essence in Cloud  Mix Free Space + Charged Backup Sanctuaries</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-video-intro-templates-you-need-to-download/"><u>Free Video Intro Templates You Need to Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unraveling-youtube-subtitles-srt-a-triad-of-steps/"><u>Unraveling YouTube Subtitles (SRT)  A Triad of Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-ultra-hd-mastering-the-art-of-buying-a-4k-monitor/"><u>Discover Ultra HD  Mastering the Art of Buying a 4K Monitor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-interior-luminosity-naturally/"><u>Enhancing Interior Luminosity Naturally</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopro-hero5-silver-meets-sjcam-sj7/"><u>GoPro Hero5 Silver Meets SJCAM SJ7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-reno-10-proplus-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo Reno 10 Pro+ 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-z-fold-5-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy Z Fold 5 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-gionee-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Gionee Phone? Unlock It Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-magic-vs-2-by-drfone-android/"><u>Full Guide to Unlock Your Honor Magic Vs 2</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/audio-visual-accomplishments-the-best-10-recording-devices-for-education/"><u>Audio-Visual Accomplishments  The Best 10 Recording Devices for Education</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-way-to-record-tv-from-computer/"><u>Best Way to Record TV From Computer</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-samsung-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Samsung ?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-zte-axon-40-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from ZTE Axon 40 Lite to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic-6-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic 6 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-14-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 14 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-15-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 15 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-social-media-game-producing-powerful-fb-reels/"><u>2024 Approved  Elevate Your Social Media Game  Producing Powerful FB Reels</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-augment-audio-volume-in-cinematic-viewing/"><u>New In 2024, Augment Audio Volume in Cinematic Viewing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-from-amateur-to-artist-a-foundational-guide-to-editing-podcast-content-for-2024/"><u>New From Amateur to Artist A Foundational Guide to Editing Podcast Content for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-deciphering-the-latest-instagram-posting-rules/"><u>[New] In 2024, Deciphering the Latest Instagram Posting Rules</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-educator-approved-video-capture-apps-for-2024/"><u>[New] Top 10 Educator-Approved Video Capture Apps for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s21-fe-5g-2023-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S21 FE 5G (2023) Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/freeze-time-on-mi-11-with-impeccable-screen-recording-features/"><u>Freeze Time on Mi 11 with Impeccable Screen Recording Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-11-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-negative-time-videos-on-instagram/"><u>The Ultimate Guide to Negative-Time Videos on Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transforming-instagram-footage-into-square-stories-using-imovie-tips/"><u>Transforming Instagram Footage Into Square Stories Using iMovie Tips</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-top-time-lapse-video-editing-software/"><u>Updated From Zero to Hero Top Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mastering-avi-file-editing-easy-ways-to-trim-cut-and-split-videos-2023-update/"><u>In 2024, Mastering AVI File Editing Easy Ways to Trim, Cut, and Split Videos (2023 Update)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-review-of-ios-screenshot-software/"><u>Expert Review of iOS Screenshot Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-reinforcing-silence-in-obs-recordings/"><u>[Updated] 2024 Approved  Reinforcing Silence in OBS Recordings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-the-visual-identity-crafting-compelling-podcast-covers/"><u>Updated Mastering the Visual Identity Crafting Compelling Podcast Covers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-chromecast-guide-streaming-any-video-file-type-made-easy-for-2024/"><u>The Ultimate Chromecast Guide Streaming Any Video File Type Made Easy for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-avidemux-tutorial-cropping-videos-like-a-pro/"><u>New 2024 Approved The Ultimate Avidemux Tutorial Cropping Videos Like a Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/exploring-portable-audio-modifiers-a-guide-to-voice-changing-devices-for-2024/"><u>Exploring Portable Audio Modifiers A Guide to Voice-Changing Devices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-advanced-features-in-obs-studio-android-for-2024/"><u>[New] Navigating Advanced Features in OBS Studio (Android) for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-12-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 12 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+</ul></div>
 
