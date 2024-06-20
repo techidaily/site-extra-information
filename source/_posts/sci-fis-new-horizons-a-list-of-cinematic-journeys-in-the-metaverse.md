@@ -1,7 +1,7 @@
 ---
 title: "\"Sci-Fi's New Horizons  A List of Cinematic Journeys in the Metaverse\""
-date: 2024-05-24T12:00:49.924Z
-updated: 2024-05-25T12:00:49.924Z
+date: 2024-06-10T18:34:36.625Z
+updated: 2024-06-11T18:34:36.625Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Sci-Fi's New Horizons: A List of Cinematic Journeys in the Metaverse\""
 excerpt: "\"This Article Describes Sci-Fi's New Horizons: A List of Cinematic Journeys in the Metaverse\""
 keywords: "\"Sci-Fi Metaverse Films,Cinematic Metaverse Sci-Fi,Metaverse Science Fiction,Sci-Fi Virtual Worlds,Future Sci-Fi Cinema,Sci-Fi Metaverse Journeys,Sci-Fi Immersive Experience\""
-thumbnail: https://www.lifewire.com/thmb/bDlwC9Qm_dNJuekB6AkJEW6GIEQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/kindle-update-1560728_1920-400773d7b5a24bd28089ebc2b8068d70.jpg
+thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc921370376e92e90f7d158bcf8.jpg
 ---
 
 ## Sci-Fi's New Horizons: A List of Cinematic Journeys in the Metaverse

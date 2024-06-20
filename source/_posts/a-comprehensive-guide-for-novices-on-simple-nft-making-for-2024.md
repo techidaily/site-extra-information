@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide for Novices on Simple NFT Making for 2024"
-date: 2024-05-24T10:56:35.468Z
-updated: 2024-05-25T10:56:35.468Z
+date: 2024-06-10T18:34:40.372Z
+updated: 2024-06-11T18:34:40.372Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes A Comprehensive Guide for Novices on Simple NFT Making for 2024"
 excerpt: "This Article Describes A Comprehensive Guide for Novices on Simple NFT Making for 2024"
 keywords: "NFT Basics for Beginners,Simplifying NFT Creation,Novice's NFT Tutorial,Easy NFT Production Guide,Introduction to Simple NFT,Fundamentals of NFT Making,Start with Basic NFT Design"
-thumbnail: https://www.lifewire.com/thmb/QKuba4KqVkslOGIIUxOuJmE2VBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Westend61-f85efaa852724363942cf8f8629d0db9.jpg
+thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5d90ffefd2a92d695eb153e0.jpg
 ---
 
 ## A Comprehensive Guide for Novices on Simple NFT Making

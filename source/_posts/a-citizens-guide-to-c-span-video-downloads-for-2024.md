@@ -1,7 +1,7 @@
 ---
 title: "\"A Citizen's Guide to C-Span Video Downloads for 2024\""
-date: 2024-05-24T10:20:01.053Z
-updated: 2024-05-25T10:20:01.053Z
+date: 2024-06-10T18:34:36.429Z
+updated: 2024-06-11T18:34:36.429Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Citizen's Guide to C-Span Video Downloads for 2024\""
 excerpt: "\"This Article Describes A Citizen's Guide to C-Span Video Downloads for 2024\""
 keywords: "\"C-Span Video Download Guide,Citizen C-Span Content Access,C-Span Free Video Streaming,C-Span Media Library,Public TV Video Archive,Live Congress Downloads,Political Documentaries On C-Span\""
-thumbnail: https://www.lifewire.com/thmb/YvlUrzntub_aCKxG1Ah4k49OPTs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/connect-chromecast-to-hotel-wi-fi-4175829-21485d8d7e59400baae6922a39f7ba93.png
+thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09e794f561f2fddd69b31c591.png
 ---
 
 ## A Citizen's Guide to C-Span Video Downloads

@@ -1,7 +1,7 @@
 ---
 title: "\"Innovate with Imagery  Installing the Windows 11 Movie Maker App\""
-date: 2024-05-24T12:06:48.173Z
-updated: 2024-05-25T12:06:48.173Z
+date: 2024-06-10T18:34:38.765Z
+updated: 2024-06-11T18:34:38.765Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Innovate with Imagery: Installing the Windows 11 Movie Maker App\""
 excerpt: "\"This Article Describes Innovate with Imagery: Installing the Windows 11 Movie Maker App\""
 keywords: "Win11 MovieMaker App,Imagery Media Creation,Enhancing Video Editing,Visual Content Innovate,Windows 11 Creative Tool,Digital Film Making,Modern Media Design"
-thumbnail: https://www.lifewire.com/thmb/WznPVP0V6a0WI7gXnE3rtzhNNro=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-965585110-ae66ddb39f4e487d8afe7247687ae88c.jpg
+thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa3c20ff530d506800c2c3a64.jpg
 ---
 
 ## Innovate with Imagery: Installing the Windows 11 Movie Maker App

@@ -1,7 +1,7 @@
 ---
 title: "Complete Visual Field Review with Cam"
-date: 2024-05-24T12:00:19.223Z
-updated: 2024-05-25T12:00:19.223Z
+date: 2024-06-10T18:34:38.186Z
+updated: 2024-06-11T18:34:38.186Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Complete Visual Field Review with Cam"
 excerpt: "This Article Describes Complete Visual Field Review with Cam"
 keywords: "\"Vision Field Analysis Complete,Full Visual Sphere Exam,Comprehensive Eye View Checkup,Total Retina Survey,All-Seeing Vision Inspection,Panoramic Eyesight Review,Whole Field Vision Assessment\""
-thumbnail: https://www.lifewire.com/thmb/JqeWwiSiHl2mePI1yAdAfzGario=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/woman-using-laptop-on-diving-board-at-poolside-468840349-58d553785f9b584683dfa24c.jpg
+thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d56363d25b6490a7057e74118.jpg
 ---
 
 ## Complete Visual Field Review with Cam

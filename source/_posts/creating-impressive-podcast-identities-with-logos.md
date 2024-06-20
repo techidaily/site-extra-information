@@ -1,7 +1,7 @@
 ---
 title: "Creating Impressive Podcast Identities with Logos"
-date: 2024-05-24T10:47:45.790Z
-updated: 2024-05-25T10:47:45.790Z
+date: 2024-06-10T18:34:39.401Z
+updated: 2024-06-11T18:34:39.401Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Creating Impressive Podcast Identities with Logos"
 excerpt: "This Article Describes Creating Impressive Podcast Identities with Logos"
 keywords: "Podcast Branding Identity,Logo Design for Podcasts,Creative Podcast Visuals,Standout Podcast Imagery,Podcast Identity Strategy,Iconic Podcast Graphics,Logo Creation for Audio Content"
-thumbnail: https://www.lifewire.com/thmb/siASk6ug5XxPdLigzsCwwXe_C8w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed1-9c9badc69b6246a986855f6f923185d8.jpg
+thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44c37276f13cc96d749320e4c.jpg
 ---
 
 ## Creating Impressive Podcast Identities with Logos

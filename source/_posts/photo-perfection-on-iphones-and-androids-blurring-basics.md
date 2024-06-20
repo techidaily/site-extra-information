@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Perfection on iPhones & Androids  Blurring Basics\""
-date: 2024-05-24T12:09:48.854Z
-updated: 2024-05-25T12:09:48.854Z
+date: 2024-06-10T18:34:39.253Z
+updated: 2024-06-11T18:34:39.253Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Photo Perfection on iPhones & Androids: Blurring Basics\""
 excerpt: "\"This Article Describes Photo Perfection on iPhones & Androids: Blurring Basics\""
 keywords: "IPhone PhotoPerf,IPhone PerfectPics,Android ImageQuality,Android ClearSnap,PhonePhotoTips,MobileBlurBasics,DigitalPhotosAndroid"
-thumbnail: https://www.lifewire.com/thmb/ZjIgMgJlgfoVMsaKHYF11SvqERo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec185562726cc3d8ded22c5ffb968132.jpg
 ---
 
 ## Photo Perfection on iPhones & Androids: Blurring Basics

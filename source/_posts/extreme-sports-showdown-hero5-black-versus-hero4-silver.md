@@ -1,7 +1,7 @@
 ---
 title: "\"Extreme Sports Showdown  Hero5 Black Versus Hero4 Silver\""
-date: 2024-05-24T11:42:20.018Z
-updated: 2024-05-25T11:42:20.018Z
+date: 2024-06-10T18:34:36.586Z
+updated: 2024-06-11T18:34:36.586Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Extreme Sports Showdown: Hero5 Black Versus Hero4 Silver\""
 excerpt: "\"This Article Describes Extreme Sports Showdown: Hero5 Black Versus Hero4 Silver\""
 keywords: "\"Extreme Sport Challenge,Black VS Silver Helicopters,Hero Series Clash,Drone Racing Titans,Aerial Sports Face-Off,Black vs Silver Drones,High Flying Rivalry\""
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Extreme Sports Showdown: Hero5 Black Versus Hero4 Silver

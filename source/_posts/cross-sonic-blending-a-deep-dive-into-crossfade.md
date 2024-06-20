@@ -1,7 +1,7 @@
 ---
 title: "\"Cross-Sonic Blending - A Deep Dive Into Crossfade\""
-date: 2024-05-24T10:59:10.696Z
-updated: 2024-05-25T10:59:10.696Z
+date: 2024-06-10T18:34:38.645Z
+updated: 2024-06-11T18:34:38.645Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Cross-Sonic Blending - A Deep Dive Into Crossfade\""
 excerpt: "\"This Article Describes Cross-Sonic Blending - A Deep Dive Into Crossfade\""
 keywords: "\"Crossfade Techniques,Audio Mixing Basics,Sound Blending Methods,Sonic Harmony Strategies,Cross-Sound Integration,Effective Crossfades,Seamless Audio Transitions\""
-thumbnail: https://www.lifewire.com/thmb/5bLLCgjd4WhH-TRMpg_qnDsZQ2c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2020-12-22at3.22.03PM-f1692cef51d248d0a40cae8707e8250b.png
+thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a1835558608501c466657ed85d.png
 ---
 
 ## Cross-Sonic Blending - A Deep Dive Into Crossfade

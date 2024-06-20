@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Analyzing the Updated Sony S6500 Blu-Ray Player\""
-date: 2024-05-24T11:09:48.131Z
-updated: 2024-05-25T11:09:48.131Z
+date: 2024-06-10T18:34:35.480Z
+updated: 2024-06-11T18:34:35.480Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Analyzing the Updated Sony S6500 Blu-Ray Player\""
 excerpt: "\"This Article Describes [New] Analyzing the Updated Sony S6500 Blu-Ray Player\""
 keywords: "\"Sony S6500 Analysis,S6500 BD Review,S6500 Blu-Ray Updated,Sony S6500 Features,S6500 Performance Update,Blu-Ray S6500 Updates,S6500 Optimized Playback\""
-thumbnail: https://www.lifewire.com/thmb/UE2wAdrb_vxoa9J6bQV8tbj6s20=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Catherine_Falls_Commercial_Getty_Images-a30e58e942654fddb4423949948f3a2e.jpg
+thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092cc6760e2a82edb3563c1b5c8.jpg
 ---
 
 ## Analyzing the Updated Sony S6500 Blu-Ray Player

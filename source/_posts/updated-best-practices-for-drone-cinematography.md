@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Practices for Drone Cinematography"
-date: 2024-05-24T12:26:59.322Z
-updated: 2024-05-25T12:26:59.322Z
+date: 2024-06-10T18:34:38.895Z
+updated: 2024-06-11T18:34:38.895Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Best Practices for Drone Cinematography"
 excerpt: "This Article Describes [Updated] Best Practices for Drone Cinematography"
 keywords: "Drones in Film,Cinematic Drone Use,Drone Shooting Tips,Aerial Filming Techniques,Professional Drone Cameras,Optimal Drone Angles,Drone Footage Quality"
-thumbnail: https://www.lifewire.com/thmb/md1qW4dSt0BWTpSe9CF4ZL9YHXk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/nxtpaper5g-c6c5242b7a834ccba6007ad8127cc8ef.jpeg
+thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6ab330fc24fdad62a19d7e96.jpeg
 ---
 
 ## Best Practices for Drone Cinematography

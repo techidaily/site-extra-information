@@ -1,7 +1,7 @@
 ---
 title: "Enhance VFX Artistry in Your Videos with Integrated, Free LUT Support From OBS"
-date: 2024-05-24T12:36:04.492Z
-updated: 2024-05-25T12:36:04.492Z
+date: 2024-06-10T18:34:40.030Z
+updated: 2024-06-11T18:34:40.030Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Enhance VFX Artistry in Your Videos with Integrated, Free LUT Support From OBS"
 excerpt: "This Article Describes Enhance VFX Artistry in Your Videos with Integrated, Free LUT Support From OBS"
 keywords: "Enhanced VFX Video Creation,Free LUTs for Video Effects,OBS LUT Support for Artistry,Integrated LUT Tools in OBS,Optimize Videos with OBS LUT,Advanced Video Editing Techniques,Enhance VFX with Free Tools"
-thumbnail: https://www.lifewire.com/thmb/gJKFG61aOboY-p-Jj99nDXe3X4A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/KasonPatterson2-7a0b0bc9de574c37a2bc5cdd310ce142.png
+thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7dd341f7046ddf8ecb2ad394e.png
 ---
 
 ## Enhance VFX Artistry in Your Videos with Integrated, Free LUT Support From OBS

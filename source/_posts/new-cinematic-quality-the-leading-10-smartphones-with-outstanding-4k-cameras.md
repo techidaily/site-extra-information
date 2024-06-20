@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cinematic Quality  The Leading 10 Smartphones with Outstanding 4K Cameras\""
-date: 2024-05-24T11:51:50.521Z
-updated: 2024-05-25T11:51:50.521Z
+date: 2024-06-10T18:34:36.665Z
+updated: 2024-06-11T18:34:36.665Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Cinematic Quality: The Leading 10 Smartphones with Outstanding 4K Cameras\""
 excerpt: "\"This Article Describes [New] Cinematic Quality: The Leading 10 Smartphones with Outstanding 4K Cameras\""
 keywords: "4K Phone Cam,High Res Mobile,Top 10 SmartCam,Leading 4K Phones,Best Smartphone Camera,Premium 4K Phone,Elite 4K Handsets"
-thumbnail: https://www.lifewire.com/thmb/kScnU93Em0SrmktXn5XV8zAUvao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d21887a298dcedb2ce73aa51.jpg
 ---
 
 ## Cinematic Quality: The Leading 10 Smartphones with Outstanding 4K Cameras

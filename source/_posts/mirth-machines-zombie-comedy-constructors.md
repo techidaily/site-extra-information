@@ -1,7 +1,7 @@
 ---
 title: "\"Mirth Machines  Zombie Comedy Constructors\""
-date: 2024-05-24T12:29:34.987Z
-updated: 2024-05-25T12:29:34.987Z
+date: 2024-06-10T18:34:38.806Z
+updated: 2024-06-11T18:34:38.806Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mirth Machines: Zombie Comedy Constructors\""
 excerpt: "\"This Article Describes Mirth Machines: Zombie Comedy Constructors\""
 keywords: "Zombie Laughter,Mirth & Zombies,Comedy Robots,Zombie Giggle,Humor Machines,Comedic Constructs,Deadline Chuckles"
-thumbnail: https://www.lifewire.com/thmb/8yj4A4h-WC4nUxpd0s5dSLOUi6k=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/netflix-iphone-lede-5954e15a16e343deadfdd40c08483247.jpg
+thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433a92cd047a35aea4a9510783.jpg
 ---
 
 ## Mirth Machines: Zombie Comedy Constructors

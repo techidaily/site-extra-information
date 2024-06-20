@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Crop Code in iMovie"
-date: 2024-05-24T10:31:12.027Z
-updated: 2024-05-25T10:31:12.027Z
+date: 2024-06-10T18:34:40.197Z
+updated: 2024-06-11T18:34:40.197Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Investigating the Crop Code in iMovie"
 excerpt: "This Article Describes Investigating the Crop Code in iMovie"
 keywords: "Movie Crop Analysis,Crops Video Editing,IMovie Crop Techniques,Enhancing Crops Footage,Film Crop Optimization,IMovie Crop Tools,Media Cropping Guide"
-thumbnail: https://www.lifewire.com/thmb/rZ_WDtSFfWWNjImE3LwbXMfrvbQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/steve-jobs-ipad-56a532e13df78cf77286df05-71a7ce3d96c94af981da1f2251113248.jpg
+thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bffbf49e41ff2d8a5b05d2343.jpg
 ---
 
 ## Investigating the Crop Code in iMovie

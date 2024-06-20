@@ -1,7 +1,7 @@
 ---
 title: "In 2024, A Beginner's Approach to Audio Enhancement in Audition"
-date: 2024-05-24T12:41:46.607Z
-updated: 2024-05-25T12:41:46.607Z
+date: 2024-06-10T18:34:37.684Z
+updated: 2024-06-11T18:34:37.684Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, A Beginner's Approach to Audio Enhancement in Audition"
 excerpt: "This Article Describes In 2024, A Beginner's Approach to Audio Enhancement in Audition"
 keywords: "\"Audience Sound Boosting,Basic Audio Tweaks,Startup Audio Upsampling,Simple Audio Clarity,Novice Audio Amplification,Basics in Auditory Enhancement,Entry-Level Audio Refinement\""
-thumbnail: https://www.lifewire.com/thmb/GELB-p7k6yWIAZVaDeXmU_bKb6g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-send-digital-business-card-1-90ab69a95cc64716be4b1ddb301d5f19.jpg
+thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756c762090fd4b289d5054368b.jpg
 ---
 
 ## A Beginner's Approach to Audio Enhancement in Audition

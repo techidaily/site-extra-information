@@ -1,7 +1,7 @@
 ---
 title: "\"Decoding Dynamic Range  SDR Vs. HDR in Cinematic Workflows\""
-date: 2024-05-24T10:37:30.980Z
-updated: 2024-05-25T10:37:30.980Z
+date: 2024-06-10T18:34:35.674Z
+updated: 2024-06-11T18:34:35.674Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Decoding Dynamic Range: SDR Vs. HDR in Cinematic Workflows\""
 excerpt: "\"This Article Describes Decoding Dynamic Range: SDR Vs. HDR in Cinematic Workflows\""
 keywords: "SDR vs HDR Workflow,HD Dynamic Range,Cinematic HD Enhancement,HDR Cinematic Technology,SDR Contrast Levels,Dynamic Range in Filming,HDR Superiority in Cinema"
-thumbnail: https://www.lifewire.com/thmb/CYDGZrlFjkiCzB8WEsEyoVjflXc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-whitelist-a-sender-or-domain-in-gmail-1172106-AA-v1-5b1d72d1eb97de00363eb294.PNG
+thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e3ca1f0dfa365e65b92b5c5b.PNG
 ---
 
 ## Decoding Dynamic Range: SDR Vs. HDR in Cinematic Workflows

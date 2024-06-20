@@ -1,7 +1,7 @@
 ---
 title: "\"Charting the Course  A Graphic Designer's Blueprint to Progress for 2024\""
-date: 2024-05-24T10:47:24.036Z
-updated: 2024-05-25T10:47:24.036Z
+date: 2024-06-10T18:34:37.665Z
+updated: 2024-06-11T18:34:37.665Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Charting the Course: A Graphic Designer's Blueprint to Progress for 2024\""
 excerpt: "\"This Article Describes Charting the Course: A Graphic Designer's Blueprint to Progress for 2024\""
 keywords: "Graphic Design Growth,Designer Success Plan,Blueprint Design Prog,Designing Pathway Up,Artist Career Chart,Progress in Design,Design Strategy Map"
-thumbnail: https://www.lifewire.com/thmb/_QjgZyhZE9bpQ__V2eGfEM1XHOo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/analog-5ba14dca46e0fb0024f0692a.png
+thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a294965755306154ed4cda4187a3.png
 ---
 
 ## Charting the Course: A Graphic Designer's Blueprint to Progress

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Symphony of Shades  Applying Complementary Colors\""
-date: 2024-05-24T11:53:08.865Z
-updated: 2024-05-25T11:53:08.865Z
+date: 2024-06-10T18:34:37.178Z
+updated: 2024-06-11T18:34:37.178Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] A Symphony of Shades: Applying Complementary Colors\""
 excerpt: "\"This Article Describes [New] A Symphony of Shades: Applying Complementary Colors\""
 keywords: "Color Harmony,Shade Synergy,Hue Balance,Aesthetic Mixing,Chromatic Contrast,Palette Unification,Complementary Blend"
-thumbnail: https://www.lifewire.com/thmb/uh_HEnV01W8RgcGC8vCaag4vOgg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/smiling-millennial-mestizo-woman-talking-on-the-phone-at-home-934913078-5afd8c038023b9003692d3c1.jpg
+thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a1754ee9632a9d2f7f9073f37e2.jpg
 ---
 
 ## A Symphony of Shades: Applying Complementary Colors

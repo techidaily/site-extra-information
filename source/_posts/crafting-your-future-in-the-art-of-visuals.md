@@ -1,7 +1,7 @@
 ---
 title: "Crafting Your Future in the Art of Visuals"
-date: 2024-05-24T12:56:06.088Z
-updated: 2024-05-25T12:56:06.088Z
+date: 2024-06-10T18:34:36.043Z
+updated: 2024-06-11T18:34:36.043Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Crafting Your Future in the Art of Visuals"
 excerpt: "This Article Describes Crafting Your Future in the Art of Visuals"
 keywords: "Visionary Artist Creation,Futuristic Graphic Design,Visual Arts Career Path,Professional Image Making,Creative Future Artists,Visuals Artistry Development,Mastering Visual Careers"
-thumbnail: https://www.lifewire.com/thmb/YsX3uDiAAHjw-N4oV2S-6MBKhH4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Phonewithinstagram-6c34b2d8e92d4067ba96a232ac2cd966.jpg
+thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751591496c468d996da741d28a.jpg
 ---
 
 ## Crafting Your Future in the Art of Visuals

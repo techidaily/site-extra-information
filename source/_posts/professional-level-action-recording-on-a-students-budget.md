@@ -1,7 +1,7 @@
 ---
 title: "\"Professional-Level Action Recording on a Student's Budget\""
-date: 2024-05-24T11:52:34.981Z
-updated: 2024-05-25T11:52:34.981Z
+date: 2024-06-10T18:34:37.599Z
+updated: 2024-06-11T18:34:37.599Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Professional-Level Action Recording on a Student's Budget\""
 excerpt: "\"This Article Describes Professional-Level Action Recording on a Student's Budget\""
 keywords: "\"Affordable Action Camera,Pro Student Recorder,Low-Cost Action Cam,Economical Action Footage,Bargain Professional Recorder,Student-Friendly Action Video,Budget Action Recording Device\""
-thumbnail: https://www.lifewire.com/thmb/CAyu-hL_7SmLC0EkFP9Yz_OwnP0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/car-block-heater-frozen-north-534833-e1ea6a5455884f7b85b7ed8c6ba902e8.png
+thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07942af07cd489ff374cb4abd.png
 ---
 
 ## Professional-Level Action Recording on a Student's Budget

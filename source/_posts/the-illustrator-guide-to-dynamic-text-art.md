@@ -1,7 +1,7 @@
 ---
 title: "The Illustrator Guide to Dynamic Text Art"
-date: 2024-05-24T12:49:56.746Z
-updated: 2024-05-25T12:49:56.746Z
+date: 2024-06-10T18:34:35.685Z
+updated: 2024-06-11T18:34:35.685Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Illustrator Guide to Dynamic Text Art"
 excerpt: "This Article Describes The Illustrator Guide to Dynamic Text Art"
 keywords: "Dynamic Typography Basics,Text Art for Illustrators,Creative Dynamic Text,Dynamic Type in Design,Illustrating Text Dynamically,Dynamic Typography Tips,Interactive Text Art Guide"
-thumbnail: https://www.lifewire.com/thmb/kQx2DsRKOZTFIw_OObOtQHRAif8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-474327705-57c5b6885f9b5855e5cfa753.jpg
+thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a00c30d76ebc074f7652f887.jpg
 ---
 
 ## The Illustrator Guide to Dynamic Text Art

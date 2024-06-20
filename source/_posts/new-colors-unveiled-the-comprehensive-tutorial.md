@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Colors Unveiled  The Comprehensive Tutorial\""
-date: 2024-05-24T10:42:07.190Z
-updated: 2024-05-25T10:42:07.190Z
+date: 2024-06-10T18:34:40.075Z
+updated: 2024-06-11T18:34:40.075Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Colors Unveiled: The Comprehensive Tutorial\""
 excerpt: "\"This Article Describes [New] Colors Unveiled: The Comprehensive Tutorial\""
 keywords: "Color Basics Guide,Tutorial on Color Theory,Learn Colors Deeply,Visual Aids in Art,Mastering Color Space,Hue and Saturation Explained,Palette Creation Tips"
-thumbnail: https://www.lifewire.com/thmb/O24I8iXS-dMG3iz5GRgkPvi2p4Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/family-using-wireless-devices-at-home-468774723-5a52b68a9e942700378ddbf8.jpg
+thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a378ece9f04f489b258c09834.jpg
 ---
 
 ## Colors Unveiled: The Comprehensive Tutorial

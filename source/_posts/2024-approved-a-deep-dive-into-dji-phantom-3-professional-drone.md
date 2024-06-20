@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Deep Dive Into DJI Phantom 3 Professional Drone\""
-date: 2024-05-24T10:20:02.166Z
-updated: 2024-05-25T10:20:02.166Z
+date: 2024-06-10T18:34:38.577Z
+updated: 2024-06-11T18:34:38.577Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Deep Dive Into DJI Phantom 3 Professional Drone\""
 excerpt: "\"This Article Describes 2024 Approved: A Deep Dive Into DJI Phantom 3 Professional Drone\""
 keywords: "ProDJIDroneExplore,DJIPhotomaxProDrone,DJISmartPhantomPro,AdvancedDJIPhoenix3,DJInnovativeProFlyer,DroneTechDJiProVenture,PremierDJIPhantomXtreme"
-thumbnail: https://www.lifewire.com/thmb/Pc02X6UByoQd3JZSqe8i2ct8aeE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-12-17at1.09.03PM-76f8bca0f2f44a3987bca5104dbb7e35.png
+thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb6668830fc6d1ed96db57dfa6c.png
 ---
 
 ## A Deep Dive Into DJI Phantom 3 Professional Drone

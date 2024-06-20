@@ -1,7 +1,7 @@
 ---
 title: "\"Android Tips  Creating Stunning Slow Motion Videos\""
-date: 2024-05-24T10:17:20.125Z
-updated: 2024-05-25T10:17:20.125Z
+date: 2024-06-10T18:34:39.992Z
+updated: 2024-06-11T18:34:39.992Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Android Tips: Creating Stunning Slow Motion Videos\""
 excerpt: "\"This Article Describes Android Tips: Creating Stunning Slow Motion Videos\""
 keywords: "SlowMotionVideoTips,AndroidSlowMoCreation,StunningSlowMotionAndroid,VideoMakingTechniques,SlowVideoAndroidApps,MotionEffectTutorial,ProfessionalsSlowMotion"
-thumbnail: https://www.lifewire.com/thmb/FVfCZ83Vqj5qSvSjY9PwbDH64WA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-the-fortnite-split-screen-e1bea3d8dee841af841e417a2778bbfc.jpg
+thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15c9d92c3f00bf91d9310afa1.jpg
 ---
 
 ## Android Tips: Creating Stunning Slow Motion Videos

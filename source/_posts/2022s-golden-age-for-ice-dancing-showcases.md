@@ -1,7 +1,7 @@
 ---
 title: "2022'S Golden Age for Ice Dancing Showcases"
-date: 2024-05-24T10:17:16.265Z
-updated: 2024-05-25T10:17:16.265Z
+date: 2024-06-10T18:34:36.693Z
+updated: 2024-06-11T18:34:36.693Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 2022'S Golden Age for Ice Dancing Showcases"
 excerpt: "This Article Describes 2022'S Golden Age for Ice Dancing Showcases"
 keywords: "Golden Ice Dance Era,2022 Ice Dance Highlights,Ice Dancing Peak Season,Elite Ice Dance 2022,Showcase Ice Sports Gold,Ice Dancing Dominance,Spectacular Ice Dance Year"
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## 2022'S Golden Age for Ice Dancing Showcases

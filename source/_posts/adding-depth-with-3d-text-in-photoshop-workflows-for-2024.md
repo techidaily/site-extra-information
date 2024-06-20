@@ -1,7 +1,7 @@
 ---
 title: "Adding Depth with 3D Text in Photoshop Workflows for 2024"
-date: 2024-05-24T12:08:40.953Z
-updated: 2024-05-25T12:08:40.953Z
+date: 2024-06-10T18:34:36.392Z
+updated: 2024-06-11T18:34:36.392Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Adding Depth with 3D Text in Photoshop Workflows for 2024"
 excerpt: "This Article Describes Adding Depth with 3D Text in Photoshop Workflows for 2024"
 keywords: "Photoshop Photo Enhancement,Photoshop Editing Tips,Easy Photoshop Techniques,Photoshop Shot Transformation,Professional Photoshop Edits,Smooth Photoshop Adjustments,Quick Photoshop Transformations"
-thumbnail: https://www.lifewire.com/thmb/GYiqe6p1ML8iMsOVu1sELyODoQ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-WWCD23-Vision-Pro-with-battery-230605-153f3de9d33b4b80b640d1e9955db287.jpg
+thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12a2b526e9a90435fad802df2.jpg
 ---
 
 ## Adding Depth with 3D Text in Photoshop Workflows

@@ -1,7 +1,7 @@
 ---
 title: "\"Harnessing the Power of Slow Motion  Pro Tips for GoPro Hero 10 Users\""
-date: 2024-05-24T11:22:33.044Z
-updated: 2024-05-25T11:22:33.044Z
+date: 2024-06-10T18:34:38.675Z
+updated: 2024-06-11T18:34:38.675Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Harnessing the Power of Slow Motion: Pro Tips for GoPro Hero 10 Users\""
 excerpt: "\"This Article Describes Harnessing the Power of Slow Motion: Pro Tips for GoPro Hero 10 Users\""
 keywords: "\"GoPro Hero 10 Tips,Hero 10 Slow-Motion Use,Slow-Motion Hero 10 Pro,GoPro Hero 10 Slow Techniques,Hero 10 Motion Control,Mastering Hero 10 Footage,Capture Slow Video with Hero 10\""
-thumbnail: https://www.lifewire.com/thmb/_y5z3SeWTZCgEYYCyYR-kdazEb0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DeanH1-74b7b6d4129b4eac9e22e9cc72ce6215.png
+thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e4322ca2c6d47a165e3e9293b6.png
 ---
 
 ## Harnessing the Power of Slow Motion: Pro Tips for GoPro Hero 10 Users

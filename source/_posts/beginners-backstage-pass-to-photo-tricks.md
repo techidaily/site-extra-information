@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Backstage Pass to Photo Tricks"
-date: 2024-05-24T12:04:56.407Z
-updated: 2024-05-25T12:04:56.407Z
+date: 2024-06-10T18:34:35.906Z
+updated: 2024-06-11T18:34:35.906Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Beginner's Backstage Pass to Photo Tricks"
 excerpt: "This Article Describes Beginner's Backstage Pass to Photo Tricks"
 keywords: "Photo Tips for Beginners,Basic Photography Hacks,Start with Simple Photoshoot,Learning Photography Basics,Novice Photo Techniques,Essential Photo Tricks,Easy Photography Skills"
-thumbnail: https://www.lifewire.com/thmb/MI2FFnaSexiUT9Nj9bWHeRdzSm4=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-664646935-5c1da2dc46e0fb00019ebbbb.jpg
+thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b47535bc397c5818cfbe880e.jpg
 ---
 
 ## Beginner's Backstage Pass to Photo Tricks

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques in Aerial Cinematography"
-date: 2024-05-24T11:57:00.155Z
-updated: 2024-05-25T11:57:00.155Z
+date: 2024-06-10T18:34:36.774Z
+updated: 2024-06-11T18:34:36.774Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Advanced Techniques in Aerial Cinematography"
 excerpt: "This Article Describes Advanced Techniques in Aerial Cinematography"
 keywords: "AirCam Film Tech,Sky Cinematic Methods,Altitude Cinéma Aide,Aerial Shot Pros,Flycam Creative Tricks,Elevated Film Artistry,HighFly Cinematography Tips"
-thumbnail: https://www.lifewire.com/thmb/6jBqlViPTqYHPeyAITr4PSJvrVk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/89794567-56a6a56a3df78cf7728f9185.jpg
+thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c9525864662d718cce49121a5e7.jpg
 ---
 
 ## Advanced Techniques in Aerial Cinematography

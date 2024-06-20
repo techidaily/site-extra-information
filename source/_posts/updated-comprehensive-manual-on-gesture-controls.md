@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Comprehensive Manual on Gesture Controls"
-date: 2024-05-24T12:17:27.273Z
-updated: 2024-05-25T12:17:27.273Z
+date: 2024-06-10T18:34:35.496Z
+updated: 2024-06-11T18:34:35.496Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Comprehensive Manual on Gesture Controls"
 excerpt: "This Article Describes [Updated] Comprehensive Manual on Gesture Controls"
 keywords: "\"Gesture Control Basics,Gesture Tech Guide,Mastering Gestures,Smart Gesture Use,Gesture Interface Tips,Advanced Gesture Commands,User-Friendly Gestures\""
-thumbnail: https://www.lifewire.com/thmb/FiY4ZQfStJ_uVwKv1NinKYy1XuU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ipad_productivity_apps-5a4ba7a022fa3a0036d15522.jpg
+thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef63558c23c156a0dfc593865.jpg
 ---
 
 ## Comprehensive Manual on Gesture Controls

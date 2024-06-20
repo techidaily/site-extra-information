@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Cinematic L-Slow Videos  Tips From the Pros on GoPro Hero 10\""
-date: 2024-05-24T12:14:15.594Z
-updated: 2024-05-25T12:14:15.594Z
+date: 2024-06-10T18:34:37.386Z
+updated: 2024-06-11T18:34:37.386Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Crafting Cinematic L-Slow Videos: Tips From the Pros on GoPro Hero 10\""
 excerpt: "\"This Article Describes 2024 Approved: Crafting Cinematic L-Slow Videos: Tips From the Pros on GoPro Hero 10\""
 keywords: "\"GoPro Cinematography,L-Slow Video Tips,Hero 10 Cinemagraphy,GoPro Slow Motion Techniques,Pro Video Shooting Guide,Hero 10 Filmmaking Hints,Capturing L-Slow Footage\""
-thumbnail: https://www.lifewire.com/thmb/JLvRjp4v5kROf96cCqXSF6rPR_s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1241445203-0280ca69da4d4b4783e30cd197bb491e.jpg
+thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e99cf7ed2375f403fbf9fc3e.jpg
 ---
 
 ## Crafting Cinematic L-Slow Videos: Tips From the Pros on GoPro Hero 10

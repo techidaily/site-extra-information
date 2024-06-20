@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Color Space Comparison  Srgb vs Rgb\""
-date: 2024-05-24T11:58:31.286Z
-updated: 2024-05-25T11:58:31.286Z
+date: 2024-06-10T18:34:40.171Z
+updated: 2024-06-11T18:34:40.171Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Color Space Comparison: Srgb vs Rgb\""
 excerpt: "\"This Article Describes 2024 Approved: Color Space Comparison: Srgb vs Rgb\""
 keywords: "\"Gear Vs LGCam,Gear Versus LGCam,LGCam Gear Comparison,LGCam vs Gear Test,Gear Technology Evaluation,LGCam Camera Features,Performance: Gear & LGCam\""
-thumbnail: https://www.lifewire.com/thmb/k634jL7WWQtyro9CdwkyFmFzEGA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Neo-QLED-vs-OLED-8eb18283c4fe49f3a8c583443f2b89b6.jpg
+thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a720808faf7dee8c99a861a3.jpg
 ---
 
 ## Color Space Comparison: Srgb vs Rgb

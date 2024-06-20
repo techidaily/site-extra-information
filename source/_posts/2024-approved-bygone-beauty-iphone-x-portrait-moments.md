@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Bygone Beauty  IPhone X Portrait Moments\""
-date: 2024-05-24T12:58:42.010Z
-updated: 2024-05-25T12:58:42.010Z
+date: 2024-06-10T18:34:38.467Z
+updated: 2024-06-11T18:34:38.467Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Bygone Beauty: IPhone X Portrait Moments\""
 excerpt: "\"This Article Describes 2024 Approved: Bygone Beauty: IPhone X Portrait Moments\""
 keywords: "\"IPhone X Portraits,X-Era Smiles,Apple's X Photos,Beautiful XiPhone Selfies,XiPhone Beauty Shots,Retro iPhones Pics,Classic iPhone Portraits\""
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## Bygone Beauty: IPhone X Portrait Moments

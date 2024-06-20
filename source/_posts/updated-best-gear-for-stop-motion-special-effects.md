@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Gear for Stop Motion Special Effects"
-date: 2024-05-24T12:32:00.406Z
-updated: 2024-05-25T12:32:00.406Z
+date: 2024-06-10T18:34:36.371Z
+updated: 2024-06-11T18:34:36.371Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Best Gear for Stop Motion Special Effects"
 excerpt: "This Article Describes [Updated] Best Gear for Stop Motion Special Effects"
 keywords: "\"Motion Animation Gear,SFX Props Tools,StopMotion Equipment,Special FX Gear List,High-Quality Animation Items,Best Anime Effects Supplies,Top SFX Production Gear\""
-thumbnail: https://www.lifewire.com/thmb/Xfsodnkjdz4fAd73146-24x06ZE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/the-windows-10-notification-center-what-it-is-and-how-to-use-it-4150756-2691e67d378e45f4875c059230b007d7.png
+thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57539d3344fb75e1f209995c6.png
 ---
 
 ## Best Gear for Stop Motion Special Effects

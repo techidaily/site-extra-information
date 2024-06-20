@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 20+ Artistic Assembly Ideas for a Brighter Yard"
-date: 2024-05-24T12:41:44.392Z
-updated: 2024-05-25T12:41:44.392Z
+date: 2024-06-10T18:34:37.415Z
+updated: 2024-06-11T18:34:37.415Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] 20+ Artistic Assembly Ideas for a Brighter Yard"
 excerpt: "This Article Describes [Updated] 20+ Artistic Assembly Ideas for a Brighter Yard"
 keywords: "Bright Yard Designs,Creative Outdoor Space,Artful Garden Planning,DIY Outdoor Artscape,Innovative Landscaping Ideas,Crafted Lawn Decorations,Vibrant Yard Creativity"
-thumbnail: https://www.lifewire.com/thmb/HJ5yFY21dtVXO35VKLNAMeF-Ne8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/PhiwathJittamas_GettyImages-1411973451_CROPPED-6da29e2c2807406bb9ac557cb2920e1d.jpg
+thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d21f3a3c14a777e4b40a0530.jpg
 ---
 
 ## 20+ Artistic Assembly Ideas for a Brighter Yard

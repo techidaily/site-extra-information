@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Android Lightroom Assessment"
-date: 2024-05-24T10:15:28.554Z
-updated: 2024-05-25T10:15:28.554Z
+date: 2024-06-10T18:34:35.836Z
+updated: 2024-06-11T18:34:35.836Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Comprehensive Android Lightroom Assessment"
 excerpt: "This Article Describes Comprehensive Android Lightroom Assessment"
 keywords: "Lightroom for Android,Mobile Lightroom Review,Android Photo Editing App,Digital Camera Workflow (Lightroom),Portable Image Processor,Compact Photography Software,Quick Edit on Android Devices"
-thumbnail: https://www.lifewire.com/thmb/DyoHit2PNu7-aSHxtkhq-lAOR7c=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-459261809-357446c3aca34ee38c08d3aebe7502f3.jpg
+thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e970aa7acf9eb30479f71c91.jpg
 ---
 
 ## Comprehensive Android Lightroom Assessment

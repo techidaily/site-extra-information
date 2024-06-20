@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Budget-Savvy Shooters  Top 5 Under $200 Cameras\""
-date: 2024-05-24T12:10:43.595Z
-updated: 2024-05-25T12:10:43.595Z
+date: 2024-06-10T18:34:35.873Z
+updated: 2024-06-11T18:34:35.873Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Budget-Savvy Shooters: Top 5 Under $200 Cameras\""
 excerpt: "\"This Article Describes [Updated] Budget-Savvy Shooters: Top 5 Under $200 Cameras\""
 keywords: "\"Budget Cameras #200,Affordable Photography Gear,Cheap Cam Buy Guide,Low-Cost Camera Models,Top $200 Cameras List,Value Photo Shooters,Budget-Friendly Cameras\""
-thumbnail: https://www.lifewire.com/thmb/2gHaaXQ_kdz4PXOihSc2PV3WzwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Delete-Photos-iOS-1e8f0abbb73442a0b00d242ff0bbc79a.jpg
+thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de7b5ef10d79d0e3f377f7561.jpg
 ---
 
 ## Budget-Savvy Shooters: Top 5 Under $200 Cameras

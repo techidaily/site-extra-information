@@ -1,7 +1,7 @@
 ---
 title: "The Impact of LUTs on Professional Photography"
-date: 2024-05-24T10:36:23.232Z
-updated: 2024-05-25T10:36:23.232Z
+date: 2024-06-10T18:34:36.003Z
+updated: 2024-06-11T18:34:36.003Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Impact of LUTs on Professional Photography"
 excerpt: "This Article Describes The Impact of LUTs on Professional Photography"
 keywords: "PhotoLUTsEffect,ProPhoPhotoImpact,LUTsPhotographyTech,DigitalLUTInfluence,LUTsEnhanceImageQuality,ProfPhotoLUTAdvantage,ImageCorrectionLUTs"
-thumbnail: https://www.lifewire.com/thmb/A1vcewoFXU2zKy4SyXWeP5hd2yM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/170956483-56a104603df78cafdaa7e0cb.jpg
+thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9737c06562bbb999378e5773.jpg
 ---
 
 ## The Impact of LUTs on Professional Photography

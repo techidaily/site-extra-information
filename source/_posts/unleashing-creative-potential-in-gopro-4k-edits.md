@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creative Potential in GoPro 4K Edits"
-date: 2024-05-24T12:15:04.312Z
-updated: 2024-05-25T12:15:04.312Z
+date: 2024-06-10T18:34:36.126Z
+updated: 2024-06-11T18:34:36.126Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Unleashing Creative Potential in GoPro 4K Edits"
 excerpt: "This Article Describes Unleashing Creative Potential in GoPro 4K Edits"
 keywords: "Creativity in GoPro Editing,GoPro 4K Innovation,GoPro Edit Artistry,Enhancing GoPro Videos,GoPro Creative Edits,GoPro 4K Video Potential,Unleashing GoPro Creative Edits"
-thumbnail: https://www.lifewire.com/thmb/EXGWpSyhQVHE5qyXOS4fBPnp23o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/5365WomanworkingonSpaceGrayMacBook-840cbcd31a35450fb53c51b287f6ea6d.jpg
+thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c2cca36d2d92b110af8ad1f5.jpg
 ---
 
 ## Unleashing Creative Potential in GoPro 4K Edits

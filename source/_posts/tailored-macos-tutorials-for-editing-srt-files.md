@@ -1,7 +1,7 @@
 ---
 title: "Tailored macOS Tutorials for Editing SRT Files"
-date: 2024-05-24T11:34:31.280Z
-updated: 2024-05-25T11:34:31.280Z
+date: 2024-06-10T18:34:35.392Z
+updated: 2024-06-11T18:34:35.392Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Tailored macOS Tutorials for Editing SRT Files"
 excerpt: "This Article Describes Tailored macOS Tutorials for Editing SRT Files"
 keywords: "MacOS SRT Editing Guide,SRT File Management on Mac,Mac OS X Subtitle Crafting,Customized SRT Tutorials,MacOS Subtitling Essentials,Tailored SRT Editing for OSX,Personalized Subtitled Content"
-thumbnail: https://www.lifewire.com/thmb/UYzt2Tr4AZa3CbzWYhHXCRzkASk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/freespacefirestick-d92102a4f6dd47e2936787982b0709f9.jpg
+thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3f7f648e31ee7c5865304f02.jpg
 ---
 
 ## Tailored macOS Tutorials for Editing SRT Files

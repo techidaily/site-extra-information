@@ -1,7 +1,7 @@
 ---
 title: "\"Pump It Up  The 20 Most Energizing Workout Playlists\""
-date: 2024-05-24T11:22:46.735Z
-updated: 2024-05-25T11:22:46.735Z
+date: 2024-06-10T18:34:36.839Z
+updated: 2024-06-11T18:34:36.839Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Pump It Up: The 20 Most Energizing Workout Playlists\""
 excerpt: "\"This Article Describes Pump It Up: The 20 Most Energizing Workout Playlists\""
 keywords: "\"Pump Energy Routines,High-Energy Music Playlists,Motivating Workout Songs,Dynamic Exercise Tunes,Energizing Fitness Selections,Upbeat Workout Tracks,Peak Performance Playlists\""
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Pump It Up: The 20 Most Energizing Workout Playlists

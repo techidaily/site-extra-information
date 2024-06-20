@@ -1,7 +1,7 @@
 ---
 title: "How to Install & Modify WhatsApp Alerts on Both Platforms"
-date: 2024-05-24T10:17:41.770Z
-updated: 2024-05-25T10:17:41.770Z
+date: 2024-06-10T18:34:38.696Z
+updated: 2024-06-11T18:34:38.696Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Install & Modify WhatsApp Alerts on Both Platforms"
 excerpt: "This Article Describes How to Install & Modify WhatsApp Alerts on Both Platforms"
 keywords: "Simplified AVI Conversion,Filmora GIF Editing,Windows AVI to GIF,Mac OS AVI to GIF,AVI GIF Conversion Guide,Filmora GIF Workflow,AVI Editing on macOS/Windows"
-thumbnail: https://www.lifewire.com/thmb/WRIh1ZlJssVUKoRPwYSH5qo9eB0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1158697466-60e5f09c462547c48c9788376ed6248d.jpg
+thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b6a687457517f15534dc6b13.jpg
 ---
 
 ## How to Install & Modify WhatsApp Alerts on Both Platforms

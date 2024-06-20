@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Best Online Hubs  Capturing Sky in High Dynamic Range\""
-date: 2024-05-24T11:41:39.283Z
-updated: 2024-05-25T11:41:39.283Z
+date: 2024-06-10T18:34:36.922Z
+updated: 2024-06-11T18:34:36.922Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Best Online Hubs: Capturing Sky in High Dynamic Range\""
 excerpt: "\"This Article Describes [Updated] Best Online Hubs: Capturing Sky in High Dynamic Range\""
 keywords: "HDR Sky Hub,Online Star Hub,HD Sky Portals,Cloudy Sky Shots,Dynamic Sky Hubs,Stellar Capture Hub,High Res Sky Hub"
-thumbnail: https://www.lifewire.com/thmb/dDS1dpRsYd-e6LEYR10Kqw81GEQ=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/Navepoint12U-593077095f9b589eb4760ed7.jpg
+thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12f25c6a6196a672ab852e088.jpg
 ---
 
 ## Best Online Hubs: Capturing Sky in High Dynamic Range

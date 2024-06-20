@@ -1,7 +1,7 @@
 ---
 title: "Scrutinizing the Performance of DJi Solo Vision Goggles"
-date: 2024-05-24T11:47:41.872Z
-updated: 2024-05-25T11:47:41.872Z
+date: 2024-06-10T18:34:37.826Z
+updated: 2024-06-11T18:34:37.826Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Scrutinizing the Performance of DJi Solo Vision Goggles"
 excerpt: "This Article Describes Scrutinizing the Performance of DJi Solo Vision Goggles"
 keywords: "DJi Solo Visions,Drone Goggle Analysis,Solo Vision Testing,DJi Goggles Evaluation,Drone Safety Gear Review,Flying Vision Technology,DJi Solo Performance Check"
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## Scrutinizing the Performance of DJi Solo Vision Goggles

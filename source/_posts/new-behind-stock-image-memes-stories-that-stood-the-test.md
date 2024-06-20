@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Behind Stock Image Memes  Stories That Stood the Test\""
-date: 2024-05-24T12:38:45.377Z
-updated: 2024-05-25T12:38:45.377Z
+date: 2024-06-10T18:34:37.057Z
+updated: 2024-06-11T18:34:37.057Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Behind Stock Image Memes: Stories That Stood the Test\""
 excerpt: "\"This Article Describes [New] Behind Stock Image Memes: Stories That Stood the Test\""
 keywords: "\"Meme Image History,Stock Photos in Humor,Behind-the-Scenes Images,Memetic Media Analysis,Creative Image Usage,Stocks as Comedic Art,Testing Image Laughs\""
-thumbnail: https://www.lifewire.com/thmb/DCkyrrIKF6IlOibLq3FWXS7tDbE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Google-Nest-Audio-vs-Google-Nest-Mini-2-85c4f29a43b24769a97f645fc3dd5687.jpg
+thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050db781f6bcdf9e50e7619aa67.jpg
 ---
 
 ## Behind Stock Image Memes: Stories That Stood the Test
