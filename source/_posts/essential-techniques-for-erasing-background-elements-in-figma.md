@@ -1,7 +1,7 @@
 ---
 title: "Essential Techniques for Erasing Background Elements in Figma"
-date: 2024-05-24T12:26:08.565Z
-updated: 2024-05-25T12:26:08.565Z
+date: 2024-06-19T19:09:46.271Z
+updated: 2024-06-20T19:09:46.271Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Essential Techniques for Erasing Background Elements in Figma"
 excerpt: "This Article Describes Essential Techniques for Erasing Background Elements in Figma"
 keywords: "\"Hand Gesture Recognition,Device Interface Control,Touchless Interaction Design,Haptic Feedback Systems,Motion Sensing Technology,Adaptive User Inputs,Human-Computer Interaction\""
-thumbnail: https://www.lifewire.com/thmb/uHFfiPL4lRlOZJxih2cDbhlWfms=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/windows-10-1535765_1280-0150aa319cb44f7394631e0fdb6296c6.jpg
+thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e239b52d730db0c4a5927ced.jpg
 ---
 
 ## Essential Techniques for Erasing Background Elements in Figma

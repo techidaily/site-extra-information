@@ -1,7 +1,7 @@
 ---
 title: "\"Design Humor in Frames  PicGenius\""
-date: 2024-05-24T11:53:49.456Z
-updated: 2024-05-25T11:53:49.456Z
+date: 2024-06-19T19:09:33.716Z
+updated: 2024-06-20T19:09:33.716Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Design Humor in Frames: PicGenius\""
 excerpt: "\"This Article Describes Design Humor in Frames: PicGenius\""
 keywords: "\"Funny Frame Designs,Humorous Picture Genie,Artistic Photo Jokes,Witty Image Crafting,Chuckle-Inducing Pictures,Laughter in Frames,Giggly Photography Tips\""
-thumbnail: https://www.lifewire.com/thmb/5owBLzwnt_3v9IE_c1lfqXviKB8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1322139186-40ca0a58cede45ecb6d18fb76538658b.jpg
+thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce948e1ec31321e7ff03bc36bee.jpg
 ---
 
 ## Design Humor in Frames: PicGenius

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, A Beginner's Guide to Use Lunapic Photo Editor"
-date: 2024-05-24T12:04:14.812Z
-updated: 2024-05-25T12:04:14.812Z
+date: 2024-06-19T19:09:46.750Z
+updated: 2024-06-20T19:09:46.750Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, A Beginner's Guide to Use Lunapic Photo Editor"
 excerpt: "This Article Describes In 2024, A Beginner's Guide to Use Lunapic Photo Editor"
 keywords: "PicEdit Basics,LunaPhoto Editing,Photography Editor,Lunapic Tutorial,Beginner's Photo Guide,Digital Image Editing,Simple LunaEditor Use"
-thumbnail: https://www.lifewire.com/thmb/LfKPim0bPxlfFs686c0PjeZ0U4E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd7b41de949895538a87e46dd.jpg
 ---
 
 ## A Beginner's Guide to Use Lunapic Photo Editor

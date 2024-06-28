@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Behind-the-Scenes Look at DJI Inspire 2\""
-date: 2024-05-24T12:07:27.499Z
-updated: 2024-05-25T12:07:27.499Z
+date: 2024-06-19T19:09:38.799Z
+updated: 2024-06-20T19:09:38.799Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Behind-the-Scenes Look at DJI Inspire 2\""
 excerpt: "\"This Article Describes [New] Behind-the-Scenes Look at DJI Inspire 2\""
 keywords: "\"DJI Inspire 2 BTS,DJI Pro Drone Insight,DJI Inspire 2 Vlog,Behind-The-Scenes DJI,Inspire 2 Pilot Tour,DJI Drone Camera Views,DJI Inspire Production\""
-thumbnail: https://www.lifewire.com/thmb/rCx-4CN9HDB98wwAwi2Ag8X30fw=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/ecotech_robothands_gettyimages-1179633351_koya79_cropped_1745_v3-c9e218ef95494c239b2edfb8294fe2a1.jpg
+thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909e1d6b3abfc42368ffd69851.jpg
 ---
 
 ## Behind-the-Scenes Look at DJI Inspire 2

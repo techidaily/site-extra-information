@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Action Filmmaking Elevated  GoPro's Best 15 Color Grading Look-Ups\""
-date: 2024-05-24T11:34:52.438Z
-updated: 2024-05-25T11:34:52.438Z
+date: 2024-06-19T19:09:39.635Z
+updated: 2024-06-20T19:09:39.635Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Action Filmmaking Elevated: GoPro's Best 15 Color Grading Look-Ups\""
 excerpt: "\"This Article Describes In 2024, Action Filmmaking Elevated: GoPro's Best 15 Color Grading Look-Ups\""
 keywords: "\"GoPro CGI Tips,Action Film Grading,HD Color Grading,Premium Filmmaking Techniques,Professional Cinematography,High-Quality Look-Ups,Advanced Color Correction\""
-thumbnail: https://www.lifewire.com/thmb/Zlxnx7TntY7LA4UpEm7MS4KhjXE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DSC_4055-56a104735f9b58eba4b6ac99.jpg
+thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad30482eb61cfe64caa3b5caa7.jpg
 ---
 
 ## Action Filmmaking Elevated: GoPro's Best 15 Color Grading Look-Ups
@@ -48,7 +48,7 @@ Quickly view the different type of exclusive GoPro LUTs that develops unique eff
 
 Every LUT is unique and gives amazing video effects on the screen. They are compatible with most video editors, and it is enough if you download them and apply them hassle-free.
 
-### 1\. [GoPro LUTs](https://shop.tilldaling.com/product/gopro-luts/)
+### 1\. GoPro LUTs
 
 Price: $4.99
 
@@ -58,7 +58,7 @@ It is an exclusive LUTs that brings you the best effects on the captured content
 
 GoPro LUTs
 
-### 2\. [GoPro Hero LUT](https://shop.tilldaling.com/product/gopro-luts/)
+### 2\. GoPro Hero LUT
 
 Price: $6
 
@@ -68,7 +68,7 @@ In this GoPro Hero LUTs, you can add special effects to the video track by worki
 
 GoPro Hero LUTs
 
-### 3\. [Action day](https://fixthephoto.com/gopro-luts)
+### 3\. Action day
 
 Price: Free
 
@@ -78,7 +78,7 @@ It is high time to add some flavors to the expressions you make during the click
 
 Action Day
 
-### 4\. [Shadow Tone](https://fixthephoto.com/gopro-luts)
+### 4\. Shadow Tone
 
 Price: Free
 
@@ -88,7 +88,7 @@ The shadow tone LUTs offers a unique touch to the existing content. It works on 
 
 Shadow Tone
 
-### 5\. [Aura](https://fixthephoto.com/gopro-luts)
+### 5\. Aura
 
 Price: Free
 
@@ -98,7 +98,7 @@ In this Aura, spiritual effects are visible on the photo and video objects. It g
 
 Aura
 
-### 6\. [Contrast](https://fixthephoto.com/gopro-luts)
+### 6\. Contrast
 
 Price: Free
 
@@ -108,7 +108,7 @@ Here the contrast attributes are adjusted in pace with the recorded content. The
 
 Contrast
 
-### 7\. [Soft Purple](https://fixthephoto.com/gopro-luts)
+### 7\. Soft Purple
 
 Price: Free
 
@@ -118,7 +118,7 @@ Special attention is given to the purple shades in the footage. The color gradin
 
 Contrast
 
-### 8\. [High Tide](https://fixthephoto.com/gopro-luts)
+### 8\. High Tide
 
 Price: Free
 
@@ -128,7 +128,7 @@ Even the blurred content in the image or video boosts the clarity using these vi
 
 High Tide
 
-### 9\. [Night Vision](https://fixthephoto.com/gopro-luts)
+### 9\. Night Vision
 
 Price: Free
 
@@ -138,7 +138,7 @@ Like the Night mode in your PCs that convert your photos or videos sensitive to 
 
 Night Vision
 
-### 10\. [Purple Tint](https://fixthephoto.com/gopro-luts)
+### 10\. Purple Tint
 
 Price: Free
 
@@ -148,7 +148,7 @@ In this LUT, milder shadow effects are implemented to bring out the best in the 
 
 Purple Tint
 
-### 11\. [Cold Shadows](https://fixthephoto.com/gopro-luts)
+### 11\. Cold Shadows
 
 Price: Free
 
@@ -158,7 +158,7 @@ The brightness of the background and the image elements is increased to optimal 
 
 Cold Shadows
 
-### 12\. [Cinematic](https://fixthephoto.com/gopro-luts)
+### 12\. Cinematic
 
 Price: Free
 
@@ -168,7 +168,7 @@ If you want to convert the content as film-like footage, then switch to this fil
 
 Cinematic
 
-### 13\. [Soft Beige](https://fixthephoto.com/gopro-luts)
+### 13\. Soft Beige
 
 Price: Free
 
@@ -178,7 +178,7 @@ It is a color grading LUTs, where the beige shades are applied soft and mild on 
 
 Soft Beige
 
-### 14\. [Tinted Shades](https://fixthephoto.com/gopro-luts)
+### 14\. Tinted Shades
 
 Price: Free
 
@@ -188,7 +188,7 @@ Here special care is given to the contrast values, and the video effects are ove
 
 Tinted Shades
 
-### 15\. [Retro Matte](https://fixthephoto.com/gopro-luts)
+### 15\. Retro Matte
 
 Price: Free
 

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Zoom in Email Chats – A Guide to Gmail Users"
-date: 2024-05-24T10:41:06.780Z
-updated: 2024-05-25T10:41:06.780Z
+date: 2024-06-19T19:09:47.120Z
+updated: 2024-06-20T19:09:47.120Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Leveraging Zoom in Email Chats – A Guide to Gmail Users"
 excerpt: "This Article Describes Leveraging Zoom in Email Chats – A Guide to Gmail Users"
 keywords: "Zoom Chat Guide,Gmail Zoom Tips,Emailing with Zoom,Zoom for Emails,Gmail Zoom Integration,Chat over Email Zoom,Using Zoom in Gmail Chats"
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## Leveraging Zoom in Email Chats – A Guide to Gmail Users

@@ -1,7 +1,7 @@
 ---
 title: "Infusing Action Into Photos Using Illustrator's Features"
-date: 2024-05-24T11:10:45.929Z
-updated: 2024-05-25T11:10:45.929Z
+date: 2024-06-19T19:09:33.193Z
+updated: 2024-06-20T19:09:33.193Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Infusing Action Into Photos Using Illustrator's Features"
 excerpt: "This Article Describes Infusing Action Into Photos Using Illustrator's Features"
 keywords: "Actions in Imagery,Photo Illustration,Illustrator Staging,Visual Impact Enhance,Creative Editing Art,Dynamic Image Design,Photographic Features Use"
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## Infusing Action Into Photos Using Illustrator's Features

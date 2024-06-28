@@ -1,7 +1,7 @@
 ---
 title: "\"Comprehensive Directors' Manual - PowerDirector '24 for 2024\""
-date: 2024-05-24T11:37:07.285Z
-updated: 2024-05-25T11:37:07.285Z
+date: 2024-06-19T19:09:35.930Z
+updated: 2024-06-20T19:09:35.930Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Comprehensive Directors' Manual - PowerDirector '24 for 2024\""
 excerpt: "\"This Article Describes Comprehensive Directors' Manual - PowerDirector '24 for 2024\""
 keywords: "Director's Guidebook,PowerDirector Tips,Software Manual,FilmEditing Basics,Video Production Tools,Directors' TechManual,EditProctor 24"
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Comprehensive Directors' Manual - PowerDirector '24

@@ -1,7 +1,7 @@
 ---
 title: "\"The Future's Canvas  Unveiling 6 Pioneers of NFT Artistry\""
-date: 2024-05-24T12:29:52.876Z
-updated: 2024-05-25T12:29:52.876Z
+date: 2024-06-19T19:09:43.226Z
+updated: 2024-06-20T19:09:43.226Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Future's Canvas: Unveiling 6 Pioneers of NFT Artistry\""
 excerpt: "\"This Article Describes The Future's Canvas: Unveiling 6 Pioneers of NFT Artistry\""
 keywords: "NFT Art Futures,Pioneering NFT,Digital Art Innovators,NFT Leaders,NFT Creatives,Future NFTs,NFT Visionaries"
-thumbnail: https://www.lifewire.com/thmb/YCr33fJHseZO8RCihR1UVKh6rm8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/CraigLewis-a22534001b734668a6b9b89811095400.png
+thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c1688390de1d8678d61e0a94d5c4d0.png
 ---
 
 ## The Future's Canvas: Unveiling 6 Pioneers of NFT Artistry

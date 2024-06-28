@@ -1,7 +1,7 @@
 ---
 title: "\"Assessment  Parrot AR Drone 2.0 Enhanced Edition\""
-date: 2024-05-24T11:45:32.290Z
-updated: 2024-05-25T11:45:32.290Z
+date: 2024-06-19T19:09:38.272Z
+updated: 2024-06-20T19:09:38.272Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Assessment: Parrot AR Drone 2.0 Enhanced Edition\""
 excerpt: "\"This Article Describes Assessment: Parrot AR Drone 2.0 Enhanced Edition\""
 keywords: "Parrot AR Drone,AR Drone Assessment,Drone 2.0 Upgrade,Parrot 2.0 AR Tech,Enhanced Drone Features,AR Drones Revision,Drone Technology Advance"
-thumbnail: https://www.lifewire.com/thmb/sG54Bv1qiSAYEfTgb-qRImj7dlo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-524282176-5bf20266c9e77c0051af5697.jpg
+thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1fac24bb52cc0d4742cbe1750.jpg
 ---
 
 ## Assessment: Parrot AR Drone 2.0 Enhanced Edition

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Comprehensive Guide to VSCO Camera App\""
-date: 2024-05-24T12:20:37.957Z
-updated: 2024-05-25T12:20:37.957Z
+date: 2024-06-19T19:09:44.889Z
+updated: 2024-06-20T19:09:44.889Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Comprehensive Guide to VSCO Camera App\""
 excerpt: "\"This Article Describes 2024 Approved: Comprehensive Guide to VSCO Camera App\""
 keywords: "VSCO App Basics,VSCO Photography Tips,Explore VSCO Features,VSCO App Usage Guide,Beginner's VSCO Walkthrough,Advanced VSCO Techniques,VSCO Camera App Functions"
-thumbnail: https://www.lifewire.com/thmb/h57-lIQDvScITgWTh6KzTC1eTDc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Download-WhatsApp-For-Mac-Website-8424741-17919dc136494cc09a3924b885d17a6c.jpg
+thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30f3dde81226f486e6ab605fb.jpg
 ---
 
 ## Comprehensive Guide to VSCO Camera App

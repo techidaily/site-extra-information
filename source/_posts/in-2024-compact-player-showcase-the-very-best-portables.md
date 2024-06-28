@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Compact Player Showcase  The Very Best Portables\""
-date: 2024-05-24T11:10:12.321Z
-updated: 2024-05-25T11:10:12.321Z
+date: 2024-06-19T19:09:42.495Z
+updated: 2024-06-20T19:09:42.495Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Compact Player Showcase: The Very Best Portables\""
 excerpt: "\"This Article Describes In 2024, Compact Player Showcase: The Very Best Portables\""
 keywords: "Compact Player Spotlight,Top Portable Players,Best Portable Audio Gadgets,Ultimate Player Handhelds,Premium Portable Devices,Excellent Portable Music Units,Finest Mobile Audio Tech"
-thumbnail: https://www.lifewire.com/thmb/zPbrz0xYT6-e-Siew_kTQcwmGaI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MayHabib-d884611c85bf4b909b33ee1410d6544b.jpeg
+thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff22e113abbe3abedfe2cc94d.jpeg
 ---
 
 ## Compact Player Showcase: The Very Best Portables
@@ -50,7 +50,7 @@ Here is one important fact to consider, as portable DVD players are low cost dev
 
 ## Top 10 Portable DVD Players
 
-### [1.Audiovox:](https://www.amazon.com/gp/product/B004W9BLPI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004W9BLPI&linkId=483b3e7b3568b95b1b6f8c76c426a5f5)
+### 1.Audiovox:
 
 The Audiovox DS2058 is one of the highly featured portable DVD players that competes all products in market with quality test results. This player offers impressive audio video quality along with stunning battery life that is even better than gold award winner Pyle PDH14.
 
@@ -68,7 +68,7 @@ Users will not be able to find right customer support solution from this company
 
 [Check at Amazon](https://www.amazon.com/gp/product/B004W9BLPI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004W9BLPI&linkId=483b3e7b3568b95b1b6f8c76c426a5f5)
 
-### [2.GPX PD951B:](https://www.amazon.com/gp/product/B01M35Y0HZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M35Y0HZ&linkId=444d14f21b4cdf381da51ca32dc89d9e)
+### 2.GPX PD951B:
 
 GPX PD951B was designed with brand new impressive features but during tests its performance for battery service and video quality was below average. Although, this device is designed with USB/SD ports, comes with a remote control and set of headphones but it lacks in anti-skipping performance as well as offers poor parental controls.
 
@@ -104,7 +104,7 @@ Disc spinning is even audible via headphones.
 
 [lexibook](https://images.wondershare.com/filmora/article-images/lexibook.jpg) ](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
 
-### [4.Pyle PDH14:](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
+### 4.Pyle PDH14:
 
 Pyle PDH14 is well known for its largest screen size and wide range of advanced features including parental controls and anti skipping. This device allows USB as well as SD connectivity but battery service is below average.
 
@@ -122,7 +122,7 @@ This well designed DVD player possesses a 14” screen and it is the largest one
 
 [Check at Amazon](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
 
-### [5.Insignia NS-P9DVD15:](https://www.amazon.com/gp/product/B00L1CZZ3I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00L1CZZ3I&linkId=141b6bac607cb00a6cab9501f3d42e69)
+### 5.Insignia NS-P9DVD15:
 
 It is a low price solution for your portable DVD player needs. Its narrow viewing angle brings more distortion on useful content. This player is designed with anti-skipping feature, parental controls and playback memory. The sad part is that package does not include SD/USB ports, headphones or remote control so you may have to make additional investment.
 
@@ -140,7 +140,7 @@ It is designed with narrow viewing angle that can cover view only up to 25 degre
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00L1CZZ3I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00L1CZZ3I&linkId=141b6bac607cb00a6cab9501f3d42e69)
 
-### [6.Maxmade MDP0919:](https://www.amazon.com/gp/product/B00I3JKPB4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I3JKPB4&linkId=2b5e6c0b049306111218cc342a35a2fe)
+### 6.Maxmade MDP0919:
 
 Maxmade MDP0919 is rated as best player for bumpy road trips. It ensures impressive video quality along with strong battery life and the compact design makes it very handy on the go. Viewing angle ensures quality output up to 45 degrees.
 
@@ -156,7 +156,7 @@ The DVD player package does not include DC power adapter.
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00I3JKPB4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I3JKPB4&linkId=2b5e6c0b049306111218cc342a35a2fe)
 
-### [7.Naxa NPD-1003:](https://www.amazon.com/gp/product/B00CWR39QQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CWR39QQ&linkId=384bdd6cfbebde0054e021981fe5c180)
+### 7.Naxa NPD-1003:
 
 It is good to buy Nexa if you are low on budget and need something below $100\. During tests this product offers great sound quality with impressive battery life. However, this player lacks somewhere in parental controls. Maximum viewing angle from center was 40 degree during tests.
 
@@ -176,7 +176,7 @@ It is good to buy Nexa if you are low on budget and need something below $100\. 
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00CWR39QQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CWR39QQ&linkId=384bdd6cfbebde0054e021981fe5c180)
 
-### [8.Philips PD9000/37:](https://www.amazon.com/gp/product/B00YVUFJAQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YVUFJAQ&linkId=60ae2ef3435b1a37e7157367853a672f)
+### 8.Philips PD9000/37:
 
 Philips PD9000/37 is a compact player with many stunning features including long battery life. The car mount and anti-skipping abilities make it suitable for road trips but it offers low video resolution that goes only up to 640x220\. The maximum viewing angle is observed to be 45 degrees and it allows satisfactory viewing experience. The best results were obtained for sound quality of this device that can last up to five hours.
 
@@ -194,7 +194,7 @@ It is not possible to connect this device to SD memory or USB for media playback
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00YVUFJAQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YVUFJAQ&linkId=60ae2ef3435b1a37e7157367853a672f)
 
-### [9.Ematic EPD105:](https://www.amazon.com/gp/product/B00I48DGYW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I48DGYW&linkId=540c5e8c7d9fb0833e88252d875b79ed)
+### 9.Ematic EPD105:
 
 Ematic EPD105 offers strong audio-video quality with wide range of features. The battery life is truly impressive whereas screen size goes up to 11.6 inches. The video resolution can go as high as up to 1366x768 pixels with vibrant colour details but the viewing angle is limited only up to 25 degrees.
 
@@ -212,7 +212,7 @@ Ematic EPD105 offered impressive battery performance during test that last for m
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00I48DGYW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I48DGYW&linkId=540c5e8c7d9fb0833e88252d875b79ed)
 
-### [10.CraigElectronics CTFT713:](https://www.amazon.com/gp/product/B00K2F2WPY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00K2F2WPY&linkId=454bb0abe288ee4515000d2b8590bd6d)
+### 10.CraigElectronics CTFT713:
 
 This well designed portable DVD player offers great collection of features, including anti-skipping, parental controls and amazing battery life that lasts for 3 hours. The viewing angle is limited to 35 degrees and videos are often highly pixelated, however, you will be happy with its stunning audio quality. During tests, its maximum loudness was observed to be 93 dB for speakers whereas for headphones it was much smoother at 53dB.
 
@@ -270,7 +270,7 @@ Here is one important fact to consider, as portable DVD players are low cost dev
 
 ## Top 10 Portable DVD Players
 
-### [1.Audiovox:](https://www.amazon.com/gp/product/B004W9BLPI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004W9BLPI&linkId=483b3e7b3568b95b1b6f8c76c426a5f5)
+### 1.Audiovox:
 
 The Audiovox DS2058 is one of the highly featured portable DVD players that competes all products in market with quality test results. This player offers impressive audio video quality along with stunning battery life that is even better than gold award winner Pyle PDH14.
 
@@ -288,7 +288,7 @@ Users will not be able to find right customer support solution from this company
 
 [Check at Amazon](https://www.amazon.com/gp/product/B004W9BLPI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004W9BLPI&linkId=483b3e7b3568b95b1b6f8c76c426a5f5)
 
-### [2.GPX PD951B:](https://www.amazon.com/gp/product/B01M35Y0HZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M35Y0HZ&linkId=444d14f21b4cdf381da51ca32dc89d9e)
+### 2.GPX PD951B:
 
 GPX PD951B was designed with brand new impressive features but during tests its performance for battery service and video quality was below average. Although, this device is designed with USB/SD ports, comes with a remote control and set of headphones but it lacks in anti-skipping performance as well as offers poor parental controls.
 
@@ -324,7 +324,7 @@ Disc spinning is even audible via headphones.
 
 [lexibook](https://images.wondershare.com/filmora/article-images/lexibook.jpg) ](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
 
-### [4.Pyle PDH14:](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
+### 4.Pyle PDH14:
 
 Pyle PDH14 is well known for its largest screen size and wide range of advanced features including parental controls and anti skipping. This device allows USB as well as SD connectivity but battery service is below average.
 
@@ -342,7 +342,7 @@ This well designed DVD player possesses a 14” screen and it is the largest one
 
 [Check at Amazon](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
 
-### [5.Insignia NS-P9DVD15:](https://www.amazon.com/gp/product/B00L1CZZ3I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00L1CZZ3I&linkId=141b6bac607cb00a6cab9501f3d42e69)
+### 5.Insignia NS-P9DVD15:
 
 It is a low price solution for your portable DVD player needs. Its narrow viewing angle brings more distortion on useful content. This player is designed with anti-skipping feature, parental controls and playback memory. The sad part is that package does not include SD/USB ports, headphones or remote control so you may have to make additional investment.
 
@@ -360,7 +360,7 @@ It is designed with narrow viewing angle that can cover view only up to 25 degre
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00L1CZZ3I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00L1CZZ3I&linkId=141b6bac607cb00a6cab9501f3d42e69)
 
-### [6.Maxmade MDP0919:](https://www.amazon.com/gp/product/B00I3JKPB4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I3JKPB4&linkId=2b5e6c0b049306111218cc342a35a2fe)
+### 6.Maxmade MDP0919:
 
 Maxmade MDP0919 is rated as best player for bumpy road trips. It ensures impressive video quality along with strong battery life and the compact design makes it very handy on the go. Viewing angle ensures quality output up to 45 degrees.
 
@@ -376,7 +376,7 @@ The DVD player package does not include DC power adapter.
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00I3JKPB4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I3JKPB4&linkId=2b5e6c0b049306111218cc342a35a2fe)
 
-### [7.Naxa NPD-1003:](https://www.amazon.com/gp/product/B00CWR39QQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CWR39QQ&linkId=384bdd6cfbebde0054e021981fe5c180)
+### 7.Naxa NPD-1003:
 
 It is good to buy Nexa if you are low on budget and need something below $100\. During tests this product offers great sound quality with impressive battery life. However, this player lacks somewhere in parental controls. Maximum viewing angle from center was 40 degree during tests.
 
@@ -396,7 +396,7 @@ It is good to buy Nexa if you are low on budget and need something below $100\. 
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00CWR39QQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CWR39QQ&linkId=384bdd6cfbebde0054e021981fe5c180)
 
-### [8.Philips PD9000/37:](https://www.amazon.com/gp/product/B00YVUFJAQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YVUFJAQ&linkId=60ae2ef3435b1a37e7157367853a672f)
+### 8.Philips PD9000/37:
 
 Philips PD9000/37 is a compact player with many stunning features including long battery life. The car mount and anti-skipping abilities make it suitable for road trips but it offers low video resolution that goes only up to 640x220\. The maximum viewing angle is observed to be 45 degrees and it allows satisfactory viewing experience. The best results were obtained for sound quality of this device that can last up to five hours.
 
@@ -414,7 +414,7 @@ It is not possible to connect this device to SD memory or USB for media playback
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00YVUFJAQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YVUFJAQ&linkId=60ae2ef3435b1a37e7157367853a672f)
 
-### [9.Ematic EPD105:](https://www.amazon.com/gp/product/B00I48DGYW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I48DGYW&linkId=540c5e8c7d9fb0833e88252d875b79ed)
+### 9.Ematic EPD105:
 
 Ematic EPD105 offers strong audio-video quality with wide range of features. The battery life is truly impressive whereas screen size goes up to 11.6 inches. The video resolution can go as high as up to 1366x768 pixels with vibrant colour details but the viewing angle is limited only up to 25 degrees.
 
@@ -432,7 +432,7 @@ Ematic EPD105 offered impressive battery performance during test that last for m
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00I48DGYW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I48DGYW&linkId=540c5e8c7d9fb0833e88252d875b79ed)
 
-### [10.CraigElectronics CTFT713:](https://www.amazon.com/gp/product/B00K2F2WPY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00K2F2WPY&linkId=454bb0abe288ee4515000d2b8590bd6d)
+### 10.CraigElectronics CTFT713:
 
 This well designed portable DVD player offers great collection of features, including anti-skipping, parental controls and amazing battery life that lasts for 3 hours. The viewing angle is limited to 35 degrees and videos are often highly pixelated, however, you will be happy with its stunning audio quality. During tests, its maximum loudness was observed to be 93 dB for speakers whereas for headphones it was much smoother at 53dB.
 
@@ -490,7 +490,7 @@ Here is one important fact to consider, as portable DVD players are low cost dev
 
 ## Top 10 Portable DVD Players
 
-### [1.Audiovox:](https://www.amazon.com/gp/product/B004W9BLPI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004W9BLPI&linkId=483b3e7b3568b95b1b6f8c76c426a5f5)
+### 1.Audiovox:
 
 The Audiovox DS2058 is one of the highly featured portable DVD players that competes all products in market with quality test results. This player offers impressive audio video quality along with stunning battery life that is even better than gold award winner Pyle PDH14.
 
@@ -508,7 +508,7 @@ Users will not be able to find right customer support solution from this company
 
 [Check at Amazon](https://www.amazon.com/gp/product/B004W9BLPI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004W9BLPI&linkId=483b3e7b3568b95b1b6f8c76c426a5f5)
 
-### [2.GPX PD951B:](https://www.amazon.com/gp/product/B01M35Y0HZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M35Y0HZ&linkId=444d14f21b4cdf381da51ca32dc89d9e)
+### 2.GPX PD951B:
 
 GPX PD951B was designed with brand new impressive features but during tests its performance for battery service and video quality was below average. Although, this device is designed with USB/SD ports, comes with a remote control and set of headphones but it lacks in anti-skipping performance as well as offers poor parental controls.
 
@@ -544,7 +544,7 @@ Disc spinning is even audible via headphones.
 
 [lexibook](https://images.wondershare.com/filmora/article-images/lexibook.jpg) ](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
 
-### [4.Pyle PDH14:](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
+### 4.Pyle PDH14:
 
 Pyle PDH14 is well known for its largest screen size and wide range of advanced features including parental controls and anti skipping. This device allows USB as well as SD connectivity but battery service is below average.
 
@@ -562,7 +562,7 @@ This well designed DVD player possesses a 14” screen and it is the largest one
 
 [Check at Amazon](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
 
-### [5.Insignia NS-P9DVD15:](https://www.amazon.com/gp/product/B00L1CZZ3I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00L1CZZ3I&linkId=141b6bac607cb00a6cab9501f3d42e69)
+### 5.Insignia NS-P9DVD15:
 
 It is a low price solution for your portable DVD player needs. Its narrow viewing angle brings more distortion on useful content. This player is designed with anti-skipping feature, parental controls and playback memory. The sad part is that package does not include SD/USB ports, headphones or remote control so you may have to make additional investment.
 
@@ -580,7 +580,7 @@ It is designed with narrow viewing angle that can cover view only up to 25 degre
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00L1CZZ3I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00L1CZZ3I&linkId=141b6bac607cb00a6cab9501f3d42e69)
 
-### [6.Maxmade MDP0919:](https://www.amazon.com/gp/product/B00I3JKPB4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I3JKPB4&linkId=2b5e6c0b049306111218cc342a35a2fe)
+### 6.Maxmade MDP0919:
 
 Maxmade MDP0919 is rated as best player for bumpy road trips. It ensures impressive video quality along with strong battery life and the compact design makes it very handy on the go. Viewing angle ensures quality output up to 45 degrees.
 
@@ -596,7 +596,7 @@ The DVD player package does not include DC power adapter.
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00I3JKPB4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I3JKPB4&linkId=2b5e6c0b049306111218cc342a35a2fe)
 
-### [7.Naxa NPD-1003:](https://www.amazon.com/gp/product/B00CWR39QQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CWR39QQ&linkId=384bdd6cfbebde0054e021981fe5c180)
+### 7.Naxa NPD-1003:
 
 It is good to buy Nexa if you are low on budget and need something below $100\. During tests this product offers great sound quality with impressive battery life. However, this player lacks somewhere in parental controls. Maximum viewing angle from center was 40 degree during tests.
 
@@ -616,7 +616,7 @@ It is good to buy Nexa if you are low on budget and need something below $100\. 
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00CWR39QQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CWR39QQ&linkId=384bdd6cfbebde0054e021981fe5c180)
 
-### [8.Philips PD9000/37:](https://www.amazon.com/gp/product/B00YVUFJAQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YVUFJAQ&linkId=60ae2ef3435b1a37e7157367853a672f)
+### 8.Philips PD9000/37:
 
 Philips PD9000/37 is a compact player with many stunning features including long battery life. The car mount and anti-skipping abilities make it suitable for road trips but it offers low video resolution that goes only up to 640x220\. The maximum viewing angle is observed to be 45 degrees and it allows satisfactory viewing experience. The best results were obtained for sound quality of this device that can last up to five hours.
 
@@ -634,7 +634,7 @@ It is not possible to connect this device to SD memory or USB for media playback
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00YVUFJAQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YVUFJAQ&linkId=60ae2ef3435b1a37e7157367853a672f)
 
-### [9.Ematic EPD105:](https://www.amazon.com/gp/product/B00I48DGYW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I48DGYW&linkId=540c5e8c7d9fb0833e88252d875b79ed)
+### 9.Ematic EPD105:
 
 Ematic EPD105 offers strong audio-video quality with wide range of features. The battery life is truly impressive whereas screen size goes up to 11.6 inches. The video resolution can go as high as up to 1366x768 pixels with vibrant colour details but the viewing angle is limited only up to 25 degrees.
 
@@ -652,7 +652,7 @@ Ematic EPD105 offered impressive battery performance during test that last for m
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00I48DGYW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I48DGYW&linkId=540c5e8c7d9fb0833e88252d875b79ed)
 
-### [10.CraigElectronics CTFT713:](https://www.amazon.com/gp/product/B00K2F2WPY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00K2F2WPY&linkId=454bb0abe288ee4515000d2b8590bd6d)
+### 10.CraigElectronics CTFT713:
 
 This well designed portable DVD player offers great collection of features, including anti-skipping, parental controls and amazing battery life that lasts for 3 hours. The viewing angle is limited to 35 degrees and videos are often highly pixelated, however, you will be happy with its stunning audio quality. During tests, its maximum loudness was observed to be 93 dB for speakers whereas for headphones it was much smoother at 53dB.
 
@@ -710,7 +710,7 @@ Here is one important fact to consider, as portable DVD players are low cost dev
 
 ## Top 10 Portable DVD Players
 
-### [1.Audiovox:](https://www.amazon.com/gp/product/B004W9BLPI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004W9BLPI&linkId=483b3e7b3568b95b1b6f8c76c426a5f5)
+### 1.Audiovox:
 
 The Audiovox DS2058 is one of the highly featured portable DVD players that competes all products in market with quality test results. This player offers impressive audio video quality along with stunning battery life that is even better than gold award winner Pyle PDH14.
 
@@ -728,7 +728,7 @@ Users will not be able to find right customer support solution from this company
 
 [Check at Amazon](https://www.amazon.com/gp/product/B004W9BLPI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004W9BLPI&linkId=483b3e7b3568b95b1b6f8c76c426a5f5)
 
-### [2.GPX PD951B:](https://www.amazon.com/gp/product/B01M35Y0HZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M35Y0HZ&linkId=444d14f21b4cdf381da51ca32dc89d9e)
+### 2.GPX PD951B:
 
 GPX PD951B was designed with brand new impressive features but during tests its performance for battery service and video quality was below average. Although, this device is designed with USB/SD ports, comes with a remote control and set of headphones but it lacks in anti-skipping performance as well as offers poor parental controls.
 
@@ -764,7 +764,7 @@ Disc spinning is even audible via headphones.
 
 [lexibook](https://images.wondershare.com/filmora/article-images/lexibook.jpg) ](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
 
-### [4.Pyle PDH14:](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
+### 4.Pyle PDH14:
 
 Pyle PDH14 is well known for its largest screen size and wide range of advanced features including parental controls and anti skipping. This device allows USB as well as SD connectivity but battery service is below average.
 
@@ -782,7 +782,7 @@ This well designed DVD player possesses a 14” screen and it is the largest one
 
 [Check at Amazon](https://www.amazon.com/gp/product/B0071HYEJS/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0071HYEJS&linkId=8e0ed72510529527fe2f95d6e1be5d5b)
 
-### [5.Insignia NS-P9DVD15:](https://www.amazon.com/gp/product/B00L1CZZ3I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00L1CZZ3I&linkId=141b6bac607cb00a6cab9501f3d42e69)
+### 5.Insignia NS-P9DVD15:
 
 It is a low price solution for your portable DVD player needs. Its narrow viewing angle brings more distortion on useful content. This player is designed with anti-skipping feature, parental controls and playback memory. The sad part is that package does not include SD/USB ports, headphones or remote control so you may have to make additional investment.
 
@@ -800,7 +800,7 @@ It is designed with narrow viewing angle that can cover view only up to 25 degre
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00L1CZZ3I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00L1CZZ3I&linkId=141b6bac607cb00a6cab9501f3d42e69)
 
-### [6.Maxmade MDP0919:](https://www.amazon.com/gp/product/B00I3JKPB4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I3JKPB4&linkId=2b5e6c0b049306111218cc342a35a2fe)
+### 6.Maxmade MDP0919:
 
 Maxmade MDP0919 is rated as best player for bumpy road trips. It ensures impressive video quality along with strong battery life and the compact design makes it very handy on the go. Viewing angle ensures quality output up to 45 degrees.
 
@@ -816,7 +816,7 @@ The DVD player package does not include DC power adapter.
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00I3JKPB4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I3JKPB4&linkId=2b5e6c0b049306111218cc342a35a2fe)
 
-### [7.Naxa NPD-1003:](https://www.amazon.com/gp/product/B00CWR39QQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CWR39QQ&linkId=384bdd6cfbebde0054e021981fe5c180)
+### 7.Naxa NPD-1003:
 
 It is good to buy Nexa if you are low on budget and need something below $100\. During tests this product offers great sound quality with impressive battery life. However, this player lacks somewhere in parental controls. Maximum viewing angle from center was 40 degree during tests.
 
@@ -836,7 +836,7 @@ It is good to buy Nexa if you are low on budget and need something below $100\. 
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00CWR39QQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CWR39QQ&linkId=384bdd6cfbebde0054e021981fe5c180)
 
-### [8.Philips PD9000/37:](https://www.amazon.com/gp/product/B00YVUFJAQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YVUFJAQ&linkId=60ae2ef3435b1a37e7157367853a672f)
+### 8.Philips PD9000/37:
 
 Philips PD9000/37 is a compact player with many stunning features including long battery life. The car mount and anti-skipping abilities make it suitable for road trips but it offers low video resolution that goes only up to 640x220\. The maximum viewing angle is observed to be 45 degrees and it allows satisfactory viewing experience. The best results were obtained for sound quality of this device that can last up to five hours.
 
@@ -854,7 +854,7 @@ It is not possible to connect this device to SD memory or USB for media playback
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00YVUFJAQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00YVUFJAQ&linkId=60ae2ef3435b1a37e7157367853a672f)
 
-### [9.Ematic EPD105:](https://www.amazon.com/gp/product/B00I48DGYW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I48DGYW&linkId=540c5e8c7d9fb0833e88252d875b79ed)
+### 9.Ematic EPD105:
 
 Ematic EPD105 offers strong audio-video quality with wide range of features. The battery life is truly impressive whereas screen size goes up to 11.6 inches. The video resolution can go as high as up to 1366x768 pixels with vibrant colour details but the viewing angle is limited only up to 25 degrees.
 
@@ -872,7 +872,7 @@ Ematic EPD105 offered impressive battery performance during test that last for m
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00I48DGYW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00I48DGYW&linkId=540c5e8c7d9fb0833e88252d875b79ed)
 
-### [10.CraigElectronics CTFT713:](https://www.amazon.com/gp/product/B00K2F2WPY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00K2F2WPY&linkId=454bb0abe288ee4515000d2b8590bd6d)
+### 10.CraigElectronics CTFT713:
 
 This well designed portable DVD player offers great collection of features, including anti-skipping, parental controls and amazing battery life that lasts for 3 hours. The viewing angle is limited to 35 degrees and videos are often highly pixelated, however, you will be happy with its stunning audio quality. During tests, its maximum loudness was observed to be 93 dB for speakers whereas for headphones it was much smoother at 53dB.
 

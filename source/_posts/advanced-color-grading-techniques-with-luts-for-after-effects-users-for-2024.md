@@ -1,7 +1,7 @@
 ---
 title: "Advanced Color Grading Techniques with LUTs for After Effects Users for 2024"
-date: 2024-05-24T11:00:04.871Z
-updated: 2024-05-25T11:00:04.871Z
+date: 2024-06-19T19:09:42.983Z
+updated: 2024-06-20T19:09:42.983Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Advanced Color Grading Techniques with LUTs for After Effects Users for 2024"
 excerpt: "This Article Describes Advanced Color Grading Techniques with LUTs for After Effects Users for 2024"
 keywords: "ACG in AE,AE LUT Use,Advanced Grading,LUT Techniques,Color Correction AE,After Effects Grading,Grading with LUTs AE"
-thumbnail: https://www.lifewire.com/thmb/h57-lIQDvScITgWTh6KzTC1eTDc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Download-WhatsApp-For-Mac-Website-8424741-17919dc136494cc09a3924b885d17a6c.jpg
+thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30f3dde81226f486e6ab605fb.jpg
 ---
 
 ## Advanced Color Grading Techniques with LUTs for After Effects Users

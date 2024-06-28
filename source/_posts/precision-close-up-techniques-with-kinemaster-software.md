@@ -1,7 +1,7 @@
 ---
 title: "\"Precision Close-Up Techniques with Kinemaster Software\""
-date: 2024-05-24T10:21:16.558Z
-updated: 2024-05-25T10:21:16.558Z
+date: 2024-06-19T19:09:44.530Z
+updated: 2024-06-20T19:09:44.530Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Precision Close-Up Techniques with Kinemaster Software\""
 excerpt: "\"This Article Describes Precision Close-Up Techniques with Kinemaster Software\""
 keywords: "\"Precision Zoom Technique,Close Up Mastery,Kinemaster Tools,Optimal Focus Methods,High-Def ZOOMing,Cinematic Pro Shots,Enhanced Zoom Clarity\""
-thumbnail: https://www.lifewire.com/thmb/lNAkScrvsB-R9SwnwBvh3Xg6SRU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/changing-default-document-formatting-google-docs-3540182-abec927a42574f869d293a125c23b780.png
+thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522af39269117f83ccabe84316f.png
 ---
 
 ## Precision Close-Up Techniques with Kinemaster Software

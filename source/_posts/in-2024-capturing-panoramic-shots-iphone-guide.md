@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capturing Panoramic Shots  IPhone Guide\""
-date: 2024-05-24T11:56:45.889Z
-updated: 2024-05-25T11:56:45.889Z
+date: 2024-06-19T19:09:33.260Z
+updated: 2024-06-20T19:09:33.260Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Capturing Panoramic Shots: IPhone Guide\""
 excerpt: "\"This Article Describes In 2024, Capturing Panoramic Shots: IPhone Guide\""
 keywords: "\"IPhone Photo Guide,Panorama with iPhone,IPhone Lens Tutorial,IPhone Macro Photography,IPhone Night Sky Shots,IPhone HDR Shooting,IPhone Wide-Angle Techniques\""
-thumbnail: https://www.lifewire.com/thmb/ciAPeQflUn1cfiVtelIYMmFnigU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mika-baumeister-G2lgiBBzeEM-unsplash-00c6c769db934168b66f2d96823e5947.jpg
+thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb60e8fa6d0c6031cee3c6ed0.jpg
 ---
 
 ## Capturing Panoramic Shots: IPhone Guide

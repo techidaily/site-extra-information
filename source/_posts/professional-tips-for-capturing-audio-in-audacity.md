@@ -1,7 +1,7 @@
 ---
 title: "Professional Tips for Capturing Audio in Audacity"
-date: 2024-05-24T11:21:11.378Z
-updated: 2024-05-25T11:21:11.378Z
+date: 2024-06-19T19:09:41.333Z
+updated: 2024-06-20T19:09:41.333Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Professional Tips for Capturing Audio in Audacity"
 excerpt: "This Article Describes Professional Tips for Capturing Audio in Audacity"
 keywords: "\"Audacity Audio Tips,Sound Capture Guide,Professional Recording,Editing Audio Basics,High-Quality Audio,Capture in Audacity,Audio Editing Tips\""
-thumbnail: https://www.lifewire.com/thmb/JJ9gYcx0gYtkR6HMqR2OzAAM5hY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/146689ManworkingonMacBookPro-6505feb20990425490b2fdf6611b847e.jpg
+thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed2655e7384611850ca4beac263.jpg
 ---
 
 ## Professional Tips for Capturing Audio in Audacity

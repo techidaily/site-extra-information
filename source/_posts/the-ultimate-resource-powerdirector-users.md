@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Resource PowerDirector Users"
-date: 2024-05-24T11:09:25.026Z
-updated: 2024-05-25T11:09:25.026Z
+date: 2024-06-19T19:09:36.914Z
+updated: 2024-06-20T19:09:36.914Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Ultimate Resource PowerDirector Users"
 excerpt: "This Article Describes The Ultimate Resource PowerDirector Users"
 keywords: "PowerDirector Mastery,Director's Guide,Top Video Editor,Directors Toolkit,Prime Editing Software,Expert Resource Hub,Ultimate Video Tools"
-thumbnail: https://www.lifewire.com/thmb/zESouOEDMPD5pUPW8DH8E91-pZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Pandoraapponphone_ManuelBurgos_iStockUnreleased_Getty-e453208541bf4204818c65c8a03cde42.jpg
+thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32be5cc5adbe8d57734cb7714.jpg
 ---
 
 ## The Ultimate Resource PowerDirector Users

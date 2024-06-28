@@ -1,7 +1,7 @@
 ---
 title: "[New] Blur Borders for Visual Privacy"
-date: 2024-05-24T11:06:54.867Z
-updated: 2024-05-25T11:06:54.867Z
+date: 2024-06-19T19:09:37.221Z
+updated: 2024-06-20T19:09:37.221Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Blur Borders for Visual Privacy"
 excerpt: "This Article Describes [New] Blur Borders for Visual Privacy"
 keywords: "Visual Privacy Blurry Edges,Privacy Borders Masking,Borders Privacy Shield,Visual Confidentiality,Edge Protection Privacy,Image Privacy Barrier,Unclear Edges Secure"
-thumbnail: https://www.lifewire.com/thmb/NDRJDKRnbGaIn0aAuDiPaTuttRM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/vlogger_HeroImages_Getty-5a529982b39d0300376c3826.jpg
+thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1ac13c5b58f754ed696cbd0a.jpg
 ---
 
 ## Blur Borders for Visual Privacy

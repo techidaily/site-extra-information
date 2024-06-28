@@ -1,7 +1,7 @@
 ---
 title: "\"Nikon J5  Setting New Standards in High-Resolution Video Production\""
-date: 2024-05-24T12:36:16.962Z
-updated: 2024-05-25T12:36:16.962Z
+date: 2024-06-19T19:09:38.964Z
+updated: 2024-06-20T19:09:38.964Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Nikon J5: Setting New Standards in High-Resolution Video Production\""
 excerpt: "\"This Article Describes Nikon J5: Setting New Standards in High-Resolution Video Production\""
 keywords: "\"Nikon J5 Video Quality,High-Res Nikon Video,Nikon J5 Resolution,Advanced Nikon Cameras,Superior Nikon Video,J5 High-Definition Video,Nikon Innovation in Video\""
-thumbnail: https://www.lifewire.com/thmb/mjIJFCo03dTiW_sWBiKGYCEP8Ho=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-953660514-5b1410543de42300371597a7.jpg
+thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f342702915251fd121c5a13e0.jpg
 ---
 
 ## Nikon J5: Setting New Standards in High-Resolution Video Production

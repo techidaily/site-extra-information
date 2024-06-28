@@ -1,7 +1,7 @@
 ---
 title: "Add a Snapshot to Your Instagram Story for 2024"
-date: 2024-05-24T10:56:40.456Z
-updated: 2024-05-25T10:56:40.456Z
+date: 2024-06-19T19:09:37.803Z
+updated: 2024-06-20T19:09:37.803Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Add a Snapshot to Your Instagram Story for 2024"
 excerpt: "This Article Describes Add a Snapshot to Your Instagram Story for 2024"
 keywords: "\"Instagram Snap Add-On,Enhance Stories With Snaps,Immediate Snap Stories,Quick Snapshot Integration,InstaStory Snapshot Feature,Snap Your Story Better,Snapshot for Instagram Moment\""
-thumbnail: https://www.lifewire.com/thmb/Qa72eBfCZc6Kch4bXzH3ZVm1XTU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/LifewireClubhousePrimary-6ea7cf41b0884f88b419ec23bc3c35be.jpg
+thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9afb11a07e4133edf1c0ffefb.jpg
 ---
 
 ## Add a Snapshot to Your Instagram Story

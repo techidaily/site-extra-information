@@ -1,7 +1,7 @@
 ---
 title: "\"What's New in Big Sur  Necessary Specs and Features\""
-date: 2024-05-24T10:43:10.980Z
-updated: 2024-05-25T10:43:10.980Z
+date: 2024-06-19T19:09:45.271Z
+updated: 2024-06-20T19:09:45.271Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes What's New in Big Sur: Necessary Specs and Features\""
 excerpt: "\"This Article Describes What's New in Big Sur: Necessary Specs and Features\""
 keywords: "Big Sur Specs Update,Latest Big Sur Features,Big Sur System Requirements,Upgraded Big Sur Traits,New Big Sur Feature List,Essential Big Sur Updates,Enhanced Big Sur Specifications"
-thumbnail: https://www.lifewire.com/thmb/hOsk21uKEV4CAznIWId7246CU9o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/hands_free_02_for_web-e893b28d4c8243aabc27042e69133f38.jpg
+thumbnail: https://thmb.techidaily.com/4db798dc8e85e2daadf391573bc5ef81d7d7a8b53e675ec2733be93146fbbb0f.jpg
 ---
 
 ## What's New in Big Sur: Necessary Specs and Features

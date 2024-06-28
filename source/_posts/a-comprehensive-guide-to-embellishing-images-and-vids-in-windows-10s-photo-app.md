@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App"
-date: 2024-05-24T12:59:34.030Z
-updated: 2024-05-25T12:59:34.030Z
+date: 2024-06-19T19:09:43.101Z
+updated: 2024-06-20T19:09:43.101Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App"
 excerpt: "This Article Describes A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App"
 keywords: "Win10 Photo Enhancing Tips,Image Beautification Windows 10,Videography Adjustments in Windows 10,Photo App Improve Techniques,Editing Videos on Windows 10,Windows 10 Image Aesthetic Boost,Windows Picture Correction Guide"
-thumbnail: https://www.lifewire.com/thmb/Bi3nR7XDo4lkVyKlwQFQ6BK5F48=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Textplaceholder3-75811d026f244f40a280861ea7fbcba2.jpg
+thumbnail: https://thmb.techidaily.com/193370cfb5fd0062ad7927622f757d95e1534f19599b794b5d420052ed1a0476.jpg
 ---
 
 ## A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App

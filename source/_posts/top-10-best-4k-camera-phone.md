@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Best 4K Camera Phone"
-date: 2024-05-24T10:49:50.243Z
-updated: 2024-05-25T10:49:50.243Z
+date: 2024-06-19T19:09:41.988Z
+updated: 2024-06-20T19:09:41.988Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Top 10 Best 4K Camera Phone"
 excerpt: "This Article Describes Top 10 Best 4K Camera Phone"
 keywords: "Best4KPhone,Top4KCameras,4KCameraTech,BestPhones4K,4KMobileCams,HighResCameraPhones,4KTelephotoCamphones"
-thumbnail: https://www.lifewire.com/thmb/UN0ytYtp24p96KabSrgMJHQZ_yE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088d395c4f6b7d4b1f29dc8396.jpg
 ---
 
 ## Top 10 Best 4K Camera Phone

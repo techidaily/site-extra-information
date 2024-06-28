@@ -1,7 +1,7 @@
 ---
 title: "Groundwork for Motion Visual Storytelling"
-date: 2024-05-24T11:17:42.822Z
-updated: 2024-05-25T11:17:42.822Z
+date: 2024-06-19T19:09:38.430Z
+updated: 2024-06-20T19:09:38.430Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Groundwork for Motion Visual Storytelling"
 excerpt: "This Article Describes Groundwork for Motion Visual Storytelling"
 keywords: "Motion Viz Tactics,Visual Narration Basics,Storytelling in Motion,Groundwork Visuals,Core of Animated Stories,Motion Story Fundamentals,Foundational Viz Techniques"
-thumbnail: https://www.lifewire.com/thmb/DqtKlGQoB_SUK9UXyVHv2XrG5RQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed1-d5515bd372264472994929d78dbbe185.jpeg
+thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66b69630f22d7099f56101e88.jpeg
 ---
 
 ## Groundwork for Motion Visual Storytelling

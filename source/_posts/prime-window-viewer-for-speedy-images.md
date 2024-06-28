@@ -1,7 +1,7 @@
 ---
 title: "Prime Window Viewer for Speedy Images"
-date: 2024-05-24T12:47:58.970Z
-updated: 2024-05-25T12:47:58.970Z
+date: 2024-06-19T19:09:40.475Z
+updated: 2024-06-20T19:09:40.475Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Prime Window Viewer for Speedy Images"
 excerpt: "This Article Describes Prime Window Viewer for Speedy Images"
 keywords: "Speed Image Viewer,Prime Viewer Quickload,Fast Windows Image View,Prime Image Display,Prime Image Viewer Lite,Speedy Window Image,Prime Imager Efficiency"
-thumbnail: https://www.lifewire.com/thmb/FwKLtOoMDFA-a8krrcZ0pqELLAo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-09-10at2.23.25PM-c1325fa5bdf44bb59ac275ef7e6ed754.png
+thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743a49407bfffb933b836abc89.png
 ---
 
 ## Prime Window Viewer for Speedy Images

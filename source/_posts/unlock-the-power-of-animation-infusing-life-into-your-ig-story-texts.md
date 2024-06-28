@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock the Power of Animation  Infusing Life Into Your IG Story Texts\""
-date: 2024-05-24T12:02:25.161Z
-updated: 2024-05-25T12:02:25.161Z
+date: 2024-06-19T19:09:33.495Z
+updated: 2024-06-20T19:09:33.495Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Unlock the Power of Animation: Infusing Life Into Your IG Story Texts\""
 excerpt: "\"This Article Describes Unlock the Power of Animation: Infusing Life Into Your IG Story Texts\""
 keywords: "Animated IG Stories,Life in Text IG,GIF IG Lifelike,Animation on IG,Infused IG Storytelling,Vibrant IG Texts,Dynamic IG Graphics"
-thumbnail: https://www.lifewire.com/thmb/UE2wAdrb_vxoa9J6bQV8tbj6s20=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Catherine_Falls_Commercial_Getty_Images-a30e58e942654fddb4423949948f3a2e.jpg
+thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092cc6760e2a82edb3563c1b5c8.jpg
 ---
 
 ## Unlock the Power of Animation: Infusing Life Into Your IG Story Texts
@@ -46,7 +46,7 @@ Step4 You may check a preview of the dynamic text on Instagram. The animation wi
 
 ![revise story post instagram](https://images.wondershare.com/filmora/article-images/2022/09/revise-story-post-instagram.jpg)
 
-## Way 2\. Use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Video Editor on Computer
+## Way 2\. Use Filmora
 
 Get distinctive word animations that will wow your friends and followers for anything from promotional videos to corporate presentations. Start right now for nothing! Each video scene may be edited separately, and scenes can be added or removed as you go. Enter your text, choose your preferred font, and then select the kind of text animation you want from the dropdown menu. You may also import any photographs or video clips that you wish to utilize. With the app's record function, you may even create brand-new video clips, or you can add a voiceover to go along with your animated text.
 

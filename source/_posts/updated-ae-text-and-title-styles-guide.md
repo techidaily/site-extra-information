@@ -1,7 +1,7 @@
 ---
 title: "[Updated] AE Text & Title Styles Guide"
-date: 2024-05-24T12:06:05.517Z
-updated: 2024-05-25T12:06:05.517Z
+date: 2024-06-19T19:09:45.515Z
+updated: 2024-06-20T19:09:45.515Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] AE Text & Title Styles Guide"
 excerpt: "This Article Describes [Updated] AE Text & Title Styles Guide"
 keywords: "AE Text Guide,Style Tips,Text Titles,Typography Guide,Design Text,Aesthetic Writing,Creative Labeling"
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## AE Text & Title Styles Guide

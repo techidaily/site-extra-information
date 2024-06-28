@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Clearing Imagery  The Canva Method for Clean Bounds\""
-date: 2024-05-24T12:43:58.934Z
-updated: 2024-05-25T12:43:58.934Z
+date: 2024-06-19T19:09:44.778Z
+updated: 2024-06-20T19:09:44.778Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Clearing Imagery: The Canva Method for Clean Bounds\""
 excerpt: "\"This Article Describes [New] Clearing Imagery: The Canva Method for Clean Bounds\""
 keywords: "\"Drones Video Editor,Drone Film Techniques,Advanced Video Editing,Orbiting Visuals,Aerial Imagery Editing,High-Res Drone Footage,Professional Drone Editing\""
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Clearing Imagery: The Canva Method for Clean Bounds

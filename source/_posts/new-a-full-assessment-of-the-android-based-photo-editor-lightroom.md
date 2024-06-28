@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Full Assessment of the Android-Based Photo Editor, Lightroom\""
-date: 2024-05-24T11:53:06.668Z
-updated: 2024-05-25T11:53:06.668Z
+date: 2024-06-19T19:09:44.858Z
+updated: 2024-06-20T19:09:44.858Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] A Full Assessment of the Android-Based Photo Editor, Lightroom\""
 excerpt: "\"This Article Describes [New] A Full Assessment of the Android-Based Photo Editor, Lightroom\""
 keywords: "\"Android Photo Editor Review,Lightroom for Android,Photo Editing on Android,Android Lightroom Comparison,Mobile Android Photography App,Android-Based Photo Enhancement,Compare Android Photo Editors\""
-thumbnail: https://www.lifewire.com/thmb/JuDr0hs9U3I8ICA1iv0r7GNDCD0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/plugs-feeding-in-to-plug-adaptors-and-sockets--close-up-200436334-001-59059d653df78c545691a3e6.jpg
+thumbnail: https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e9201916667eb608e7a9ffd3.jpg
 ---
 
 ## A Full Assessment of the Android-Based Photo Editor, Lightroom

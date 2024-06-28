@@ -1,7 +1,7 @@
 ---
 title: "Become a Color Connoisseur in Digital Photography for 2024"
-date: 2024-05-24T12:31:57.660Z
-updated: 2024-05-25T12:31:57.660Z
+date: 2024-06-19T19:09:38.160Z
+updated: 2024-06-20T19:09:38.160Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Become a Color Connoisseur in Digital Photography for 2024"
 excerpt: "This Article Describes Become a Color Connoisseur in Digital Photography for 2024"
 keywords: "PhotoColorConn,ColourPhotography,PicColorsExpert,PicsEpicTones,ColourPhotoPro,DigitalColorist,PhotoPaletteWise"
-thumbnail: https://www.lifewire.com/thmb/oNvbL2gNhFMcq13irvBSeX78iCo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-bumble-down-or-is-it-you-48022631-60fa27943f30495aa6790ac6c353b275.jpg
+thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c9678fbe9da8ac95eb395e1d.jpg
 ---
 
 ## Become a Color Connoisseur in Digital Photography
@@ -52,7 +52,7 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
-![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
+![pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
@@ -60,7 +60,7 @@ Through the direct selection color picker, you can change the color of an object
 
 At the bottom of the options, you can see two points that will tell you about your chosen color and the ranges it offers. You can adjust the color by dragging the sliders manually. Now, adjust the layers of your image to make the colors of the image look better.
 
-![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
+![change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
 ### 5\. Tip 5: Choose Object Color Range
 

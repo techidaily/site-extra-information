@@ -1,7 +1,7 @@
 ---
 title: "\"Bridging Light and Time  IPhone's Extended Exposure Techniques for 2024\""
-date: 2024-05-24T11:46:47.246Z
-updated: 2024-05-25T11:46:47.246Z
+date: 2024-06-19T19:09:43.979Z
+updated: 2024-06-20T19:09:43.979Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Bridging Light and Time: IPhone's Extended Exposure Techniques for 2024\""
 excerpt: "\"This Article Describes Bridging Light and Time: IPhone's Extended Exposure Techniques for 2024\""
 keywords: "IPhone EXTEND,Time LIGHT BRIDGE,IPHONE PROPHS,EXPO TECHNICS,IPhone Longshot,EXPO Lighting,Time Prolapse Tech"
-thumbnail: https://www.lifewire.com/thmb/sSrx_p8tl3G4DBeeTx4XKBhdjR8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MetrobyT-Mobilelogo-43185fc123d54b1fa301b05f4c01e173.jpg
+thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab19701697c4cb0d6aea2250418304b.jpg
 ---
 
 ## Bridging Light and Time: IPhone's Extended Exposure Techniques

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Blending Bits  Volume Manipulation Mastery with Reaper\""
-date: 2024-05-24T11:18:47.066Z
-updated: 2024-05-25T11:18:47.066Z
+date: 2024-06-19T19:09:41.426Z
+updated: 2024-06-20T19:09:41.426Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Blending Bits: Volume Manipulation Mastery with Reaper\""
 excerpt: "\"This Article Describes [New] Blending Bits: Volume Manipulation Mastery with Reaper\""
 keywords: "Bit Blending in Reaper,Volume Control Reaper,Reaper Manipulate Volumes,Advanced Audio Editing Reaper,Reaper Mix Techniques,Digital Audio Mastery Reaper,Pro Audio Bits Balancing Reaper"
-thumbnail: https://www.lifewire.com/thmb/A0XVxUlV8ojxNxMwxZO61wFI45o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-01-08at1.14.03PM-c8985aaab2454a16a2969d69bbc95867.png
+thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce588ef757833463a9f6ee469.png
 ---
 
 ## Blending Bits: Volume Manipulation Mastery with Reaper

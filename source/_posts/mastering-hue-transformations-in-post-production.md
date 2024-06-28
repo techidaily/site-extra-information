@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Hue Transformations in Post-Production\""
-date: 2024-05-24T11:12:37.978Z
-updated: 2024-05-25T11:12:37.978Z
+date: 2024-06-19T19:09:43.427Z
+updated: 2024-06-20T19:09:43.427Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Hue Transformations in Post-Production\""
 excerpt: "\"This Article Describes Mastering Hue Transformations in Post-Production\""
 keywords: "Hue Mastery,Color Grading Tips,Post Production Hues,Image Hue Editing,Video Hue Alteration,Transform Hue Effects,Hue Adjustment Tools"
-thumbnail: https://www.lifewire.com/thmb/izBIha32HgabjptVJirtpKdPFJM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/youtubekids-30ac14dece6546eb98e32e3e18e447f8.jpg
+thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6cff4615a7e12084a4473983a.jpg
 ---
 
 ## Mastering Hue Transformations in Post-Production
