@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  10 Must-Know iPhone Photography Tips Today\""
-date: 2024-05-24T11:11:25.464Z
-updated: 2024-05-25T11:11:25.464Z
+date: 2024-06-27T19:43:18.964Z
+updated: 2024-06-28T19:43:18.964Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: 10 Must-Know iPhone Photography Tips Today\""
 excerpt: "\"This Article Describes 2024 Approved: 10 Must-Know iPhone Photography Tips Today\""
 keywords: "IPhone Photo Tips,Best iPhone Photoshoot,IPhone Lighting Techniques,IPhone Camera Settings,IPhone HDR Photography,IPhone Composition Rules,IPhone Macro Lens Tricks"
-thumbnail: https://www.lifewire.com/thmb/ykb-X1fleqsocOPzjbEHKe67iWs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1-fda3dfcb691444eebe2921baebecd372.jpg
+thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c3aca95005c1c84fe62729c2.jpg
 ---
 
 ## 10 Must-Know iPhone Photography Tips Today

@@ -1,7 +1,7 @@
 ---
 title: "Masterful Photoshop Techniques to Anonymize Images"
-date: 2024-05-24T10:56:06.604Z
-updated: 2024-05-25T10:56:06.604Z
+date: 2024-06-27T19:43:12.063Z
+updated: 2024-06-28T19:43:12.063Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Masterful Photoshop Techniques to Anonymize Images"
 excerpt: "This Article Describes Masterful Photoshop Techniques to Anonymize Images"
 keywords: "PhotoAnonymizationTechniques,ImagePrivacyMethods,StealthPhotographyHacks,HideIdentityPShopping,CoveredImageTricks,AnonymousPhotoEditing,SecureImageProcessing"
-thumbnail: https://www.lifewire.com/thmb/PM4x4N4zayqmzz-k2GhrTc4i64Y=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1400784591-979919e71d3e4ac49860bb4a3aa82c4b.jpg
+thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af976dec90561d5751a6efa2298.jpg
 ---
 
 ## Masterful Photoshop Techniques to Anonymize Images

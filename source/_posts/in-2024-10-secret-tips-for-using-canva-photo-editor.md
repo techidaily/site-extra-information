@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 10 Secret Tips for Using Canva Photo Editor"
-date: 2024-05-24T11:28:36.394Z
-updated: 2024-05-25T11:28:36.394Z
+date: 2024-06-27T19:43:20.595Z
+updated: 2024-06-28T19:43:20.595Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, 10 Secret Tips for Using Canva Photo Editor"
 excerpt: "This Article Describes In 2024, 10 Secret Tips for Using Canva Photo Editor"
 keywords: "Canva Editing Secrets,Design Tips Canva,Quick Canva Skills,Photoshop Alternative,Creative Canva Guide,Canva Photo Hacks,Efficient Canva Use"
-thumbnail: https://www.lifewire.com/thmb/fxTkV6WtKE82Yk7N0Qz__P0Ie4k=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/ecotech_robothands_gettyimages-1179633351_koya79_cropped_1745_v3-c9e218ef95494c239b2edfb8294fe2a1.jpg
+thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad53016173b55a4a0650b3071.jpg
 ---
 
 ## 10 Secret Tips for Using Canva Photo Editor
@@ -72,7 +72,7 @@ Another amazing feature of the Canva image editor is to add numerous elements to
 
 Hence, explore various stickers and graphics from this platform and instantly apply them to your photos for a funky and vibrant look. Look into this!
 
-![ add different canva elements](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-6.jpg)
+![add different canva elements](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-6.jpg)
 
 ### 7\. Make Photo Collage
 

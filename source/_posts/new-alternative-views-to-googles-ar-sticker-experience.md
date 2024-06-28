@@ -1,7 +1,7 @@
 ---
 title: "[New] Alternative Views to Google's AR Sticker Experience"
-date: 2024-05-24T11:16:46.537Z
-updated: 2024-05-25T11:16:46.537Z
+date: 2024-06-27T19:43:14.249Z
+updated: 2024-06-28T19:43:14.249Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Alternative Views to Google's AR Sticker Experience"
 excerpt: "This Article Describes [New] Alternative Views to Google's AR Sticker Experience"
 keywords: "\"Non-Google AR Sticks,Alternative AR Stickers,Diverse AR Experiences,Beyond Google AR,Other AR Sticker Apps,Evasive AR Stickers,Unique AR Solutions\""
-thumbnail: https://www.lifewire.com/thmb/0XOSR_cSdI-UPr8TRlThT4Fytnk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GorillaArmor-6d65059c5c99453d85e9a960592adb9a.jpeg
+thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1cb34757b006a9b7dc8bcdff.jpeg
 ---
 
 ## Alternative Views to Google's AR Sticker Experience

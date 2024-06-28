@@ -1,7 +1,7 @@
 ---
 title: "The Expert's Manual to Crafting Impeccable SRT Files"
-date: 2024-05-24T12:33:10.787Z
-updated: 2024-05-25T12:33:10.787Z
+date: 2024-06-27T19:43:06.090Z
+updated: 2024-06-28T19:43:06.090Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Expert's Manual to Crafting Impeccable SRT Files"
 excerpt: "This Article Describes The Expert's Manual to Crafting Impeccable SRT Files"
 keywords: "SRT File Basics,Impeccable SRT Guide,Creating Quality SRT,Mastering SRT Formats,Expert SRT Writing Tips,Perfect SRT Crafting,Best Practices in SRT Files"
-thumbnail: https://www.lifewire.com/thmb/Ar5baSJ1LWZdULSZ_APsNZRfyng=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/OpenAI-vs-ChatGPT-dc69f067088c4af6b7f0cb16376e94ee.jpg
+thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949cb98537f68160223a0f7de27.jpg
 ---
 
 ## The Expert's Manual to Crafting Impeccable SRT Files

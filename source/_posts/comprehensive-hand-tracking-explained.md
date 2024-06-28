@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Hand Tracking Explained"
-date: 2024-05-24T10:42:25.553Z
-updated: 2024-05-25T10:42:25.553Z
+date: 2024-06-27T19:43:21.284Z
+updated: 2024-06-28T19:43:21.284Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Comprehensive Hand Tracking Explained"
 excerpt: "This Article Describes Comprehensive Hand Tracking Explained"
 keywords: "Hand Motion Control,Gesture Recognition,Touchless Technology,Human Interface,Interactive Systems,Movement Detection,Physical Commands Tracking"
-thumbnail: https://www.lifewire.com/thmb/IbBoUsmodsqtCMucPpWy2WV4IOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/bing-chat-249ea636b6c9418c885ecee7ef987bcb.png
+thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf749d1e5f5caf96b519e32e1.png
 ---
 
 ## Comprehensive Hand Tracking Explained
@@ -98,7 +98,7 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ### Guidance With Steps
 
-Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
+Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows) app on your PC. Once installed, launch it and follow these instructions step-by-step:
 
 **Install OpenCV and MediaPipe**
 
@@ -254,7 +254,7 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ### Guidance With Steps
 
-Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
+Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows) app on your PC. Once installed, launch it and follow these instructions step-by-step:
 
 **Install OpenCV and MediaPipe**
 

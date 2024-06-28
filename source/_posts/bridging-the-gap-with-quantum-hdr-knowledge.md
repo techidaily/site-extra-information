@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap with Quantum HDR Knowledge"
-date: 2024-05-24T12:25:59.270Z
-updated: 2024-05-25T12:25:59.270Z
+date: 2024-06-27T19:43:24.069Z
+updated: 2024-06-28T19:43:24.069Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Bridging the Gap with Quantum HDR Knowledge"
 excerpt: "This Article Describes Bridging the Gap with Quantum HDR Knowledge"
 keywords: "Quantum HDR Basics,Bridging Tech Advances,HDR Quantum Learning,Quantum Photography Insight,Gap Closing in QHDR,Advanced HDR Technology,Quantum HDR Expertise"
-thumbnail: https://www.lifewire.com/thmb/fFD-lQY5ogPT3Iyv4Tp_RQ5XYZo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/StarGazing-09c3d5985ef2406d92269ddb0ad1ce06.jpg
+thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c02f1f22e6d755ac15543040.jpg
 ---
 
 ## Bridging the Gap with Quantum HDR Knowledge

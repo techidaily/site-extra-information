@@ -1,7 +1,7 @@
 ---
 title: "\"GoPro's Camera Faceoff  Master 360 versus Hero 11 Pro\""
-date: 2024-05-24T10:29:24.930Z
-updated: 2024-05-25T10:29:24.930Z
+date: 2024-06-27T19:43:11.591Z
+updated: 2024-06-28T19:43:11.591Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes GoPro's Camera Faceoff: Master 360 versus Hero 11 Pro\""
 excerpt: "\"This Article Describes GoPro's Camera Faceoff: Master 360 versus Hero 11 Pro\""
 keywords: "\"Broadcast Cameras List,HD Top 360 Videography,Pro Broadcast Panoramic,360 Degree Studio Cameras,Broadcasters' Camera Guide,High-Res Audio Visual Gear,Ultimate Panorama Recording Devices\""
-thumbnail: https://www.lifewire.com/thmb/_QjgZyhZE9bpQ__V2eGfEM1XHOo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/analog-5ba14dca46e0fb0024f0692a.png
+thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a294965755306154ed4cda4187a3.png
 ---
 
 ## GoPro's Camera Faceoff: Master 360 versus Hero 11 Pro

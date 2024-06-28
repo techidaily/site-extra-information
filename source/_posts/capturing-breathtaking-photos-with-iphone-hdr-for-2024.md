@@ -1,7 +1,7 @@
 ---
 title: "Capturing Breathtaking Photos with iPhone HDR for 2024"
-date: 2024-05-24T10:28:53.056Z
-updated: 2024-05-25T10:28:53.056Z
+date: 2024-06-27T19:43:11.364Z
+updated: 2024-06-28T19:43:11.364Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Capturing Breathtaking Photos with iPhone HDR for 2024"
 excerpt: "This Article Describes Capturing Breathtaking Photos with iPhone HDR for 2024"
 keywords: "IPhone HDR Pics,IPhone HDR Shots,Stunning iPhone HDR,Best iPhone HDR Photography,Capture iPhone HDR Images,IPhone HDR Breathtaking Photos,IPhone Enhanced HDR Scenes"
-thumbnail: https://www.lifewire.com/thmb/NbdHSQAycy6SClhRHsj3CQyiEGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DeShuna-Spencer-78f0319607be48ec97dcc6ce1b0d1c75.png
+thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9acdb56f193b79911b70ed6c.png
 ---
 
 ## Capturing Breathtaking Photos with iPhone HDR

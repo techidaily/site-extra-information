@@ -1,7 +1,7 @@
 ---
 title: "Personalized VR Retail Journeys"
-date: 2024-05-24T10:46:29.474Z
-updated: 2024-05-25T10:46:29.474Z
+date: 2024-06-27T19:43:14.499Z
+updated: 2024-06-28T19:43:14.499Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Personalized VR Retail Journeys"
 excerpt: "This Article Describes Personalized VR Retail Journeys"
 keywords: "VR Shopping Experience,Custom VR Stores,VR Retail Tour,Personalized VR Buy,Immersive VR Shop,Tailored VR Store,Interactive VR Marketplace"
-thumbnail: https://www.lifewire.com/thmb/_hc9DtkCKDph1kORMUlipe3yJ4g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pixel-8-pro-ad72b900095f485fa5eb09f9525f7448.jpg
+thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b667c623d0ec997b65a2b06877.jpg
 ---
 
 ## Personalized VR Retail Journeys

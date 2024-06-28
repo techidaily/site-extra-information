@@ -1,7 +1,7 @@
 ---
 title: "\"Effortless Access to Public Broadcast C-Span Videos\""
-date: 2024-05-24T12:54:21.433Z
-updated: 2024-05-25T12:54:21.433Z
+date: 2024-06-27T19:43:19.982Z
+updated: 2024-06-28T19:43:19.982Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Effortless Access to Public Broadcast C-Span Videos\""
 excerpt: "\"This Article Describes Effortless Access to Public Broadcast C-Span Videos\""
 keywords: "\"C-Span Video Streaming,Free C-Span Live,Public C-Span Content,Easy C-Span Views,C-Span TV Online,Access C-Span Videos,Live C-Span Broadcast\""
-thumbnail: https://www.lifewire.com/thmb/2QyUTtx-mT2w6pLF7oIP3zHtR9A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/04LW4149830HeroSquare-11f3111c7a5249c582e1a07409c95ec9.jpg
+thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4b41b02a192204985e15f302.jpg
 ---
 
 ## Effortless Access to Public Broadcast C-Span Videos

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advanced Shooting Modes  Unveiling the Secrets of Smart HDR 3 & 4\""
-date: 2024-05-24T12:13:38.937Z
-updated: 2024-05-25T12:13:38.937Z
+date: 2024-06-27T19:43:25.403Z
+updated: 2024-06-28T19:43:25.403Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Advanced Shooting Modes: Unveiling the Secrets of Smart HDR 3 & 4\""
 excerpt: "\"This Article Describes [Updated] Advanced Shooting Modes: Unveiling the Secrets of Smart HDR 3 & 4\""
 keywords: "Smart HDR Basics,Shoot with HDR 3/4,Advanced HDR Techniques,Mastering Smart HDR,High Dynamic Range Shooting,HDR Mode Enhancement,Pro HDR Photography Tips"
-thumbnail: https://www.lifewire.com/thmb/ZcmxiC1dSbYycdBHzKQOeTES2Oc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001-be0b90f382934bec96a98506a6a0953e.jpg
+thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa73283e591a5a7261febdc4cbc2c.jpg
 ---
 
 ## Advanced Shooting Modes: Unveiling the Secrets of Smart HDR 3 & 4

@@ -1,7 +1,7 @@
 ---
 title: "\"Sony's Vision for Immersive Video  Exploring Xperia XZ Premium\""
-date: 2024-05-24T12:14:57.207Z
-updated: 2024-05-25T12:14:57.207Z
+date: 2024-06-27T19:43:04.716Z
+updated: 2024-06-28T19:43:04.717Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Sony's Vision for Immersive Video: Exploring Xperia XZ Premium\""
 excerpt: "\"This Article Describes Sony's Vision for Immersive Video: Exploring Xperia XZ Premium\""
 keywords: "Sony XZ Vision,Xperia XZ Immersion,VR Sony XZ,Sony Video XZ,Xperia Premium VR,Sony Immersive Tech,Xperia XZ Experience"
-thumbnail: https://www.lifewire.com/thmb/GQlgkzUTMGKItpippJomoeB0SlE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/483598317-56a104ab5f9b58eba4b6b0f6.jpg
+thumbnail: https://thmb.techidaily.com/49570c4e8b47ea82b7ecf56be528fbefc2ec46d8620a3399012917fa562508d1.jpg
 ---
 
 ## Sony's Vision for Immersive Video: Exploring Xperia XZ Premium

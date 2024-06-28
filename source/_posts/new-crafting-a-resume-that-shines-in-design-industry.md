@@ -1,7 +1,7 @@
 ---
 title: "[New] Crafting a Resume that Shines in Design Industry"
-date: 2024-05-24T12:44:08.759Z
-updated: 2024-05-25T12:44:08.759Z
+date: 2024-06-27T19:43:14.042Z
+updated: 2024-06-28T19:43:14.042Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Crafting a Resume that Shines in Design Industry"
 excerpt: "This Article Describes [New] Crafting a Resume that Shines in Design Industry"
 keywords: "Design Resume Tips,Resume for Designers,Professional Design CV,Standout Designer Resume,Creative Resume Examples,Top Design Resumes,Strong Design Resume Guide"
-thumbnail: https://www.lifewire.com/thmb/cVhsk1KZzN-XhDKwUIawjXmHYNA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1136013780-d3927e7c6e964d4ca357aae0781afb99.jpg
+thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961bc69741ec2bb6713c7a134f.jpg
 ---
 
 ## Crafting a Resume that Shines in Design Industry

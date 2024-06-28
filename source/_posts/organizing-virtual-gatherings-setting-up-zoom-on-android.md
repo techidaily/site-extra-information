@@ -1,7 +1,7 @@
 ---
 title: "\"Organizing Virtual Gatherings  Setting Up Zoom on Android\""
-date: 2024-05-24T11:54:14.165Z
-updated: 2024-05-25T11:54:14.165Z
+date: 2024-06-27T19:43:25.536Z
+updated: 2024-06-28T19:43:25.536Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Organizing Virtual Gatherings: Setting Up Zoom on Android\""
 excerpt: "\"This Article Describes Organizing Virtual Gatherings: Setting Up Zoom on Android\""
 keywords: "Zoom Meet Setup,Organize Zoom Call,Zoom App Download,Virtual Gathering Guide,Android Zoom Schedule,Join Zoom Easily,Zoom Meeting Android"
-thumbnail: https://www.lifewire.com/thmb/frTlewJlnbhuKPhXLCQHtTkjRKw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Nintendo-Switch-Home-5114442-25bf44243afc4997adbcbb5b7db8587e.jpg
+thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282754802f441bb66f0c3a3719.jpg
 ---
 
 ## Organizing Virtual Gatherings: Setting Up Zoom on Android

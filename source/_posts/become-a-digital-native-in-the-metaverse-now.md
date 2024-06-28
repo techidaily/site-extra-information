@@ -1,7 +1,7 @@
 ---
 title: "Become a Digital Native in the Metaverse Now"
-date: 2024-05-24T11:48:45.375Z
-updated: 2024-05-25T11:48:45.375Z
+date: 2024-06-27T19:43:03.494Z
+updated: 2024-06-28T19:43:03.494Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Become a Digital Native in the Metaverse Now"
 excerpt: "This Article Describes Become a Digital Native in the Metaverse Now"
 keywords: "Virtual Natives Begin,Metaverse Learners Join,Digital World Entry,Metaverse Initiates,Online Learning Journey,Navigate Metaverse Growth,Embracing Cyber Space Now"
-thumbnail: https://www.lifewire.com/thmb/0MKalSkOVP66rp4xA-3mQBOajXU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-zoom-and-how-does-it-work-b1cab4b7f8e9474fa46f5b50c8e694e4.jpg
+thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec48b8af506bc5428bdf5f9d0e.jpg
 ---
 
 ## Become a Digital Native in the Metaverse Now

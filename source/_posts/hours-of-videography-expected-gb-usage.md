@@ -1,7 +1,7 @@
 ---
 title: "\"Hours of Videography  Expected GB Usage\""
-date: 2024-05-24T11:54:00.428Z
-updated: 2024-05-25T11:54:00.428Z
+date: 2024-06-27T19:43:20.703Z
+updated: 2024-06-28T19:43:20.703Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Hours of Videography: Expected GB Usage\""
 excerpt: "\"This Article Describes Hours of Videography: Expected GB Usage\""
 keywords: "Video Hour Usage,GB Videography Costs,Videographer Storage Needs,Hourly Film Data Usage,GB Usage in Editing Videos,Estimated Video File Size,Storage for Filming Hours"
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## Hours of Videography: Expected GB Usage

@@ -1,7 +1,7 @@
 ---
 title: "\"Demystifying Camera Technology in Auto and AI-Enhanced HDR\""
-date: 2024-05-24T10:34:35.209Z
-updated: 2024-05-25T10:34:35.209Z
+date: 2024-06-27T19:43:21.098Z
+updated: 2024-06-28T19:43:21.098Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Demystifying Camera Technology in Auto and AI-Enhanced HDR\""
 excerpt: "\"This Article Describes Demystifying Camera Technology in Auto and AI-Enhanced HDR\""
 keywords: "Auto HDR Tech,AI HDR Photography,Driving HDR Advances,HDR AI Camera,Automotive HDR Innovation,AI Enhanced Imaging,Advanced Camera Tech"
-thumbnail: https://www.lifewire.com/thmb/img6T68Fg1fTMamba3P66n34F08=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/theregisti-wbDsOAMynRo-unsplash-6b32cc049cda496b8cbd6150d77f5abc.jpg
+thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1348792ff9e2250cf6de872e.jpg
 ---
 
 ## Demystifying Camera Technology in Auto and AI-Enhanced HDR

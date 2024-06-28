@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Campaign Tactics for Enhancing Health Awareness"
-date: 2024-05-24T11:37:00.696Z
-updated: 2024-05-25T11:37:00.696Z
+date: 2024-06-27T19:43:05.711Z
+updated: 2024-06-28T19:43:05.711Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Campaign Tactics for Enhancing Health Awareness"
 excerpt: "This Article Describes [Updated] Campaign Tactics for Enhancing Health Awareness"
 keywords: "Health Awareness Boosting,Enhance Wellness Campaigns,Health Education Tactics,Promote Health Knowledge,Advocacy for Health Care,Raise Health Consciousness,Improve Health Understanding"
-thumbnail: https://www.lifewire.com/thmb/RS5YAym6XTKPaFZCbfzcw6up6TE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/apple-icloud-photos-da26bb8f7f6c40ac9b4ec77af5a807d0.png
+thumbnail: https://thmb.techidaily.com/609392eeb7e6d07659b5310d5497d83d3c111a4e7e0b8902513730d25dcd2f24.png
 ---
 
 ## Campaign Tactics for Enhancing Health Awareness

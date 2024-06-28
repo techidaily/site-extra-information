@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Action Camera Review  GoPro Vs. Yi 4K - Fresh Perspectives\""
-date: 2024-05-24T11:34:37.991Z
-updated: 2024-05-25T11:34:37.991Z
+date: 2024-06-27T19:43:14.589Z
+updated: 2024-06-28T19:43:14.589Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Ultimate Action Camera Review: GoPro Vs. Yi 4K - Fresh Perspectives\""
 excerpt: "\"This Article Describes Ultimate Action Camera Review: GoPro Vs. Yi 4K - Fresh Perspectives\""
 keywords: "\"Ultimate Cam Review,GoPro Vs. Yi 4K,Action Camera Showdown,Vs. Comparison Insight,High-Res Action Cameras,Pro Vs. Cons Cam Battle,4K Action Recording\""
-thumbnail: https://www.lifewire.com/thmb/CYuMInxhqGfsz5AC53n9L4-L5n8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/chris-briggs-Rr6KMv_NYog-unsplash-ca2d5c709f434b72a9e61f973e2edf69.jpg
+thumbnail: https://thmb.techidaily.com/ed24203618acc19422dc1e656e53cdd94b542178679b34754816329310d98db4.jpg
 ---
 
 ## Ultimate Action Camera Review: GoPro Vs. Yi 4K - Fresh Perspectives

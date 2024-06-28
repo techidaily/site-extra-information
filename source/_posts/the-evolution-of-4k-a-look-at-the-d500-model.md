@@ -1,7 +1,7 @@
 ---
 title: "\"The Evolution of 4K  A Look at the D500 Model\""
-date: 2024-05-24T11:22:57.714Z
-updated: 2024-05-25T11:22:57.714Z
+date: 2024-06-27T19:43:14.471Z
+updated: 2024-06-28T19:43:14.471Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Evolution of 4K: A Look at the D500 Model\""
 excerpt: "\"This Article Describes The Evolution of 4K: A Look at the D500 Model\""
 keywords: "\"4K Evolution Trends,D500 Camera Innovation,Ultra HD Video Progress,D500 High-Definition,Next-Gen Cinematography,Advanced 4K Technology,Digital Cinema Advance\""
-thumbnail: https://www.lifewire.com/thmb/yiCG9aCDz-S_uEZuz03MfJhTX40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-3ea2024baf504584905b3806f88613e5.jpg
+thumbnail: https://thmb.techidaily.com/104a8ce1329a7cadce28c36353075eec1970039296b8147989b16ec309b7b44b.jpg
 ---
 
 ## The Evolution of 4K: A Look at the D500 Model

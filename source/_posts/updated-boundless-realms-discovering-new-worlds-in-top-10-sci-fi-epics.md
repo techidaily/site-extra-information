@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Boundless Realms  Discovering New Worlds in Top 10 Sci-Fi Epics\""
-date: 2024-05-24T12:12:16.743Z
-updated: 2024-05-25T12:12:16.743Z
+date: 2024-06-27T19:43:21.341Z
+updated: 2024-06-28T19:43:21.341Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Boundless Realms: Discovering New Worlds in Top 10 Sci-Fi Epics\""
 excerpt: "\"This Article Describes [Updated] Boundless Realms: Discovering New Worlds in Top 10 Sci-Fi Epics\""
 keywords: "\"Boundless Sci-Fi Epics,New World Fantasy,Sci-Fi Top Titles,Epic Sci-Fi Journey,Infinite Realms Sci-Fi,Sci-Fi Discovery Quest,Sci-Fi Epic Rankings\""
-thumbnail: https://www.lifewire.com/thmb/CYuMInxhqGfsz5AC53n9L4-L5n8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/chris-briggs-Rr6KMv_NYog-unsplash-ca2d5c709f434b72a9e61f973e2edf69.jpg
+thumbnail: https://thmb.techidaily.com/ed24203618acc19422dc1e656e53cdd94b542178679b34754816329310d98db4.jpg
 ---
 
 ## Boundless Realms: Discovering New Worlds in Top 10 Sci-Fi Epics

@@ -1,7 +1,7 @@
 ---
 title: "\"Captivating Colors in Photos  A PS Masterclass for 2024\""
-date: 2024-05-24T12:22:16.539Z
-updated: 2024-05-25T12:22:16.539Z
+date: 2024-06-27T19:43:14.823Z
+updated: 2024-06-28T19:43:14.823Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Captivating Colors in Photos: A PS Masterclass for 2024\""
 excerpt: "\"This Article Describes Captivating Colors in Photos: A PS Masterclass for 2024\""
 keywords: "Color Photography PS,Captivating Colours PS,Artistic Photo PS,Mastering PS Colour,PS Color Techniques,PS Photo Vibrance,Professional PS Colors"
-thumbnail: https://www.lifewire.com/thmb/JwdIPs6Dto-nAm_me_78jeSYiCg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/emoji-badges-on-blue-background-884378360-5a143b71bfbf4c91b99b2e3a051c6ac8.jpg
+thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563908a6200578c04353f69c36.jpg
 ---
 
 ## Captivating Colors in Photos: A PS Masterclass

@@ -1,7 +1,7 @@
 ---
 title: "\"Cinematic Blackout - Premiere Pro Guide\""
-date: 2024-06-10T18:34:35.528Z
-updated: 2024-06-11T18:34:35.528Z
+date: 2024-06-27T19:43:03.575Z
+updated: 2024-06-28T19:43:03.575Z
 tags: 
   - screen-recording
   - ai video
@@ -52,11 +52,11 @@ If you are interested in figure out the complete procedure to add fade to black 
 
 ##### Step2 Now, you should go to the effects tab. You can find out this particular tab in the setting panel available in the left side
 
-![ effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
+![effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
 
 ##### Step3 You can spot a search box in the setting panel; you can use this panel for searching the effect that can create fade to black in video. Here, you need to use the term ‘DIP TO BLACK’
 
-![ Dip to blak](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-2.png)
+![Dip to blak](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-2.png)
 
 ##### Step4 Searching for the effect will help you get lots of options as well. You should look for the exact match. It will be the effect that can be useful in getting desired results. You can drag that effect directly from the search results to the timeline and position where you want to add it and create a fade to black effect
 
@@ -76,13 +76,13 @@ Filmora is the best video editor that can be useful in editing videos in several
 
 ##### Step2 After adding the videos, you should the menu and options available in the top section. Here, you can see the ‘TRANSITION’ option. You need to click on it
 
-![ visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
+![visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
 
 ##### Step3 When you click the transition tab, you can see multiple options in the form of several effects. With these effects, you can see the search bar in the top-right corner of that particular section as well
 
 ##### Step4 You should search for FADE by using that search bar
 
-![ Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
+![Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
 
 ##### Step5 Searching for fade will lead to some options in front of you. Here, you need to go for fade option and drag it to the timeline. On the timeline, you should place it carefully and wise. You need to be careful with position of effect placement
 
@@ -128,11 +128,11 @@ If you are interested in figure out the complete procedure to add fade to black 
 
 ##### Step2 Now, you should go to the effects tab. You can find out this particular tab in the setting panel available in the left side
 
-![ effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
+![effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
 
 ##### Step3 You can spot a search box in the setting panel; you can use this panel for searching the effect that can create fade to black in video. Here, you need to use the term ‘DIP TO BLACK’
 
-![ Dip to blak](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-2.png)
+![Dip to blak](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-2.png)
 
 ##### Step4 Searching for the effect will help you get lots of options as well. You should look for the exact match. It will be the effect that can be useful in getting desired results. You can drag that effect directly from the search results to the timeline and position where you want to add it and create a fade to black effect
 
@@ -152,13 +152,13 @@ Filmora is the best video editor that can be useful in editing videos in several
 
 ##### Step2 After adding the videos, you should the menu and options available in the top section. Here, you can see the ‘TRANSITION’ option. You need to click on it
 
-![ visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
+![visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
 
 ##### Step3 When you click the transition tab, you can see multiple options in the form of several effects. With these effects, you can see the search bar in the top-right corner of that particular section as well
 
 ##### Step4 You should search for FADE by using that search bar
 
-![ Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
+![Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
 
 ##### Step5 Searching for fade will lead to some options in front of you. Here, you need to go for fade option and drag it to the timeline. On the timeline, you should place it carefully and wise. You need to be careful with position of effect placement
 
@@ -204,11 +204,11 @@ If you are interested in figure out the complete procedure to add fade to black 
 
 ##### Step2 Now, you should go to the effects tab. You can find out this particular tab in the setting panel available in the left side
 
-![ effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
+![effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
 
 ##### Step3 You can spot a search box in the setting panel; you can use this panel for searching the effect that can create fade to black in video. Here, you need to use the term ‘DIP TO BLACK’
 
-![ Dip to blak](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-2.png)
+![Dip to blak](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-2.png)
 
 ##### Step4 Searching for the effect will help you get lots of options as well. You should look for the exact match. It will be the effect that can be useful in getting desired results. You can drag that effect directly from the search results to the timeline and position where you want to add it and create a fade to black effect
 
@@ -228,13 +228,13 @@ Filmora is the best video editor that can be useful in editing videos in several
 
 ##### Step2 After adding the videos, you should the menu and options available in the top section. Here, you can see the ‘TRANSITION’ option. You need to click on it
 
-![ visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
+![visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
 
 ##### Step3 When you click the transition tab, you can see multiple options in the form of several effects. With these effects, you can see the search bar in the top-right corner of that particular section as well
 
 ##### Step4 You should search for FADE by using that search bar
 
-![ Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
+![Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
 
 ##### Step5 Searching for fade will lead to some options in front of you. Here, you need to go for fade option and drag it to the timeline. On the timeline, you should place it carefully and wise. You need to be careful with position of effect placement
 
@@ -280,11 +280,11 @@ If you are interested in figure out the complete procedure to add fade to black 
 
 ##### Step2 Now, you should go to the effects tab. You can find out this particular tab in the setting panel available in the left side
 
-![ effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
+![effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
 
 ##### Step3 You can spot a search box in the setting panel; you can use this panel for searching the effect that can create fade to black in video. Here, you need to use the term ‘DIP TO BLACK’
 
-![ Dip to blak](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-2.png)
+![Dip to blak](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-2.png)
 
 ##### Step4 Searching for the effect will help you get lots of options as well. You should look for the exact match. It will be the effect that can be useful in getting desired results. You can drag that effect directly from the search results to the timeline and position where you want to add it and create a fade to black effect
 
@@ -304,13 +304,13 @@ Filmora is the best video editor that can be useful in editing videos in several
 
 ##### Step2 After adding the videos, you should the menu and options available in the top section. Here, you can see the ‘TRANSITION’ option. You need to click on it
 
-![ visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
+![visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
 
 ##### Step3 When you click the transition tab, you can see multiple options in the form of several effects. With these effects, you can see the search bar in the top-right corner of that particular section as well
 
 ##### Step4 You should search for FADE by using that search bar
 
-![ Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
+![Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
 
 ##### Step5 Searching for fade will lead to some options in front of you. Here, you need to go for fade option and drag it to the timeline. On the timeline, you should place it carefully and wise. You need to be careful with position of effect placement
 

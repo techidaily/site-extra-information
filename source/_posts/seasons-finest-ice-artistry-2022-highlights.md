@@ -1,7 +1,7 @@
 ---
 title: "\"Season's Finest Ice Artistry - 2022 Highlights\""
-date: 2024-05-24T11:27:48.679Z
-updated: 2024-05-25T11:27:48.679Z
+date: 2024-06-27T19:43:19.938Z
+updated: 2024-06-28T19:43:19.938Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Season's Finest Ice Artistry - 2022 Highlights\""
 excerpt: "\"This Article Describes Season's Finest Ice Artistry - 2022 Highlights\""
 keywords: "IceArtistryHighlights,FineIceSculpture2022,WinterIceExhibition,ArtisticIceCreation,SeasonalIceDisplay,HighGradeIceArts,TopIceCrafts2022"
-thumbnail: https://www.lifewire.com/thmb/A2aHnhbrA37anYrnsxGhPmuK51Q=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Jay-AnnLopez-db0e07f11dd94db0ba5e04ed6cac43e7.jpg
+thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb75637faff2a09a30c684309.jpg
 ---
 
 ## Season's Finest Ice Artistry - 2022 Highlights

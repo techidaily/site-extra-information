@@ -1,7 +1,7 @@
 ---
 title: "\"Budget-Conscious Shooters' 7 Best 4K Cameras\""
-date: 2024-05-24T12:17:36.588Z
-updated: 2024-05-25T12:17:36.588Z
+date: 2024-06-27T19:43:08.105Z
+updated: 2024-06-28T19:43:08.105Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Budget-Conscious Shooters' 7 Best 4K Cameras\""
 excerpt: "\"This Article Describes Budget-Conscious Shooters' 7 Best 4K Cameras\""
 keywords: "\"Budget 4K Cams,Affordable 4K Cam,Top 4K Shooter,Cheap 4K Cameras,Best Value 4K Cams,4K on a Dime,Cost-Effective 4K H\""
-thumbnail: https://www.lifewire.com/thmb/XgfyBKYvqv8gtnRlFpU9E6AWsUg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/savescreenshotonxboxseriesxs-4f0cc19fdaa4472a9f607b07a85e75f9.jpg
+thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
 ---
 
 ## Budget-Conscious Shooters' 7 Best 4K Cameras

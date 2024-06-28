@@ -1,7 +1,7 @@
 ---
 title: "\"Comparing Augmented Reality Stickers  Beyond Google\""
-date: 2024-05-24T11:02:30.900Z
-updated: 2024-05-25T11:02:30.900Z
+date: 2024-06-27T19:43:24.607Z
+updated: 2024-06-28T19:43:24.607Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Comparing Augmented Reality Stickers: Beyond Google\""
 excerpt: "\"This Article Describes Comparing Augmented Reality Stickers: Beyond Google\""
 keywords: "\"AR Sticker Comparison,Beyond Google AR,AR Stickers Versus,AR Marketing Tools,Augmented Reality Decor,Non-Google AR Apps,Alternative to AR Sticks\""
-thumbnail: https://www.lifewire.com/thmb/-ThKOyQrfyqXETlLY93kVTnH7wA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/SamsungTab-screenshot.-5af9ed596bf0690036f87481.jpg
+thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3db742df23467e5bb2d5168a7.jpg
 ---
 
 ## Comparing Augmented Reality Stickers: Beyond Google

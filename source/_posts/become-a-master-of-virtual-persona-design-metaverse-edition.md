@@ -1,7 +1,7 @@
 ---
 title: "\"Become a Master of Virtual Persona Design - Metaverse Edition\""
-date: 2024-05-24T13:00:45.177Z
-updated: 2024-05-25T13:00:45.177Z
+date: 2024-06-27T19:43:22.740Z
+updated: 2024-06-28T19:43:22.740Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Become a Master of Virtual Persona Design - Metaverse Edition\""
 excerpt: "\"This Article Describes Become a Master of Virtual Persona Design - Metaverse Edition\""
 keywords: "VR Persona Design Mastery,Metaverse Persona Skills,Virtual Design Expertise,Persona Creation Virtuality,Mastering Metaverse Personas,Design in Virtual Realms,Persona Crafting Skills"
-thumbnail: https://www.lifewire.com/thmb/S38L-iV0SaOTCbQndhFff22cEEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/EsiT5fdXEAEs0A3-503736188b9943edba694c60b3be7776.jpg
+thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b373b3c35d45e36e3b5fdd2147.jpg
 ---
 
 ## Become a Master of Virtual Persona Design - Metaverse Edition

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Behind the Lens  Nikon D500's 4K Innovation\""
-date: 2024-05-24T11:54:47.478Z
-updated: 2024-05-25T11:54:47.478Z
+date: 2024-06-27T19:43:14.763Z
+updated: 2024-06-28T19:43:14.763Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Behind the Lens: Nikon D500's 4K Innovation\""
 excerpt: "\"This Article Describes [New] Behind the Lens: Nikon D500's 4K Innovation\""
 keywords: "Nikon 4K Cameras,D500 Lens Technology,High Res Photography,Nikon 4K Video,Advanced Camera Innovation,DSLR 4K Capture,Pro Nikon Filmmaking"
-thumbnail: https://www.lifewire.com/thmb/_I2jMGl0tyzGXur_kCDYwkN4HbQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-827678424-5b6c5a0246e0fb0025d6f810.jpg
+thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29fa552917e2c2599c84130202.jpg
 ---
 
 ## Behind the Lens: Nikon D500's 4K Innovation

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cracking the Cartoon Code  A Quick Guide to Lenses in Snapchat\""
-date: 2024-05-24T12:03:14.154Z
-updated: 2024-05-25T12:03:14.154Z
+date: 2024-06-27T19:43:22.022Z
+updated: 2024-06-28T19:43:22.022Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Cracking the Cartoon Code: A Quick Guide to Lenses in Snapchat\""
 excerpt: "\"This Article Describes [Updated] Cracking the Cartoon Code: A Quick Guide to Lenses in Snapchat\""
 keywords: "Snapchat Lens Basics,Snapcode Decoding,Lens Tutorial Quick,Crafting Cartoon Shades,Animation In Snap,Easy Snapchat Lenses,Mastering Snap Lenses"
-thumbnail: https://www.lifewire.com/thmb/BFH4IjacJgo8OjvfJ9Ze8PwUVIM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1212937831-e325a23541f44dbcacab2ea0a3a13ca8.jpg
+thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a686ee8cbfaaa30ee82b5b40.jpg
 ---
 
 ## Cracking the Cartoon Code: A Quick Guide to Lenses in Snapchat

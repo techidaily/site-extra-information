@@ -1,7 +1,7 @@
 ---
 title: "\"Accelerating or Decelerating  Mastering Snapchat's Timeline Controls\""
-date: 2024-05-24T10:32:33.381Z
-updated: 2024-05-25T10:32:33.381Z
+date: 2024-06-27T19:43:04.592Z
+updated: 2024-06-28T19:43:04.592Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Accelerating or Decelerating: Mastering Snapchat's Timeline Controls\""
 excerpt: "\"This Article Describes Accelerating or Decelerating: Mastering Snapchat's Timeline Controls\""
 keywords: "Snapchat TimeControl,SnapSpeedAdjustment,FastSnapShift,TimeSnapTweak,SnapPaceManage,QuickSnapChange,SnapTimelineAlter"
-thumbnail: https://www.lifewire.com/thmb/FlIls8hU_ed8pQBtnCcFKYCJhVE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/005_how-to-fix-it-when-your-chromebook-won-t-turn-on-4802489-a317e6cdd7f443b38115814a3507495f.jpg
+thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d37497b921eea5c41a1afe3dd.jpg
 ---
 
 ## Accelerating or Decelerating: Mastering Snapchat's Timeline Controls

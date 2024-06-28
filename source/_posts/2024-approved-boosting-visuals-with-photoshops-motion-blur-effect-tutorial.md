@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Boosting Visuals with Photoshop's Motion Blur Effect Tutorial\""
-date: 2024-05-24T10:28:47.469Z
-updated: 2024-05-25T10:28:47.469Z
+date: 2024-06-27T19:43:11.825Z
+updated: 2024-06-28T19:43:11.825Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Boosting Visuals with Photoshop's Motion Blur Effect Tutorial\""
 excerpt: "\"This Article Describes 2024 Approved: Boosting Visuals with Photoshop's Motion Blur Effect Tutorial\""
 keywords: "PhotoMotionBlurTut,BoostVisualMotion,PhotoBlurEffectTue,MotionBlurPhotoshop,BlurBoostingGraphics,PhotoshopMotionTips,TutorialBlurEnhance"
-thumbnail: https://www.lifewire.com/thmb/vXzGCCt3ZybDwPnujvfgqgFe6Y8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/markus-winkler-IrRbSND5EUc-unsplash-9edfd76b5a84442885dd247c033445a4.jpg
+thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227de663d1016dd55e7780d59f.jpg
 ---
 
 ## Boosting Visuals with Photoshop's Motion Blur Effect Tutorial

@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Picture Text Edits and Overlays"
-date: 2024-05-24T12:42:51.752Z
-updated: 2024-05-25T12:42:51.752Z
+date: 2024-06-27T19:43:12.112Z
+updated: 2024-06-28T19:43:12.112Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Masterclass in Picture Text Edits and Overlays"
 excerpt: "This Article Describes Masterclass in Picture Text Edits and Overlays"
 keywords: "EditPictureTextMasterclass,PictureOverlayTechniques,ArtisticEditsTutorial,OverlayDesignExpertise,TextEditingInPictures,VisualEffectsMastery,PixelPerfectOverlays"
-thumbnail: https://www.lifewire.com/thmb/fxTkV6WtKE82Yk7N0Qz__P0Ie4k=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/ecotech_robothands_gettyimages-1179633351_koya79_cropped_1745_v3-c9e218ef95494c239b2edfb8294fe2a1.jpg
+thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad53016173b55a4a0650b3071.jpg
 ---
 
 ## Masterclass in Picture Text Edits and Overlays
@@ -48,7 +48,7 @@ Step 2: Explore the Templates
 
 The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
 
-![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
+![choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
 
 Step 3: Upload your Image (Optional)
 
@@ -86,7 +86,7 @@ Step 2: Click to Add Text
 
 Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
 
-![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
+![write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
 
 Step 3: Save the Text Image
 
@@ -108,7 +108,7 @@ Adding text as a perspective is believed to be an inclusive way of providing vie
 
 It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
 
-![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
+![blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
 
 ### 3\. Look for Negative Space
 
@@ -154,7 +154,7 @@ Step 2: Explore the Templates
 
 The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
 
-![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
+![choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
 
 Step 3: Upload your Image (Optional)
 
@@ -192,7 +192,7 @@ Step 2: Click to Add Text
 
 Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
 
-![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
+![write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
 
 Step 3: Save the Text Image
 
@@ -214,7 +214,7 @@ Adding text as a perspective is believed to be an inclusive way of providing vie
 
 It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
 
-![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
+![blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
 
 ### 3\. Look for Negative Space
 
@@ -260,7 +260,7 @@ Step 2: Explore the Templates
 
 The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
 
-![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
+![choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
 
 Step 3: Upload your Image (Optional)
 
@@ -298,7 +298,7 @@ Step 2: Click to Add Text
 
 Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
 
-![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
+![write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
 
 Step 3: Save the Text Image
 
@@ -320,7 +320,7 @@ Adding text as a perspective is believed to be an inclusive way of providing vie
 
 It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
 
-![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
+![blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
 
 ### 3\. Look for Negative Space
 
@@ -366,7 +366,7 @@ Step 2: Explore the Templates
 
 The pre-designed templates of the Instagram post will be displayed on your screen. There will be tons of options, so pick and choose your preferred style carefully by clicking on it. Click on the template and adjust and position the elements of the template manually.
 
-![ choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
+![choose your insta template](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-2.jpg)
 
 Step 3: Upload your Image (Optional)
 
@@ -404,7 +404,7 @@ Step 2: Click to Add Text
 
 Click on anywhere on the photo to add the text to the photo. Type the text you want to enter on the pop-up menu and adjust it by selecting its position and font. Tap on "Done," and then from the given options, tilt and move the text box according to your preference.
 
-![ write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
+![write your text for image](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-7.jpg)
 
 Step 3: Save the Text Image
 
@@ -426,7 +426,7 @@ Adding text as a perspective is believed to be an inclusive way of providing vie
 
 It is essential for you to figure out the right contrast of text that matches or immerses perfectly with the photo. This helps you ensure that the text of your photo stands out to the viewers with no affective disturbances. Not only will it look good, but it also won't tamper with the quality of the photo that it holds across.
 
-![ blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
+![blend text with image properties](https://images.wondershare.com/filmora/article-images/2022/edit-text-in-image-10.jpg)
 
 ### 3\. Look for Negative Space
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Pros & Cons  GoPro Hero 4 Vs. Drift Ghost-S Racing Edition\""
-date: 2024-05-24T10:15:56.376Z
-updated: 2024-05-25T10:15:56.376Z
+date: 2024-06-27T19:43:13.871Z
+updated: 2024-06-28T19:43:13.871Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Pros & Cons: GoPro Hero 4 Vs. Drift Ghost-S Racing Edition\""
 excerpt: "\"This Article Describes Pros & Cons: GoPro Hero 4 Vs. Drift Ghost-S Racing Edition\""
 keywords: "\"GoPro Hero 4 Pros,GoPro Hero 4 Cons,Drift Ghost-S Racer,Drift Vs. GoPro Race,Racing Edition Advantage,GoPro Vs. Drift Gearing,Hero 4 Vs. Ghost-S Speed\""
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## Pros & Cons: GoPro Hero 4 Vs. Drift Ghost-S Racing Edition

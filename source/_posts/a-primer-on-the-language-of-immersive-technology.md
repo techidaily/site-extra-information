@@ -1,7 +1,7 @@
 ---
 title: "A Primer on the Language of Immersive Technology"
-date: 2024-05-24T11:47:03.540Z
-updated: 2024-05-25T11:47:03.540Z
+date: 2024-06-27T19:43:20.177Z
+updated: 2024-06-28T19:43:20.177Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes A Primer on the Language of Immersive Technology"
 excerpt: "This Article Describes A Primer on the Language of Immersive Technology"
 keywords: "Tech Language Basics,Immersion Learning Tips,Immersive Dev Terms,Understanding VR Lingo,HoloTech Lexicon Guide,AR/VR Communication Skills,Interactive Tech Jargon"
-thumbnail: https://www.lifewire.com/thmb/hPIEPKv0WCrjrnqnmBCEGl_9xL0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-753288297-5aefb99104d1cf0037f39fe9.jpg
+thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b19782ea8ac6138fc17b8fe856f7.jpg
 ---
 
 ## A Primer on the Language of Immersive Technology
@@ -66,15 +66,15 @@ The term Field of View presents the angle of the visual field in degrees where i
 
 Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
 
-## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Virtual Reality
 
 First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
 
-## [Augmented Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Augmented Reality
 
 It is simply the process of overlaying digital elements or data on the real world so that you can interact with reality and digital elements on same platform. Although Augmented Reality technology is still running behind Virtual Reality, the day they will converge then real wonders will be created with mixed reality effects.
 
-## [Mixed Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Mixed Reality
 
 The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
 
@@ -130,15 +130,15 @@ The term Field of View presents the angle of the visual field in degrees where i
 
 Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
 
-## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Virtual Reality
 
 First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
 
-## [Augmented Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Augmented Reality
 
 It is simply the process of overlaying digital elements or data on the real world so that you can interact with reality and digital elements on same platform. Although Augmented Reality technology is still running behind Virtual Reality, the day they will converge then real wonders will be created with mixed reality effects.
 
-## [Mixed Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Mixed Reality
 
 The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
 
@@ -194,15 +194,15 @@ The term Field of View presents the angle of the visual field in degrees where i
 
 Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
 
-## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Virtual Reality
 
 First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
 
-## [Augmented Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Augmented Reality
 
 It is simply the process of overlaying digital elements or data on the real world so that you can interact with reality and digital elements on same platform. Although Augmented Reality technology is still running behind Virtual Reality, the day they will converge then real wonders will be created with mixed reality effects.
 
-## [Mixed Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Mixed Reality
 
 The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
 
@@ -258,15 +258,15 @@ The term Field of View presents the angle of the visual field in degrees where i
 
 Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
 
-## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Virtual Reality
 
 First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
 
-## [Augmented Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Augmented Reality
 
 It is simply the process of overlaying digital elements or data on the real world so that you can interact with reality and digital elements on same platform. Although Augmented Reality technology is still running behind Virtual Reality, the day they will converge then real wonders will be created with mixed reality effects.
 
-## [Mixed Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+## Mixed Reality
 
 The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
 

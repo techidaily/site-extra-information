@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Podcast Editing with GarageBand  A Step-by-Step Guide\""
-date: 2024-05-24T12:54:37.762Z
-updated: 2024-05-25T12:54:37.762Z
+date: 2024-06-27T19:43:08.925Z
+updated: 2024-06-28T19:43:08.925Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Podcast Editing with GarageBand: A Step-by-Step Guide\""
 excerpt: "\"This Article Describes Mastering Podcast Editing with GarageBand: A Step-by-Step Guide\""
 keywords: "GarageBand Edit Tips,Podcast Production Tools,Audio Mix Mastery,Media Editing Techniques,Sound Design Basics,Music Making Guide,Advanced Audio Cutting"
-thumbnail: https://www.lifewire.com/thmb/JlaYtQ70GwDCvIkDNZPws_-H5NM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-blizzard-battle-net-down-or-is-it-just-you-5025181-240dd5bdcffd4b9bb3fe79e8b90ac5fb.jpg
+thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70fd1186bee34b5c05700af6e2.jpg
 ---
 
 ## Mastering Podcast Editing with GarageBand: A Step-by-Step Guide

@@ -1,7 +1,7 @@
 ---
 title: "\"SmirkSketcher  Lighten Up with Quick Art Tools\""
-date: 2024-05-24T12:56:32.408Z
-updated: 2024-05-25T12:56:32.408Z
+date: 2024-06-27T19:43:06.571Z
+updated: 2024-06-28T19:43:06.571Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes SmirkSketcher: Lighten Up with Quick Art Tools\""
 excerpt: "\"This Article Describes SmirkSketcher: Lighten Up with Quick Art Tools\""
 keywords: "SketchLightArt,QuikArtTools,SmirkCreation,EasyDrawLite,LighterSketching,RapidArtWorks,QuickDrawEase"
-thumbnail: https://www.lifewire.com/thmb/4MSiSpuxZCsUDxZlQSAaZvmmruQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/nintendoswitch-5c45c3fcc9e77c000136b598.jpg
+thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4cc5911dccf11c067ddd27a33.jpg
 ---
 
 ## SmirkSketcher: Lighten Up with Quick Art Tools

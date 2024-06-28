@@ -1,7 +1,7 @@
 ---
 title: "\"Lightning Foldout  Sculpting Rapidly Produced Google Collage Pics\""
-date: 2024-05-24T11:29:12.182Z
-updated: 2024-05-25T11:29:12.182Z
+date: 2024-06-27T19:43:11.643Z
+updated: 2024-06-28T19:43:11.643Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Lightning Foldout: Sculpting Rapidly Produced Google Collage Pics\""
 excerpt: "\"This Article Describes Lightning Foldout: Sculpting Rapidly Produced Google Collage Pics\""
 keywords: "Quick Google Collage Making,Lightning Fast Image Creation,Rapid Collage with Google,Speedy Google Sculpting Photos,Foldout Rapid Photo Design,Google Images Collage Accelerated,Instant Google Collage Art"
-thumbnail: https://www.lifewire.com/thmb/JO3G2L6-RdxKIhq-8xFKaQ9L4as=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-184988903-56e20b6a3df78c5ba056b76b-2a6b7cc48e234a898d913048b96f3df5.jpg
+thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f17cad9fcf863c9fe9218bf46.jpg
 ---
 
 ## Lightning Foldout: Sculpting Rapidly Produced Google Collage Pics

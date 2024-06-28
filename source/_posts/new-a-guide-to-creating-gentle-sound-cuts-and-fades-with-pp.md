@@ -1,7 +1,7 @@
 ---
 title: "[New] A Guide to Creating Gentle Sound Cuts and Fades with PP"
-date: 2024-05-24T10:58:18.547Z
-updated: 2024-05-25T10:58:18.547Z
+date: 2024-06-27T19:43:14.930Z
+updated: 2024-06-28T19:43:14.930Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] A Guide to Creating Gentle Sound Cuts and Fades with PP"
 excerpt: "This Article Describes [New] A Guide to Creating Gentle Sound Cuts and Fades with PP"
 keywords: "Gentle Soundscape Transitions,Soft Audio Fades Technique,Precision Panning Principles,Calm Music Edits Guide,Sound Cutsmithing Basics,Flawless Audio Easing,PP Edit Smoothness Tips"
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## A Guide to Creating Gentle Sound Cuts and Fades with PP
@@ -48,7 +48,7 @@ Some people start understanding the application and want to get answers to multi
 
 ## Part 1 Fade Our Music With Crossfade Audio Transition
 
-![Fade out music with crossfading ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
+![Fade out music with crossfading](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
 
 When it comes to joining two different audios or chopping an audio file, all editors use some effects to cover up the joint. It helps in making the audial join smooth and avoids rough ends or disturbance in the output. Most commonly, fade effects are considered by professionals. In case you are using Premiere Pro and thinking of using the crossfade audio transition, you will have three options, such as –
 
@@ -62,7 +62,7 @@ All these three options are leading to different effects. Now, it depends on the
 
 ## Part 2 Fade Out Music By Changing Music Duration
 
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+![Fade out by changing music duration](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
@@ -70,7 +70,7 @@ You should try to be careful and expand the complete track. Here, you should cut
 
 ## Part 3 Fade Out Music By Changing Music Duration
 
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+![Fade out by changing music duration](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
@@ -146,7 +146,7 @@ Some people start understanding the application and want to get answers to multi
 
 ## Part 1 Fade Our Music With Crossfade Audio Transition
 
-![Fade out music with crossfading ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
+![Fade out music with crossfading](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
 
 When it comes to joining two different audios or chopping an audio file, all editors use some effects to cover up the joint. It helps in making the audial join smooth and avoids rough ends or disturbance in the output. Most commonly, fade effects are considered by professionals. In case you are using Premiere Pro and thinking of using the crossfade audio transition, you will have three options, such as –
 
@@ -160,7 +160,7 @@ All these three options are leading to different effects. Now, it depends on the
 
 ## Part 2 Fade Out Music By Changing Music Duration
 
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+![Fade out by changing music duration](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
@@ -168,7 +168,7 @@ You should try to be careful and expand the complete track. Here, you should cut
 
 ## Part 3 Fade Out Music By Changing Music Duration
 
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+![Fade out by changing music duration](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
@@ -244,7 +244,7 @@ Some people start understanding the application and want to get answers to multi
 
 ## Part 1 Fade Our Music With Crossfade Audio Transition
 
-![Fade out music with crossfading ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
+![Fade out music with crossfading](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
 
 When it comes to joining two different audios or chopping an audio file, all editors use some effects to cover up the joint. It helps in making the audial join smooth and avoids rough ends or disturbance in the output. Most commonly, fade effects are considered by professionals. In case you are using Premiere Pro and thinking of using the crossfade audio transition, you will have three options, such as –
 
@@ -258,7 +258,7 @@ All these three options are leading to different effects. Now, it depends on the
 
 ## Part 2 Fade Out Music By Changing Music Duration
 
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+![Fade out by changing music duration](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
@@ -266,7 +266,7 @@ You should try to be careful and expand the complete track. Here, you should cut
 
 ## Part 3 Fade Out Music By Changing Music Duration
 
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+![Fade out by changing music duration](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
@@ -342,7 +342,7 @@ Some people start understanding the application and want to get answers to multi
 
 ## Part 1 Fade Our Music With Crossfade Audio Transition
 
-![Fade out music with crossfading ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
+![Fade out music with crossfading](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
 
 When it comes to joining two different audios or chopping an audio file, all editors use some effects to cover up the joint. It helps in making the audial join smooth and avoids rough ends or disturbance in the output. Most commonly, fade effects are considered by professionals. In case you are using Premiere Pro and thinking of using the crossfade audio transition, you will have three options, such as –
 
@@ -356,7 +356,7 @@ All these three options are leading to different effects. Now, it depends on the
 
 ## Part 2 Fade Out Music By Changing Music Duration
 
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+![Fade out by changing music duration](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
@@ -364,7 +364,7 @@ You should try to be careful and expand the complete track. Here, you should cut
 
 ## Part 3 Fade Out Music By Changing Music Duration
 
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+![Fade out by changing music duration](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 

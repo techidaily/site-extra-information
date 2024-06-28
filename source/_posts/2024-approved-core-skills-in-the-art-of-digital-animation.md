@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Core Skills in the Art of Digital Animation\""
-date: 2024-05-24T10:53:52.689Z
-updated: 2024-05-25T10:53:52.689Z
+date: 2024-06-27T19:43:22.036Z
+updated: 2024-06-28T19:43:22.036Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Core Skills in the Art of Digital Animation\""
 excerpt: "\"This Article Describes 2024 Approved: Core Skills in the Art of Digital Animation\""
 keywords: "Animatix Core Skills,AnimSkills Development,Digital Animation Essence,Creative Animation Tools,Animation Design Fundamentals,Digital Art Techniques,Art of AnimTech Mastery"
-thumbnail: https://www.lifewire.com/thmb/Yem3HIULZftUxBFec7M2Dhovrnw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/googlemeet-a87010251a134a7194b0767e843d5694.jpg
+thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b350de1df5ec61d6fc21bf535.jpg
 ---
 
 ## Core Skills in the Art of Digital Animation

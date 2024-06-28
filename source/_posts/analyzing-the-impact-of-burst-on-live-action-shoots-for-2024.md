@@ -1,7 +1,7 @@
 ---
 title: "\"Analyzing the Impact of Burst on Live-Action Shoots for 2024\""
-date: 2024-05-24T11:11:39.752Z
-updated: 2024-05-25T11:11:39.752Z
+date: 2024-06-27T19:43:18.351Z
+updated: 2024-06-28T19:43:18.351Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Analyzing the Impact of Burst on Live-Action Shoots for 2024\""
 excerpt: "\"This Article Describes Analyzing the Impact of Burst on Live-Action Shoots for 2024\""
 keywords: "\"Burst Effects Live Shoot Analysis,Live-Action Burst Impact Study,Shoot Disruption Due to Bursts,Burst Influence in Filming,Burst Effect on Shoots,Impact of High Bursts on Set,Analyzing Burst Effects Live\""
-thumbnail: https://www.lifewire.com/thmb/AvFsoKTttswUkdcOQKuJ7hslpaQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/phoneinairplanemode-4cf424c7f7cf4366853c8100d57275cc.jpeg
+thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c64c0456c40360dd20bfbffb.jpeg
 ---
 
 ## Analyzing the Impact of Burst on Live-Action Shoots

@@ -1,7 +1,7 @@
 ---
 title: "\"Joke Junction  Ultimate Free Comic Templates\""
-date: 2024-05-24T11:27:38.726Z
-updated: 2024-05-25T11:27:38.726Z
+date: 2024-06-27T19:43:16.061Z
+updated: 2024-06-28T19:43:16.061Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Joke Junction: Ultimate Free Comic Templates\""
 excerpt: "\"This Article Describes Joke Junction: Ultimate Free Comic Templates\""
 keywords: "Free Comic Creation,Humor Comics Templates,Joke Design Ideas,Laughter Guide Resources,Unlimited Comic Pages,Comedy Template Packs,Jesting Artwork Tools"
-thumbnail: https://www.lifewire.com/thmb/7CnBBucJ_7BG0JlkwOA4CZRCzP4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1161674558-bbb1f71d068e40c9b832f2eaad4fc348.jpg
+thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f5621896796311364cd34b031c122e69.jpg
 ---
 
 ## Joke Junction: Ultimate Free Comic Templates

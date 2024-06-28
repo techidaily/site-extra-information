@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Achieving Professional-Grade Motion Blur Using Photoshop Tools\""
-date: 2024-05-24T11:44:44.593Z
-updated: 2024-05-25T11:44:44.593Z
+date: 2024-06-27T19:43:22.903Z
+updated: 2024-06-28T19:43:22.903Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Achieving Professional-Grade Motion Blur Using Photoshop Tools\""
 excerpt: "\"This Article Describes 2024 Approved: Achieving Professional-Grade Motion Blur Using Photoshop Tools\""
 keywords: "ProMotionBlur Photoshop,MotionBleu Adjustment,PixelFlow Sharpening,FilterFade Smoothness,BlurEffect CS,ImageSoften Toolkit,EditGlow Vignette"
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Achieving Professional-Grade Motion Blur Using Photoshop Tools

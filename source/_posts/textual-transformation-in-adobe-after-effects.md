@@ -1,7 +1,7 @@
 ---
 title: "Textual Transformation in Adobe After Effects"
-date: 2024-05-24T10:54:48.466Z
-updated: 2024-05-25T10:54:48.466Z
+date: 2024-06-27T19:43:19.696Z
+updated: 2024-06-28T19:43:19.696Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Textual Transformation in Adobe After Effects"
 excerpt: "This Article Describes Textual Transformation in Adobe After Effects"
 keywords: "AE Text Change,Adobe Transform,TextFX AF,AfterEffects Editing,Scripted Text AF,Text Dynamics AF,Animated Text AF"
-thumbnail: https://www.lifewire.com/thmb/bKMAfQ7W24MzcNL6ld2aPyX4h4E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559c1a26eb52ce7f94ac706c0b.jpg
 ---
 
 ## Textual Transformation in Adobe After Effects

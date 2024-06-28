@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  AV1 Vs. VP9  Which Video Codec Wins?\""
-date: 2024-05-24T12:57:00.827Z
-updated: 2024-05-25T12:57:00.827Z
+date: 2024-06-27T19:43:13.372Z
+updated: 2024-06-28T19:43:13.372Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: AV1 Vs. VP9: Which Video Codec Wins?\""
 excerpt: "\"This Article Describes 2024 Approved: AV1 Vs. VP9: Which Video Codec Wins?\""
 keywords: "\"AV1 Vs. VP9,Codec Comparison,Video Quality Test,AV1 Performance,VP9 Vs. AV1 Benchmark,High Definition Encoding,Next-Gen Coder Efficiency\""
-thumbnail: https://www.lifewire.com/thmb/gZnowx2JtDk-nfa-Qpq0XcIEObA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-640608114-590235945f9b5810dcabd4b5.jpg
+thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d79191204bcd93add24c922b6881.jpg
 ---
 
 ## AV1 Vs. VP9: Which Video Codec Wins?

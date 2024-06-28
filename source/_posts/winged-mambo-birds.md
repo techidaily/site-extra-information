@@ -1,7 +1,7 @@
 ---
 title: "Winged Mambo Birds"
-date: 2024-05-24T10:33:30.647Z
-updated: 2024-05-25T10:33:30.647Z
+date: 2024-06-27T19:43:13.806Z
+updated: 2024-06-28T19:43:13.806Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Winged Mambo Birds"
 excerpt: "This Article Describes Winged Mambo Birds"
 keywords: "\"Winged Bird Dance,Mamba Bird Flight,Wings in Mambo Style,Dynamic Bird Movements,Mambo Feathered Creatures,Aero-Mambo Avian Species,Fluttering Mambo Birds\""
-thumbnail: https://www.lifewire.com/thmb/c8e1nttdP23ElJeWx5VVLngvtIM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/SafariTwitterSidebar-56a5d5143df78cf7728a0f97.jpg
+thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935f6ec3a823ac568973956aae.jpg
 ---
 
 ## Winged Mambo Birds
