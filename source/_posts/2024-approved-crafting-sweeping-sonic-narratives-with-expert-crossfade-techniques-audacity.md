@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)\""
-date: 2024-05-24T11:15:30.001Z
-updated: 2024-05-25T11:15:30.001Z
+date: 2024-07-07T02:23:18.326Z
+updated: 2024-07-08T02:23:18.326Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)\""
 excerpt: "\"This Article Describes 2024 Approved: Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)\""
 keywords: "Audacity Sound Design,Crossfade Mastery,Sonic Storytelling,Expert Mixing,Sweeping Narratives,Crafting Audio Art,Professional Crossfade"
-thumbnail: https://www.lifewire.com/thmb/rLG5RyK53FrgUnWPEt4hZypf-3I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/hi-fi-sound-system-with-vintage-tin-toy-car-133962674-95948c23302d43bfb7322c7ac8300931.jpg
+thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a570e502a336cc42130adb602.jpg
 ---
 
 ## Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)

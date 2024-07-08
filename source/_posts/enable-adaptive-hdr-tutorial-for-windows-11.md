@@ -1,7 +1,7 @@
 ---
 title: "\"Enable Adaptive HDR  Tutorial for Windows 11\""
-date: 2024-05-24T10:26:09.269Z
-updated: 2024-05-25T10:26:09.269Z
+date: 2024-07-07T02:23:13.260Z
+updated: 2024-07-08T02:23:13.260Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Enable Adaptive HDR: Tutorial for Windows 11\""
 excerpt: "\"This Article Describes Enable Adaptive HDR: Tutorial for Windows 11\""
 keywords: "HDR Basics,HDR on Win11,Enable HDR Windows,Advanced HDR Guide,Adaptive HDR Tutorial,HDR Setup in Win11,Optimizing HDR Display"
-thumbnail: https://www.lifewire.com/thmb/q7-GkgjyQTtb1vUY1UKOX8N-9dc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/jongsun-lee-F-pSZO_jeE8-unsplash-f3e7cedccf0c468eacc22b2b9b161def.jpg
+thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd1d393f4b6d528ffbc9df6b1.jpg
 ---
 
 ## Enable Adaptive HDR: Tutorial for Windows 11

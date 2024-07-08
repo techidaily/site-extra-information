@@ -1,7 +1,7 @@
 ---
 title: "\"Discovering Yi's High-Res Filming Experience\""
-date: 2024-05-24T10:39:12.888Z
-updated: 2024-05-25T10:39:12.888Z
+date: 2024-07-07T02:23:14.320Z
+updated: 2024-07-08T02:23:14.320Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Discovering Yi's High-Res Filming Experience\""
 excerpt: "\"This Article Describes Discovering Yi's High-Res Filming Experience\""
 keywords: "\"High-Res Filmmaking Yi,Yi High-Definition Shooting,Yi Cinematic Experience,Film Quality in Yi's Work,High Res Video Production Yi,Exclusive Filming Techniques Yi,Professional Yi Cinematography\""
-thumbnail: https://www.lifewire.com/thmb/ifWTsHLsL5LJcm41bwMfP8A6f4g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1129377245-31d2afce07c34729a07592c518bd5b25.jpg
+thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d131fe0f5a053db33ae9c232d.jpg
 ---
 
 ## Discovering Yi's High-Res Filming Experience

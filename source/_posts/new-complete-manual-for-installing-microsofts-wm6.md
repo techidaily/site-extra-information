@@ -1,7 +1,7 @@
 ---
 title: "[New] Complete Manual for Installing Microsoft's WM6"
-date: 2024-05-24T12:54:00.662Z
-updated: 2024-05-25T12:54:00.662Z
+date: 2024-07-07T02:23:17.938Z
+updated: 2024-07-08T02:23:17.938Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Complete Manual for Installing Microsoft's WM6"
 excerpt: "This Article Describes [New] Complete Manual for Installing Microsoft's WM6"
 keywords: "WM6 Setup Guide,Windows XP Installer,WM6 Installation Tips,Microsoft Windows M6,WM6 Manual Overview,Learn WM6 Install,Installing Microsoft WM6"
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## Complete Manual for Installing Microsoft's WM6

@@ -1,7 +1,7 @@
 ---
 title: "\"Yi's ActionCam  The Innovation Leader in High-Res Footage\""
-date: 2024-05-24T10:46:51.784Z
-updated: 2024-05-25T10:46:51.784Z
+date: 2024-07-07T02:23:21.365Z
+updated: 2024-07-08T02:23:21.365Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Yi's ActionCam: The Innovation Leader in High-Res Footage\""
 excerpt: "\"This Article Describes Yi's ActionCam: The Innovation Leader in High-Res Footage\""
 keywords: "\"ActionCam HD,High-Res YiCams,Yi Innovative Cam,ResHigh YiAction,InnovationYiCam,LeaderCam HighQual,FootageInnovateYi\""
-thumbnail: https://www.lifewire.com/thmb/S8g_8m47syFNd8aLJAfNHuOztvM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-01-27at1.42.29PM-7dae4db8dee940fe81736da420d9bc0f.png
+thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba75d849bd9c5cf60929a80d0.png
 ---
 
 ## Yi's ActionCam: The Innovation Leader in High-Res Footage

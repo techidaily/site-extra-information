@@ -1,7 +1,7 @@
 ---
 title: "Sky Sprinting Guide + Mastering the Art of FPV Drone Racing"
-date: 2024-05-24T10:33:12.944Z
-updated: 2024-05-25T10:33:12.944Z
+date: 2024-07-07T02:23:24.322Z
+updated: 2024-07-08T02:23:24.322Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Sky Sprinting Guide + Mastering the Art of FPV Drone Racing"
 excerpt: "This Article Describes Sky Sprinting Guide + Mastering the Art of FPV Drone Racing"
 keywords: "\"Sky Sprint Drones,FPV Drone Racing Tips,VR Flight Control,Ultimate FPV Guide,Pro FPV Pilot Mastery,High-Speed Drone Racing,Stunt Aerobatics with Drones\""
-thumbnail: https://www.lifewire.com/thmb/JLvRjp4v5kROf96cCqXSF6rPR_s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1241445203-0280ca69da4d4b4783e30cd197bb491e.jpg
+thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e99cf7ed2375f403fbf9fc3e.jpg
 ---
 
 ## Sky Sprinting Guide + Mastering the Art of FPV Drone Racing

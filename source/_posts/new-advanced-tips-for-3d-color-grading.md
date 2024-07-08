@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Tips for 3D Color Grading"
-date: 2024-05-24T12:23:37.106Z
-updated: 2024-05-25T12:23:37.106Z
+date: 2024-07-07T02:23:15.506Z
+updated: 2024-07-08T02:23:15.506Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Advanced Tips for 3D Color Grading"
 excerpt: "This Article Describes [New] Advanced Tips for 3D Color Grading"
 keywords: "Coloring3DTips,Grading3DEdge,3DColorGradingTrick,AdvancedColorGrades,Color3DBasics,TechGradingAdv,Editing3DColors"
-thumbnail: https://www.lifewire.com/thmb/EIcWtL1mbjgCQwl6s00JSD8qVnI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-project-xcloud-4796426-d7a90d6136d64a819292085e1962e8f6.jpg
+thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0bfe904b409f7e84863affb55.jpg
 ---
 
 ## Advanced Tips for 3D Color Grading

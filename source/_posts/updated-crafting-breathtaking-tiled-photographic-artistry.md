@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Crafting Breathtaking Tiled Photographic Artistry"
-date: 2024-05-24T11:15:31.651Z
-updated: 2024-05-25T11:15:31.651Z
+date: 2024-07-07T02:23:17.387Z
+updated: 2024-07-08T02:23:17.387Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Crafting Breathtaking Tiled Photographic Artistry"
 excerpt: "This Article Describes [Updated] Crafting Breathtaking Tiled Photographic Artistry"
 keywords: "\"PhotoTilingArt,StunningPhotoMosaics,CreativeTileDesigns,Eye-catchingPhotomosaic,PhotographicTilework,AestheticPhotoTiles,MasterpieceTiledImages\""
-thumbnail: https://www.lifewire.com/thmb/ZsN5sh9vpp5x2EIZHwDv0qxi-C4=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-815594930-822451a1a0fd4b4ba4de1f59d070efc1.jpg
+thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363eb8989d8b988649bee9d94b.jpg
 ---
 
 ## Crafting Breathtaking Tiled Photographic Artistry

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft HoloLens Demo – Tomorrow’s Tech Today"
-date: 2024-05-24T11:55:42.874Z
-updated: 2024-05-25T11:55:42.874Z
+date: 2024-07-07T02:23:14.994Z
+updated: 2024-07-08T02:23:14.994Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Microsoft HoloLens Demo – Tomorrow’s Tech Today"
 excerpt: "This Article Describes Microsoft HoloLens Demo – Tomorrow’s Tech Today"
 keywords: "HoloLens Demo,FutureTech Holo,Microsoft AR,Tech HoloLive,HoloInteractive,Tomorrow's Innovation,NextGen Visualization"
-thumbnail: https://www.lifewire.com/thmb/PM4x4N4zayqmzz-k2GhrTc4i64Y=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1400784591-979919e71d3e4ac49860bb4a3aa82c4b.jpg
+thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af976dec90561d5751a6efa2298.jpg
 ---
 
 ## Microsoft HoloLens Demo – Tomorrow’s Tech Today

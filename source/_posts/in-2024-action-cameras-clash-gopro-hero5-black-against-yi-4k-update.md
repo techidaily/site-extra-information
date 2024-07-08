@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Action Cameras Clash  GoPro Hero5 Black Against Yi 4K Update\""
-date: 2024-05-24T12:36:50.441Z
-updated: 2024-05-25T12:36:50.441Z
+date: 2024-07-07T02:23:24.225Z
+updated: 2024-07-08T02:23:24.225Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Action Cameras Clash: GoPro Hero5 Black Against Yi 4K Update\""
 excerpt: "\"This Article Describes In 2024, Action Cameras Clash: GoPro Hero5 Black Against Yi 4K Update\""
 keywords: "\"GoPro Action Cam Battle,Hero5 Camera Showdown,Black GoPro Vs. Yi,High-Res Cameras Clash,Hero5 Versus 4K Update,Professional Cam War,NextGen Action Recorders\""
-thumbnail: https://www.lifewire.com/thmb/jVj3zTPzlSk-TEYtLIyBRT63fA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-535970955-5b0ef2cca474be003791023e.jpg
+thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1ec409bdbe7a0807e99cdc6f4.jpg
 ---
 
 ## Action Cameras Clash: GoPro Hero5 Black Against Yi 4K Update

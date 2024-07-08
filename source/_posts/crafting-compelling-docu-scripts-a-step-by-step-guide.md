@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Compelling Docu-Scripts  A Step-by-Step Guide\""
-date: 2024-05-24T12:19:14.127Z
-updated: 2024-05-25T12:19:14.127Z
+date: 2024-07-07T02:23:13.570Z
+updated: 2024-07-08T02:23:13.570Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Crafting Compelling Docu-Scripts: A Step-by-Step Guide\""
 excerpt: "\"This Article Describes Crafting Compelling Docu-Scripts: A Step-by-Step Guide\""
 keywords: "\"Script Crafting Tips,Docu-Script Creation,Engaging Documentaries,Script Writing Guide,Compelling Video Content,Step-by-Step Scriptwriting,Making Good Videos\""
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## Crafting Compelling Docu-Scripts: A Step-by-Step Guide

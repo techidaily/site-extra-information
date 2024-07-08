@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Classroom Media Mastery  Video Editing Essentials\""
-date: 2024-05-24T10:22:15.721Z
-updated: 2024-05-25T10:22:15.721Z
+date: 2024-07-07T02:23:23.154Z
+updated: 2024-07-08T02:23:23.154Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Classroom Media Mastery: Video Editing Essentials\""
 excerpt: "\"This Article Describes In 2024, Classroom Media Mastery: Video Editing Essentials\""
 keywords: "EdMedia Skills,Classroom Media,Video Edit Teach,Mastery in EdTech,Learn VideoEdit,MediaMastering,EssentialEdSkill"
-thumbnail: https://www.lifewire.com/thmb/ei9si1jCBfFFLJKx_8xaXaf650o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/computer-promo-image-3a7546bffced49e0addc218f4ef51aed.jpg
+thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea27a15b8c369fc3e51785f1d6.jpg
 ---
 
 ## Classroom Media Mastery: Video Editing Essentials

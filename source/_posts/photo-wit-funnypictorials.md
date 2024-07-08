@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Wit  FunnyPictorials\""
-date: 2024-05-24T10:23:00.174Z
-updated: 2024-05-25T10:23:00.174Z
+date: 2024-07-07T02:23:14.290Z
+updated: 2024-07-08T02:23:14.290Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Photo Wit: FunnyPictorials\""
 excerpt: "\"This Article Describes Photo Wit: FunnyPictorials\""
 keywords: "Photo Wits,Funny Pics,Humorous Photographs,Picture Comedy,Laughable Images,Giggly Snaps,Chuckle Shots"
-thumbnail: https://www.lifewire.com/thmb/NbdHSQAycy6SClhRHsj3CQyiEGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DeShuna-Spencer-78f0319607be48ec97dcc6ce1b0d1c75.png
+thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9acdb56f193b79911b70ed6c.png
 ---
 
 ## Photo Wit: FunnyPictorials

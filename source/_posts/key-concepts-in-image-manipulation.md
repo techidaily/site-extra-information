@@ -1,7 +1,7 @@
 ---
 title: "Key Concepts in Image Manipulation"
-date: 2024-05-24T10:24:35.197Z
-updated: 2024-05-25T10:24:35.197Z
+date: 2024-07-07T02:23:25.122Z
+updated: 2024-07-08T02:23:25.122Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Key Concepts in Image Manipulation"
 excerpt: "This Article Describes Key Concepts in Image Manipulation"
 keywords: "ImagManipConcepts,ImageAlterTechniques,VisualEditingPrinciples,PhotoModdingBasics,GraphicsAdjustmentSkills,PictureCorrectionTools,AlterImageMethods"
-thumbnail: https://www.lifewire.com/thmb/Dle-s2KY0Be649mxZL5Z0_Dgqgk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Temporary-Cloud-Backup_dl2-0c86817b8c2c46049eba5d447a875fbb.jpg
+thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b61684b0bd89a4b6e70d1ea8.jpg
 ---
 
 ## Key Concepts in Image Manipulation

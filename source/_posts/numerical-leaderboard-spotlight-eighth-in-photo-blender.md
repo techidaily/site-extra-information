@@ -1,7 +1,7 @@
 ---
 title: "\"Numerical Leaderboard Spotlight  Eighth in Photo Blender\""
-date: 2024-05-24T11:25:57.613Z
-updated: 2024-05-25T11:25:57.613Z
+date: 2024-07-07T02:23:24.614Z
+updated: 2024-07-08T02:23:24.614Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Numerical Leaderboard Spotlight: Eighth in Photo Blender\""
 excerpt: "\"This Article Describes Numerical Leaderboard Spotlight: Eighth in Photo Blender\""
 keywords: "Photo Blender Leaders,Top Photo Editors,Blending Photo Ranks,Photo Editor Rankings,Blender Eighth Leader,Blend Masters List,Photo Tools Elite"
-thumbnail: https://www.lifewire.com/thmb/0SVBM5fOC6m-97UzQ_J4nYaBrn4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-72003110-5b733c37c9e77c00509f555a.jpg
+thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c6053861679577418a188e88c7.jpg
 ---
 
 ## Numerical Leaderboard Spotlight: Eighth in Photo Blender

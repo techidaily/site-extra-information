@@ -1,7 +1,7 @@
 ---
 title: "Gradual Dimming of Sound in Audacity Masterclass"
-date: 2024-05-24T12:21:05.794Z
-updated: 2024-05-25T12:21:05.794Z
+date: 2024-07-07T02:23:13.098Z
+updated: 2024-07-08T02:23:13.098Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Gradual Dimming of Sound in Audacity Masterclass"
 excerpt: "This Article Describes Gradual Dimming of Sound in Audacity Masterclass"
 keywords: "Audacity Sound Reduction,Sound Level Decline Training,Gradual Audio Dimming Guide,Mastering Soft Volume in Audacity,Audacity Fading Techniques,Soft Sound Reduction Tutorial,Audio Dimming Masterclass"
-thumbnail: https://www.lifewire.com/thmb/R7gZjSitHYML3ZaSI-C1ceXn9L4=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/ImagefromiOS1-d1c97c13048a4fc88627e315957d98d8.jpg
+thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc625d61d049281d91eac42f958.jpg
 ---
 
 ## Gradual Dimming of Sound in Audacity Masterclass
@@ -79,7 +79,7 @@ Even though it's still thought of as difficult, time-consuming work, audio editi
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Download and Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step1 Download and Install Filmora
 
 Installing Filmora, a straightforward platform for starting to edit your audio and music files, is the first step. You must first download and install this application on your Windows PC in order to utilize it without problem. Download the most current edition of this application first. It's now time to install it on your computer when you've completed that. Simply install this program on your computer by following the standard setup instructions if you want to do it fast.
 
@@ -117,7 +117,7 @@ You may access a variety of tools and services on the platform known as Audacity
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Download and Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step1 Download and Install Filmora
 
 Installing Filmora, a straightforward platform for starting to edit your audio and music files, is the first step. You must first download and install this application on your Windows PC in order to utilize it without problem. Download the most current edition of this application first. It's now time to install it on your computer when you've completed that. Simply install this program on your computer by following the standard setup instructions if you want to do it fast.
 

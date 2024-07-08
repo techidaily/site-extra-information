@@ -1,7 +1,7 @@
 ---
 title: "4 Photo and Video Slideshow Maker for macOS Sierra"
-date: 2024-05-24T12:59:23.287Z
-updated: 2024-05-25T12:59:23.287Z
+date: 2024-07-07T02:23:15.120Z
+updated: 2024-07-08T02:23:15.120Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 4 Photo and Video Slideshow Maker for macOS Sierra"
 excerpt: "This Article Describes 4 Photo and Video Slideshow Maker for macOS Sierra"
 keywords: "MacSlideShowMaker,SierraVideoSlideshow,SlideShowCreatorMac,SierraPhotoSlideshow,VideoSlideshowMAC,PhotoSliderAppOSX,SlideshowMakeriOS"
-thumbnail: https://www.lifewire.com/thmb/yiCG9aCDz-S_uEZuz03MfJhTX40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-3ea2024baf504584905b3806f88613e5.jpg
+thumbnail: https://thmb.techidaily.com/104a8ce1329a7cadce28c36353075eec1970039296b8147989b16ec309b7b44b.jpg
 ---
 
 ## 4 Photo and Video Slideshow Maker for macOS Sierra

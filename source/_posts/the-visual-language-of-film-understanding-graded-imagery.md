@@ -1,7 +1,7 @@
 ---
 title: "\"The Visual Language of Film  Understanding Graded Imagery\""
-date: 2024-05-24T12:21:34.911Z
-updated: 2024-05-25T12:21:34.911Z
+date: 2024-07-07T02:23:23.226Z
+updated: 2024-07-08T02:23:23.226Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Visual Language of Film: Understanding Graded Imagery\""
 excerpt: "\"This Article Describes The Visual Language of Film: Understanding Graded Imagery\""
 keywords: "Film Image Analysis,Visual Film Gradients,Cinema Gradient Study,Gradated Filmmaking Techniques,Film Artistic Progression,Visual Storytelling in Film,Cinematic Imagery Scales"
-thumbnail: https://www.lifewire.com/thmb/XUH2PwYnQnxL2aJCYqzrM26jUr0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Four_Types_Of-AI-ddd77c84af074c66987f6e8e6cdfa0a0.jpeg
+thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac791171ba491fd10d2883ba4.jpeg
 ---
 
 ## The Visual Language of Film: Understanding Graded Imagery

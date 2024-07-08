@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Bridging Realities  The Art of Using LUTs in VFX & AR\""
-date: 2024-05-24T11:08:33.464Z
-updated: 2024-05-25T11:08:33.464Z
+date: 2024-07-07T02:23:22.217Z
+updated: 2024-07-08T02:23:22.217Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Bridging Realities: The Art of Using LUTs in VFX & AR\""
 excerpt: "\"This Article Describes 2024 Approved: Bridging Realities: The Art of Using LUTs in VFX & AR\""
 keywords: "LUTs In VFX,LUTs For AR,Bridging VFX Reality,AR VFX Techniques,Realistic Effects Using LUT,LUT Applications in Visuals,Enhancing AR with LUTs"
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## Bridging Realities: The Art of Using LUTs in VFX & AR
@@ -64,7 +64,7 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
-### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
+### 1\. Frost Zombie (Technical Showcase)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
@@ -111,11 +111,11 @@ Given how beautifully Glitter Rain was received, I believed it would be fitting 
 
 Spark AR is an amazing website for LUTs and color grading. Whether you're a new student or a seasoned pro, Spark AR Studio has all the features and capabilities you need to become a good video editor. You can download free LUTs from Spark AR and apply them to your videos. The article guides on how to use LUTs in Spark AR and how to download free LUTs. So, Spark AR is one of the best online websites for LUTs I have tried.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Budget-Friendly 4K Imaging Sources\""
-date: 2024-05-24T11:05:18.341Z
-updated: 2024-05-25T11:05:18.341Z
+date: 2024-07-07T02:23:21.419Z
+updated: 2024-07-08T02:23:21.419Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Budget-Friendly 4K Imaging Sources\""
 excerpt: "\"This Article Describes [New] Budget-Friendly 4K Imaging Sources\""
 keywords: "\"Budget 4K Cameras,Affordable 4K TVs,Cost-Effective 4K Projectors,Economical 4K DSLRs,Low-Cost 4K Monitors,Cheap 4K Capture Devices,Value 4K Equipment\""
-thumbnail: https://www.lifewire.com/thmb/DNPG_95493kmlqsKtggkKrArSlc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/bardgoogledocs-e78434a9fb304eadb5960c6f4402fd45.jpg
+thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf45e09881a1912be2c7963695.jpg
 ---
 
 ## Budget-Friendly 4K Imaging Sources

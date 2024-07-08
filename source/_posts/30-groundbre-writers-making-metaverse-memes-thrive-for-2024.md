@@ -1,7 +1,7 @@
 ---
 title: "\"30 Groundbre Writers  Making Metaverse Memes Thrive for 2024\""
-date: 2024-05-24T11:57:59.956Z
-updated: 2024-05-25T11:57:59.956Z
+date: 2024-07-07T02:23:13.760Z
+updated: 2024-07-08T02:23:13.760Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 30 Groundbre Writers: Making Metaverse Memes Thrive for 2024\""
 excerpt: "\"This Article Describes 30 Groundbre Writers: Making Metaverse Memes Thrive for 2024\""
 keywords: "Metaverse Meme Trends,Virtual World Memes Rise,Metaverse Meme Creation,Future Writers in Metaverse,Groundbreaking Meme Makers,Meme Artistry for Metaverse,Writing for Virtual Realms"
-thumbnail: https://www.lifewire.com/thmb/pS9dw1BYrcj7JfjdKUdVPI_At5g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9ce7db19335f27276911d69ad.jpg
 ---
 
 ## 30 Groundbre Writers: Making Metaverse Memes Thrive

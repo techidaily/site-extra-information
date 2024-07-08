@@ -1,7 +1,7 @@
 ---
 title: "[New] Broad Spectrum of UAVs"
-date: 2024-05-24T12:25:40.681Z
-updated: 2024-05-25T12:25:40.681Z
+date: 2024-07-07T02:23:17.420Z
+updated: 2024-07-08T02:23:17.420Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Broad Spectrum of UAVs"
 excerpt: "This Article Describes [New] Broad Spectrum of UAVs"
 keywords: "BroadUAVSpectrum,UAVSpectrumWide,DiverseUAVTypes,VariousUAVKinds,ExtensiveUAVRange,MultiUAVVariety,WideUAVSelection"
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Broad Spectrum of UAVs

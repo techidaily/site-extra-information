@@ -1,7 +1,7 @@
 ---
 title: "Mastering Video Editing on a Budget with Free FCP"
-date: 2024-05-24T11:04:27.175Z
-updated: 2024-05-25T11:04:27.175Z
+date: 2024-07-07T02:23:17.189Z
+updated: 2024-07-08T02:23:17.189Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering Video Editing on a Budget with Free FCP"
 excerpt: "This Article Describes Mastering Video Editing on a Budget with Free FCP"
 keywords: "\"Budget FCP Tips,Free FCP Mastery,Affordable FCP Guide,Learn FCP Cheaply,No-Cost FCP Skills,Economical FCP Editing,FCP Basics, Costless\""
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Mastering Video Editing on a Budget with Free FCP

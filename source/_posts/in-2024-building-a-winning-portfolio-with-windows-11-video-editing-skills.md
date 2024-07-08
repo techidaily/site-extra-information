@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Building a Winning Portfolio with Windows 11 Video Editing Skills"
-date: 2024-05-24T12:30:33.000Z
-updated: 2024-05-25T12:30:33.000Z
+date: 2024-07-07T02:23:15.886Z
+updated: 2024-07-08T02:23:15.886Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Building a Winning Portfolio with Windows 11 Video Editing Skills"
 excerpt: "This Article Describes In 2024, Building a Winning Portfolio with Windows 11 Video Editing Skills"
 keywords: "\"Winning Portfolio Strategies,Pro Windows 11 Editing,Video Editor's Edge,11-Version Tech Mastery,Skillful Video Portfolio,Profitable Media Crafting,W11 Creative Insight\""
-thumbnail: https://www.lifewire.com/thmb/TSZ_Vw5p-v557Gf7TAMUa0a95eQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-929731418-5b564d78c9e77c001a7729f7.jpg
+thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e452b20253ad5c2d81a1eb51a.jpg
 ---
 
 ## Building a Winning Portfolio with Windows 11 Video Editing Skills

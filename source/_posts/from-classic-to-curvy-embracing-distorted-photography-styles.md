@@ -1,7 +1,7 @@
 ---
 title: "\"From Classic to Curvy  Embracing Distorted Photography Styles\""
-date: 2024-05-24T11:22:31.389Z
-updated: 2024-05-25T11:22:31.389Z
+date: 2024-07-07T02:23:25.471Z
+updated: 2024-07-08T02:23:25.471Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Classic to Curvy: Embracing Distorted Photography Styles\""
 excerpt: "\"This Article Describes From Classic to Curvy: Embracing Distorted Photography Styles\""
 keywords: "Classic vs Curvy Photos,Curves in Art Photography,Distorted Photo Trends,Classic Photography Evolution,Embracing Bold Imagery,Curvy Aesthetics in Art,Distorted Style Embrace"
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## From Classic to Curvy: Embracing Distorted Photography Styles

@@ -1,7 +1,7 @@
 ---
 title: "\"Ancient Aesthetics  Public Domain Pieces\""
-date: 2024-05-24T12:17:33.307Z
-updated: 2024-05-25T12:17:33.307Z
+date: 2024-07-07T02:23:23.727Z
+updated: 2024-07-08T02:23:23.727Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Ancient Aesthetics: Public Domain Pieces\""
 excerpt: "\"This Article Describes Ancient Aesthetics: Public Domain Pieces\""
 keywords: "Ancient Art Ethos,Antiquity Beauty,Epochal Aesthetic,Timeless Artifacts,Historic Splendor,Vintage Aesthetics,Primitive Perfection"
-thumbnail: https://www.lifewire.com/thmb/SPyegmDXMFzk4L3Y3-2c5z4H3WI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05c97d832955a545581c7804d.jpg
 ---
 
 ## Ancient Aesthetics: Public Domain Pieces
@@ -113,7 +113,7 @@ In addition, most of the photos on the Flickr Commons library are listed with **
 
 Although Google search is the most popular resource for royalty-free art, there are specific public domain art search engines to help you find exactly what you need. Here are a few of them to consider.
 
-### 1\. [Artvee.com](https://artvee.com/)
+### 1\. Artvee.com
 
 ![artvee com](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-5.jpg)
 
@@ -121,7 +121,7 @@ Artvee.com is a public domain art search engine that specializes in classical ar
 
 In addition, Artvee.com offers you keyword suggestions depending on user popularity. Alternatively, you can use the Artists tab to locate classical art by specific painters, including Claude Monet and Vincent Van Gogh. Furthermore, you do not need to register an account to use the service. You only need to enter the URL in your browser, narrow down the results using keywords and click download.
 
-### 2\. [Museo](https://museo.app/)
+### 2\. Museo
 
 ![museo](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-6.jpg)
 
@@ -232,7 +232,7 @@ In addition, most of the photos on the Flickr Commons library are listed with **
 
 Although Google search is the most popular resource for royalty-free art, there are specific public domain art search engines to help you find exactly what you need. Here are a few of them to consider.
 
-### 1\. [Artvee.com](https://artvee.com/)
+### 1\. Artvee.com
 
 ![artvee com](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-5.jpg)
 
@@ -240,7 +240,7 @@ Artvee.com is a public domain art search engine that specializes in classical ar
 
 In addition, Artvee.com offers you keyword suggestions depending on user popularity. Alternatively, you can use the Artists tab to locate classical art by specific painters, including Claude Monet and Vincent Van Gogh. Furthermore, you do not need to register an account to use the service. You only need to enter the URL in your browser, narrow down the results using keywords and click download.
 
-### 2\. [Museo](https://museo.app/)
+### 2\. Museo
 
 ![museo](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-6.jpg)
 

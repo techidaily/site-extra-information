@@ -1,7 +1,7 @@
 ---
 title: "\"Action Cameras Face Off  GoPro Hero 4 Vs. Ghost-S Drifting\""
-date: 2024-05-24T11:19:00.280Z
-updated: 2024-05-25T11:19:00.280Z
+date: 2024-07-07T02:23:19.834Z
+updated: 2024-07-08T02:23:19.834Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Action Cameras Face Off: GoPro Hero 4 Vs. Ghost-S Drifting\""
 excerpt: "\"This Article Describes Action Cameras Face Off: GoPro Hero 4 Vs. Ghost-S Drifting\""
 keywords: "\"Hero 4 Vs. Ghost-S Drift,GoPro Hero 4 Comparison,Action Cameras Drifting Showdown,GoPro Hero 4 versus Ghost S,Best Action Cam for Drifting,Face Off: GoPro Hero 4,Drifting with GoPro Hero 4\""
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## Action Cameras Face Off: GoPro Hero 4 Vs. Ghost-S Drifting

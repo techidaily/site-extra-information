@@ -1,7 +1,7 @@
 ---
 title: "Creative Choreography Compendiums"
-date: 2024-05-24T12:17:39.883Z
-updated: 2024-05-25T12:17:39.883Z
+date: 2024-07-07T02:23:13.909Z
+updated: 2024-07-08T02:23:13.909Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Creative Choreography Compendiums"
 excerpt: "This Article Describes Creative Choreography Compendiums"
 keywords: "Dance Design Essentials,Choreography Collection,Creative Movement Guide,Innovative Dancing Tips,Original Dance Books,Expressive Routine Manuals,Artistic Joint Techniques"
-thumbnail: https://www.lifewire.com/thmb/huwSbK2d3evbFLZP84WrnC3KCxM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Board-Game-25eaf89cd79e445ebe7ce23aeb8a892a.jpg
+thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f3622d27aea03408c9719ceb.jpg
 ---
 
 ## Creative Choreography Compendiums

@@ -1,7 +1,7 @@
 ---
 title: "\"Video-Enhanced Pedagogy  Tools and Tactics\""
-date: 2024-05-24T12:13:23.623Z
-updated: 2024-05-25T12:13:23.623Z
+date: 2024-07-07T02:23:24.166Z
+updated: 2024-07-08T02:23:24.166Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Video-Enhanced Pedagogy: Tools and Tactics\""
 excerpt: "\"This Article Describes Video-Enhanced Pedagogy: Tools and Tactics\""
 keywords: "\"Video Learning Tech,E-Learning Strategies,Multimedia Education,Digital Teaching Aids,Interactive Pedagogy,Educational Videos,Tech in Teaching\""
-thumbnail: https://www.lifewire.com/thmb/K0DwKelWej40GlQ5GG81_hN0-Nk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-607477463-04c14d0af0554e4dbc78475df1409e5e.jpg
+thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201ddb10f4f23b159b9a8a8a69.jpg
 ---
 
 ## Video-Enhanced Pedagogy: Tools and Tactics

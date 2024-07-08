@@ -1,7 +1,7 @@
 ---
 title: "The Intricacies of High Dynamic Range (Quantum HDR)"
-date: 2024-05-24T10:26:42.028Z
-updated: 2024-05-25T10:26:42.028Z
+date: 2024-07-07T02:23:17.220Z
+updated: 2024-07-08T02:23:17.220Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Intricacies of High Dynamic Range (Quantum HDR)"
 excerpt: "This Article Describes The Intricacies of High Dynamic Range (Quantum HDR)"
 keywords: "\"Quantum HDR Basics,HDR Techniques,Advanced Video Rendering,Dynamic Range Explained,High-Quality Imaging,Quantum Visuals,Enhanced Color Gradients\""
-thumbnail: https://www.lifewire.com/thmb/PS-19CkMFLFse0EjPIWu03Pcq6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/search-engine-351ff5faf905482b83bed0702b6f8976.png
+thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412d012bd826ff7f5dff9de440.png
 ---
 
 ## The Intricacies of High Dynamic Range (Quantum HDR)

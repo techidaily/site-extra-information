@@ -1,7 +1,7 @@
 ---
 title: "\"Dynamic Designs  Mastering Motion Blur in Adobe AI Creations\""
-date: 2024-05-24T12:05:01.341Z
-updated: 2024-05-25T12:05:01.341Z
+date: 2024-07-07T02:23:21.998Z
+updated: 2024-07-08T02:23:21.998Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Dynamic Designs: Mastering Motion Blur in Adobe AI Creations\""
 excerpt: "\"This Article Describes Dynamic Designs: Mastering Motion Blur in Adobe AI Creations\""
 keywords: "Artistic Blur Techniques,Dynamic Design Insight,Motion Blur Mastery,AI Creation Blurs,Adobe AI Designs,Artistic Motion Effect,Dynamic Image Blur"
-thumbnail: https://www.lifewire.com/thmb/ZCgP3QXrLGyFAmX3vrOATSSTEYA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pool-movie-night-party--487371742-3586073c6a1c41cda022274ec13f8133.jpg
+thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c6a96da1aa4105529dabc652.jpg
 ---
 
 ## Dynamic Designs: Mastering Motion Blur in Adobe AI Creations

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling 14 Dynamic Text Animation Samples"
-date: 2024-05-24T11:01:34.456Z
-updated: 2024-05-25T11:01:34.456Z
+date: 2024-07-07T02:23:13.476Z
+updated: 2024-07-08T02:23:13.476Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Unveiling 14 Dynamic Text Animation Samples"
 excerpt: "This Article Describes Unveiling 14 Dynamic Text Animation Samples"
 keywords: "Dynamic Text Animate Samples,Text Animations Examples,Engaging Text Dynamics,Dynamic Text Design Tips,Creative Text Animation Ideas,Innovative Text Animations,Varied Text Animation Techniques"
-thumbnail: https://www.lifewire.com/thmb/yftj5hGeNzNsBIlx2Nku1eqIeZs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/header-3ea828e2fee7476096c67e4c3863b37b.jpg
+thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b46385efb03b48baabde0ba89ee.jpg
 ---
 
 ## Unveiling 14 Dynamic Text Animation Samples

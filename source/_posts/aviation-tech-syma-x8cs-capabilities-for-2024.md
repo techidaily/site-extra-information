@@ -1,7 +1,7 @@
 ---
 title: "\"Aviation Tech  Syma X8C's Capabilities for 2024\""
-date: 2024-05-24T10:14:57.084Z
-updated: 2024-05-25T10:14:57.084Z
+date: 2024-07-07T02:23:24.468Z
+updated: 2024-07-08T02:23:24.468Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Aviation Tech: Syma X8C's Capabilities for 2024\""
 excerpt: "\"This Article Describes Aviation Tech: Syma X8C's Capabilities for 2024\""
 keywords: "X8C Aviation,Syma X8C Tech,X8C Avionics,Advanced X8C Flight,Syma X8C Capabilities,X8C Drone Technology,Syma X8C Innovations"
-thumbnail: https://www.lifewire.com/thmb/ET51ABCwWBTletzUuHrK9bZXzl8=/1000x333/filters:no_upscale():max_bytes(150000):strip_icc()/HowTo_Computers-28f36cf9111a4e14aa557ed6c6183653.png
+thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092ccbbf441a17ff63d6863be1.png
 ---
 
 ## Aviation Tech: Syma X8C's Capabilities

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Comprehensive Guide to Implementing and Using High Dynamic Range (Auto HDR) in Windows 11\""
-date: 2024-05-24T11:23:10.923Z
-updated: 2024-05-25T11:23:10.923Z
+date: 2024-07-07T02:23:18.126Z
+updated: 2024-07-08T02:23:18.126Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Comprehensive Guide to Implementing and Using High Dynamic Range (Auto HDR) in Windows 11\""
 excerpt: "\"This Article Describes 2024 Approved: A Comprehensive Guide to Implementing and Using High Dynamic Range (Auto HDR) in Windows 11\""
 keywords: "Auto HDR Guide Win11,HDR Implementation Win11,Implementing HDR Auto Windows,HDR Usage in Windows 11,High Dynamic Range Windows 11,Navigating HDR Features Win11,Auto HDR Settings for Windows 11"
-thumbnail: https://www.lifewire.com/thmb/oHTufqCy4m-EAi0EdF8K11jJiKY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Robot-Painting-b5663366b8394cc8b8d8a0f4b3cec51d.jpg
+thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7fce0bd5f581a2c33f337372.jpg
 ---
 
 ## A Comprehensive Guide to Implementing and Using High Dynamic Range (Auto HDR) in Windows 11

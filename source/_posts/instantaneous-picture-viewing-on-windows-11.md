@@ -1,7 +1,7 @@
 ---
 title: "Instantaneous Picture Viewing on Windows 11"
-date: 2024-05-24T12:29:26.226Z
-updated: 2024-05-25T12:29:26.226Z
+date: 2024-07-07T02:23:19.191Z
+updated: 2024-07-08T02:23:19.191Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Instantaneous Picture Viewing on Windows 11"
 excerpt: "This Article Describes Instantaneous Picture Viewing on Windows 11"
 keywords: "\"Win11 Instant Image,Quick Photo Windows,Real-Time Img View,Rapid Windows Photo,Instant Picture Window,Fast Img on Win11,Windows 11 Photo Load\""
-thumbnail: https://www.lifewire.com/thmb/taSlSBnEIi3_O8dwv0yPwJJw4J0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/472197WhiteiPhone8-7a4a4b02a5a74f44a013cefe0e0db1e3.jpg
+thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116beb3419cf2a3656ee84dbb0.jpg
 ---
 
 ## Instantaneous Picture Viewing on Windows 11

@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling Aerial Shots  The Full Potential of MI Drone\""
-date: 2024-05-24T10:38:17.622Z
-updated: 2024-05-25T10:38:17.622Z
+date: 2024-07-07T02:23:22.827Z
+updated: 2024-07-08T02:23:22.827Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Unveiling Aerial Shots: The Full Potential of MI Drone\""
 excerpt: "\"This Article Describes Unveiling Aerial Shots: The Full Potential of MI Drone\""
 keywords: "\"Drones in Aerial Imagery,MI Drone Capabilities,High-Res Drone Photography,Aerial Shots with Drones,Uncovering MI Drone Potential,MI Drone Full Capacity,Exploring MI Drone Aerials\""
-thumbnail: https://www.lifewire.com/thmb/jbamhywtXiyGSlJ3P3Gh1VQ_dkA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/FaceTime-Conference-Call-d68241b6f5914009a7eb2486fddab0e1.jpg
+thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a4452deb2b08eaf2b9d1e47c0a1.jpg
 ---
 
 ## Unveiling Aerial Shots: The Full Potential of MI Drone

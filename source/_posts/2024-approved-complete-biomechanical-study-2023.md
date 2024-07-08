@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Complete Biomechanical Study 2023\""
-date: 2024-05-24T12:42:17.174Z
-updated: 2024-05-25T12:42:17.174Z
+date: 2024-07-07T02:23:17.895Z
+updated: 2024-07-08T02:23:17.895Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Complete Biomechanical Study 2023\""
 excerpt: "\"This Article Describes 2024 Approved: Complete Biomechanical Study 2023\""
 keywords: "BioMechStudy2023,KineticMotionResearch,MotionAnalysisBiology,BiomechanicsAnnual2023,StaticEquilibriumStudy,DynamicJointDynamics,KinetoStatisticalReport"
-thumbnail: https://www.lifewire.com/thmb/SpMYU0MuKnRUeaWgNpEYqCwiAe4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1269829171-e6a4b1b1fb844e2e956d618c61785b93.jpg
+thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc958e44df6b196388e83adbe.jpg
 ---
 
 ## Complete Biomechanical Study 2023

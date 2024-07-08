@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Boost Your Movie Magic  Free Text Animation Basics\""
-date: 2024-05-24T12:28:37.321Z
-updated: 2024-05-25T12:28:37.321Z
+date: 2024-07-07T02:23:25.512Z
+updated: 2024-07-08T02:23:25.512Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Boost Your Movie Magic: Free Text Animation Basics\""
 excerpt: "\"This Article Describes [Updated] Boost Your Movie Magic: Free Text Animation Basics\""
 keywords: "Movie Magic Tips,Film Enchantment Hacks,Cinema Wonders Tricks,Animation Craft Secrets,Visual Effects Essentials,Free Animation Guide,Text Animator Basics"
-thumbnail: https://www.lifewire.com/thmb/9sGbuH-TKWbuB1wIcmBvD76c1rc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/brett-jordan-xdBNTAdqU3A-unsplash-f13102e0cbcc4a99b093cf39e7c806f6.jpg
+thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d46160eaa65e56cf10a03717c28.jpg
 ---
 
 ## Boost Your Movie Magic: Free Text Animation Basics

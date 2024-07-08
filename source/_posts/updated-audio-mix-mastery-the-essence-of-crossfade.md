@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Audio Mix Mastery  The Essence of Crossfade\""
-date: 2024-05-24T10:30:14.226Z
-updated: 2024-05-25T10:30:14.226Z
+date: 2024-07-07T02:23:22.415Z
+updated: 2024-07-08T02:23:22.415Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Audio Mix Mastery: The Essence of Crossfade\""
 excerpt: "\"This Article Describes [Updated] Audio Mix Mastery: The Essence of Crossfade\""
 keywords: "Audio Blending Basics,Mastering Mix Techniques,Crossfade in Music,Sound Level Balancing,Harmonizing Tracks,Beat Transition Skills,Mix Dynamics Principles"
-thumbnail: https://www.lifewire.com/thmb/5q5VAPO1_mABa8lvNdiyg5-xmIs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg
+thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c604ae901531790591bfbc5dab.jpg
 ---
 
 ## Audio Mix Mastery: The Essence of Crossfade

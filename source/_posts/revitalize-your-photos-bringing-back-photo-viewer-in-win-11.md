@@ -1,7 +1,7 @@
 ---
 title: "\"Revitalize Your Photos  Bringing Back Photo Viewer in Win 11\""
-date: 2024-05-24T11:26:03.682Z
-updated: 2024-05-25T11:26:03.682Z
+date: 2024-07-07T02:23:21.827Z
+updated: 2024-07-08T02:23:21.827Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Revitalize Your Photos: Bringing Back Photo Viewer in Win 11\""
 excerpt: "\"This Article Describes Revitalize Your Photos: Bringing Back Photo Viewer in Win 11\""
 keywords: "Win 11 Photo Viewer Revive,Revive Win 11 Photos,Win 11 Restore Images,Bring Back Win 11 Viewers,Photo Viewer Win Fix,Windows 11 Image Restoration,Reinvigorate Win 11 Pics"
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## Revitalize Your Photos: Bringing Back Photo Viewer in Win 11

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Bridging the Gap  From Rgb to Standardized Srgb\""
-date: 2024-05-24T10:43:55.483Z
-updated: 2024-05-25T10:43:55.483Z
+date: 2024-07-07T02:23:14.824Z
+updated: 2024-07-08T02:23:14.824Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Bridging the Gap: From Rgb to Standardized Srgb\""
 excerpt: "\"This Article Describes [New] Bridging the Gap: From Rgb to Standardized Srgb\""
 keywords: "Enhance MP4 Video Quality,SRT for HD Improvement,Upgrade Video Transcoding,Optimize Video Files,Boost MP4 Streaming,Superior Video Conversion,Advanced Video Retranscription"
-thumbnail: https://www.lifewire.com/thmb/6m4V32FVkdApab0nrZaq4q46cMo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/hbomaxmultipledevices-e46a87818ef24774b063d1bad3eb7000.jpg
+thumbnail: https://thmb.techidaily.com/8bb1efcd08c2d3c3707b37b1d9ac64c15c4d68acde1a08c23a7f1acea10d7dc6.jpg
 ---
 
 ## Bridging the Gap: From Rgb to Standardized Srgb

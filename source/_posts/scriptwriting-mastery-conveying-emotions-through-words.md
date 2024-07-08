@@ -1,7 +1,7 @@
 ---
 title: "\"Scriptwriting Mastery  Conveying Emotions Through Words\""
-date: 2024-05-24T10:48:11.871Z
-updated: 2024-05-25T10:48:11.871Z
+date: 2024-07-07T02:23:17.915Z
+updated: 2024-07-08T02:23:17.915Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Scriptwriting Mastery: Conveying Emotions Through Words\""
 excerpt: "\"This Article Describes Scriptwriting Mastery: Conveying Emotions Through Words\""
 keywords: "ScriptEmotionTips,WordBasedFeelings,WritingImpactfulEmotions,EmotionalScriptingStrategies,WordsEvokeEmotions,FictionFeelingConveyance,ScriptsWithEmotionTechniques"
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## Scriptwriting Mastery: Conveying Emotions Through Words

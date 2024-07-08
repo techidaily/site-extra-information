@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Hacker's Guide to Scoring Cool Images at Pexels\""
-date: 2024-05-24T10:48:29.729Z
-updated: 2024-05-25T10:48:29.729Z
+date: 2024-07-07T02:23:21.878Z
+updated: 2024-07-08T02:23:21.878Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Hacker's Guide to Scoring Cool Images at Pexels\""
 excerpt: "\"This Article Describes 2024 Approved: A Hacker's Guide to Scoring Cool Images at Pexels\""
 keywords: "\"Hacking Cool Pexels Img,Pexels Image Collection,Cool Photos for Hackers,Pexels Score High-Res Pic,Hacks: Pexels Unique Shots,Easy Hacks: Pexels Images,Crafty Hacker Pexels Folder\""
-thumbnail: https://www.lifewire.com/thmb/VchxSz7CYi1Jqs_eYyopTIegZes=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-557696737-5c18f24146e0fb000185d88e.jpg
+thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e12422de4ab2672dba23567f.jpg
 ---
 
 ## A Hacker's Guide to Scoring Cool Images at Pexels

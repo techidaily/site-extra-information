@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Autonomous Exposure Control  The Magic Behind Auto and Smart HDR\""
-date: 2024-05-24T11:54:45.286Z
-updated: 2024-05-25T11:54:45.286Z
+date: 2024-07-07T02:23:15.206Z
+updated: 2024-07-08T02:23:15.206Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Autonomous Exposure Control: The Magic Behind Auto and Smart HDR\""
 excerpt: "\"This Article Describes In 2024, Autonomous Exposure Control: The Magic Behind Auto and Smart HDR\""
 keywords: "AutoHDRControl,HDRAutoMagic,SmartExpoControl,HDRSmartTechnology,AutonomousHDR,ExposureAutoMagic,HDRAutomaticTech"
-thumbnail: https://www.lifewire.com/thmb/fglQbPvp_9RtlOLpfs07tFE5g3U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-zoom-down-or-is-it-you-4802086-f3ab10eb11874291adac62d146e14e94.jpg
+thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf1634f1f32732c80e0c8c7aa.jpg
 ---
 
 ## Autonomous Exposure Control: The Magic Behind Auto and Smart HDR

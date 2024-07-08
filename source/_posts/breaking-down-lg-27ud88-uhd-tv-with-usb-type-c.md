@@ -1,7 +1,7 @@
 ---
 title: "\"Breaking Down LG 27UD88-UHD TV with USB Type-C\""
-date: 2024-05-24T10:49:08.764Z
-updated: 2024-05-25T10:49:08.764Z
+date: 2024-07-07T02:23:22.764Z
+updated: 2024-07-08T02:23:22.764Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Breaking Down LG 27UD88-UHD TV with USB Type-C\""
 excerpt: "\"This Article Describes Breaking Down LG 27UD88-UHD TV with USB Type-C\""
 keywords: "\"LG UHD 27-Inch USB CTV,Breaking LG UHD TV USB C,UHD LG 27 USB Type-C TV,LG UHD 27U88 USB TV,UHD Smart TV LG USB-C,USB-C LG 27 Ultra HD TV,Breakdown LG UHD 27-Inch Type C\""
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Breaking Down LG 27UD88-UHD TV with USB Type-C

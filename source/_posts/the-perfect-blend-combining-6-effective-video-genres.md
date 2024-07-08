@@ -1,7 +1,7 @@
 ---
 title: "\"The Perfect Blend  Combining 6 Effective Video Genres\""
-date: 2024-05-24T11:03:04.834Z
-updated: 2024-05-25T11:03:04.834Z
+date: 2024-07-07T02:23:13.638Z
+updated: 2024-07-08T02:23:13.638Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Perfect Blend: Combining 6 Effective Video Genres\""
 excerpt: "\"This Article Describes The Perfect Blend: Combining 6 Effective Video Genres\""
 keywords: "\"Video Genre Blends,Effective Vids,Hybrid Video Formats,Mixed-Genre Videos,Essential Video Types,Top Video Categories,Dynamic Video Mixes\""
-thumbnail: https://www.lifewire.com/thmb/ffNLpc-c3s41hXlKLIHluWIm158=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed3-811dc04ac827434a8a7e6390258c8ae1.png
+thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e19134ef2ba8ba5fe989f296bf0b.png
 ---
 
 ## The Perfect Blend: Combining 6 Effective Video Genres

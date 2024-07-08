@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Focus with Bigger YouTube Videos"
-date: 2024-05-24T11:07:30.058Z
-updated: 2024-05-25T11:07:30.058Z
+date: 2024-07-07T02:23:13.926Z
+updated: 2024-07-08T02:23:13.926Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Enhancing Focus with Bigger YouTube Videos"
 excerpt: "This Article Describes Enhancing Focus with Bigger YouTube Videos"
 keywords: "\"Video Length Boost,Improve Concentration,Large-Screen Viewing,Enhanced Focus Effects,Engaging Video Content,Longer Videos Attention,Increase YouTube Impact\""
-thumbnail: https://www.lifewire.com/thmb/-ZARcWaSJKgfS2il1HTTeuwPDGY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-705002115Smaller-59a917ba396e5a001037e595.jpg
+thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf37286ae295fb39576034b13a.jpg
 ---
 
 ## Enhancing Focus with Bigger YouTube Videos
@@ -52,7 +52,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
@@ -90,7 +90,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 

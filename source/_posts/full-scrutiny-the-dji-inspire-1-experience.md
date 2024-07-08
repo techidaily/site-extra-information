@@ -1,7 +1,7 @@
 ---
 title: "\"Full Scrutiny  The DJI Inspire 1 Experience\""
-date: 2024-05-24T10:47:55.117Z
-updated: 2024-05-25T10:47:55.117Z
+date: 2024-07-07T02:23:19.169Z
+updated: 2024-07-08T02:23:19.169Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Full Scrutiny: The DJI Inspire 1 Experience\""
 excerpt: "\"This Article Describes Full Scrutiny: The DJI Inspire 1 Experience\""
 keywords: "\"DJI Inspire 1 Review,Drone Photography Basics,DJI Aerial Camera Tests,Professional Drone Use,Advanced Drone Tech Overview,In-Depth DJI Insight,Unboxing DJI Inspire 1\""
-thumbnail: https://www.lifewire.com/thmb/qIPslcG1hccE_LMoJgPazQCItec=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/loomie-avatar-edits-android-4b07951fdc614df9855d7d37faa88785.png
+thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e6750d98eb4741caabcbcd92e96.png
 ---
 
 ## Full Scrutiny: The DJI Inspire 1 Experience

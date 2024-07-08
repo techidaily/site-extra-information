@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Bygone Brilliance  Art Beyond Intellectual Property\""
-date: 2024-05-24T11:28:35.845Z
-updated: 2024-05-25T11:28:35.845Z
+date: 2024-07-07T02:23:20.646Z
+updated: 2024-07-08T02:23:20.646Z
 tags: 
   - screen-recording
   - ai video
@@ -113,7 +113,7 @@ In addition, most of the photos on the Flickr Commons library are listed with **
 
 Although Google search is the most popular resource for royalty-free art, there are specific public domain art search engines to help you find exactly what you need. Here are a few of them to consider.
 
-### 1\. [Artvee.com](https://artvee.com/)
+### 1\. Artvee.com
 
 ![artvee com](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-5.jpg)
 
@@ -121,7 +121,7 @@ Artvee.com is a public domain art search engine that specializes in classical ar
 
 In addition, Artvee.com offers you keyword suggestions depending on user popularity. Alternatively, you can use the Artists tab to locate classical art by specific painters, including Claude Monet and Vincent Van Gogh. Furthermore, you do not need to register an account to use the service. You only need to enter the URL in your browser, narrow down the results using keywords and click download.
 
-### 2\. [Museo](https://museo.app/)
+### 2\. Museo
 
 ![museo](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-6.jpg)
 
@@ -232,7 +232,7 @@ In addition, most of the photos on the Flickr Commons library are listed with **
 
 Although Google search is the most popular resource for royalty-free art, there are specific public domain art search engines to help you find exactly what you need. Here are a few of them to consider.
 
-### 1\. [Artvee.com](https://artvee.com/)
+### 1\. Artvee.com
 
 ![artvee com](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-5.jpg)
 
@@ -240,7 +240,7 @@ Artvee.com is a public domain art search engine that specializes in classical ar
 
 In addition, Artvee.com offers you keyword suggestions depending on user popularity. Alternatively, you can use the Artists tab to locate classical art by specific painters, including Claude Monet and Vincent Van Gogh. Furthermore, you do not need to register an account to use the service. You only need to enter the URL in your browser, narrow down the results using keywords and click download.
 
-### 2\. [Museo](https://museo.app/)
+### 2\. Museo
 
 ![museo](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-6.jpg)
 

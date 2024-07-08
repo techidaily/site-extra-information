@@ -1,7 +1,7 @@
 ---
 title: "Quick Tips for Overcoming Adobe Premiere's SRT Export Issues"
-date: 2024-05-24T10:57:56.291Z
-updated: 2024-05-25T10:57:56.291Z
+date: 2024-07-07T02:23:13.658Z
+updated: 2024-07-08T02:23:13.658Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Quick Tips for Overcoming Adobe Premiere's SRT Export Issues"
 excerpt: "This Article Describes Quick Tips for Overcoming Adobe Premiere's SRT Export Issues"
 keywords: "Srt Export Help,Premiere SRT Fix,Quick Srt Solution,Srt Save Tips,Adobe Srt Troubleshoot,Overcome Export Srt,Efficient Srt in Premiere"
-thumbnail: https://www.lifewire.com/thmb/o7l_Dn7Ptjx09bR0D-TWUViQhpU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Neurons-c0191b68778e4529a26a159c12733ed9.jpg
+thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212abb381c555dc4e79829ce23.jpg
 ---
 
 ## Quick Tips for Overcoming Adobe Premiere's SRT Export Issues

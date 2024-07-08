@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Video Cuts  The Essential Guide for Windows 11 Users\""
-date: 2024-05-24T11:44:09.989Z
-updated: 2024-05-25T11:44:09.989Z
+date: 2024-07-07T02:23:21.337Z
+updated: 2024-07-08T02:23:21.337Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Video Cuts: The Essential Guide for Windows 11 Users\""
 excerpt: "\"This Article Describes Mastering Video Cuts: The Essential Guide for Windows 11 Users\""
 keywords: "Video Editing Tips (W11),Win11 Cut Mastery,Effective Video Trims,Windows Cut Techniques,W11 Video Cuts Guide,Proficient Video Edits,Streamline Video Transitions"
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## Mastering Video Cuts: The Essential Guide for Windows 11 Users

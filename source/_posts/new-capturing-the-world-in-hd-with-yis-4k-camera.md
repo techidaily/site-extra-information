@@ -1,7 +1,7 @@
 ---
 title: "[New] Capturing the World in HD with YI's 4K Camera"
-date: 2024-05-24T10:43:59.950Z
-updated: 2024-05-25T10:43:59.950Z
+date: 2024-07-07T02:23:19.091Z
+updated: 2024-07-08T02:23:19.091Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Capturing the World in HD with YI's 4K Camera"
 excerpt: "This Article Describes [New] Capturing the World in HD with YI's 4K Camera"
 keywords: "\"HD High-Res Imaging,4K Video Capture,Yi Drone Photography,Ultra-HD Aerial Footage,Detailed World Scanning,Premium Quality Cinematography,Advanced 4K Aerials\""
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Capturing the World in HD with YI's 4K Camera

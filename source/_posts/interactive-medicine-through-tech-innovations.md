@@ -1,7 +1,7 @@
 ---
 title: "Interactive Medicine Through Tech Innovations"
-date: 2024-05-24T12:22:58.762Z
-updated: 2024-05-25T12:22:58.762Z
+date: 2024-07-07T02:23:14.929Z
+updated: 2024-07-08T02:23:14.929Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Interactive Medicine Through Tech Innovations"
 excerpt: "This Article Describes Interactive Medicine Through Tech Innovations"
 keywords: "\"MedTech Interaction,Tech in Healthcare,Digital Medicine,Medical Technology,Innovative Health,Patient-Centric Tech,Tech Revolution in Medicine\""
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## Interactive Medicine Through Tech Innovations

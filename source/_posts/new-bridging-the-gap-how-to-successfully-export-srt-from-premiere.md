@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Bridging the Gap  How to Successfully Export SRT From Premiere\""
-date: 2024-05-24T12:27:03.705Z
-updated: 2024-05-25T12:27:03.705Z
+date: 2024-07-07T02:23:16.778Z
+updated: 2024-07-08T02:23:16.778Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Bridging the Gap: How to Successfully Export SRT From Premiere\""
 excerpt: "\"This Article Describes [New] Bridging the Gap: How to Successfully Export SRT From Premiere\""
 keywords: "Srt Export Guide,Premiere Srt Export,SRT Exporting Tips,Bridge Srt in Premiere,SRT Conversion Steps,Successful Srt Export,Premiere to SRT Conversion"
-thumbnail: https://www.lifewire.com/thmb/Xx8MZlS4QS9KGvb8ZuSVztsqNrQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab52940ff719d4e3de086cc546e4e.jpg
 ---
 
 ## Bridging the Gap: How to Successfully Export SRT From Premiere
