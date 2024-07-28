@@ -104,28 +104,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/making-photos-dance-dynamic-distortions-with-ps/"><u>Making Photos Dance  Dynamic Distortions with PS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-apply-photo-motion-blur-in-adobe-photoshop/"><u>In 2024, Apply Photo Motion Blur in Adobe Photoshop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-box-it-up-the-top-10-online-houses-for-customized-gift-boxes/"><u>[New] Box It Up! The Top 10 Online Houses for Customized Gift Boxes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pinnacle-plotlines-defining-theatrical-success/"><u>Pinnacle Plotlines Defining Theatrical Success</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-5-best-4k-monitors-color-grading/"><u>[New] 5 Best 4K Monitors Color Grading</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-technicality-of-srgb-vs-rgb/"><u>The Technicality of Srgb vs Rgb</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-unveiling-of-picsart-complete-users-guide/"><u>Full Unveiling of PicsArt  Complete User's Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-choices-17-high-performance-tools-to-tidy-photos/"><u>Elite Choices  17 High-Performance Tools to Tidy Photos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/classic-comedy-time-machine-the-goofy-tape-journey-for-2024/"><u>Classic Comedy Time Machine  The Goofy Tape Journey for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-rhythm-revelations-audio-and-actors-dance/"><u>2024 Approved  Rapid Rhythm Revelations  Audio and Actors' Dance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts-for-2024/"><u>Transform Every Moment  Top Tasks to Master While Listening to Your Favorite Podcasts for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nokia-c300-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nokia C300 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-effortless-conversion-a-step-by-step-guide-to-youtube-mp3-converters/"><u>New In 2024, Effortless Conversion A Step-by-Step Guide to YouTube MP3 Converters</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-optimizing-video-capture-with-mov-on-windows-10/"><u>In 2024, Optimizing Video Capture with MOV on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-x-flip-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo X Flip Phones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Motorola Moto G24</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-p55-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel P55 5G</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

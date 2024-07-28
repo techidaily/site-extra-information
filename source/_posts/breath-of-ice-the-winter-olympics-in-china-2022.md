@@ -104,26 +104,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/chasing-deals-on-vr-gear-in-china-for-2024/"><u>Chasing Deals on VR Gear in China for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphone-photo-wizards-perfecting-silhouette-art/"><u>IPhone Photo Wizards  Perfecting Silhouette Art</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-auditory-artistry-in-radio-plays/"><u>[New] Auditory Artistry in Radio Plays</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-photo-treasury-in-the-cloud-free-and-paid-storage-for-everyone/"><u>Elevate Your Photo Treasury in the Cloud  Free & Paid Storage for Everyone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-photo-dynamics-mastering-adobe-illustrator-blurs/"><u>Unleash Photo Dynamics  Mastering Adobe Illustrator Blurs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplifying-windows-11-sound-logging/"><u>Simplifying Windows 11 Sound Logging</u></a></li>
-<li><a href="https://extra-information.techidaily.com/affordable-aethervault-substantial-file-safekeeping-for-2024/"><u>Affordable AetherVault  Substantial File Safekeeping for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-pics-advanced-techniques-for-editing-photo-text/"><u>Elevate Your Pics  Advanced Techniques for Editing Photo Text</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-favorites-top-10-tiktok-vids-for-2024/"><u>[New] Twitter's Favorites  Top 10 TikTok Vids for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-poco-c55-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Poco C55 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-tecno-pova-6-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Tecno Pova 6 Pro 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-changing-tactics-to-record-high-stakes-gameplay/"><u>2024 Approved  Game-Changing Tactics to Record High-Stakes Gameplay</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-tiktok-shadowban-how-to-get-unshadowbanned-on-tiktok2/"><u>[Updated] 2024 Approved  TikTok Shadowban  How to Get Unshadowbanned on Tiktok2</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-frequencies-in-podcast-launches/"><u>In 2024, Ideal Frequencies in Podcast Launches</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-cutting-edge-in-live-event-streaming-tech/"><u>2024 Approved  The Cutting Edge in Live Event Streaming Tech</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
