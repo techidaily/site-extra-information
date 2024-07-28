@@ -1,7 +1,7 @@
 ---
 title: "How to Fade Music on Windows/Mac"
-date: 2024-05-24T11:20:57.629Z
-updated: 2024-05-25T11:20:57.629Z
+date: 2024-07-27T02:38:58.760Z
+updated: 2024-07-28T02:38:58.760Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Fade Music on Windows/Mac"
 excerpt: "This Article Describes How to Fade Music on Windows/Mac"
 keywords: "Fading Audio Windows,Music Volume Reduction Mac,Soft Music Lowering,PC/Mac Sound Dimming,Quieten Playlists Windows,Dampening System Sounds Mac,Subtle Audio Tone Change"
-thumbnail: https://www.lifewire.com/thmb/5iiyA3OtExT_oDcaJBE2OE5qbBA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-172697480-58d0c4bb3df78c3c4f2df865.jpg
+thumbnail: https://thmb.techidaily.com/df6d6f7af97a6f2a263dcbc0519760a864ba0996ca5b9b75ea6d971b44c71c22.jpg
 ---
 
 ## How to Fade Music on Windows/Mac
@@ -38,10 +38,16 @@ However, it sometimes happens that the professionally composed music might not s
 
 * [How to Fade Music Online](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. How to Fade Music on Windows PC
 
 The term fades in and fades out music effect might sound very professional and out of reach of most struggling musicians. However, it is not the same. Anybody with a proficient sense of music and a pair of ears to judge whether the tune sounds soothing or not can easily use these musical effects on their systems. If you have a Windows PC at your place, it might be handy for adding the Fade in and out effect to your songs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Way 1 - Fade music on PC with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for applications to edit your audio file most professionally, the [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) might be the right option. It has vibrant music effects, ease of use functions, accessible interfaces, etc. The way in which Filmora enacts everything is so easy that even a new user of the application would not face many problems in adding **Fade out music** options at once. If you are yet confused about how to add such suitable effects to your audio files, then the following steps might be of great help to you:
@@ -60,16 +66,25 @@ If you are looking for applications to edit your audio file most professionally,
 
 ![adjust fade music effect](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2 - Use Audacity to Fade Audio
 
 Yet another fantastic option for adding fade music effects on the audio files is none other than using Audacity. It is a similar music editing application that almost everyone can use according to their convenience. Such apps entirely depend on what piece and purpose you want to utilize. If you are a PC user and want to utilize Audacity facilities, then the following steps might be helpful to you:
 
 1. Select or highlight the audio file you want to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select audio file audacity](https://images.wondershare.com/filmora/article-images/2022/07/select-audio-file-audacity.jpg)
 
 1. Go to the effect menu and spot the Fade in or fade-out option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/choose-fade-out-audacity.jpg)
 
 1. Use the effects by dragging the slider on the audio file to get the desired fade music result.
@@ -88,6 +103,13 @@ iMovie is the official platform that 90% of MAC users use to edit audio files an
 
 1. Once upon choosing the portion, you will notice the fade handles. Drag the handles to the beginning for Fade in effect and the opposite in the other end.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![fade music in imovie](https://images.wondershare.com/filmora/article-images/2022/07/fade-music-in-imovie.jpg)
 
 ### Way 2 - Use Apple Music App to Fade Audio
@@ -98,10 +120,16 @@ One of the best apps for Apple MAC users for editing soundtracks is none other t
 2. The settings page would let you add the necessary audio file from your device to the editing platform at once.
 3. You can enable the crossfade option from the menu box in the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple music fade audio](https://images.wondershare.com/filmora/article-images/2022/07/apple-music-fade-audio.jpg)
 
 1. It would lead you to another page on Apple music where you can enable the automatic option for the app to edit the file by adding fade music effects, or you can manually do it all by yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to Fade Music Online
 
 If you think you would have to take the help of any of the above platforms to get your desired Fade in and fade-out effect on the soundtracks, then you are under a misconception. Cleo is one of the online platforms which you can directly use from your browser to **fade out music online**. However, it might confuse the rookie users in the initial stages; with each passing day, they would be able to work on the suitable outcomes from video in no time. The following steps might come in handy:
@@ -131,12 +159,18 @@ If you are looking for applications to edit your audio file most professionally,
 
 1. You can search for the location of the audio file from your system and import it to Filmora for the edits.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import audio file to filmora](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 1. In the next step, you must click on the audio file and go to the animation tab to find the preset button.
 2. Upon expanding the options, you could find fade music options in different types.
 3. At last, you must choose a particular fading effect and drag the slider on the audio file to adjust the fade music effect accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![adjust fade music effect](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ### Way 2 - Use Audacity to Fade Audio
@@ -145,6 +179,9 @@ Yet another fantastic option for adding fade music effects on the audio files is
 
 1. Select or highlight the audio file you want to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select audio file audacity](https://images.wondershare.com/filmora/article-images/2022/07/select-audio-file-audacity.jpg)
 
 1. Go to the effect menu and spot the Fade in or fade-out option.
@@ -177,10 +214,17 @@ One of the best apps for Apple MAC users for editing soundtracks is none other t
 2. The settings page would let you add the necessary audio file from your device to the editing platform at once.
 3. You can enable the crossfade option from the menu box in the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![apple music fade audio](https://images.wondershare.com/filmora/article-images/2022/07/apple-music-fade-audio.jpg)
 
 1. It would lead you to another page on Apple music where you can enable the automatic option for the app to edit the file by adding fade music effects, or you can manually do it all by yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Part 3\. How to Fade Music Online
 
 If you think you would have to take the help of any of the above platforms to get your desired Fade in and fade-out effect on the soundtracks, then you are under a misconception. Cleo is one of the online platforms which you can directly use from your browser to **fade out music online**. However, it might confuse the rookie users in the initial stages; with each passing day, they would be able to work on the suitable outcomes from video in no time. The following steps might come in handy:
@@ -216,3 +260,42 @@ Adding fade music effects is not only about making money or trying to add spine 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-capture-and-preserve-sound-on-windows-10/"><u>[New] Capture and Preserve Sound on Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-studio-exploration-in-depth-xvideoexamine/"><u>[New] Complete Studio Exploration  In-Depth XVideoExamine</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exhaustive-explanation-unveiling-the-google-podcasts-app/"><u>[New] Exhaustive Explanation  Unveiling the Google Podcasts App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-launch-strategies-for-fb-generosity-campaigns/"><u>[New] Launch Strategies for FB Generosity Campaigns</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-top-tier-smartphone-and-dslr-camera-gimbals-compared/"><u>[Updated] 10 Top-Tier Smartphone & DSLR Camera Gimbals Compared</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-download-friends-8-top-rated-free-fb-extractors/"><u>[Updated] 2024 Approved  Download Friends  8 Top-Rated Free FB Extractors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-can-a-64gb-drive-manage-large-video-files/"><u>[Updated] Can a 64GB Drive Manage Large Video Files?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-preview-control-essentials-for-mac-users/"><u>[Updated] Complete Preview Control Essentials for Mac Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-interactivity-tips-for-hosting-splitting-screen-events-on-facebook/"><u>[Updated] In 2024, Enhancing Interactivity  Tips for Hosting Splitting-Screen Events on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-mac-screenshots-and-screen-recording-for-2024/"><u>[Updated] Mastering Mac Screenshots & Screen Recording for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-battle-ultrawide-vs-uhd-4k-display-options/"><u>[Updated] The Ultimate Battle  UltraWide vs UHD 4K Display Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audience-friendly-audio-fades-practices-in-audacity/"><u>2024 Approved  Audience-Friendly Audio Fades  Practices in Audacity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-pop-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Pop 8 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-rapid-ways-to-access-obliviated-reddit-content-for-2024/"><u>5 Rapid Ways to Access Obliviated Reddit Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apple-music-enhancement-for-exquisite-videos/"><u>Apple Music Enhancement for Exquisite Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audacitys-blueprint-for-high-fidelity-sound-recording/"><u>Audacity's Blueprint for High-Fidelity Sound Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audio-integration-into-visual-screens-via-apple-for-2024/"><u>Audio Integration Into Visual Screens via Apple for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/authority-list-top-10-sports-and-football-streaming-applications-cutting-edge-for-2024/"><u>Authority List  Top 10 Sports & Football Streaming Applications, Cutting Edge for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/can-photoshops-image-smoothing-revolutionize-editing-in-2024/"><u>Can Photoshop’s Image Smoothing Revolutionize Editing, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquer-color-with-pro-techniques-in-photography/"><u>Conquer Color with Pro Techniques in Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-self-closure-in-windows-os/"><u>Eliminating Self-Closure in Windows OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/highlighted-14-examples-of-motion-texts/"><u>Highlighted 14 Examples of Motion Texts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-g23-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Moto G23 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beat-explorers-guide-online-pulse-sensors/"><u>In 2024, Beat Explorers’ Guide  Online Pulse Sensors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-x6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco X6 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/investigating-the-realm-of-virtual-sticker-decoration/"><u>Investigating the Realm of Virtual Sticker Decoration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lens-legends-top-six-selecting-high-quality-4k-dslrs/"><u>Lens Legends' Top Six  Selecting High-Quality 4K DSLRs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-filmmakers-dilemma-in-filmora/"><u>Navigating the Filmmaker's Dilemma in Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/storyboard-sovereignty-ranking-the-premier-schools-1-8-for-2024/"><u>Storyboard Sovereignty  Ranking the Premier Schools (#1-#8) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stunning-celestinas-and-skies-online-directory/"><u>Stunning Celestinas and Skies Online Directory</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swift-image-adaptation-techniques-for-iphone-users/"><u>Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-game-changer-how-to-optimize-your-fb-giveaway-posts/"><u>The Game-Changer  How to Optimize Your FB Giveaway Posts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-vr-fitness-treadmills/"><u>The Ultimate Guide to VR Fitness Treadmills</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tactical-choices-for-future-cameras-2024/"><u>Top Tactical Choices for Future Cameras, 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-13-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 13</u></a></li>
+</ul></div>

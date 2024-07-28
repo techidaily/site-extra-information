@@ -1,7 +1,7 @@
 ---
 title: "\"A Guide to Creative Use of Supplementary Footage (B-Roll)\""
-date: 2024-05-24T11:00:40.790Z
-updated: 2024-05-25T11:00:40.790Z
+date: 2024-07-27T02:02:54.442Z
+updated: 2024-07-28T02:02:54.442Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Guide to Creative Use of Supplementary Footage (B-Roll)\""
 excerpt: "\"This Article Describes A Guide to Creative Use of Supplementary Footage (B-Roll)\""
 keywords: "\"B-Roll SEO,Creativity in Editing,Film Supplements Tips,Efficient Video Editing,Enhancing Media Content,Seo for Filmmaking,Supplementary Footage Guide\""
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## A Guide to Creative Use of Supplementary Footage (B-Roll)
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +35,10 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -44,14 +51,29 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
@@ -60,6 +82,9 @@ B roll footage can be used to tell a story that supports the narrative of your v
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
@@ -110,3 +135,37 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-a-friendly-tour-how-to-join-and-chill-with-peers-live-on-tiktok/"><u>[New] 2024 Approved  A Friendly Tour  How To Join and Chill with Peers Live on TikTok</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boosting-patient-engagement-through-fb-health-ads/"><u>[New] Boosting Patient Engagement Through FB Health Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-build-a-facebook-image-tapestry-fast/"><u>[New] Build a Facebook Image Tapestry Fast</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-building-an-instagram-empire-in-just-nine-simple-steps/"><u>[Updated] Building an Instagram Empire in Just Nine Simple Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-charting-the-course-a-graphic-designers-blueprint-to-progress/"><u>[Updated] Charting the Course  A Graphic Designer's Blueprint to Progress</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-tiktok-twitter-syncing-method-for-2024/"><u>[Updated] The Ultimate TikTok-Twitter Syncing Method for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-vlog-heroes-the-best-video-capturers-unveiled-for-2024/"><u>[Updated] VLog Heroes  The Best Video Capturers Unveiled for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/10-secrets-to-sizzling-unboxing-reels-on-social-media/"><u>10 Secrets to Sizzling Unboxing Reels on Social Media</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-best-online-photo-background-changers-filmora/"><u>2024 Approved  10 Best Online Photo Background Changers - Filmora</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-androids-top-choice-does-pickup-beat-other-photo-editors/"><u>2024 Approved  Android's Top Choice  Does PickUp Beat Other Photo Editors?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-core-6-social-media-tools-for-corporate-engagement/"><u>2024 Approved  Core 6 Social Media Tools for Corporate Engagement</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-recommended-6-best-music-video-apps-on-android/"><u>2024 Approved  Recommended  6 Best Music Video Apps on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamlessly-integrate-zoom-into-your-life-via-windows-10/"><u>2024 Approved  Seamlessly Integrate Zoom Into Your Life via Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/appreciation-showcase-easy-access-to-otus/"><u>Appreciation Showcase  Easy Access to OTUs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chronology-on-camera-best-practices-for-date-insertion-for-2024/"><u>Chronology on Camera  Best Practices for Date Insertion for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-lookup-experience-the-world-in-virtual-reality/"><u>Comprehensive Lookup  Experience the World in Virtual Reality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dual-method-strategies-boosting-tiktok-visibility/"><u>Dual-Method Strategies  Boosting TikTok Visibility</u></a></li>
+<li><a href="https://extra-information.techidaily.com/epochal-storytelling-shaping-cinemas-best-hours/"><u>Epochal Storytelling Shaping Cinema's Best Hours</u></a></li>
+<li><a href="https://extra-information.techidaily.com/first-flight-fun-best-easy-to-use-drones/"><u>First Flight Fun  Best Easy-to-Use Drones</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-edit-drone-videos/"><u>How to Edit Drone Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-s23-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy S23 online without jailbreak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-smart-8-plus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Smart 8 Plus Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-video-conversions-moving-from-basic-sdr-to-vivid-hdr/"><u>Mastering Video Conversions  Moving From Basic SDR to Vivid HDR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/media-streamlining-is-a-podcast-or-youtube-better-for-you/"><u>Media Streamlining  Is a Podcast or YouTube Better for You?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-vivacut-video-editing-insights-for-2024/"><u>Navigating the World of VivaCut Video Editing - Insights for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precise-guide-to-navigating-adobe-cloud-then-comparing-other-methods/"><u>Precise Guide to Navigating Adobe Cloud, Then Comparing Other Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-sharing-tips-keeping-gh-conversations/"><u>Screen Sharing Tips  Keeping GH Conversations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamlining-sound-recording-a-filmmakers-handbook-on-voice-overs-for-2024/"><u>Streamlining Sound Recording  A Filmmaker's Handbook on Voice-Overs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Cinema Chronicles  The Quintessential Cinematographic Tips for '24 for 2024\""
-date: 2024-05-24T10:28:55.844Z
-updated: 2024-05-25T10:28:55.844Z
+date: 2024-07-27T01:07:01.673Z
+updated: 2024-07-28T01:07:01.673Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Cinema Chronicles: The Quintessential Cinematographic Tips for '24 for 2024\""
 excerpt: "\"This Article Describes Cinema Chronicles: The Quintessential Cinematographic Tips for '24 for 2024\""
 keywords: "FilmTip24Chronicles,CinemaTricks24,VideographyBasics24,MovieMakingGuides24,CinematicHacks24,DirectingSecrets24,EditingEssentials24"
-thumbnail: https://www.lifewire.com/thmb/j0d0Ar9quQPUTh0jtS3mJdsArdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-112299678-929bfe9560664c1b9e7d8a6111e3d3dc.jpg
+thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a90dc3d2a15bfc646351df71a.jpg
 ---
 
 ## Cinema Chronicles: The Quintessential Cinematographic Tips for '24
@@ -32,6 +32,9 @@ Still, if you are on a budget, you can use some everyday household objects to ge
 
 Step 1 Attach your phone to the side of a door using duct tape or any strong tape that can hold your phone and not let it fall.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![smooth camera movement](https://images.wondershare.com/filmora/article-images/2022/12/smooth-camera-movement.gif)
 
 Step 2 Now open and close the door to get smooth camera movement.
@@ -96,8 +99,19 @@ Step 5 Put the bulb on the lamp and turn it on the lamp.
 
 Here is a GIF attached for a better understanding of the steps.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### DIY Light Reflector
 
 A reflector is a piece of glass or any reflective surface that can redirect light to a specific spot. For example, use aluminum foil to make a Light Reflector at your home.
@@ -114,6 +128,9 @@ Step 3 Use the reflector to redirect light to your object.
 
 There is a GIF attached below to understand the steps visually.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
 
 ## Tip 3\. DIY Light Diffuser
@@ -136,12 +153,21 @@ Step 3 Use this diffuser to reduce the intensity of light.
 
 For a better understanding of the steps, watch the GIF attached below.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reveal Movement
 
 It is the most famous cinematic Movement used these days. So let's discuss how you can record reveal movement using your phone and a gimbal.
@@ -160,6 +186,9 @@ Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 180° Presentation Movement
 
 This Movement gives the subject a general look and displays more details of the surroundings and the subject.
@@ -176,6 +205,9 @@ Step 3 Move slowly to the other side of the subject while recording.
 
 A sample video attached below shows how to record 180 presentation movements.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
 
 ## Tip 5\. Create a Barrel Roll Shot
@@ -196,6 +228,9 @@ Step 4 Turn on the power drill at low speed and record the barrel roll shot.
 
 The video attached below will help you to understand these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
 
 ## Final Words
@@ -234,3 +269,79 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-efficient-mac-video-resizing-to-fixed-ratio/"><u>[New] 2024 Approved  Efficient Mac Video Resizing to Fixed Ratio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-straightforward-recorder-app-windows/"><u>[New] 2024 Approved  Straightforward Recorder App - Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-techniques-for-professional-looking-ig-video-content/"><u>[New] 2024 Approved  Top Techniques for Professional-Looking IG Video Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-apk-essentials-start-playing-funimate-now/"><u>[New] APK Essentials  Start Playing Funimate Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-becoming-a-pro-at-iphone-hdr-imaging/"><u>[New] Becoming a Pro at iPhone HDR Imaging</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-android-photo-editor-is-pickup-top/"><u>[New] Best Android Photo Editor  Is PickUp Top?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-comparing-streams-vimeo-versus-youtube/"><u>[New] In 2024, Comparing Streams  Vimeo Versus YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-layers-of-cinematic-dialogue-design/"><u>[New] Layers of Cinematic Dialogue Design</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-in-class-business-data-cradle/"><u>[Updated] Best in Class Business Data Cradle</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chromatic-spectrums-captured-a-deep-dive-into-4k-blade-tech/"><u>[Updated] Chromatic Spectrums Captured  A Deep Dive Into 4K Blade Tech</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-conveniently-captivated-by-ifunnys-humor-hub/"><u>[Updated] Conveniently Captivated by iFunny's Humor Hub</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fostering-creativity-the-most-innovative-6-nft-services/"><u>[Updated] Fostering Creativity  The Most Innovative 6 NFT Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-high-quality-srgb-vs-rgb/"><u>[Updated] From Basics to High-Quality  Srgb vs Rgb</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-create-and-combine-high-dynamic-range-photos-with-lightroom-for-2024/"><u>[Updated] How to Create and Combine High Dynamic Range Photos with Lightroom for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-affordable-cloud-keep-optimal-pricing-for-huge-archives/"><u>[Updated] In 2024, Affordable Cloud Keep  Optimal Pricing for Huge Archives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-every-shots-hue-the-essential-11-tutorials-on-color-adjustment/"><u>[Updated] Perfecting Every Shot's Hue  The Essential 11 Tutorials on Color Adjustment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/20-complimentary-luts-available-for-dji-miniair-2-users-for-2024/"><u>20 Complimentary LUTs Available for DJI Mini/Air 2 Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-2023s-finest-top-ps3-game-simulations-for-pc-users/"><u>2024 Approved  2023'S Finest - Top PS3 Game Simulations for PC Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-scenes-how-apples-m1-max-attachments-work/"><u>2024 Approved  Behind-the-Scenes  How Apple’s M1 Max Attachments Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bring-your-images-together-iphone-photo-collages-101/"><u>2024 Approved  Bring Your Images Together  IPhone Photo Collages 101</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-close-up-communication-the-art-of-zoom-on-teams/"><u>2024 Approved  Close-Up Communication  The Art of Zoom on Teams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-comprehensive-guide-to-captioning-for-enhanced-video-impact/"><u>2024 Approved  Comprehensive Guide to Captioning for Enhanced Video Impact</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-conquer-the-canvas-of-nature-mastering-iphone-sky-photography/"><u>2024 Approved  Conquer the Canvas of Nature  Mastering iPhone Sky Photography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715859958186-2024-approved-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>2024 Approved  Essential Game Picks  Ghost of Tsushima Rival Edition!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastery-guide-for-instagrams-favorite-interrogation-icon/"><u>2024 Approved  Mastery Guide for Instagram's Favorite Interrogation Icon</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>2024 Approved  The Power Play  Joining a Music Company Network in the Age of Streaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-why-hdr-triumphs-upgrading-your-video-production-quality/"><u>2024 Approved  Why HDR Triumphs  Upgrading Your Video Production Quality</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a59-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A59 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amusing-tones-bestringeonsite-roundup/"><u>Amusing Tones  Bestringeonsite Roundup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-the-financial-gains-of-podcasting-for-2024/"><u>Analyzing the Financial Gains of Podcasting for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginning-with-windows-10-sound-recording-for-2024/"><u>Beginning with Windows 10 Sound Recording for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/demystifying-the-high-tech-world-of-vr-devices/"><u>Demystifying the High-Tech World of VR Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-top-4k-youtube-converters-for-quality-video-downloads/"><u>Discover the Top 4K YouTube Converters for Quality Video Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/drones-that-follow-innovative-gps-trail-tenders/"><u>Drones That Follow  Innovative GPS Trail Tenders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easy-to-follow-guide-for-crafting-dynamic-collages/"><u>Easy-to-Follow Guide for Crafting Dynamic Collages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exemplar-storyboard-creators-circle/"><u>Exemplar Storyboard Creator's Circle</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2016-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2016</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/friendly-frontier-metaverse-multiplayer-wonders/"><u>Friendly Frontier  Metaverse Multiplayer Wonders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/full-guide-to-vscos-camera-app/"><u>Full Guide to VSCO's Camera App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hdtv-revolution-comparing-the-leading-8k-tv-brands/"><u>HDTV Revolution  Comparing the Leading 8K TV Brands</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-gionee-f3-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Gionee F3 Pro Phone Screen?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2003-run-time-error-1004-by-stellar-guide/"><u>How to Fix Excel 2003 Run Time Error 1004</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blade-chroma-with-4k-camera-review/"><u>In 2024, Blade Chroma with 4K Camera Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-choosing-the-finest-10-free-subtitles-editors-online/"><u>In 2024, Choosing the Finest 10 Free Subtitles Editors Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comedy-crafters-codex-free-to-unleash-humor/"><u>In 2024, Comedy Crafters' Codex  Free to Unleash Humor</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oneplus-ace-2v-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your OnePlus Ace 2V Device SIM</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-a78-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo A78 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-securely-capture-web-series-every-time-you-watch/"><u>In 2024, How to Securely Capture Web Series Every Time You Watch</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-zoom-in-google-meet/"><u>In 2024, How to Zoom In Google Meet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-insider-take-on-tiktoks-15-hottest-tracks/"><u>In 2024, Insider Take on TikTok’s 15 Hottest Tracks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>In 2024, Pioneering Free Convertors  Top 5 Online Apps for GIFs to Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy S24</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>In the Editor's Shadows  Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-analysis-and-methods-with-morphvox-sound-alteration/"><u>In-Depth Analysis and Methods with MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/incor-writes-photo-kinetic-vibrance/"><u>Incor Writes Photo Kinetic Vibrance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-android-photography-tricks-and-tools/"><u>Mastering Android  Photography Tricks & Tools</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>New Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://extra-information.techidaily.com/nine-leading-iphone-image-watermarking-tools-analysis/"><u>Nine Leading iPhone Image Watermarking Tools Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/overview-and-assessment-parrots-advanced-edition/"><u>Overview and Assessment - Parrot's Advanced Edition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-pro-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sharp-cinematic-edge-choosing-the-phone-that-offers-unmatched-video-ois/"><u>Sharp Cinematic Edge  Choosing the Phone that Offers Unmatched Video OIS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stylish-screens-best-free-desktop-imagery/"><u>Stylish Screens  Best Free Desktop Imagery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-perfect-blend-of-style-and-functionality-in-free-macdrawers/"><u>The Perfect Blend of Style & Functionality in Free MacDrawers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-manipulating-image-shapes/"><u>The Ultimate Guide to Manipulating Image Shapes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>Top Streamers Choice  Does VirusMix or WireCast Rule the Game?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-steps-for-turning-pin-videos-into-music-files-for-2024/"><u>Ultimate Steps for Turning Pin Videos Into Music Files for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-creative-potential-garageband-editing-guide/"><u>Unlocking Creative Potential  GarageBand Editing Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/wordsmith-whispers-picks-for-the-best-transcription-programs/"><u>Wordsmith Whispers  Picks for the Best Transcription Programs</u></a></li>
+</ul></div>

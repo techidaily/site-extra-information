@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Altitude Achieved  A Critical Look at GoPro Karma\""
-date: 2024-05-24T12:20:12.734Z
-updated: 2024-05-25T12:20:12.734Z
+date: 2024-07-27T04:24:54.071Z
+updated: 2024-07-28T04:24:54.071Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Altitude Achieved: A Critical Look at GoPro Karma\""
 excerpt: "\"This Article Describes 2024 Approved: Altitude Achieved: A Critical Look at GoPro Karma\""
 keywords: "GoPro Karma Altitudes,Karma Camera Height,GoPro Karma Review,Karma Altitude Limits,High Altitude Karma,Karma Photo Elevation,Examining Karma Altitude"
-thumbnail: https://www.lifewire.com/thmb/8HIWKNUhvbLFKMz_GmdXMI_Q8Z0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Stocksy_txp05cf88357sE100_Medium_993092-58263bfb5f9b58d5b15ceedb.jpg
+thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd29168db916ce8a5c89a69be.jpg
 ---
 
 ## Altitude Achieved: A Critical Look at GoPro Karma
@@ -28,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/8HIWKNUhvbLFKMz_GmdXMI_Q8Z0=/400x300/fi
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -36,6 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/8HIWKNUhvbLFKMz_GmdXMI_Q8Z0=/400x300/fi
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -51,6 +57,9 @@ thumbnail: https://www.lifewire.com/thmb/8HIWKNUhvbLFKMz_GmdXMI_Q8Z0=/400x300/fi
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -93,6 +102,9 @@ thumbnail: https://www.lifewire.com/thmb/8HIWKNUhvbLFKMz_GmdXMI_Q8Z0=/400x300/fi
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -130,6 +142,9 @@ Follow @Max Wales
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -172,6 +187,9 @@ Follow @Max Wales
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -186,6 +204,9 @@ Follow @Max Wales
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -251,6 +272,10 @@ Follow @Max Wales
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -265,6 +290,9 @@ Follow @Max Wales
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -330,6 +358,9 @@ Follow @Max Wales
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -362,3 +393,54 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-masterclass-in-cinematic-viewing-youtube-edition/"><u>[New] 2024 Approved  Masterclass in Cinematic Viewing - YouTube Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pixels-melodic-matches-and-personalization/"><u>[New] 2024 Approved  Pixel's Melodic Matches and Personalization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-blueprinting-breathtaking-cinematic-sketches/"><u>[New] Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chromebook-voice-overhaul-guide-top-5-cloud-vocal-modification-tools-reviewed/"><u>[New] Chromebook Voice Overhaul Guide  Top 5 Cloud Vocal Modification Tools Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-pinnacle-of-bike-gaming-adventures/"><u>[New] The Pinnacle of Bike Gaming Adventures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-doubled-surface-capture-method/"><u>[Updated] 2024 Approved  Doubled Surface Capture Method</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[Updated] 2024 Approved  Glamour Unleashed  Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>[Updated] 2024 Approved  Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boosting-creativity-the-most-outstanding-free-slide-show-templates/"><u>[Updated] Boosting Creativity  The Most Outstanding Free Slide Show Templates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bringing-text-to-life-dynamic-animated-content-on-ig-stories/"><u>[Updated] Bringing Text to Life  Dynamic Animated Content on IG Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-most-effective-7-apps-for-blocking-android-web-ads/"><u>[Updated] The Most Effective 7 Apps for Blocking Android Web Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-acclaimed-ai-artistic-editor/"><u>2024 Approved  Acclaimed AI Artistic Editor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-capture-mastery-in-windows-10/"><u>2024 Approved  Audio Capture Mastery in Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-capturing-sounds-audacity-tutorial-for-mac-users/"><u>2024 Approved  Capturing Sounds  Audacity Tutorial for Mac Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-perfect-srt-output-with-premiere-pro/"><u>2024 Approved  Crafting Perfect SRT Output with Premiere Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-metacores-finest-vr-headsets-and-eyewear-guide/"><u>2024 Approved  Metacore's Finest VR Headsets and Eyewear Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-11-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 11 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-s23-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy S23 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8-superb-tablet-titans-to-take-your-photo-editing-skills-further-for-2024/"><u>8 Superb Tablet Titans to Take Your Photo Editing Skills Further for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-beginners-primer-on-virtual-reality-concepts/"><u>A Beginner's Primer on Virtual Reality Concepts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-choosing-win-compatible-drawing-software/"><u>A Guide to Choosing Win-Compatible Drawing Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advancing-beyond-vp9-a-look-at-av1/"><u>Advancing Beyond VP9  A Look at AV1</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-power-to-replay-film-slices-for-2024/"><u>Android's Power to Replay Film Slices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-visual-and-auditory-composition-with-custom-filters-and-melodies-windows-10-photos-for-2024/"><u>Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-creativity-in-photo-deformation-for-2024/"><u>Crafting Creativity in Photo Deformation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/diy-guide-personalize-google-cardboard-vr-headset/"><u>DIY Guide  Personalize Google Cardboard VR Headset</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoes-and-effects-auditory-enhancement-for-imovie/"><u>Echoes & Effects  Auditory Enhancement for iMovie</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-switch-from-srt-to-sub-captions/"><u>Effortless Switch  From SRT to SUB Captions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-8-cybernetic-photograph-assembly-suite/"><u>Elite 8 Cybernetic Photograph Assembly Suite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertly-handling-timecodes-in-srt-using-macos-tools/"><u>Expertly Handling Timecodes in SRT Using macOS Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-headset-no-sound-on-win10-system/"><u>How To Fix Headset No Sound on WIN10 System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hunters-top-5-video-recording-recommendations/"><u>Hunters' Top 5 Video Recording Recommendations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y27-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y27 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>In 2024, Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blending-audio-from-youtube-into-video-mediums/"><u>In 2024, Blending Audio From YouTube Into Video Mediums</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-essential-techniques-for-saving-and-recording-ps4-gameplay/"><u>In 2024, Essential Techniques for Saving and Recording PS4 Gameplay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-high-capacity-drives-how-many-vids-can-a-64128gb-hold/"><u>In 2024, Evaluating High-Capacity Drives  How Many Vids Can a 64/128GB Hold?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-f5-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-8-trending-youtube-videos/"><u>In 2024, Top 8 Trending YouTube Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-methods-from-pin-based-tunes-to-audio-downloads/"><u>Key Methods  From Pin-Based Tunes to Audio Downloads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-angular-adjustments-in-vlc-player-for-2024/"><u>Mastering Angular Adjustments in VLC Player for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-self-portraits-iphones-burst-capability/"><u>Perfecting Self-Portraits  IPhone's Burst Capability</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>Seamless Streaming  Tips for Uninterrupted Broadcasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/secure-smooth-photo-viewing-w10-troubleshooting-tips-unveiled/"><u>Secure Smooth Photo Viewing  W10 Troubleshooting Tips Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unboxing-the-market-strategic-essentials/"><u>Unboxing the Market  Strategic Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unraveling-the-expertise-within-polarrs-photography-suite/"><u>Unraveling the Expertise Within Polarr’s Photography Suite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/z2-play-revelation-a-high-tech-smartphone-study/"><u>Z2 Play Revelation  A High-Tech Smartphone Study</u></a></li>
+</ul></div>

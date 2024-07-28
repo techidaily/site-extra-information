@@ -1,7 +1,7 @@
 ---
 title: "\"Viral Visions  Behind the Meme\""
-date: 2024-05-24T12:33:18.436Z
-updated: 2024-05-25T12:33:18.436Z
+date: 2024-07-27T04:48:12.476Z
+updated: 2024-07-28T04:48:12.476Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Viral Visions: Behind the Meme\""
 excerpt: "\"This Article Describes Viral Visions: Behind the Meme\""
 keywords: "Viral Memes Insight,Meme Culture Deep Dive,Behind The Scenes Of Memes,Virality Explained,Meme Creation Process,Meme Trends Analysis,Humor In Digital Media"
-thumbnail: https://www.lifewire.com/thmb/BYBpe_DLCdj-EMAKN8thILa5U3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/alanturing-5b85aa874cedfd0025bf4240.png
+thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545b8fd2ecff1c5ec11c0e45ff.png
 ---
 
 ## Viral Visions: Behind the Meme
@@ -24,6 +24,9 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -31,6 +34,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -39,10 +45,16 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -64,6 +76,9 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
@@ -82,6 +97,9 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -94,6 +112,9 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -104,6 +125,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -113,6 +137,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -125,6 +152,9 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -161,3 +191,40 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-the-secrets-to-counting-youtube-traffic-and-profits/"><u>[New] 2024 Approved  Unlocking the Secrets to Counting YouTube Traffic and Profits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-candids-canvas-transforming-photos-with-editing-tips/"><u>[New] Candid's Canvas  Transforming Photos with Editing Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-tutorial-on-gdocs-voice-to-text-feature/"><u>[New] Comprehensive Tutorial on GDoc's Voice-to-Text Feature</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-conveniently-enjoy-nba-games-top-15-streaming-methods/"><u>[New] Conveniently Enjoy NBA Games - Top 15 Streaming Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-through-virtual-lenses-a-historical-view/"><u>[New] In 2024, Through Virtual Lenses  A Historical View</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-companion-for-recording-google-video-calls/"><u>[New] The Ultimate Companion for Recording Google Video Calls</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blending-beats-fusion-studios-guide-to-cohesive-sound/"><u>[Updated] Blending Beats  Fusion Studio's Guide to Cohesive Sound</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bridging-the-digital-divide-with-gratuitous-animations/"><u>[Updated] Bridging the Digital Divide with Gratuitous Animations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tech-savvy-strategies-to-maximize-whiteboard-functionality-across-devices-for-2024/"><u>[Updated] Tech-Savvy Strategies to Maximize Whiteboard Functionality Across Devices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-fresh-perspective-on-sony-blu-ray-s6500-features/"><u>A Fresh Perspective on Sony Blu-Ray S6500 Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audience-wow-factor-how-to-create-spectacular-live-streams/"><u>Audience Wow Factor  How to Create Spectacular Live Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beam-yourself-into-vr-android-tips-and-tricks-for-2024/"><u>Beam Yourself Into VR  Android Tips & Tricks for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clear-vision-how-to-cut-out-image-clutter-on-photopea-for-2024/"><u>Clear Vision  How to Cut Out Image Clutter on Photopea for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/digital-gurus-choice-best-5-web-video-recorders/"><u>Digital Gurus' Choice  Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-images-prime-photo-frame-plugins-and-websites/"><u>Enhancing Images  Prime Photo Frame Plugins & Websites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/exclusive-choices-to-replace-traditional-fbx-recorder-games/"><u>Exclusive Choices to Replace Traditional FBX Recorder Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-digital-magic-enhancing-vhs-photos-online/"><u>Exploring Digital Magic  Enhancing VHS Photos Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-new-realms-of-thought-30plus-vr-metaphysical-messages/"><u>Exploring New Realms of Thought  30+ VR Metaphysical Messages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/finding-your-lost-footage-no-vids-on-a6400/"><u>Finding Your Lost Footage  No Vids On A6400</u></a></li>
+<li><a href="https://extra-information.techidaily.com/honoring-creativity-ultimate-otu-collection/"><u>Honoring Creativity  Ultimate OTU Collection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-razr-40-ultra-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-and-crafting-your-essential-guide-to-gopro-4k-edits/"><u>In 2024, Capturing and Crafting  Your Essential Guide to GoPro 4K Edits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-cover-video-all-you-need-to-know/"><u>In 2024, Facebook Cover Video  All You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/infusing-your-art-with-captivating-collage-vistas/"><u>Infusing Your Art with Captivating Collage Vistas</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-propeller-synergy-for-awe-inspiring-fpv-flights/"><u>Perfect Propeller Synergy for Awe-Inspiring FPV Flights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/puzzle-prints-crafting-hilarity-in-minutes/"><u>Puzzle Prints  Crafting Hilarity in Minutes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oppo-a78-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Oppo A78</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-integration-turning-audio-into-written-format-in-ms-word/"><u>Seamless Integration  Turning Audio Into Written Format in MS Word</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securing-your-scene-camera-shake-solutions/"><u>Securing Your Scene  Camera Shake Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-handbook-to-drone-video-editing/"><u>The Ultimate Handbook to Drone Video Editing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-creativity-with-these-top-10-video-text-effects/"><u>Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-instagram-stardom-crafting-attractive-unboxing-videos/"><u>Unlock Instagram Stardom  Crafting Attractive Unboxing Videos</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Softening Audio  FL Basics\""
-date: 2024-05-24T11:06:12.229Z
-updated: 2024-05-25T11:06:12.229Z
+date: 2024-07-27T02:12:44.839Z
+updated: 2024-07-28T02:12:44.839Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Softening Audio: FL Basics\""
 excerpt: "\"This Article Describes Softening Audio: FL Basics\""
 keywords: "Audio Soften,Sound EQ Basic,Audio Clarity,Acoustic Basics,Noise Reduction,Bass Enhancement,Frequency Balance"
-thumbnail: https://www.lifewire.com/thmb/sqPlYj-pfbJQsDT7f50_8Ha0z94=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/sirisakboakaewmanboxingcomputer-38e0077e93bc4cebb97cd99bb0afe100.jpg
+thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8fd8cb255e01f8ccef4f7fd6.jpg
 ---
 
 ## Softening Audio: FL Basics
@@ -54,18 +54,30 @@ However, if you are looking forward to the alternative option for FL Studio, [Fi
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
@@ -82,6 +94,9 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
@@ -92,8 +107,16 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
@@ -102,6 +125,9 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -130,3 +156,38 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-2023s-premier-action-cameras-on-motorcycle-gear-guide/"><u>[New] 2023'S Premier Action Cameras on Motorcycle Gear Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-a-compreayers-guide-to-video-refinement-from-standard-definition-to-dynamic-range-zenith/"><u>[New] 2024 Approved  A Compreayer's Guide to Video Refinement  From Standard Definition to Dynamic Range Zenith</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-9-command-center-of-live-gaming-streams/"><u>[New] 9 Command Center of Live Gaming Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-automated-text-transcription-powerpoints-new-edge/"><u>[New] Automated Text Transcription  PowerPoint's New Edge</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-breaking-limits-free-saves-for-your-story-loads/"><u>[New] Breaking Limits  Free Saves for Your Story Loads</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>[New] Cinema Crafting Excellence  Top 5 Camera Skills to Hone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-memelife-top-meme-creator-tool-download/"><u>[New] Ultimate Memelife  Top Meme Creator Tool Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bebop-2s-avian-spectacle-a-compreran-analysis/"><u>[Updated] Bebop 2'S Avian Spectacle – A Compreran Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-convincing-viewers-discovering-effective-video-styles/"><u>[Updated] Convincing Viewers  Discovering Effective Video Styles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-best-apps-to-speed-audio-speed-on-mobile/"><u>2024 Approved  10 Best Apps to Speed Audio Speed on Mobile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-must-know-tips-for-nba-stream-quality/"><u>2024 Approved  10 Must-Know Tips for NBA Stream Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adding-apple-music-a-guide-to-enhanced-videos/"><u>2024 Approved  Adding Apple Music  A Guide to Enhanced Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-ai-integration-for-vr-marketplaces/"><u>2024 Approved  AI Integration for VR Marketplaces</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-artful-stop-motion-animation-the-best-15-films/"><u>2024 Approved  Artful Stop-Motion Animation - The Best 15 Films</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comparing-vr-to-360-degree-video-whats-the-distinction/"><u>2024 Approved  Comparing VR to 360-Degree Video  What's the Distinction?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-premium-game-screens-in-high-definition/"><u>2024 Approved  Top 5 Premium Game Screens in High Definition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-strategies-for-avoiding-vr-nausea-for-2024/"><u>5 Strategies for Avoiding VR Nausea for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8-best-webcam-filters-for-streaming/"><u>8 Best Webcam Filters For Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/are-there-alternatives-to-googles-ar-gems-in-2024/"><u>Are There Alternatives to Google's AR Gems, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-memes-with-kapwings-design-toolkit/"><u>Craft Memes with Kapwing's Design Toolkit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creative-distortion-in-the-world-of-pictures/"><u>Creative Distortion in the World of Pictures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/does-pickup-elevate-your-editing-game-on-android-heres-what-you-need-to-know/"><u>Does PickUp Elevate Your Editing Game on Android? Here’s What You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-digital-art-with-layered-imagery/"><u>Enhancing Digital Art with Layered Imagery</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-10-proplus-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 10 Pro+ 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-exclusive-7-discreet-media-tools/"><u>In 2024, Exclusive 7 Discreet Media Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-11r-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 11R Devices | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/perfecting-zooms-visual-impact-smart-filters-use/"><u>Perfecting Zoom's Visual Impact  Smart Filters Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionizing-video-praise-with-innovative-approaches/"><u>Revolutionizing Video Praise with Innovative Approaches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/syma-x5c-demystified-the-ideal-drone-for-budding-pilots/"><u>Syma X5C Demystified  The Ideal Drone for Budding Pilots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-list-of-premium-free-srt-translators-for-2024/"><u>The Essential List of Premium FREE SRT Translators for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-free-to-text-on-mac-30-apps-that-deserve-your-notice/"><u>Top Free to Text on Mac  30 Apps That Deserve Your Notice</u></a></li>
+</ul></div>

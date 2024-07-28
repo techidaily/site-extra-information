@@ -1,7 +1,7 @@
 ---
 title: "Proven Methods to Elevate Patient Testimonial Videos"
-date: 2024-05-24T11:16:09.066Z
-updated: 2024-05-25T11:16:09.066Z
+date: 2024-07-27T02:30:21.547Z
+updated: 2024-07-28T02:30:21.547Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ If you want to learn how to create video testimonials that convert, then this po
 
 ## Identify Your Perfect Customer
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![identify your perfect customer](https://images.wondershare.com/filmora/article-images/2022/07/identify-your-perfect-customer.jpg)
 
 The first key tactic to creating a perfect testimonial video is identifying your perfect customer. The more you know about the type of person who will benefit the most from using your product or service, the better you can tailor your video content to speak directly to them.
@@ -33,6 +36,9 @@ It may seem like a daunting task, but there are several ways you can go about de
 
 ## Ask Authentic Questions
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ask authentic questions](https://images.wondershare.com/filmora/article-images/2022/07/ask-authentic-questions.jpg)
 
 * Open-ended questions are the best way to engage customers and get them to speak naturally.
@@ -60,8 +66,14 @@ When asking someone for their thoughts on a topic or issue, there's always going
 
 Asking open-ended questions allows people greater freedom when responding—and while this may sound like an ideal situation when creating content, it often results in less-than-ideal responses when creating content at scale since you won't always get exactly what you want out of every shot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lighting, Sound, and Video Quality Matter
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lighting sound video quality](https://images.wondershare.com/filmora/article-images/2022/07/lighting-sound-video-quality.jpg)
 
 Lighting, sound, and video quality matter.
@@ -70,14 +82,23 @@ This is a given. If you want your testimonial videos to be effective and believa
 
 ## Really Listen to Your Prospects
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
 
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Beware of Skeptics and Negative Nellies
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![beware skeptics](https://images.wondershare.com/filmora/article-images/2022/07/beware-skeptics.jpg)
 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
@@ -120,3 +141,50 @@ If you're looking to boost your sales with testimonial videos, then you need to 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-celebrated-list-top-15-classic-stop-motion-flicks/"><u>[New] A Celebrated List  Top 15 Classic Stop-Motion Flicks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audio-ambassadors-where-to-find-legal-skype-ringtone-files/"><u>[New] Audio Ambassadors  Where to Find Legal Skype Ringtone Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beyond-reality-the-future-of-virtual-experiences/"><u>[New] Beyond Reality  The Future of Virtual Experiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[New] In 2024, Flavorful Frontier  Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-sony-bdp-s3700-overhaul-a-new-perspective-review/"><u>[New] In 2024, Sony BDP-S3700 Overhaul  A New Perspective Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-your-life-your-legacy-youtube-videos-that-matter/"><u>[New] In 2024, Your Life, Your Legacy  YouTube Videos That Matter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-obs-studio-vs-fraps-performance-showdown/"><u>[New] OBS Studio vs Fraps  Performance Showdown</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-potential-top-8-mirrorless-cameras-for-youtube-stars/"><u>[New] Unlocking Potential  Top 8 Mirrorless Cameras For YouTube Stars</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-do-a-poll-on-instagram-stories-a-complete-guide/"><u>[Updated] 2024 Approved  How to Do a Poll on Instagram Stories - a Complete Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-fix-obs-camera-not-working/"><u>[Updated] 2024 Approved  How to Fix OBS Camera Not Working</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-5-hidden-gems-to-watch-insta-stories/"><u>[Updated] 2024 Approved  Top 5 Hidden Gems to Watch Insta Stories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-new-era-of-immersive-storytelling/"><u>[Updated] A New Era of Immersive Storytelling</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-amplifying-viewership-strategies-for-unboxing-tiktoks/"><u>[Updated] Amplifying Viewership  Strategies for Unboxing TikToks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoiding-unsteady-footage-steady-your-action-cam-videos/"><u>[Updated] Avoiding Unsteady Footage  Steady Your Action Cam Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-democracy-dashboard-top-5-voting-simulation-titles/"><u>[Updated] Democracy Dashboard  Top 5 Voting Simulation Titles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-video-placement-which-way-wins-for-2024/"><u>[Updated] FB Video Placement - Which Way Wins for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-linkedin-image-aspect-ratios-explained/"><u>[Updated] In 2024, LinkedIn Image Aspect Ratios Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-walkthrough-to-craft-your-metaverse-identity/"><u>2024 Approved  A Step-by-Step Walkthrough to Craft Your Metaverse Identity</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-maximize-impact-mastering-instagram-video-transforms-into-mp4/"><u>2024 Approved  Maximize Impact  Mastering Instagram Video Transforms Into MP4</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assembling-an-elite-home-studio-pc-for-cutting-edge-edits-for-2024/"><u>Assembling an Elite Home Studio PC for Cutting-Edge Edits for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-gopro-hero5-session-quality/"><u>Assessing GoPro Hero5 Session Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-inshots-superiority-in-the-editing-arena-for-2024/"><u>Assessing InShot's Superiority in the Editing Arena for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-action-cameras-with-image-stabilization/"><u>Best Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/calculating-your-commercial-break-even-as-a-podcaster-for-2024/"><u>Calculating Your Commercial Break-Even as a Podcaster for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-photoshoots-select-your-ideal-background-viewer/"><u>Elevate Photoshoots  Select Your Ideal Background Viewer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-techniques-implementing-luts-in-adobe-ae/"><u>Expert Techniques  Implementing LUTs in Adobe AE</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-premium-free-online-tools-for-professional-video-tweaks/"><u>Explore Premium Free Online Tools for Professional Video Tweaks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-essential-tips-to-turnback-a-live-twitch-session/"><u>In 2024, 10 Essential Tips to Turnback a Live Twitch Session</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-excellent-facial-editors-for-smartphones/"><u>In 2024, 10 Excellent Facial Editors for Smartphones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-comprehensive-guide-to-understanding-and-using-slug-lines/"><u>In 2024, A Comprehensive Guide to Understanding and Using Slug Lines</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bringing-bytes-home-4-ways-to-transfer-data-pc/"><u>In 2024, Bringing Bytes Home  4 Ways to Transfer Data PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-hot-40i-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Hot 40i</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/integrating-multimedia-for-iphone-users-for-2024/"><u>Integrating Multimedia for iPhone Users for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-free-graphic-websites-for-quality-vectors/"><u>Leading Free Graphic Websites for Quality Vectors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-7a-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 7a has been deleted.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-transformation-best-face-editors-on-iphones-and-androids/"><u>Seamless Transformation  Best Face Editors on iPhones and Androids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-film-with-vr-experience/"><u>Transforming Film with VR Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-creativity-with-magix-video-pro-x/"><u>Unleashing Creativity with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-potential-in-ar-applying-lut-techniques/"><u>Unleashing Potential in AR  Applying LUT Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-potential-of-vr-video-on-your-iphone/"><u>Unlock the Potential of VR Video on Your iPhone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS"
-date: 2024-05-24T12:29:44.702Z
-updated: 2024-05-25T12:29:44.702Z
+date: 2024-07-27T04:41:52.744Z
+updated: 2024-07-28T04:41:52.744Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS"
 excerpt: "This Article Describes Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS"
 keywords: "Restore AirDrop iOS,Fix Airdrop macOS,IOS Airdrop Recovery,MacOS Airdrop Repair,Easy Airdrop iOS Solution,AirDrop Fix for iPhones,Revive Airdrop on macOS"
-thumbnail: https://www.lifewire.com/thmb/VeN3zkKlIFShVJKtuvrH0OAEEd0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/people-silhouetted-against-an-american-flag-1214707683-405991a5634c4e6b976c66b0a1019a09.jpg
+thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059ddee924706920d8dd594b0c4.jpg
 ---
 
 ## Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS
@@ -28,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/VeN3zkKlIFShVJKtuvrH0OAEEd0=/400x300/fi
 
 Sharing something from one device to another device is very common nowadays and Airdrop is one of the best functions in Apple devices that lets you send and receive images, videos, links, and other files through Bluetooth and Wi-Fi. But one of the biggest problems that each user of Apple devices faces is the problem of Airdrop not working. It is a common problem that is faced by all users of iPhone, iPad, and Mac. Sending and receiving files through Airdrop is one of the secure and smooth ways. If you are the one facing the problem of Airdrop not working on any of your devices such as iPhone, iPad, or Mac then this article is going to help you fix that problem and enjoy this amazing feature without any hindrance. Before we go to the solution, let's list the devices that are compatible with Airdrop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Airdrop not working? Is your device compatible with Airdrop?
 
 Airdrop is one of the latest features of Apple that is not compatible with some of the old devices. Before getting towards the solution, make sure your device comes under these compatible devices.
@@ -75,10 +78,17 @@ If you are trying to use Airdrop from iPhone or iPad to Mac but the mac is not b
 
 **Step 02:** It will open a new window. Under this window, select Airdrop from the sidebar
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![airdrop-detail-setting-on-mac-step2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step2.jpg)
 
 **Step 03:** At the bottom of the screen, you can an option named "Allow me to be discovered by". Click on it and select Everyone from the drop-down list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![airdrop-detail-setting-on-mac-step3](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step3.jpg)
 
 By doing this, you will make your Mac device ready to be paired with other devices around you. After changing these settings, the Airdrop will start to work fine.
@@ -87,6 +97,9 @@ Is airdrop not working yet? If you are still facing the same problem try togglin
 
 You can do that on your iPhone simply by navigating to Settings > Wi-Fi. Now tap the Wi-Fi switch on/off twice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![airdrop-detail-setting-on-mac-step4](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step4.jpg)
 
 The same is the case with Bluetooth. Navigate to Settings > Bluetooth. Now tap the Bluetooth switch on/off twice.
@@ -111,12 +124,152 @@ After completing all the stated methods, the Airdrop will start to work properly
 2. Click and Release Volume Down button.
 3. Press & Hold Sleep button and keep holding it until the screen is off and it is on again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have tried to compile all the possible ways to fix the problem of Airdrop not working on your iPhone, iPad, and Mac. We understand the importance of sharing files such as images, videos, and other media in today's world. Try all these available ways to fix your Airdrop and start sharing and receiving files on your device without any difficulty.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Sharing something from one device to another device is very common nowadays and Airdrop is one of the best functions in Apple devices that lets you send and receive images, videos, links, and other files through Bluetooth and Wi-Fi. But one of the biggest problems that each user of Apple devices faces is the problem of Airdrop not working. It is a common problem that is faced by all users of iPhone, iPad, and Mac. Sending and receiving files through Airdrop is one of the secure and smooth ways. If you are the one facing the problem of Airdrop not working on any of your devices such as iPhone, iPad, or Mac then this article is going to help you fix that problem and enjoy this amazing feature without any hindrance. Before we go to the solution, let's list the devices that are compatible with Airdrop.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+## Airdrop not working? Is your device compatible with Airdrop?
+
+Airdrop is one of the latest features of Apple that is not compatible with some of the old devices. Before getting towards the solution, make sure your device comes under these compatible devices.
+
+**To use Airdrop between Mac and iPhone/iPad**
+
+* Mac 2012 or later
+* iPhone, iPod, and iPad with iOS 7 or later
+
+**To use Airdrop between two Macs**
+
+* MacBook Pro 2008 and later
+* MacBook Air 2010 and later
+* MacBook 2008 and later
+* iMac 2009 and later
+* Mac Mini mid-2010 and later
+* Mac Pro early 2009 and mid-2010
+* iMac Pro
+
+Now if your device comes under the above categories but you are still unable to use Airdrop properly then try the following adjustments.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Airdrop Setting on iOS
+
+Airdrop contains three options to choose from, Off, Contacts Only, and Everyone. The users can select any of these options depending upon their needs and requirements. But the Contacts Only is the most complex option of all. It requires you to verify the person with whom you want to be connected. To avoid this complexity, we recommend you choose "Everyone".
+
+**Step 01:** Open Settings of your iPhone or iPad device.
+
+**Step 02:** From all these options, Tap on General
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![airdrop-detail-setting-on-ios](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios.png)
+
+**Step 03:** Now select Airdrop
+
+**Step 04:** From these three options, make sure to choose "Everyone"
+
+![airdrop-detail-setting-on-ios2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios2.jpg)
+
+It will make your device visible to everyone around you whether they are on your contact list or not.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Airdrop Setting on Mac
+
+If you are trying to use Airdrop from iPhone or iPad to Mac but the mac is not being shown in the list, try the following steps.
+
+**Step 01:** Click on the Finder
+
+**Step 02:** It will open a new window. Under this window, select Airdrop from the sidebar
+
+![airdrop-detail-setting-on-mac-step2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step2.jpg)
+
+**Step 03:** At the bottom of the screen, you can an option named "Allow me to be discovered by". Click on it and select Everyone from the drop-down list.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![airdrop-detail-setting-on-mac-step3](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step3.jpg)
+
+By doing this, you will make your Mac device ready to be paired with other devices around you. After changing these settings, the Airdrop will start to work fine.
+
+Is airdrop not working yet? If you are still facing the same problem try toggling off and on the Wifi and Bluetooth of your iPhone and Mac. By doing so, it will refresh the state of Wifi and Bluetooth of your device and make sure that they are working fine.
+
+You can do that on your iPhone simply by navigating to Settings > Wi-Fi. Now tap the Wi-Fi switch on/off twice.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![airdrop-detail-setting-on-mac-step4](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step4.jpg)
+
+The same is the case with Bluetooth. Navigate to Settings > Bluetooth. Now tap the Bluetooth switch on/off twice.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![airdrop-detail-setting-on-mac-step5](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step5.jpg)
+
+After completing all the stated methods, the Airdrop will start to work properly. But it is important for your device to be compatible with Airdrop. Check your device in the list of compatible devices before trying these methods. If you are still facing the same problem of Airdrop not working, then the last option is to reset your device. To reset your device, follow the following steps.
+
+**For iPhone 7**
+
+1. Press and Hold On/Off button
+2. Press and Hold the volume down button until the screen is off and turns on again and displays the Apple logo.
+
+**For iPad & iPhone 6 and earlier**
+
+1. Press and Hold On/Off button.
+2. While holding the On/Off button, press and hold the Home button on the front screen of the phone until the screen is turned off and turns On again and shows the Apple logo.
+
+**For iPhone X, iPhone 8, iPhone XR, iPhone XS, iPhone XS Max, and iPad Pro 2018**
+
+1. Click and Release Volume Up button.
+2. Click and Release Volume Down button.
+3. Press & Hold Sleep button and keep holding it until the screen is off and it is on again.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+## Conclusion
+
+We have tried to compile all the possible ways to fix the problem of Airdrop not working on your iPhone, iPad, and Mac. We understand the importance of sharing files such as images, videos, and other media in today's world. Try all these available ways to fix your Airdrop and start sharing and receiving files on your device without any difficulty.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -152,6 +305,9 @@ Airdrop is one of the latest features of Apple that is not compatible with some 
 
 Now if your device comes under the above categories but you are still unable to use Airdrop properly then try the following adjustments.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Airdrop Setting on iOS
 
 Airdrop contains three options to choose from, Off, Contacts Only, and Everyone. The users can select any of these options depending upon their needs and requirements. But the Contacts Only is the most complex option of all. It requires you to verify the person with whom you want to be connected. To avoid this complexity, we recommend you choose "Everyone".
@@ -218,6 +374,9 @@ After completing all the stated methods, the Airdrop will start to work properly
 
 We have tried to compile all the possible ways to fix the problem of Airdrop not working on your iPhone, iPad, and Mac. We understand the importance of sharing files such as images, videos, and other media in today's world. Try all these available ways to fix your Airdrop and start sharing and receiving files on your device without any difficulty.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -234,6 +393,10 @@ Follow @Liza Brown
 
 Sharing something from one device to another device is very common nowadays and Airdrop is one of the best functions in Apple devices that lets you send and receive images, videos, links, and other files through Bluetooth and Wi-Fi. But one of the biggest problems that each user of Apple devices faces is the problem of Airdrop not working. It is a common problem that is faced by all users of iPhone, iPad, and Mac. Sending and receiving files through Airdrop is one of the secure and smooth ways. If you are the one facing the problem of Airdrop not working on any of your devices such as iPhone, iPad, or Mac then this article is going to help you fix that problem and enjoy this amazing feature without any hindrance. Before we go to the solution, let's list the devices that are compatible with Airdrop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Airdrop not working? Is your device compatible with Airdrop?
 
 Airdrop is one of the latest features of Apple that is not compatible with some of the old devices. Before getting towards the solution, make sure your device comes under these compatible devices.
@@ -269,6 +432,9 @@ Airdrop contains three options to choose from, Off, Contacts Only, and Everyone.
 
 **Step 04:** From these three options, make sure to choose "Everyone"
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![airdrop-detail-setting-on-ios2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios2.jpg)
 
 It will make your device visible to everyone around you whether they are on your contact list or not.
@@ -297,6 +463,9 @@ You can do that on your iPhone simply by navigating to Settings > Wi-Fi. Now tap
 
 The same is the case with Bluetooth. Navigate to Settings > Bluetooth. Now tap the Bluetooth switch on/off twice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![airdrop-detail-setting-on-mac-step5](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step5.jpg)
 
 After completing all the stated methods, the Airdrop will start to work properly. But it is important for your device to be compatible with Airdrop. Check your device in the list of compatible devices before trying these methods. If you are still facing the same problem of Airdrop not working, then the last option is to reset your device. To reset your device, follow the following steps.
@@ -321,111 +490,15 @@ After completing all the stated methods, the Airdrop will start to work properly
 
 We have tried to compile all the possible ways to fix the problem of Airdrop not working on your iPhone, iPad, and Mac. We understand the importance of sharing files such as images, videos, and other media in today's world. Try all these available ways to fix your Airdrop and start sharing and receiving files on your device without any difficulty.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-Sharing something from one device to another device is very common nowadays and Airdrop is one of the best functions in Apple devices that lets you send and receive images, videos, links, and other files through Bluetooth and Wi-Fi. But one of the biggest problems that each user of Apple devices faces is the problem of Airdrop not working. It is a common problem that is faced by all users of iPhone, iPad, and Mac. Sending and receiving files through Airdrop is one of the secure and smooth ways. If you are the one facing the problem of Airdrop not working on any of your devices such as iPhone, iPad, or Mac then this article is going to help you fix that problem and enjoy this amazing feature without any hindrance. Before we go to the solution, let's list the devices that are compatible with Airdrop.
-
-## Airdrop not working? Is your device compatible with Airdrop?
-
-Airdrop is one of the latest features of Apple that is not compatible with some of the old devices. Before getting towards the solution, make sure your device comes under these compatible devices.
-
-**To use Airdrop between Mac and iPhone/iPad**
-
-* Mac 2012 or later
-* iPhone, iPod, and iPad with iOS 7 or later
-
-**To use Airdrop between two Macs**
-
-* MacBook Pro 2008 and later
-* MacBook Air 2010 and later
-* MacBook 2008 and later
-* iMac 2009 and later
-* Mac Mini mid-2010 and later
-* Mac Pro early 2009 and mid-2010
-* iMac Pro
-
-Now if your device comes under the above categories but you are still unable to use Airdrop properly then try the following adjustments.
-
-## Airdrop Setting on iOS
-
-Airdrop contains three options to choose from, Off, Contacts Only, and Everyone. The users can select any of these options depending upon their needs and requirements. But the Contacts Only is the most complex option of all. It requires you to verify the person with whom you want to be connected. To avoid this complexity, we recommend you choose "Everyone".
-
-**Step 01:** Open Settings of your iPhone or iPad device.
-
-**Step 02:** From all these options, Tap on General
-
-![airdrop-detail-setting-on-ios](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios.png)
-
-**Step 03:** Now select Airdrop
-
-**Step 04:** From these three options, make sure to choose "Everyone"
-
-![airdrop-detail-setting-on-ios2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-ios2.jpg)
-
-It will make your device visible to everyone around you whether they are on your contact list or not.
-
-## Airdrop Setting on Mac
-
-If you are trying to use Airdrop from iPhone or iPad to Mac but the mac is not being shown in the list, try the following steps.
-
-**Step 01:** Click on the Finder
-
-**Step 02:** It will open a new window. Under this window, select Airdrop from the sidebar
-
-![airdrop-detail-setting-on-mac-step2](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step2.jpg)
-
-**Step 03:** At the bottom of the screen, you can an option named "Allow me to be discovered by". Click on it and select Everyone from the drop-down list.
-
-![airdrop-detail-setting-on-mac-step3](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step3.jpg)
-
-By doing this, you will make your Mac device ready to be paired with other devices around you. After changing these settings, the Airdrop will start to work fine.
-
-Is airdrop not working yet? If you are still facing the same problem try toggling off and on the Wifi and Bluetooth of your iPhone and Mac. By doing so, it will refresh the state of Wifi and Bluetooth of your device and make sure that they are working fine.
-
-You can do that on your iPhone simply by navigating to Settings > Wi-Fi. Now tap the Wi-Fi switch on/off twice.
-
-![airdrop-detail-setting-on-mac-step4](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step4.jpg)
-
-The same is the case with Bluetooth. Navigate to Settings > Bluetooth. Now tap the Bluetooth switch on/off twice.
-
-![airdrop-detail-setting-on-mac-step5](https://images.wondershare.com/filmora/article-images/airdrop-detail-setting-on-mac-step5.jpg)
-
-After completing all the stated methods, the Airdrop will start to work properly. But it is important for your device to be compatible with Airdrop. Check your device in the list of compatible devices before trying these methods. If you are still facing the same problem of Airdrop not working, then the last option is to reset your device. To reset your device, follow the following steps.
-
-**For iPhone 7**
-
-1. Press and Hold On/Off button
-2. Press and Hold the volume down button until the screen is off and turns on again and displays the Apple logo.
-
-**For iPad & iPhone 6 and earlier**
-
-1. Press and Hold On/Off button.
-2. While holding the On/Off button, press and hold the Home button on the front screen of the phone until the screen is turned off and turns On again and shows the Apple logo.
-
-**For iPhone X, iPhone 8, iPhone XR, iPhone XS, iPhone XS Max, and iPad Pro 2018**
-
-1. Click and Release Volume Up button.
-2. Click and Release Volume Down button.
-3. Press & Hold Sleep button and keep holding it until the screen is off and it is on again.
-
-## Conclusion
-
-We have tried to compile all the possible ways to fix the problem of Airdrop not working on your iPhone, iPad, and Mac. We understand the importance of sharing files such as images, videos, and other media in today's world. Try all these available ways to fix your Airdrop and start sharing and receiving files on your device without any difficulty.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -458,3 +531,52 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-direct-to-digital-webcam-capture-through-vlc-media-player/"><u>[New] 2024 Approved  Direct-to-Digital Webcam Capture Through VLC Media Player</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-clipcrafter-window-edition/"><u>[New] ClipCrafter Window Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-pathway-to-saving-social-media-gifs-on-different-devices/"><u>[New] The Ultimate Pathway to Saving Social Media GIFs on Different Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-call-preserve-the-audio-diary-of-iphone-2024/"><u>[Updated] Call Preserve  The Audio Diary of iPhone 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comedic-craftsmanship-unlocking-gags-at-zero-cost/"><u>[Updated] Comedic Craftsmanship  Unlocking Gags at Zero Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-seamless-transitions-elevating-your-drone-footage/"><u>[Updated] In 2024, Seamless Transitions  Elevating Your Drone Footage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-maximizing-your-virtual-experience-use-of-snap-functions-in-meet-for-2024/"><u>[Updated] Maximizing Your Virtual Experience  Use of Snap Functions in Meet for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-minimizing-noise-subtle-audio-tweaks-for-pc-mac/"><u>[Updated] Minimizing Noise  Subtle Audio Tweaks for PC, Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-3-simple-methods-for-color-correction-in-photoshop/"><u>2024 Approved  3 Simple Methods for Color Correction in PhotoShop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beat-writers-block-learning-ms-words-voice-transcription-techniques/"><u>2024 Approved  Beat Writer’s Block  Learning MS Word's Voice Transcription Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-blueprint-for-an-intriguing-videography-script/"><u>2024 Approved  Blueprint for an Intriguing Videography Script</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-your-buzz-telegram-tactics-for-impactful-promotion/"><u>2024 Approved  Boost Your Buzz  Telegram Tactics for Impactful Promotion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bring-a-smile-with-adobe-creations/"><u>2024 Approved  Bring a Smile with Adobe Creations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cinematic-sequence-best-video-cameras-for-extended-slow-motion/"><u>2024 Approved  Cinematic Sequence  Best Video Cameras for Extended Slow Motion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-inexpensive-pcs-optimized-obs-configuration/"><u>2024 Approved  Inexpensive PCs  Optimized OBS Configuration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/5-best-live-stream-video-conference-recorders-for-2024/"><u>5 Best Live Stream Video Conference Recorders for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/a-swift-guide-to-faster-more-engaging-tiktoks-for-2024/"><u>A Swift Guide to Faster, More Engaging TikToks for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/benefits-of-apples-m1-in-post-production-editing-for-2024/"><u>Benefits of Apple's M1 in Post-Production Editing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-metaverse-adventures-to-share-with-pals/"><u>Best Metaverse Adventures to Share with Pals</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-practices-choosing-the-right-win-video-codec/"><u>Best Practices: Choosing the Right Win Video Codec</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-cloud-apps-android-list-seamless-backup-and-sync-edition-for-2024/"><u>Best-Cloud-Apps-Android-List  Seamless Backup and Sync Edition for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/choosing-pro-stream-vmix-vs-wirecast-battle-for-2024/"><u>Choosing Pro Stream  VMix Vs. Wirecast Battle for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/disabling-suggested-podcast-episodes-on-spotify/"><u>Disabling Suggested Podcast Episodes on Spotify</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-protocol-aligned-fixed-22/"><u>Display Protocol Aligned - Fixed #22</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-realme-gt-5-240w-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme GT 5 (240W) FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-information.techidaily.com/empower-your-journey-through-cinemas-best-10-titles/"><u>Empower Your Journey Through Cinema's Best 10 Titles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-htc-u23-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieve-professional-looking-motion-blur-with-just-a-few-steps-in-photoshop/"><u>In 2024, Achieve Professional-Looking Motion Blur with Just a Few Steps in Photoshop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-for-controlling-music-speed-on-spotify/"><u>In 2024, Best Practices for Controlling Music Speed on Spotify</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-memes-via-adobe-software/"><u>In 2024, Crafting Memes via Adobe Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-10-free-face-blurring-tools-for-photos-and-videos/"><u>New 2024 Approved Top 10 Free Face Blurring Tools for Photos and Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-harmonious-editing-adding-music-to-media-projects-via-filmora-software-for-2024/"><u>New Harmonious Editing Adding Music to Media Projects via Filmora Software for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/preventing-sudden-deletion-of-personal-videos-from-fb-for-2024/"><u>Preventing Sudden Deletion of Personal Videos From FB for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rally-your-spirit-compiled-list-of-best-exercise-tracks/"><u>Rally Your Spirit  Compiled List of Best Exercise Tracks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/semaine-francaise-weekdays-translated/"><u>Semaine Française: Weekdays Translated</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/smoothrec-video-log-analysis-for-2024/"><u>SmoothRec Video Log Analysis for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-guide-gain-traction-with-podcast-seo-techniques/"><u>Strategic Guide  Gain Traction with Podcast SEO Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-utilization-of-azure-voice-to-text-capabilities/"><u>Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-economics-of-video-promotion-platforms/"><u>The Economics of Video Promotion Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-newcomers-notebook-navigating-through-pixel-perfect-videos/"><u>The Newcomer’s Notebook  Navigating Through Pixel-Perfect Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-list-of-top-tier-cameras/"><u>The Ultimate List of Top-Tier Cameras</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-tutorial-for-managing-archive-files-via-cmd/"><u>The Ultimate Tutorial for Managing Archive Files via CMD</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y78pluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y78+s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-information.techidaily.com/videography-and-storage-assessing-a-high-capacity-memorys-video-limits/"><u>Videography & Storage  Assessing a High-Capacity Memory's Video Limits</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-installation-manual-for-chatgpt/"><u>Windows Installation Manual for ChatGPT</u></a></li>
+</ul></div>

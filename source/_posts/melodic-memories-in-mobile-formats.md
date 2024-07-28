@@ -1,7 +1,7 @@
 ---
 title: "Melodic Memories in Mobile Formats"
-date: 2024-05-24T11:02:52.023Z
-updated: 2024-05-25T11:02:52.023Z
+date: 2024-07-27T02:06:47.724Z
+updated: 2024-07-28T02:06:47.724Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Melodic Memories in Mobile Formats"
 excerpt: "This Article Describes Melodic Memories in Mobile Formats"
 keywords: "Marriage Love Songs,Romance Wedding Tunes,Big Day Music Hits,Love Song Anthems,Matrimonial Melodies,Wedding Romantic Sounds,Harmony of Nuptials"
-thumbnail: https://www.lifewire.com/thmb/n-gh4j1AaDVZ39nbqdgnvkuDwv0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/freeinternet-c3d6ba69b0de4ee3852547ba7dc8250f.jpg
+thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a1e199fa6e8f6bfec8524954.jpg
 ---
 
 ## Melodic Memories in Mobile Formats
@@ -32,14 +32,23 @@ Let’s begin with our article!
 
 * [How to Make a Customized Keen Classical Ringtone with Filmora?](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Best Places to Find Classical Ringtones
 
 To find superb and versatile classical ringtones, here are the top 5 resources:
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Zedge](https://www.zedge.net/find/ringtones/classic)
 
 Zedge is one of the most trusted and free resources for downloading classical ringtones. The UI of the site is also very user-friendly and attractive, which makes navigation within the site hassle-free. On top of it, the site provides an option to share the classical ringtone with your friends using Facebook, Twitter, WhatsApp, or email.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![zedge classical ringtones](https://images.wondershare.com/filmora/article-images/2023/03/zedge-classical-ringtones.PNG)
 
 **Richness & Access**
@@ -95,10 +104,16 @@ The site has a vast selection of classical ringtones with crystal-clear quality.
 * Symphony
 * Beethoven
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [FreeTone](https://freetone.org/ringtones/classic)
 
 FreeTone has become a solid name for downloading classical ringtones for free. The site is nicely designed, with primary tabs on the top to access them easily. The ringtones are categorized into two main groups; “Most Popular” and “Best” to save time while searching.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![freetone classical ringtones](https://images.wondershare.com/filmora/article-images/2023/03/freetone-classical-ringtones.PNG)
 
 **Richness & Access**
@@ -130,6 +145,9 @@ YouTube is considered the richest resource for classical ringtones. However, you
 * Carmen
 * Symphony
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Make a Customized Keen Classical Ringtone with Filmora?
 
 If you aren’t satisfied with the categories of classical ringtones available on the sites mentioned above, you can download YouTube classical videos and customize them in [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a user-friendly video editor and very affordable. It has various features, including Audio Detach, [Silence Detection](https://tools.techidaily.com/wondershare/filmora/download/), [Audio Ducking](https://tools.techidaily.com/wondershare/filmora/download/) and so on. Please read further to see how these features can help you make your own classical music ringtone.
@@ -154,6 +172,13 @@ In addition, you can click **“Start”** to roll automatic silence detection, 
 
 Step4 Next up, emphasize one classical song over the other. To do this, right-click a specific song and select **“Adjust Audio.”** Now, check the **“Audio Ducking”** feature and click **“OK”** to save the changes to the song.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![audio ducking filmora](https://images.wondershare.com/filmora/article-images/2023/03/audio-ducking-filmora.png)
 
 Step5 Now, you can trim the song's length to shorten its duration. For this, click on the song, and you will see a double arrow. Drag the double arrow to select a part that you want to trim. Next, click the **“Split”** option to remove that part.
@@ -180,8 +205,14 @@ Step3 After logging in, click on the **“Download”** button again, and the do
 
 Additionally, you can subscribe to the Filmstock Standard package, which will cost you $7.99 per month, or the Premium package for $29.99 per month. The paid packages allow you to enjoy perks like no watermark, unlimited downloads, a royalty-free license, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![downloaded file filmstock classical ringtones](https://images.wondershare.com/filmora/article-images/2023/03/downloaded-file-filmstock-classical-ringtones.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed article, we discussed five feature-rich websites to **download high-quality classic ringtones** that will take you back in time!
@@ -213,6 +244,10 @@ Zedge is pretty rich in terms of categories and features. Apart from ringtones, 
 * Old
 * Remix
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### [MoboCup](https://mobcup.vip/downloads/classical-ringtones)
 
 MoboCup is an underrated site to download high-quality classical ringtones for free**.** You can browse and access thousands of categories and listen to a ringtone before downloading.
@@ -253,10 +288,16 @@ The site has a vast selection of classical ringtones with crystal-clear quality.
 * Symphony
 * Beethoven
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### [FreeTone](https://freetone.org/ringtones/classic)
 
 FreeTone has become a solid name for downloading classical ringtones for free. The site is nicely designed, with primary tabs on the top to access them easily. The ringtones are categorized into two main groups; “Most Popular” and “Best” to save time while searching.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![freetone classical ringtones](https://images.wondershare.com/filmora/article-images/2023/03/freetone-classical-ringtones.PNG)
 
 **Richness & Access**
@@ -302,6 +343,9 @@ Now, launch the software and click **“Import”** to add two classical video s
 
 Step2 Drag the songs to the **“Timeline Panel”** at the bottom. Next, right-click the songs and select **“Detach Audio”** from the popup window to extract audio from video files. Now, the audio files will show on the audio track.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![detach audio filmora](https://images.wondershare.com/filmora/article-images/2023/03/detach-audio-filmora.PNG)
 
 Step3 In this step, right-click a particular file whose silent parts you want to eliminate. Now, select **“Silence Detection,”** and a dedicated window will open, showing three parameters; **“Threshold,” “Minimum Silence,” and “Buffer,”** which you can adjust using the slider.
@@ -312,6 +356,9 @@ In addition, you can click **“Start”** to roll automatic silence detection, 
 
 Step4 Next up, emphasize one classical song over the other. To do this, right-click a specific song and select **“Adjust Audio.”** Now, check the **“Audio Ducking”** feature and click **“OK”** to save the changes to the song.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audio ducking filmora](https://images.wondershare.com/filmora/article-images/2023/03/audio-ducking-filmora.png)
 
 Step5 Now, you can trim the song's length to shorten its duration. For this, click on the song, and you will see a double arrow. Drag the double arrow to select a part that you want to trim. Next, click the **“Split”** option to remove that part.
@@ -328,10 +375,16 @@ Now you are done! If you want to know more about Filmora’s fantastic features,
 
 Step1 In the first step, go to the Filmstock website, search for the classical ringtones in the search bar, and click the **“Download”** button.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download filmstock classical ringtones](https://images.wondershare.com/filmora/article-images/2023/03/download-filmstock-classical-ringtones.PNG)
 
 Step2 Now, a window will open where you can log in to your Wondershare ID using Google ID, Facebook, Twitter, or Apple ID.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![login filmstock classical ringtones](https://images.wondershare.com/filmora/article-images/2023/03/login-filmstock-classical-ringtones.PNG)
 
 Step3 After logging in, click on the **“Download”** button again, and the download will start, and that’s about it!
@@ -340,6 +393,9 @@ Additionally, you can subscribe to the Filmstock Standard package, which will co
 
 ![downloaded file filmstock classical ringtones](https://images.wondershare.com/filmora/article-images/2023/03/downloaded-file-filmstock-classical-ringtones.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed article, we discussed five feature-rich websites to **download high-quality classic ringtones** that will take you back in time!
@@ -372,3 +428,49 @@ Hopefully, you loved our article and can now relive the classical moments whenev
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-19-critical-examples-of-the-metaverse-unveiled/"><u>[New] 19 Critical Examples of the Metaverse Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-maximizing-income-average-adsense-payouts-per-thousand-viewers/"><u>[New] 2024 Approved  Maximizing Income  Average AdSense Payouts Per Thousand Viewers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-5-streamlined-online-convertors-for-gifs-to-video/"><u>[New] Best 5 Streamlined Online Convertors for GIFs to Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boosting-productivity-with-innovative-win11-features/"><u>[New] Boosting Productivity with Innovative Win11 Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparing-the-best-in-class-for-4k-screen-reality/"><u>[New] Comparing the Best in Class for 4K Screen Reality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-converting-tiktok-audio-into-desired-mobile-ringtones/"><u>[New] Converting TikTok Audio Into Desired Mobile Ringtones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-windows-11-media-with-movie-maker-tools/"><u>[New] Mastering Windows 11 Media with Movie Maker Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-amplifying-visuals-expert-guide-to-snapchat-zoom/"><u>[Updated] Amplifying Visuals  Expert Guide to Snapchat Zoom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-assemble-and-build-your-own-google-vr-viewing-device/"><u>[Updated] Assemble and Build Your Own Google VR Viewing Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breakdown-of-essential-features-in-movie-maker-for-windows-8/"><u>[Updated] Breakdown of Essential Features in Movie Maker for Windows 8</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-connoisseurs-compendium-budget-friendly-photography-havens/"><u>[Updated] Connoisseur's Compendium  Budget-Friendly Photography Havens</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleash-potential-mastering-minecraft-recordings-with-macos-technology/"><u>[Updated] In 2024, Unleash Potential  Mastering Minecraft Recordings with macOS Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-text-title-effect-types-in-after-effects/"><u>2024 Approved  Best Text Title Effect Types in After Effects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-building-a-winning-portfolio-with-windows-11-video-editing-skills/"><u>2024 Approved  Building a Winning Portfolio with Windows 11 Video Editing Skills</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-13-pro-max-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 13 Pro Max Activation Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed-for-2024/"><u>Adobe Cloud Storage Demystified  Features, Functionality, and Alternatives Reviewed for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/balancing-professional-and-personal-profiles-for-2024/"><u>Balancing Professional and Personal Profiles for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/drifting-visions-slick-cam-insights/"><u>Drifting Visions  Slick Cam Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-reno-11-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Reno 11 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-90-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor 90 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-tips-and-tricks-for-professional-green-screen-videos/"><u>Essential Tips and Tricks for Professional Green Screen Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-for-maximizing-vscos-potential/"><u>Expert Tips for Maximizing VSCO's Potential</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-concept-to-completion-a-windows-10-video-editors-journey/"><u>From Concept to Completion  A Windows 10 Video Editor’s Journey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/handheld-panorama-peacekeeper-360-stabilizer/"><u>Handheld Panorama Peacekeeper 360° Stabilizer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-master-pip-in-google-chrome-a-comprehensive-guide/"><u>How to Master PIP in Google Chrome  A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-play-8t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-list-iphone-video-recording-hacks/"><u>In 2024, A-List iPhone Video Recording Hacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-compendium-all-features-of-bublcams-360-degree-lens/"><u>In 2024, Comprehensive Compendium  All Features of Bublcam's 360-Degree Lens</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-m14-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy M14 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-glitches-in-civilization-v/"><u>Mending Glitches in Civilization V</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mobile-vr-headsets-showdown-the-top-10/"><u>Mobile VR Headsets Showdown  The Top 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/novices-path-to-professional-gopro-video-editing/"><u>Novice's Path to Professional GoPro Video Editing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063300324-seamless-stress-relief-track-drivers-fixed/"><u>Seamless Stress Relief: Track Drivers Fixed!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/smooth-recording-techniques-for-gears-5s-battlegrounds/"><u>Smooth Recording Techniques for Gears 5'S Battlegrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-virtual-reality-biking-must-haves-for-2024/"><u>Top 10 Virtual Reality Biking Must-Haves for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transformative-image-processing-auto-smart-hdr-3-and-4-insights/"><u>Transformative Image Processing  Auto, Smart HDR 3 & 4 Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-whatsapps-potential-custom-ringtones-for-ios-android/"><u>Unlocking WhatsApp's Potential  Custom Ringtones for iOS, Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-11-apps-and-games-to-explore-and-download/"><u>Windows 11 Apps and Games to Explore and Download</u></a></li>
+</ul></div>

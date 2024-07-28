@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Craftsmits and Cinematography  Precision in Aspect Ratios\""
-date: 2024-05-24T11:35:31.033Z
-updated: 2024-05-25T11:35:31.033Z
+date: 2024-07-27T03:05:00.039Z
+updated: 2024-07-28T03:05:00.039Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Craftsmits and Cinematography: Precision in Aspect Ratios\""
 excerpt: "\"This Article Describes [Updated] Craftsmits and Cinematography: Precision in Aspect Ratios\""
 keywords: "Craftmits Cinematography,Aspect Ratio Precision,Cinematic Framing,Ratio Precision Crafts,Frame Aspect Ratio,Precision Filmmaking,Cinematographic Artistry"
-thumbnail: https://www.lifewire.com/thmb/DCkyrrIKF6IlOibLq3FWXS7tDbE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Google-Nest-Audio-vs-Google-Nest-Mini-2-85c4f29a43b24769a97f645fc3dd5687.jpg
+thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050db781f6bcdf9e50e7619aa67.jpg
 ---
 
 ## Craftsmits and Cinematography: Precision in Aspect Ratios
@@ -24,6 +24,9 @@ If you want to learn more about video aspect ratios, how to apply them to differ
 
 With that said, let's dive right into it!
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. What is a video aspect ratio?
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
@@ -32,10 +35,16 @@ Aspect ratio is a digital image projection attribute describing the distance bet
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 16:9 Widescreen
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### 4:3 Standard
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
@@ -52,6 +61,9 @@ The 21:9 resolution is designed for filming ultra-wide screen movies that gives 
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Facebook
 
 Facebook is one of the most used website across the world on both computer and the mobile app. This is a great platform to let people discover your content. In order to please new viewers, let's look at the resolutions Facebook supports and which one would be your best option depending on your content.
@@ -104,6 +116,9 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 1:1; 16:9 or 9:16 for TikTok advertisements
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
@@ -112,10 +127,20 @@ A very important point we'd like to mention is that we don't recommend changing 
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Having your video tested on multiple devices will allow you to see a preview of what the viewer will see and make necessary changes if needed. When your video looks perfect, you can be sure that it will give a seamless experience across all platforms, without the fear of losing video quality.
@@ -152,3 +177,47 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-full-review-for-bublcam-360-camera/"><u>[New] 2024 Approved  Full Review for Bublcam 360 Camera</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-competing-camerasdrones-gopro-max-dji-action-insta360/"><u>[New] Competing Cameras/Drones  GoPro Max, DJi Action, Insta360</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-enhanced-productivity-learn-to-record-your-mac-screen-for-2024/"><u>[New] Enhanced Productivity  Learn to Record Your Mac Screen for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-hobby-to-career-the-transition-to-youtube-gaming-for-2024/"><u>[New] From Hobby to Career  The Transition to YouTube Gaming for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts-for-2024/"><u>[New] Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-how-to-build-your-own-4k-video-editing-pc/"><u>[New] How To Build Your Own 4K Video Editing PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-list-of-must-watch-historical-youtubes-for-students/"><u>[New] In 2024, The Ultimate List of Must-Watch Historical YouTubes for Students</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-real-time-tips-to-dominate-twitter-broadcasts/"><u>[New] Real-Time Tips to Dominate Twitter Broadcasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-visualvoyage-mastering-the-art-of-image-and-video-size-on-instagram/"><u>[New] VisualVoyage  Mastering the Art of Image and Video Size on Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-control-over-clips-with-powerdirectors-latest-24-updates/"><u>[Updated] Complete Control Over Clips with PowerDirector's Latest '24 Updates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-scopesight-appraisal-review/"><u>[Updated] In 2024, ScopeSight Appraisal Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-entry-into-the-sub4sub-universe-guide-to-get-you-there/"><u>[Updated] Seamless Entry Into the Sub4sub Universe - Guide to Get You There</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-avoid-complexity-easy-video-edits-on-windows-10-for-everyone/"><u>2024 Approved  Avoid Complexity  Easy Video Edits on Windows 10 for Everyone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-sound-in-windows-11-explained/"><u>2024 Approved  Capturing Sound in Windows 11 Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asmr-quality-high-standards-meet-affordable-costs-for-2024/"><u>ASMR Quality  High Standards Meet Affordable Costs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/can-a-64gb-drive-manage-large-video-files-in-2024/"><u>Can a 64GB Drive Manage Large Video Files, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-advanced-phone-lenses-in-ios-11/"><u>Exploring Advanced Phone Lenses in iOS 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flash-frame-filmmakers-plan/"><u>Flash Frame Filmmaker's Plan</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-google-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Google using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-strong-introduction-url/"><u>In 2024, Crafting a Strong Introduction URL</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-s17t-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo S17t? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/initiating-live-video-sharing-complete-walkthrough/"><u>Initiating Live Video Sharing  Complete Walkthrough</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instagram-playback-why-are-videos-spinning/"><u>Instagram Playback  Why Are Videos Spinning?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-new-horizons-a-tech-upgrade-blueprint-for-2024/"><u>Navigating New Horizons  A Tech Upgrade Blueprint for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/notable-examples-of-book-trailers/"><u>Notable Examples of Book Trailers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photo-vid-mosaic-designer-slideshows-for-sierra/"><u>Photo-Vid Mosaic  Designer Slideshows for Sierra</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-transition-turning-mac-videos-into-discs/"><u>Seamless Transition  Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-enhancing-youtube-content-with-ios-recording-for-2024/"><u>Step-by-Step Guide  Enhancing YouTube Content with iOS Recording for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/supreme-artistry-studios-feedback-studio-review-2023/"><u>Supreme Artistry Studios Feedback  Studio Review 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/syncopated-snapshots-instagram-videos-with-music/"><u>Syncopated Snapshots  Instagram Videos with Music</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-android-audio-choices/"><u>Ultimate Android Audio Choices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-entertainment-12-live-screening-suite/"><u>Ultimate Entertainment  12 Live Screening Suite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-imagination-transforming-photoshop-images-dramatically/"><u>Unleash Imagination  Transforming Photoshop Images Dramatically</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-the-potential-of-gopro-hero-7-and-8-with-top-sd-cards/"><u>Unleash the Potential of GoPro Hero 7 & 8 with Top SD Cards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-secrets-of-video-filter-application-techniques/"><u>Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-cash-reviewing-gadgets-apparel-and-more-on-the-web-for-2024/"><u>Yield Cash Reviewing Gadgets, Apparel, and More on the Web for 2024</u></a></li>
+</ul></div>

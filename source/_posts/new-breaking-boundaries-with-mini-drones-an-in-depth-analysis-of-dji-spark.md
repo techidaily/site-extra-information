@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Breaking Boundaries with Mini Drones  An In-Depth Analysis of DJI Spark\""
-date: 2024-05-24T10:38:52.234Z
-updated: 2024-05-25T10:38:52.234Z
+date: 2024-07-27T01:24:28.670Z
+updated: 2024-07-28T01:24:28.670Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Breaking Boundaries with Mini Drones: An In-Depth Analysis of DJI Spark\""
 excerpt: "\"This Article Describes [New] Breaking Boundaries with Mini Drones: An In-Depth Analysis of DJI Spark\""
 keywords: "Mini Drone Advances,DJI Spark Insight,DJI Spark Exploration,Drones Boundary Pushing,DJI Spark Analysis,Drone Mini Usage,Spark Technology Review"
-thumbnail: https://www.lifewire.com/thmb/dyswmYNpv0N5nDaCdhxQ7fAUz7s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Taylor-Dent-candid-02cfe5d4fc174cd585cfc43cb77b48f7.jpg
+thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f153684504ed90b87c56b4f36e8f03d.jpg
 ---
 
 ## Breaking Boundaries with Mini Drones: An In-Depth Analysis of DJI Spark
@@ -30,6 +30,9 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 **You may also like:**[Review for DJI Goggles >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![dji spark appearance](https://images.wondershare.com/filmora/article-images/dji-spark-appearance.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B072JTDRTZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072JTDRTZ&linkId=bec9204052e4183cc85b81f2a73bc8d2)
@@ -68,6 +71,233 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 ###### #1\. Flight Autonomy System
 
+![dji spark 3d system](https://images.wondershare.com/filmora/article-images/dji-spark-3d-system.jpg)
+
+ Spark is perfect combination of technologies that makes its flights more stunning. It is equipped with 3D sensing system, high precision type inertial measurement mechanism, dual band GPS, Vision Positioning System, 24 powerful core for enhanced computing and many more. Spark use to follow its owner in air, and it's incredibly advanced design technology let it behave like an intelligent unit. It understands your gestures and move accordingly. The most impressive one is that when you outstretch your palm, it comes down and sits on your palm. That's really amazing.
+
+###### #2\. Control Mode
+
+ You will be able to enjoy three different control modes with DJI Spark, they are:
+
+* Gesture
+
+ In this mode, you don't need phone or controller to control the drone, it can take off and land in your hand, keep following you when you waving your palm in front of its camera. You make a rectangle in air using your fingers and your intelligent drone will capture a selfie for you. But note that, this feature works only up to 3 meters distance.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+![gesture mode](https://images.wondershare.com/filmora/article-images/gesture-mode.gif)
+
+* By App on Smartphone
+
+ You can switch between 4 different shooting modes as below with DJI Go app on your phone:
+
+**Rocket:** It makes camera to point downward.
+
+**Dronie:** Lock your drone camera focus on single subject and then move upward or downward to grab details.
+
+**Circle:** Move in circular fashion around a fixed target.
+
+**Helix:** Helix like performance around subject.
+
+* By Remote Controller
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+![spark remote comtroller](https://images.wondershare.com/filmora/article-images/spark-remote-comtroller.jpg)
+
+ Under this mode, the Spark's flight potential will be totally liberated. After connecting the remote controller, the WIFI technology allows for 720p real-time video transmission from up to 2 km away, and the flight speed can reach up to 50km/h. What's more, you can pick up the latest [DJI Goggles](https://tools.techidaily.com/wondershare/filmora/download/) to see a different world.
+
+###### #2\. Camera
+
+ A key feature of Spark is the camera. It equiped with a 2-axis mechanical gimbal, and can captures 12 MP photos as well as stabilized 1080p 30fps video footage.
+
+#### Conclusion
+
+ DJI Spark took the ease-of-use to the extreme compared with its other drones like Mavic or other brands like GoPro Karma. Combined with so many cool technologies, at just $500, DJI Spark should be listed in the must-buy products for droners.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Have you gone through DJI Spark videos on YouTube? They are spreading like a virus these days with millions of views. Right after the DJI's recent announcement about this mini drone on 24th May, people have gone crazy to buy this incredible device- as discussed in its first hand review. There are lots of amazing things to discuss about DJI Mini Drone and if you are a drone lover then you must be curious to go through them. Well, the article below is going to provide you complete details about this hot release in the drone world.
+
+**You may also like:**[Review for DJI Goggles >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![dji spark appearance](https://images.wondershare.com/filmora/article-images/dji-spark-appearance.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B072JTDRTZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072JTDRTZ&linkId=bec9204052e4183cc85b81f2a73bc8d2)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## First-hand review for DJI Spark
+
+#### 1\.  Unboxing
+
+ Although, the appearance of Spark didn't change a lot compared to [DJI Mavic Pro](https://tools.techidaily.com/wondershare/filmora/download/), its tiny size and sharp color also gave us a fresh and new feeling.
+
+###### #1\. Storage Box
+
+ The same old foam box as used by Phantom series and [Inspire 2](https://tools.techidaily.com/wondershare/filmora/download/) drones is going to protect your DJI Spark. It is lightweight too. You can easily pack it inside your travelling bag because the overall weight of this box goes only up to 500 grams where 95grams is the battery weight and 300grams is weight of your tiny aircraft. This is simply the best drone to have fun in a picnic with friends because it will not add extra bourdon to your luggage.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+![dji spark box](https://images.wondershare.com/filmora/article-images/dji-spark-box.jpg)
+
+###### #2\. Aircraft size
+
+ The overall dimensions of this compact drone are 143x143x55 mm whereas weight goes only up to 300 grams.
+
+ Let's compare it with DJI Mavic, then you can have an intuitive feeling:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![spark vs mavic](https://images.wondershare.com/filmora/article-images/spark-vs-mavic.jpg)
+
+###### #3\. Battery
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![dji spark battery](https://images.wondershare.com/filmora/article-images/dji-spark-battery.jpg)
+
+ It can stay in air up to 16 minutes with its 1480mAh LiPo Battery. Yeah, this high end battery makes it powerful enough to let users enjoy long flight time. The total time spent on charging is observed to be one hour and 20 minutes. Here is one interesting news for all buyers, DJI Spark do not limit your charging options. It can be charged with three different modes:
+
+* You can go for the commonly used 10 to 240 volt battery charger. If you want to charge multiple batteries at a time then prefer to go for Spark's Battery charging hub that can power-up 3 batteries at once.
+* Second option is to plug into the drone directly for charging
+* Third and most commonly used one is to charge it via Micro USB slot.
+
+#### 2\. Key features
+
+###### #1\. Flight Autonomy System
+
+![dji spark 3d system](https://images.wondershare.com/filmora/article-images/dji-spark-3d-system.jpg)
+
+ Spark is perfect combination of technologies that makes its flights more stunning. It is equipped with 3D sensing system, high precision type inertial measurement mechanism, dual band GPS, Vision Positioning System, 24 powerful core for enhanced computing and many more. Spark use to follow its owner in air, and it's incredibly advanced design technology let it behave like an intelligent unit. It understands your gestures and move accordingly. The most impressive one is that when you outstretch your palm, it comes down and sits on your palm. That's really amazing.
+
+###### #2\. Control Mode
+
+ You will be able to enjoy three different control modes with DJI Spark, they are:
+
+* Gesture
+
+ In this mode, you don't need phone or controller to control the drone, it can take off and land in your hand, keep following you when you waving your palm in front of its camera. You make a rectangle in air using your fingers and your intelligent drone will capture a selfie for you. But note that, this feature works only up to 3 meters distance.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+![gesture mode](https://images.wondershare.com/filmora/article-images/gesture-mode.gif)
+
+* By App on Smartphone
+
+ You can switch between 4 different shooting modes as below with DJI Go app on your phone:
+
+**Rocket:** It makes camera to point downward.
+
+**Dronie:** Lock your drone camera focus on single subject and then move upward or downward to grab details.
+
+**Circle:** Move in circular fashion around a fixed target.
+
+**Helix:** Helix like performance around subject.
+
+* By Remote Controller
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+![spark remote comtroller](https://images.wondershare.com/filmora/article-images/spark-remote-comtroller.jpg)
+
+ Under this mode, the Spark's flight potential will be totally liberated. After connecting the remote controller, the WIFI technology allows for 720p real-time video transmission from up to 2 km away, and the flight speed can reach up to 50km/h. What's more, you can pick up the latest [DJI Goggles](https://tools.techidaily.com/wondershare/filmora/download/) to see a different world.
+
+###### #2\. Camera
+
+ A key feature of Spark is the camera. It equiped with a 2-axis mechanical gimbal, and can captures 12 MP photos as well as stabilized 1080p 30fps video footage.
+
+#### Conclusion
+
+ DJI Spark took the ease-of-use to the extreme compared with its other drones like Mavic or other brands like GoPro Karma. Combined with so many cool technologies, at just $500, DJI Spark should be listed in the must-buy products for droners.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Have you gone through DJI Spark videos on YouTube? They are spreading like a virus these days with millions of views. Right after the DJI's recent announcement about this mini drone on 24th May, people have gone crazy to buy this incredible device- as discussed in its first hand review. There are lots of amazing things to discuss about DJI Mini Drone and if you are a drone lover then you must be curious to go through them. Well, the article below is going to provide you complete details about this hot release in the drone world.
+
+**You may also like:**[Review for DJI Goggles >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![dji spark appearance](https://images.wondershare.com/filmora/article-images/dji-spark-appearance.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B072JTDRTZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072JTDRTZ&linkId=bec9204052e4183cc85b81f2a73bc8d2)
+
+## First-hand review for DJI Spark
+
+#### 1\.  Unboxing
+
+ Although, the appearance of Spark didn't change a lot compared to [DJI Mavic Pro](https://tools.techidaily.com/wondershare/filmora/download/), its tiny size and sharp color also gave us a fresh and new feeling.
+
+###### #1\. Storage Box
+
+ The same old foam box as used by Phantom series and [Inspire 2](https://tools.techidaily.com/wondershare/filmora/download/) drones is going to protect your DJI Spark. It is lightweight too. You can easily pack it inside your travelling bag because the overall weight of this box goes only up to 500 grams where 95grams is the battery weight and 300grams is weight of your tiny aircraft. This is simply the best drone to have fun in a picnic with friends because it will not add extra bourdon to your luggage.
+
+![dji spark box](https://images.wondershare.com/filmora/article-images/dji-spark-box.jpg)
+
+###### #2\. Aircraft size
+
+ The overall dimensions of this compact drone are 143x143x55 mm whereas weight goes only up to 300 grams.
+
+ Let's compare it with DJI Mavic, then you can have an intuitive feeling:
+
+![spark vs mavic](https://images.wondershare.com/filmora/article-images/spark-vs-mavic.jpg)
+
+###### #3\. Battery
+
+![dji spark battery](https://images.wondershare.com/filmora/article-images/dji-spark-battery.jpg)
+
+ It can stay in air up to 16 minutes with its 1480mAh LiPo Battery. Yeah, this high end battery makes it powerful enough to let users enjoy long flight time. The total time spent on charging is observed to be one hour and 20 minutes. Here is one interesting news for all buyers, DJI Spark do not limit your charging options. It can be charged with three different modes:
+
+* You can go for the commonly used 10 to 240 volt battery charger. If you want to charge multiple batteries at a time then prefer to go for Spark's Battery charging hub that can power-up 3 batteries at once.
+* Second option is to plug into the drone directly for charging
+* Third and most commonly used one is to charge it via Micro USB slot.
+
+#### 2\. Key features
+
+###### #1\. Flight Autonomy System
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji spark 3d system](https://images.wondershare.com/filmora/article-images/dji-spark-3d-system.jpg)
 
  Spark is perfect combination of technologies that makes its flights more stunning. It is equipped with 3D sensing system, high precision type inertial measurement mechanism, dual band GPS, Vision Positioning System, 24 powerful core for enhanced computing and many more. Spark use to follow its owner in air, and it's incredibly advanced design technology let it behave like an intelligent unit. It understands your gestures and move accordingly. The most impressive one is that when you outstretch your palm, it comes down and sits on your palm. That's really amazing.
@@ -124,6 +354,9 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 **You may also like:**[Review for DJI Goggles >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji spark appearance](https://images.wondershare.com/filmora/article-images/dji-spark-appearance.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B072JTDRTZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072JTDRTZ&linkId=bec9204052e4183cc85b81f2a73bc8d2)
@@ -150,6 +383,9 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 ###### #3\. Battery
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![dji spark battery](https://images.wondershare.com/filmora/article-images/dji-spark-battery.jpg)
 
  It can stay in air up to 16 minutes with its 1480mAh LiPo Battery. Yeah, this high end battery makes it powerful enough to let users enjoy long flight time. The total time spent on charging is observed to be one hour and 20 minutes. Here is one interesting news for all buyers, DJI Spark do not limit your charging options. It can be charged with three different modes:
@@ -162,6 +398,9 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 ###### #1\. Flight Autonomy System
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![dji spark 3d system](https://images.wondershare.com/filmora/article-images/dji-spark-3d-system.jpg)
 
  Spark is perfect combination of technologies that makes its flights more stunning. It is equipped with 3D sensing system, high precision type inertial measurement mechanism, dual band GPS, Vision Positioning System, 24 powerful core for enhanced computing and many more. Spark use to follow its owner in air, and it's incredibly advanced design technology let it behave like an intelligent unit. It understands your gestures and move accordingly. The most impressive one is that when you outstretch your palm, it comes down and sits on your palm. That's really amazing.
@@ -174,6 +413,9 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
  In this mode, you don't need phone or controller to control the drone, it can take off and land in your hand, keep following you when you waving your palm in front of its camera. You make a rectangle in air using your fingers and your intelligent drone will capture a selfie for you. But note that, this feature works only up to 3 meters distance.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gesture mode](https://images.wondershare.com/filmora/article-images/gesture-mode.gif)
 
 * By App on Smartphone
@@ -190,194 +432,9 @@ Have you gone through DJI Spark videos on YouTube? They are spreading like a vir
 
 * By Remote Controller
 
-![spark remote comtroller](https://images.wondershare.com/filmora/article-images/spark-remote-comtroller.jpg)
-
- Under this mode, the Spark's flight potential will be totally liberated. After connecting the remote controller, the WIFI technology allows for 720p real-time video transmission from up to 2 km away, and the flight speed can reach up to 50km/h. What's more, you can pick up the latest [DJI Goggles](https://tools.techidaily.com/wondershare/filmora/download/) to see a different world.
-
-###### #2\. Camera
-
- A key feature of Spark is the camera. It equiped with a 2-axis mechanical gimbal, and can captures 12 MP photos as well as stabilized 1080p 30fps video footage.
-
-#### Conclusion
-
- DJI Spark took the ease-of-use to the extreme compared with its other drones like Mavic or other brands like GoPro Karma. Combined with so many cool technologies, at just $500, DJI Spark should be listed in the must-buy products for droners.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Have you gone through DJI Spark videos on YouTube? They are spreading like a virus these days with millions of views. Right after the DJI's recent announcement about this mini drone on 24th May, people have gone crazy to buy this incredible device- as discussed in its first hand review. There are lots of amazing things to discuss about DJI Mini Drone and if you are a drone lover then you must be curious to go through them. Well, the article below is going to provide you complete details about this hot release in the drone world.
-
-**You may also like:**[Review for DJI Goggles >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![dji spark appearance](https://images.wondershare.com/filmora/article-images/dji-spark-appearance.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B072JTDRTZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072JTDRTZ&linkId=bec9204052e4183cc85b81f2a73bc8d2)
-
-## First-hand review for DJI Spark
-
-#### 1\.  Unboxing
-
- Although, the appearance of Spark didn't change a lot compared to [DJI Mavic Pro](https://tools.techidaily.com/wondershare/filmora/download/), its tiny size and sharp color also gave us a fresh and new feeling.
-
-###### #1\. Storage Box
-
- The same old foam box as used by Phantom series and [Inspire 2](https://tools.techidaily.com/wondershare/filmora/download/) drones is going to protect your DJI Spark. It is lightweight too. You can easily pack it inside your travelling bag because the overall weight of this box goes only up to 500 grams where 95grams is the battery weight and 300grams is weight of your tiny aircraft. This is simply the best drone to have fun in a picnic with friends because it will not add extra bourdon to your luggage.
-
-![dji spark box](https://images.wondershare.com/filmora/article-images/dji-spark-box.jpg)
-
-###### #2\. Aircraft size
-
- The overall dimensions of this compact drone are 143x143x55 mm whereas weight goes only up to 300 grams.
-
- Let's compare it with DJI Mavic, then you can have an intuitive feeling:
-
-![spark vs mavic](https://images.wondershare.com/filmora/article-images/spark-vs-mavic.jpg)
-
-###### #3\. Battery
-
-![dji spark battery](https://images.wondershare.com/filmora/article-images/dji-spark-battery.jpg)
-
- It can stay in air up to 16 minutes with its 1480mAh LiPo Battery. Yeah, this high end battery makes it powerful enough to let users enjoy long flight time. The total time spent on charging is observed to be one hour and 20 minutes. Here is one interesting news for all buyers, DJI Spark do not limit your charging options. It can be charged with three different modes:
-
-* You can go for the commonly used 10 to 240 volt battery charger. If you want to charge multiple batteries at a time then prefer to go for Spark's Battery charging hub that can power-up 3 batteries at once.
-* Second option is to plug into the drone directly for charging
-* Third and most commonly used one is to charge it via Micro USB slot.
-
-#### 2\. Key features
-
-###### #1\. Flight Autonomy System
-
-![dji spark 3d system](https://images.wondershare.com/filmora/article-images/dji-spark-3d-system.jpg)
-
- Spark is perfect combination of technologies that makes its flights more stunning. It is equipped with 3D sensing system, high precision type inertial measurement mechanism, dual band GPS, Vision Positioning System, 24 powerful core for enhanced computing and many more. Spark use to follow its owner in air, and it's incredibly advanced design technology let it behave like an intelligent unit. It understands your gestures and move accordingly. The most impressive one is that when you outstretch your palm, it comes down and sits on your palm. That's really amazing.
-
-###### #2\. Control Mode
-
- You will be able to enjoy three different control modes with DJI Spark, they are:
-
-* Gesture
-
- In this mode, you don't need phone or controller to control the drone, it can take off and land in your hand, keep following you when you waving your palm in front of its camera. You make a rectangle in air using your fingers and your intelligent drone will capture a selfie for you. But note that, this feature works only up to 3 meters distance.
-
-![gesture mode](https://images.wondershare.com/filmora/article-images/gesture-mode.gif)
-
-* By App on Smartphone
-
- You can switch between 4 different shooting modes as below with DJI Go app on your phone:
-
-**Rocket:** It makes camera to point downward.
-
-**Dronie:** Lock your drone camera focus on single subject and then move upward or downward to grab details.
-
-**Circle:** Move in circular fashion around a fixed target.
-
-**Helix:** Helix like performance around subject.
-
-* By Remote Controller
-
-![spark remote comtroller](https://images.wondershare.com/filmora/article-images/spark-remote-comtroller.jpg)
-
- Under this mode, the Spark's flight potential will be totally liberated. After connecting the remote controller, the WIFI technology allows for 720p real-time video transmission from up to 2 km away, and the flight speed can reach up to 50km/h. What's more, you can pick up the latest [DJI Goggles](https://tools.techidaily.com/wondershare/filmora/download/) to see a different world.
-
-###### #2\. Camera
-
- A key feature of Spark is the camera. It equiped with a 2-axis mechanical gimbal, and can captures 12 MP photos as well as stabilized 1080p 30fps video footage.
-
-#### Conclusion
-
- DJI Spark took the ease-of-use to the extreme compared with its other drones like Mavic or other brands like GoPro Karma. Combined with so many cool technologies, at just $500, DJI Spark should be listed in the must-buy products for droners.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Have you gone through DJI Spark videos on YouTube? They are spreading like a virus these days with millions of views. Right after the DJI's recent announcement about this mini drone on 24th May, people have gone crazy to buy this incredible device- as discussed in its first hand review. There are lots of amazing things to discuss about DJI Mini Drone and if you are a drone lover then you must be curious to go through them. Well, the article below is going to provide you complete details about this hot release in the drone world.
-
-**You may also like:**[Review for DJI Goggles >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![dji spark appearance](https://images.wondershare.com/filmora/article-images/dji-spark-appearance.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B072JTDRTZ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072JTDRTZ&linkId=bec9204052e4183cc85b81f2a73bc8d2)
-
-## First-hand review for DJI Spark
-
-#### 1\.  Unboxing
-
- Although, the appearance of Spark didn't change a lot compared to [DJI Mavic Pro](https://tools.techidaily.com/wondershare/filmora/download/), its tiny size and sharp color also gave us a fresh and new feeling.
-
-###### #1\. Storage Box
-
- The same old foam box as used by Phantom series and [Inspire 2](https://tools.techidaily.com/wondershare/filmora/download/) drones is going to protect your DJI Spark. It is lightweight too. You can easily pack it inside your travelling bag because the overall weight of this box goes only up to 500 grams where 95grams is the battery weight and 300grams is weight of your tiny aircraft. This is simply the best drone to have fun in a picnic with friends because it will not add extra bourdon to your luggage.
-
-![dji spark box](https://images.wondershare.com/filmora/article-images/dji-spark-box.jpg)
-
-###### #2\. Aircraft size
-
- The overall dimensions of this compact drone are 143x143x55 mm whereas weight goes only up to 300 grams.
-
- Let's compare it with DJI Mavic, then you can have an intuitive feeling:
-
-![spark vs mavic](https://images.wondershare.com/filmora/article-images/spark-vs-mavic.jpg)
-
-###### #3\. Battery
-
-![dji spark battery](https://images.wondershare.com/filmora/article-images/dji-spark-battery.jpg)
-
- It can stay in air up to 16 minutes with its 1480mAh LiPo Battery. Yeah, this high end battery makes it powerful enough to let users enjoy long flight time. The total time spent on charging is observed to be one hour and 20 minutes. Here is one interesting news for all buyers, DJI Spark do not limit your charging options. It can be charged with three different modes:
-
-* You can go for the commonly used 10 to 240 volt battery charger. If you want to charge multiple batteries at a time then prefer to go for Spark's Battery charging hub that can power-up 3 batteries at once.
-* Second option is to plug into the drone directly for charging
-* Third and most commonly used one is to charge it via Micro USB slot.
-
-#### 2\. Key features
-
-###### #1\. Flight Autonomy System
-
-![dji spark 3d system](https://images.wondershare.com/filmora/article-images/dji-spark-3d-system.jpg)
-
- Spark is perfect combination of technologies that makes its flights more stunning. It is equipped with 3D sensing system, high precision type inertial measurement mechanism, dual band GPS, Vision Positioning System, 24 powerful core for enhanced computing and many more. Spark use to follow its owner in air, and it's incredibly advanced design technology let it behave like an intelligent unit. It understands your gestures and move accordingly. The most impressive one is that when you outstretch your palm, it comes down and sits on your palm. That's really amazing.
-
-###### #2\. Control Mode
-
- You will be able to enjoy three different control modes with DJI Spark, they are:
-
-* Gesture
-
- In this mode, you don't need phone or controller to control the drone, it can take off and land in your hand, keep following you when you waving your palm in front of its camera. You make a rectangle in air using your fingers and your intelligent drone will capture a selfie for you. But note that, this feature works only up to 3 meters distance.
-
-![gesture mode](https://images.wondershare.com/filmora/article-images/gesture-mode.gif)
-
-* By App on Smartphone
-
- You can switch between 4 different shooting modes as below with DJI Go app on your phone:
-
-**Rocket:** It makes camera to point downward.
-
-**Dronie:** Lock your drone camera focus on single subject and then move upward or downward to grab details.
-
-**Circle:** Move in circular fashion around a fixed target.
-
-**Helix:** Helix like performance around subject.
-
-* By Remote Controller
-
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![spark remote comtroller](https://images.wondershare.com/filmora/article-images/spark-remote-comtroller.jpg)
 
  Under this mode, the Spark's flight potential will be totally liberated. After connecting the remote controller, the WIFI technology allows for 720p real-time video transmission from up to 2 km away, and the flight speed can reach up to 50km/h. What's more, you can pick up the latest [DJI Goggles](https://tools.techidaily.com/wondershare/filmora/download/) to see a different world.
@@ -422,3 +479,62 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-comprerancial-free-imagery-tips-and-tricks/"><u>[New] Comprerancial Free Imagery  Tips and Tricks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-basic-screen-capture-windows-10-version/"><u>[New] In 2024, Basic Screen Capture, Windows 10 Version</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-democracy-dive-top-5-political-gamified-experiences/"><u>[New] In 2024, Democracy Dive  Top 5 Political Gamified Experiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2024s-premier-camera-lens-choices-the-ultimate-top-10-list/"><u>[Updated] 2024'S Premier Camera Lens Choices  The Ultimate Top 10 List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-astral-adventures-with-your-luxury-sj4000-essential-accompaniments/"><u>[Updated] Astral Adventures with Your Luxury SJ4000 - Essential Accompaniments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-sfpr-settings-for-leisurely-scenes/"><u>[Updated] Best SFPR Settings for Leisurely Scenes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-srt-format-conversion-guide/"><u>[Updated] Comprehensive SRT Format Conversion Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-digital-stagecraft-unlocking-voice-manipulation-with-affordable-technology-for-2024/"><u>[Updated] Digital Stagecraft  Unlocking Voice Manipulation with Affordable Technology for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fix-your-fb-account-post-hack-recovery-guide-for-2024/"><u>[Updated] Fix Your FB Account  Post-Hack Recovery Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-discover-the-art-of-quickly-tweaking-game-characters-voices-in-pubg/"><u>[Updated] In 2024, Discover the Art of Quickly Tweaking Game Characters' Voices in PUBG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>[Updated] Mastering VLC  MP4 & Various Format Conversion Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-audio-change-tools-enhancing-virtual-presence/"><u>[Updated] Top 10 Audio Change Tools  Enhancing Virtual Presence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-creative-potential-in-lyric-videos-with-lyric-video-maker/"><u>[Updated] Unlocking Creative Potential in Lyric Videos with Lyric Video Maker</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-the-full-potential-of-obs-for-your-mac/"><u>[Updated] Unlocking the Full Potential of OBS for Your Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-athletic-free-front-rows-for-relaxing-for-2024/"><u>10 Athletic-Free Front Rows for Relaxing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audiovisual-excellence-through-narrative-enrichment/"><u>2024 Approved  Audiovisual Excellence Through Narrative Enrichment</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boost-your-videos-best-editing-apps-for-android-pc-users/"><u>2024 Approved  Boost Your Videos  Best Editing Apps for Android, PC Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-construct-clever-caricatures-on-giphy/"><u>2024 Approved  Construct Clever Caricatures on Giphy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brisk-broadcasts-adjusting-keynote-film-rates-for-2024/"><u>Brisk Broadcasts  Adjusting Keynote Film Rates for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chilly-champs-beijings-best-of-the-2022-games-for-2024/"><u>Chilly Champs  Beijing's Best of the 2022 Games for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-impressive-podcast-identities-with-logos/"><u>Creating Impressive Podcast Identities with Logos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/diving-into-advanced-exposure-techniques-auto-smart-hdr-3-and-4-explained/"><u>Diving Into Advanced Exposure Techniques  Auto, Smart HDR 3 & 4 Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-techniques-to-craft-professional-time-lapses-on-galaxy/"><u>Effortless Techniques to Craft Professional Time-Lapses on Galaxy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortlessly-enhance-your-photos-with-adobes-smooth-shutter-effect/"><u>Effortlessly Enhance Your Photos with Adobe's Smooth Shutter Effect</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-text-enhancement-tools-and-techniques/"><u>Elite Text Enhancement Tools & Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fighting-vibration-in-iphone-videos-a-threefold-approach/"><u>Fighting Vibration in iPhone Videos  A Threefold Approach</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-lut-heaven-the-10-finest-and-accessible-resources/"><u>Free LUT Heaven  The 10 Finest and Accessible Resources</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fresh-conversation-starters-keeping-listeners-hooked/"><u>Fresh Conversation Starters  Keeping Listeners Hooked</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/full-rotational-photography-versus-3d-scanning/"><u>Full-Rotational Photography versus 3D Scanning</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films-for-2024/"><u>High-Quality Methodology  Stitching GoPro Sequences in Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/how-to-make-talking-emoji-on-iphone-in-easy-steps-for-2024/"><u>How To Make Talking Emoji on iPhone in Easy Steps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-y78plus-t1-edition-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Y78+ (T1) Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y28-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y28 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-vsco-image-enhancement/"><u>In 2024, Comprehensive Guide to VSCO Image Enhancement</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>In 2024, Crafting Revenue in 20-Second Chunks  YouTube Shorts Magic</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-deciding-on-fps-to-opt-for-30-or-go-for-a-sharp-60hz/"><u>In 2024, Deciding on FPS  To Opt for 30 or Go For a Sharp 60Hz</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-excellent-video-recorders-for-desktops/"><u>In 2024, Excellent Video Recorders for Desktops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-k70-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi K70 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-top-8-drawing-apps-for-ipados/"><u>In 2024, Top 8 Drawing Apps for iPadOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instagram-collage-made-simple-a-quick-how-to/"><u>Instagram Collage Made Simple  A Quick How-To</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-20-zero-copyright-pubg-image-collections/"><u>Leading 20 Zero-Copyright PUBG Image Collections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterclass-in-virtual-reality-finger-hacks/"><u>Masterclass in Virtual Reality Finger Hacks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterful-recordings-the-elite-handsets-with-advanced-ois-capabilities/"><u>Masterful Recordings  The Elite Handsets with Advanced OIS Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximize-your-digital-life-30-budget-friendly-cloud-solutions-1tbplus/"><u>Maximize Your Digital Life  30 Budget-Friendly Cloud Solutions (1TB+)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-honor-x50-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Honor X50</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sync-your-style-across-ios-and-android-with-a-customized-whatsapp-sound/"><u>Sync Your Style Across iOS and Android with a Customized WhatsApp Sound</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>The Realm's Rhythms  Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-roadmap-for-spotify-ad-mastery/"><u>The Ultimate Roadmap for Spotify Ad Mastery</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oneplus-nord-ce-3-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any OnePlus Nord CE 3 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/wallet-friendly-skydock-sufficient-file-space/"><u>Wallet-Friendly SkyDock  Sufficient File Space</u></a></li>
+</ul></div>

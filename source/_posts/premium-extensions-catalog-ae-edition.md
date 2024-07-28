@@ -1,7 +1,7 @@
 ---
 title: "\"Premium Extensions Catalog  AE Edition\""
-date: 2024-05-24T11:42:35.482Z
-updated: 2024-05-25T11:42:35.482Z
+date: 2024-07-27T03:17:47.268Z
+updated: 2024-07-28T03:17:47.268Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/n6oJS18dvYUfj-b728wyznTKcd4=/540x405/fi
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -28,12 +31,18 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 ## iExpressions 2
@@ -42,6 +51,9 @@ Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
 ## TextBox
@@ -52,14 +64,23 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -80,6 +101,9 @@ Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
 ## Artificial Intelligence Titles
@@ -90,12 +114,18 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 ## Conclusion
@@ -132,3 +162,43 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-become-an-engaging-speaker-on-google-meet-platforms-for-2024/"><u>[New] Become an Engaging Speaker on Google Meet Platforms for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-immortalize-gameplay-glories-with-samsung-devices-for-2024/"><u>[New] Immortalize Gameplay Glories with Samsung Devices for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-simplified-mac-solution-audioplusscreen-capture-for-2024/"><u>[New] Simplified Mac Solution  Audio+Screen Capture for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-5-outstanding-racing-simulations-for-gamers/"><u>[Updated] 2024 Approved  5 Outstanding Racing Simulations for Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-guide-to-remove-images-background-in-canva/"><u>[Updated] A Comprehensive Guide to Remove Image’s Background In Canva</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-accelerating-livestreams-on-periscope-made-easy/"><u>[Updated] Accelerating Livestreams on Periscope Made Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-ios-and-android-writing-apps-roundup/"><u>[Updated] Capture Creativity  IOS & Android Writing Apps Roundup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-converting-videos-on-macos-with-best-tools-guide/"><u>[Updated] Converting Videos on macOS with Best Tools Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>[Updated] Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-media-migration-tools-for-windowsmacos-users/"><u>[Updated] FB Media Migration Tools for Windows/macOS Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-quick-guide-to-starting-an-instagram-live-show/"><u>[Updated] Quick Guide to Starting an Instagram Live Show</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-analyzing-androids-best-editor-is-pickup-at-the-peak-of-performance/"><u>2024 Approved  Analyzing Android's Best Editor  Is PickUp at the Peak of Performance?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beatboxing-basics-add-audio-to-windows-11-projects-with-ease/"><u>2024 Approved  Beatboxing Basics  Add Audio to Windows 11 Projects with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>2024 Approved  Capturing Seconds at a Time  The Art of Phantom Slow Motion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-convenient-procedures-for-recording-screen-chats/"><u>2024 Approved  Convenient Procedures for Recording Screen Chats</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-handbook-for-expert-srt-making/"><u>A Comprehensive Handbook for Expert SRT Making</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-3d-viewing-on-your-android-device/"><u>Advanced 3D Viewing on Your Android Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-adventures-pinpointing-top-music-picks-for-podcast-openings-for-2024/"><u>Auditory Adventures  Pinpointing Top Music Picks for Podcast Openings for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-the-best-video-editor-gopro-hero-vs-polaroid-cube-for-2024/"><u>Choosing the Best Video Editor  GoPro Hero Vs. Polaroid Cube for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elicit-entertainment-giphys-meme-makers/"><u>Elicit Entertainment  Giphy's Meme Makers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-iphones-podcast-tools-ranked-5/"><u>Essential iPhones Podcast Tools Ranked #5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-top-tier-gopro-cameras-max-vs-hero-11/"><u>Exploring Top-Tier GoPro Cameras  Max Vs. Hero 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/financial-free-editing-the-ultimate-guide-to-fcp/"><u>Financial-Free Editing  The Ultimate Guide to FCP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-basic-to-brilliant-top-10-pixlr-techniques/"><u>From Basic to Brilliant  Top 10 Pixlr Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-a78-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo A78 5G Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-set-up-zoom-for-video-meeting/"><u>How to Set up Zoom for Video Meeting</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>In 2024, Early-Stage YouTube Wisdom  Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-flight-with-top-5-hmds-for-drone-racing/"><u>Mastering Flight with Top 5 HMDs for Drone Racing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pushing-boundaries-in-film-the-ultimate-guide-to-producing-slow-motion-videos-with-photos-and-internet/"><u>Pushing Boundaries in Film  The Ultimate Guide to Producing Slow-Motion Videos with Photos & Internet</u></a></li>
+<li><a href="https://techidaily.com/sign-odt-file-online-add-signature-to-odt-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .odt file Online - Add Signature to .odt file for Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-color-composers-toolkit-3-innovative-methods-for-photo-enhancement/"><u>The Color Composer's Toolkit  3 Innovative Methods for Photo Enhancement</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-quickest-quads-2022-olympics-skate/"><u>The Quickest Quads  2022 Olympics Skate</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-free-online-havens-for-3d-text-psdfiles/"><u>Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+</ul></div>

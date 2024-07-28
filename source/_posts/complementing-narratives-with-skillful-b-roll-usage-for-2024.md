@@ -1,7 +1,7 @@
 ---
 title: "\"Complementing Narratives with Skillful B-Roll Usage for 2024\""
-date: 2024-05-24T10:53:48.184Z
-updated: 2024-05-25T10:53:48.184Z
+date: 2024-07-27T01:50:44.323Z
+updated: 2024-07-28T01:50:44.323Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Complementing Narratives with Skillful B-Roll Usage for 2024\""
 excerpt: "\"This Article Describes Complementing Narratives with Skillful B-Roll Usage for 2024\""
 keywords: "\"B-Roll Mastery,Narrative Enhancement,Skilled Editing,Storytelling Technique,Engaging Visuals,Creative Footage Use,Cutting-Edge Video\""
-thumbnail: https://www.lifewire.com/thmb/lBmdBWtZRVaUBwmmvKncOYEZUEI=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Gaming_GettyImages-951533434_ORIG-HERO_Westend61_CROPPED_Sharpened-7deada36d17e4feab8029945aabcb2b5.jpg
+thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5def14d160bc07a7e668b288.jpg
 ---
 
 ## Complementing Narratives with Skillful B-Roll Usage
@@ -32,6 +32,10 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -44,22 +48,37 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
@@ -110,3 +129,53 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-video-game-channel-revenue/"><u>[New] Maximizing Video Game Channel Revenue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-creative-vanguard-audio-visual-convergence/"><u>[Updated] Creative Vanguard  Audio-Visual Convergence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-upload-from-twitter-to-tumblr-for-2024/"><u>[Updated] Direct Upload From Twitter to Tumblr for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-pro-tips-to-perfectly-piece-your-images-for-2024/"><u>10 Pro Tips to Perfectly Piece Your Images for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-superior-approaches-to-live-cricket-broadcasting/"><u>10 Superior Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>2024 Approved  4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-comprehensible-guide-to-adding-images-on-instagram/"><u>2024 Approved  A Comprehensible Guide to Adding Images on Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-detailed-review-of-the-top-10-gopro-protectors/"><u>2024 Approved  A Detailed Review of the Top 10 GoPro Protectors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-input-reduction-zero-price-included/"><u>2024 Approved  Audio Input Reduction - Zero Price Included</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-auditory-excellence-on-demand-the-top-6-mics-for-livestreams/"><u>2024 Approved  Auditory Excellence on Demand  The Top 6 Mics for Livestreams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-budget-friendly-stopwatch-service/"><u>2024 Approved  Best Budget-Friendly Stopwatch Service</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-quality-frames-at-low-motion-velocity/"><u>2024 Approved  Best Quality Frames at Low Motion Velocity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-budget-friendly-chinese-vr-gear/"><u>2024 Approved  Budget-Friendly Chinese VR Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-c-spans-fee-free-footage-access-a-compreayer-guide/"><u>2024 Approved  C-Span's Fee-Free Footage Access  A Compreayer Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-fluidity-in-iphone-photography/"><u>2024 Approved  Capturing Fluidity in iPhone Photography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cold-climate-chronicles-highlights-from-the-icy-stage/"><u>2024 Approved  Cold Climate Chronicles  Highlights From the Icy Stage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-for-using-zoom-in-email-apps-like-gmail-for-2024/"><u>A Step-by-Step Approach for Using Zoom in Email Apps Like Gmail for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/activate-fb-two-factor-authentication-guide/"><u>Activate FB Two-Factor Authentication Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adjust-netflix-video-pace-pc-and-mobile-edition/"><u>Adjust Netflix Video Pace  PC & Mobile Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adjusting-stream-velocity-in-netflix/"><u>Adjusting Stream Velocity in Netflix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-android-photography-essentials/"><u>Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amplify-your-status-music-in-whatsapp-for-2024/"><u>Amplify Your Status  Music in WhatsApp for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiences-choice-in-drama-writings-for-2024/"><u>Audience's Choice in Drama Writings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoid-motion-sickness-in-virtual-reality-games/"><u>Avoid Motion Sickness in Virtual Reality Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-film-clips-for-aspiring-video-editors/"><u>Best Film Clips for Aspiring Video Editors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-cloud-options-get-unlimited-storage-1tbplus-for-2024/"><u>Best Free Cloud Options  Get Unlimited Storage (1TB+) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-live-cricket-watch-tactics-unveiled/"><u>Best Live Cricket Watch Tactics Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-expectations-the-new-samsung-ubd-k8500-edition/"><u>Beyond Expectations  The New Samsung UBD-K8500 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-gopro-the-15-top-waterproof-cams-for-adventure-for-2024/"><u>Beyond GoPro  The 15 Top Waterproof Cams for Adventure for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-attention-top-10-grids-for-stunning-pics-for-2024/"><u>Capture Attention  Top 10 Grids for Stunning Pics for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/closer-than-ever-mastering-video-focus-on-videoleap-for-2024/"><u>Closer Than Ever  Mastering Video Focus on Videoleap for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/combining-audio-and-screens-apples-mix/"><u>Combining Audio & Screens  Apple's Mix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-checklist-for-incorporating-srt-in-mp4-files/"><u>Comprehensive Checklist for Incorporating SRT in MP4 Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquer-audio-production-a-comprehensible-guide-to-podcast-editing/"><u>Conquer Audio Production  A Comprehensible Guide to Podcast Editing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convert-srt-to-subc-innovative-3-ways-uncovered/"><u>Convert SRT to SUBC  Innovative 3 Ways Uncovered</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cool-whatsapp-tricks-and-hidden-features-you-should-know/"><u>Cool Whatsapp Tricks and Hidden Features You Should Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-podcast-intros-tips-and-samples-for-2024/"><u>Crafting Compelling Podcast Intros  Tips & Samples for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-stories-with-your-gopro-footage/"><u>Crafting Compelling Stories with Your GoPro Footage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/deciphering-the-auto-cut-functionality-in-imovie/"><u>Deciphering the Auto-Cut Functionality in iMovie</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-infinix-hot-30i-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Hot 30i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-11x-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme 11X 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-powerhouse-inside-apples-m1-chip/"><u>In 2024, Understanding the Powerhouse  Inside Apple's M1 Chip</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unending-shutdown-method-how-to-kill-off-youtube-shorts-for-2024/"><u>Unending Shutdown Method  How to Kill Off Youtube Shorts for 2024</u></a></li>
+</ul></div>

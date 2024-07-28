@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Blur the Boundaries  Techniques to Mask Faces in Photos\""
-date: 2024-05-24T12:38:51.939Z
-updated: 2024-05-25T12:38:51.939Z
+date: 2024-07-27T04:58:08.078Z
+updated: 2024-07-28T04:58:08.078Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Blur the Boundaries: Techniques to Mask Faces in Photos\""
 excerpt: "\"This Article Describes In 2024, Blur the Boundaries: Techniques to Mask Faces in Photos\""
 keywords: "FaceMaskingTechniques,BlurImageFaces,PhotoAnonymization,ImageHidingMethods,BoundaryBlurringPhotography,AnonymousPhotoTechniques,PrivacyEnhancingImagery"
-thumbnail: https://www.lifewire.com/thmb/ZjIgMgJlgfoVMsaKHYF11SvqERo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec185562726cc3d8ded22c5ffb968132.jpg
 ---
 
 ## Blur the Boundaries: Techniques to Mask Faces in Photos
@@ -38,6 +38,9 @@ Pixelating a face on a digital image involves reducing its resolution by replaci
 
 03 [How to Pixelate Faces on Your Video Using Filmora](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Should We Pixelate Face on Photo/Video?
 
 There are several reasons that you might need to pixelate a face on a photo or video. They include:
@@ -178,6 +181,9 @@ Menus and option text are too small.
 
 You can pixelate a face in your photo with Pixelied, a free online editing app. You only need to open the tool on your web browser and upload the photo you want to pixelate. To select the face you want to pixelate, click and drag the specific area. You then have to choose the pixelation Block size for this area and hit the Censor button. The tool allows you to download your image as a BMP, PNG, or JPEG.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Pixelied](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-7.png)
 
 ##### Pros
@@ -216,6 +222,9 @@ The selection tool is not very precise
 
 Developed by Serif Ltd. for Windows, macOS, and iOS, Affinity Photo is a popular raster graphics editor. The program costs $21.99 on iPad and $54.99 on Mac and Windows. It can perform very advanced image editing tasks: There is no task that is too small or too big for this robust photo editor. You can adjust exposure, pixelate a face in a photo, and more. Together with Affinity Publisher and Affinity Designer, it's part of the Affinity suite. You can also use Affinity Photo to pixelate faces on photos.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Affinity Photo](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-9.png)
 
 ##### Pros
@@ -246,6 +255,9 @@ Step 4: Click on your footage. Then, navigate to the upper left and Hit the Effe
 
 Step 5: Go to the drop-down menu on the left and find Utility. Now, click Mosaic.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-10.png)
 
 Step 6: Drag to the timeline above the footage you are working on. You'll see a small blurred area in the middle of your preview screen.
@@ -258,6 +270,9 @@ Step 9: Click on the blurred mosaic layer and go to the upper left side of your 
 
 Step 10: You'll see six different Mosaics that you can choose from; select the pixelated option. Choosing this option will immediately pixelate the face with the mosaic layer.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face in video with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-11.png)
 
 Step 11: You can adjust the pixelation size by increasing or decreasing the blur amount.
@@ -310,6 +325,9 @@ If you are looking to pixelate a face in your photo, here are some tools that yo
 
 Launched in October 2006, LunaPic is an easy-to-use online platform that allows you to upload your image and pixelate a face. You can also share your image with the site using a URL. It's free to use this tool, and you don't need to log in, signup, or install anything to use it.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![pixelate face - Lunapic](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-1.png)
 
 ##### Pros
@@ -386,6 +404,9 @@ You cannot use the tool offline
 
 This free-to-use image editor is designed for anonymizing images. It allows you to pixelate faces on photos to hide the identity of someone whom you don't want viewers to see in the picture. The tool is browser-based, meaning that you have to be online to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Facepixelizer](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-5.png)
 
 ##### Pros
@@ -514,6 +535,10 @@ Step 12: Adjusting the opacity allows you to decide how transparent you want the
 
 Step 13: Once you are satisfied with your edits, click File at the upper left side of your screen and choose Save Project As or Save Project to save your video. The Save Project As option allows you to select the destination to save your project, while the Save Project saves it to the default folder.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 ● You can use the above tools to pixelate faces on images if you want to hide the identity of someone. Use Filmora whenever you need to pixelate faces on your videos. This program is easy-to-use and designed to make video editing fun.
@@ -556,6 +581,9 @@ If you are looking to pixelate a face in your photo, here are some tools that yo
 
 Launched in October 2006, LunaPic is an easy-to-use online platform that allows you to upload your image and pixelate a face. You can also share your image with the site using a URL. It's free to use this tool, and you don't need to log in, signup, or install anything to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face - Lunapic](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-1.png)
 
 ##### Pros
@@ -582,6 +610,9 @@ You can also use Adobe Photoshop to pixelate a face on your photo on Mac and Win
 2. Use the Marquee tool to select the face you want to pixelate.
 3. Select the Filter option, then Pixelate. Now, choose the Mosaic option to start the pixelation process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![pixelate face with adobe photoshop](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-2.png)
 
 1. The Cell Size slider allows you to increase the pixelation effect. Apply it by hitting the OK button.
@@ -612,6 +643,9 @@ The toolbar is less-detailed
 
 This free photo editor allows you to create fun effects with your pictures. You only have to upload the photo that you want to edit and apply the pixelation effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using photofunny to pixelate face](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-4.png)
 
 ##### Pros
@@ -632,6 +666,9 @@ You cannot use the tool offline
 
 This free-to-use image editor is designed for anonymizing images. It allows you to pixelate faces on photos to hide the identity of someone whom you don't want viewers to see in the picture. The tool is browser-based, meaning that you have to be online to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face - Facepixelizer](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-5.png)
 
 ##### Pros
@@ -650,6 +687,9 @@ Sometimes, the tool does not catch tilted faces or those looking to the side.
 
 Officially launched in December 2010, Skitch by Evernote is a simple tool designed for Mac. One of the main features of this app is to pixelate part of an image. You can get this application on the App Store for free.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Skitch](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-6.png)
 
 ##### Pros
@@ -670,6 +710,9 @@ Menus and option text are too small.
 
 You can pixelate a face in your photo with Pixelied, a free online editing app. You only need to open the tool on your web browser and upload the photo you want to pixelate. To select the face you want to pixelate, click and drag the specific area. You then have to choose the pixelation Block size for this area and hit the Censor button. The tool allows you to download your image as a BMP, PNG, or JPEG.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Pixelied](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-7.png)
 
 ##### Pros
@@ -708,6 +751,9 @@ The selection tool is not very precise
 
 Developed by Serif Ltd. for Windows, macOS, and iOS, Affinity Photo is a popular raster graphics editor. The program costs $21.99 on iPad and $54.99 on Mac and Windows. It can perform very advanced image editing tasks: There is no task that is too small or too big for this robust photo editor. You can adjust exposure, pixelate a face in a photo, and more. Together with Affinity Publisher and Affinity Designer, it's part of the Affinity suite. You can also use Affinity Photo to pixelate faces on photos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face - Affinity Photo](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-9.png)
 
 ##### Pros
@@ -756,6 +802,9 @@ Step 11: You can adjust the pixelation size by increasing or decreasing the blur
 
 Step 12: Adjusting the opacity allows you to decide how transparent you want the blurred effect layer to be. Set it at 100 if you want the face to be unrecognizable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face in video using Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-12.png)
 
 Step 13: Once you are satisfied with your edits, click File at the upper left side of your screen and choose Save Project As or Save Project to save your video. The Save Project As option allows you to select the destination to save your project, while the Save Project saves it to the default folder.
@@ -776,6 +825,9 @@ Pixelating a face on a digital image involves reducing its resolution by replaci
 
 03 [How to Pixelate Faces on Your Video Using Filmora](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Why Should We Pixelate Face on Photo/Video?
 
 There are several reasons that you might need to pixelate a face on a photo or video. They include:
@@ -792,6 +844,9 @@ You can pixelate face on your photo or video if someone accidentally ends up in 
 
 You can pixelate face on a video or photo to make the subject stand out. In turn, this allows viewers to focus on the area you want them to.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8 Useful Tools to Pixelate Faces on Photos
 
 You can find tools online that can help you pixelate faces on pictures. There are also programs for Mac and Windows that allow you to pixelate parts of an image.
@@ -828,6 +883,14 @@ You can also use Adobe Photoshop to pixelate a face on your photo on Mac and Win
 2. Use the Marquee tool to select the face you want to pixelate.
 3. Select the Filter option, then Pixelate. Now, choose the Mosaic option to start the pixelation process.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![pixelate face with adobe photoshop](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-2.png)
 
 1. The Cell Size slider allows you to increase the pixelation effect. Apply it by hitting the OK button.
@@ -858,6 +921,9 @@ The toolbar is less-detailed
 
 This free photo editor allows you to create fun effects with your pictures. You only have to upload the photo that you want to edit and apply the pixelation effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![using photofunny to pixelate face](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-4.png)
 
 ##### Pros
@@ -878,6 +944,9 @@ You cannot use the tool offline
 
 This free-to-use image editor is designed for anonymizing images. It allows you to pixelate faces on photos to hide the identity of someone whom you don't want viewers to see in the picture. The tool is browser-based, meaning that you have to be online to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face - Facepixelizer](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-5.png)
 
 ##### Pros
@@ -896,6 +965,9 @@ Sometimes, the tool does not catch tilted faces or those looking to the side.
 
 Officially launched in December 2010, Skitch by Evernote is a simple tool designed for Mac. One of the main features of this app is to pixelate part of an image. You can get this application on the App Store for free.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![pixelate face - Skitch](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-6.png)
 
 ##### Pros
@@ -916,6 +988,10 @@ Menus and option text are too small.
 
 You can pixelate a face in your photo with Pixelied, a free online editing app. You only need to open the tool on your web browser and upload the photo you want to pixelate. To select the face you want to pixelate, click and drag the specific area. You then have to choose the pixelation Block size for this area and hit the Censor button. The tool allows you to download your image as a BMP, PNG, or JPEG.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![pixelate face - Pixelied](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-7.png)
 
 ##### Pros
@@ -936,6 +1012,9 @@ Offers limited functionality
 
 Available for Linux, Microsoft Windows, and macOS, GIMP is a freely distributed program used for image photo retouching, image authoring, and image composition. You can also use this tool to pixelate part of an image, including the face.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - GIMP](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-8.png)
 
 ##### Pros
@@ -954,6 +1033,9 @@ The selection tool is not very precise
 
 Developed by Serif Ltd. for Windows, macOS, and iOS, Affinity Photo is a popular raster graphics editor. The program costs $21.99 on iPad and $54.99 on Mac and Windows. It can perform very advanced image editing tasks: There is no task that is too small or too big for this robust photo editor. You can adjust exposure, pixelate a face in a photo, and more. Together with Affinity Publisher and Affinity Designer, it's part of the Affinity suite. You can also use Affinity Photo to pixelate faces on photos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face - Affinity Photo](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-9.png)
 
 ##### Pros
@@ -984,6 +1066,9 @@ Step 4: Click on your footage. Then, navigate to the upper left and Hit the Effe
 
 Step 5: Go to the drop-down menu on the left and find Utility. Now, click Mosaic.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-10.png)
 
 Step 6: Drag to the timeline above the footage you are working on. You'll see a small blurred area in the middle of your preview screen.
@@ -996,16 +1081,25 @@ Step 9: Click on the blurred mosaic layer and go to the upper left side of your 
 
 Step 10: You'll see six different Mosaics that you can choose from; select the pixelated option. Choosing this option will immediately pixelate the face with the mosaic layer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![pixelate face in video with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-11.png)
 
 Step 11: You can adjust the pixelation size by increasing or decreasing the blur amount.
 
 Step 12: Adjusting the opacity allows you to decide how transparent you want the blurred effect layer to be. Set it at 100 if you want the face to be unrecognizable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face in video using Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-12.png)
 
 Step 13: Once you are satisfied with your edits, click File at the upper left side of your screen and choose Save Project As or Save Project to save your video. The Save Project As option allows you to select the destination to save your project, while the Save Project saves it to the default folder.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 ● You can use the above tools to pixelate faces on images if you want to hide the identity of someone. Use Filmora whenever you need to pixelate faces on your videos. This program is easy-to-use and designed to make video editing fun.
@@ -1034,3 +1128,57 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-essential-techniques-to-elevate-your-channels-visibility/"><u>[New] 2024 Approved  Essential Techniques to Elevate Your Channel's Visibility</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-asus-unleashed-the-mg28uq-review-of-high-definition-vision/"><u>[New] ASUS Unleashed - The MG28UQ Review of High-Definition Vision</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mediamatters-size-your-content-for-stellar-instagram/"><u>[New] MediaMatters  Size Your Content for Stellar Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleash-creativity-on-instagrams-reels-frontier/"><u>[New] Unleash Creativity on Instagram's Reels Frontier</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-best-twitter-gif-saver-for-you/"><u>[Updated] 2024 Approved  Best Twitter GIF Saver for You</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enrich-user-experience-on-stories-via-interactive-qandas/"><u>[Updated] 2024 Approved  Enrich User Experience on Stories via Interactive Q&As</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-look-at-djis-quadcopter-standard-flight/"><u>[Updated] A Comprehensive Look at DJI's Quadcopter Standard Flight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beginners-blueprint-for-speedy-video-on-snapchat/"><u>[Updated] Beginner’s Blueprint for Speedy Video on Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-action-cameras-with-image-stabilization/"><u>[Updated] Best Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-of-the-best-trivia-channels/"><u>[Updated] Best of the Best  Trivia Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-your-iphones-visual-impact-with-diy-photo-collage-methods/"><u>[Updated] Boost Your iPhone's Visual Impact with DIY Photo Collage Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-conceptualizing-and-realizing-a-podcast-rss-strategy/"><u>[Updated] Conceptualizing and Realizing a Podcast RSS Strategy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-expert-methods-for-weaving-in-live-streaming-content-online/"><u>[Updated] Expert Methods for Weaving in Live Streaming Content Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-stealth-instagram-story-viewing-guide-for-desktops-android-and-ios/"><u>[Updated] In 2024, Stealth Instagram Story Viewing Guide for Desktops, Android & iOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-masters-picks-highest-rated-cards-for-streaming-on-youtube/"><u>[Updated] Master's Picks  Highest Rated Cards for Streaming on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-personalizing-windows-11-backgrounds-easily/"><u>[Updated] Personalizing Windows 11 Backgrounds Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-samsung-galaxy-s8-4k-smartphone-review/"><u>[Updated] Samsung Galaxy S8 4K Smartphone Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-guide-for-aspiring-graders-essential-tips-from-these-top-7/"><u>2024 Approved  A Guide for Aspiring Graders  Essential Tips From These Top 7</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-optimizing-income-through-youtube-short-tutorials/"><u>2024 Approved  Optimizing Income Through YouTube Short Tutorials</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sprint-through-time-uncovering-discarded-reddit-content/"><u>2024 Approved  Sprint Through Time  Uncovering Discarded Reddit Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-photos-remove-background-with-ease/"><u>2024 Approved  Transforming Photos  Remove Background with Ease</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-smart-7-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Smart 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breakthrough-tactics-for-improved-voice-identity-in-pubg/"><u>Breakthrough Tactics for Improved Voice Identity in PUBG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brilliant-obsidian-structure-for-clear-notes/"><u>Brilliant Obsidian Structure for Clear Notes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/catalog-films-for-streamlined-playback/"><u>Catalog Films for Streamlined Playback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/charting-a-course-through-public-domain-landmarks-for-2024/"><u>Charting a Course Through Public Domain Landmarks for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-fullscreen-guide-in-premiere-pro-for-2024/"><u>Comprehensive Fullscreen Guide in Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-the-best-streamers-for-real-time-tv/"><u>Discovering the Best Streamers for Real-Time TV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-animation-with-windows-movie-maker/"><u>How to Make Animation with Windows Movie Maker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-pova-5-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Pova 5 Pro?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-zero-5g-2023-turbo-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Zero 5G 2023 Turbo Without PUK Codes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-accessible-gamers-soundtrack-without-restrictions/"><u>In 2024, Accessible Gamers' Soundtrack Without Restrictions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-auditory-illusions-video-meets-apple-music/"><u>In 2024, Auditory Illusions  Video Meets Apple Music</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-caption-crafting-select-writing-apps-for-your-photos/"><u>In 2024, Caption Crafting  Select Writing Apps for Your Photos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-xr-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone XR with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrating-soundscape-and-aesthetics-in-windows-photos-app-for-2024/"><u>Integrating Soundscape and Aesthetics in Windows Photos App for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-digital-realm-uploading-with-premiere-and-youtube-for-2024/"><u>Navigating the Digital Realm  Uploading with Premiere & YouTube for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-camouflage-blurring-faces-on-demand/"><u>Quick Camouflage  Blurring Faces on Demand</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-xs-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone XS Max Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/saturation-savvy-professionals-secrets-revealed/"><u>Saturation Savvy  Professionals' Secrets Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sea-to-sea-recording-best-action-cameras-for-anglers/"><u>Sea-to-Sea Recording  Best Action Cameras for Anglers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-strategies-downloading-audio-on-iphones/"><u>Step-by-Step Strategies  Downloading Audio on iPhones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-lengthening-gopros-electric-life/"><u>Strategies for Lengthening GoPro's Electric Life</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essentials-of-elevating-your-youtube-entrance-ranks/"><u>The Essentials of Elevating Your Youtube Entrance Ranks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-evolution-and-alternatives-to-googles-ar-stickers/"><u>The Evolution and Alternatives to Google's AR Stickers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-clearcut-technique-for-backdrop-free-imagery/"><u>The Ultimate Clearcut Technique for Backdrop-Free Imagery</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-overcoming-black-screen-on-store-app/"><u>Tips for Overcoming Black Screen on Store App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-free-speech-to-text-apps-for-mac-you-need-to-try/"><u>Top Free Speech to Text Apps for Mac You Need to Try</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+</ul></div>

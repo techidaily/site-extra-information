@@ -1,7 +1,7 @@
 ---
 title: "\"Accelerating or Decelerating  Mastering Snapchat's Timeline Controls for 2024\""
-date: 2024-05-24T12:15:14.179Z
-updated: 2024-05-25T12:15:14.179Z
+date: 2024-07-27T04:16:04.861Z
+updated: 2024-07-28T04:16:04.861Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Accelerating or Decelerating: Mastering Snapchat's Timeline Controls for 2024\""
 excerpt: "\"This Article Describes Accelerating or Decelerating: Mastering Snapchat's Timeline Controls for 2024\""
 keywords: "Snapchat TimeControl,SnapSpeedAdjustment,FastSnapShift,TimeSnapTweak,SnapPaceManage,QuickSnapChange,SnapTimelineAlter"
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Accelerating or Decelerating: Mastering Snapchat's Timeline Controls
@@ -48,6 +48,9 @@ Step4 See the preview of the video you clicked at a higher speed. If satisfied, 
 
 Snapchat users can use the speed-up videos feature available. But that is not where it ends with Snapchat regarding speed-based changes. The following are some notable functions available on Snapchat related to speed adjustment.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Reverse video
 
 You can use the Reverse video speed option, represented with 3 left-pointing arrows. In the Speed Modifier filters, you can click the rewind icon, which comes with a curved arrow in the bottom direction. The speed of the video here is regular, but the content plays in Reverse.
@@ -60,16 +63,25 @@ Step1 Launch your Snapchat app on your phone.
 
 Step2 Hold your finger down on the Record button to record your video. Then, release it if you are done and the video will develop. You can add other editing elements like text, stickers, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hold your finger down on the record button](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-3.jpg)
 
 Step3 On the screen, swipe left. Multiple visual filter options will appear. Keep swiping on them until you see the fifth filter (granted, you have 4 visual filters). The motion filters will appear next.
 
 Step4 Swipe until you reach the icon with three reverse arrows. You typically have to swipe 7 times in total to reach this option. The video will play in Reverse in the preview.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![icon with three reverse arrows](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-4.jpg)
 
 Step5 Click the Next button to share or save offline.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Snail
 
 This is the option for the slow-motion effect where the speed of the video is lower. The audio effect sounds low-pitched. The icon for this slo-mo function in the matter of **how to change speed of the Snapchat video** is shaped like a snail.
@@ -84,6 +96,10 @@ Step3 Swipe on the screen to the right. Keep swiping until you reach the slide w
 
 Step4 Keep swiping until you reach the Snail icon. This is the slow-mo filter on Snapchat. You will see the video is playing in slow-motion.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![reach the snail icon](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-5.jpg)
 
 Step5 Then, tap on Next to share or the Download icon to save the video into your Snaps library.
@@ -122,6 +138,9 @@ Alternatively, right-click on the top of the video clip and choose the Speed ico
 
 Or, you can click on the Speed icon from the top toolbar and select Speed Ramping.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select speed ramping](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-6.jpg)
 
 Step4 On the panel for Speed Ramping, click on the Customize icon if you want to set your personalized keyframe-based speed ramp. Or, choose the preset options like Hero Moment, Montage, Bullet time, Flash In, Jumper, and Flash Out.
@@ -156,14 +175,23 @@ Alternatively, right-click on the top of the video clip and choose the Speed ico
 
 Or, you can click on the Speed icon from the top toolbar and select Speed Ramping.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select speed ramping](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-6.jpg)
 
 Step4 On the panel for Speed Ramping, click on the Customize icon if you want to set your personalized keyframe-based speed ramp. Or, choose the preset options like Hero Moment, Montage, Bullet time, Flash In, Jumper, and Flash Out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![click on the customize icon](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-7.jpg)
 
 Step5 Next, on the editor timeline, place your playhead at the point where you want the speed-up action to start. Tap on the Add icon to include the speed keyframes. Then, the software will automatically mark the Speed Ramping function on your chosen function.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![place the playhead](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-8.jpg)
 
 You can further drag the keyframe dot downward or upward to decide the point speed or adjust the keyframe speed. Also, adjust the audio pitch as per the changes.
@@ -204,3 +232,49 @@ Image/Steps URL for Filmora- <https://filmora.wondershare.com/guide/speed-rampin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-full-screen-in-obs-no-more-worry/"><u>[New] In 2024, Full Screen in Obs, No More Worry</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2023s-leading-vr-game-development-tools/"><u>[Updated] 2023'S Leading VR Game Development Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mov-file-saving-techniques-for-windows-11-users/"><u>[Updated] 2024 Approved  .MOV File Saving Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tailoring-igtv-titles-and-summaries-for-impact/"><u>[Updated] 2024 Approved  Tailoring IGTV Titles & Summaries for Impact</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2024s-guide-to-cutting-edge-cost-effective-storage/"><u>[Updated] 2024’S Guide to Cutting-Edge, Cost-Effective Storage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-in-depth-investigation-into-androids-adobe-lightroom/"><u>[Updated] An In-Depth Investigation Into Android's Adobe Lightroom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-expert-techniques-for-video-magic/"><u>[Updated] Behind the Scenes  Expert Techniques for Video Magic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blueprinting-a-buzz-creating-movie-snippet/"><u>[Updated] Blueprinting a Buzz-Creating Movie Snippet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-sound-painting-on-snapchat-shift-your-vocal-landscape-swiftly/"><u>[Updated] Sound Painting on Snapchat  Shift Your Vocal Landscape Swiftly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-the-6th-richest-strategies-for-successful-ig/"><u>[Updated] Unlock the 6Th Richest Strategies for Successful IG</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-best-5-second-lapses-recorder-top-pick/"><u>2024 Approved  Best 5-Second Lapses Recorder - Top Pick</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>2024 Approved  Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-cinematic-brilliance-in-motion-kinemaster-techniques/"><u>2024 Approved  Cinematic Brilliance in Motion  Kinemaster Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-walkthrough-of-wmps-cd-handling/"><u>2024 Approved  Comprehensive Walkthrough of WMP's CD Handling</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-excellent-live-broadcast-achieving-ultra-hd-fb-video/"><u>2024 Approved  Excellent Live Broadcast  Achieving Ultra-HD FB Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-study-of-silliness-the-goofy-narrative-unpacked-for-2024/"><u>A Study of Silliness  The Goofy Narrative Unpacked for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amplifying-obs-visual-appeal-with-free-high-quality-luts-for-2024/"><u>Amplifying OBS Visual Appeal with Free, High-Quality LUTs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breathtaking-judgment-and-variant-proposals/"><u>Breathtaking Judgment & Variant Proposals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-composition-ideal-plugins-and-websites-to-frame-your-images-for-2024/"><u>Capture Composition  Ideal Plugins and Websites to Frame Your Images for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-save-and-access-your-shots-seamlessly-with-free-and-paid-cloud-options-for-2024/"><u>Capture, Save and Access Your Shots Seamlessly with Free & Paid Cloud Options for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-top-free-players-vlc-or-mpc-for-2024/"><u>Comparing Top Free Players  VLC or MPC for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparing-top-titles-magix-video-pro-x-among-others/"><u>Comparing Top Titles  Magix Video Pro X Among Others</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-data-rescue-tool-universal-data-restoration-software/"><u>Comprehensive Data Rescue Tool: Universal Data Restoration Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-vivid-visuals-selecting-the-best-11-tutorials-for-2024/"><u>Crafting Vivid Visuals  Selecting the Best 11 Tutorials for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-pick-prime-drone-gimbals/"><u>Expert Pick  Prime Drone Gimbals</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-announces-its-new-company-identity-as-meta/"><u>Facebook Announces Its New Company Identity as Meta</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-shop-for-the-cheapest-cloud-storage-step-by-step/"><u>How to Shop for the Cheapest Cloud Storage, Step by Step</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-start-kit-top-gopro-supplementary-gear/"><u>Ideal Start Kit  Top GoPro Supplementary Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-tech-the-best-vr-gadgets-rated/"><u>Immersive Tech  The Best VR Gadgets Rated</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>In 2024, Artistry in Your Pocket  The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-macbook-webcam-recording-tutorial/"><u>In 2024, MacBook Webcam Recording Tutorial</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-transform-stories-in-a-flash-free-extensions-and-mobile-magic/"><u>In 2024, Transform Stories in a Flash – Free Extensions & Mobile Magic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigate-nearby-landscapes-on-roblox-easily/"><u>Navigate Nearby Landscapes on Roblox Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-tips-to-create-impactful-and-stunning-gopro-time-lapses/"><u>Pro Tips to Create Impactful and Stunning GoPro Time-Lapses</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-vr-marketing-manifesto/"><u>Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tech-picks-leading-drone-gimbals/"><u>Tech Picks  Leading Drone Gimbals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thank-you-in-motion-templates-for-every-budget-level/"><u>Thank You in Motion  Templates for Every Budget Level</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-g42-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia G42 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unleash-creativity-capturing-quality-videos-on-logitech-for-2024/"><u>Unleash Creativity  Capturing Quality Videos on Logitech for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-most-innovative-metaverse-visors-and-wearables/"><u>Unveiling the Most Innovative Metaverse Visors & Wearables</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>Updated 2024 Approved How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Cutting-Edge Techniques for Video Production in Windows Photos\""
-date: 2024-07-07T02:24:21.625Z
-updated: 2024-07-08T02:24:21.625Z
+date: 2024-07-27T05:41:33.114Z
+updated: 2024-07-28T05:41:33.114Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,9 @@ Downloading Photos App will add Story Remix to your system for brilliant video e
 
 Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
 
 ## Part 2: How to create Story Remix automatically and randomly
@@ -61,11 +64,18 @@ How to create a Story Remix project automatically –
    2. You got to choose the image and videos and click **New video**. Then choose Automatic video with music.
    3. Give a name and tap on **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
 
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
    2. You can rearrange the content by tapping **Remix it for me** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
 ## Part 3: How to create a Story Remix project from scratch
@@ -76,6 +86,10 @@ Here is the guide –
    2. Hit **Video project** and pick out the images/videos you wish.
    3. Tap on the **Add** button and give a name.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
 
 1. Hit on **Create video** afterwards.
@@ -87,6 +101,9 @@ Story Remix has 3 major sections namely, media bin consists of files already inc
 
 In the following sections, we have segregated each editing feature of Story Mix for you to explore –
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding a new theme
 
 A theme is a built-in feature in Photos, just like music, filters, and text styles. Adding a theme does everything on the go.
@@ -94,6 +111,9 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 1. First all the things are added to your timeline followed by adding to the toolbar. Hit on **Themes** subsequently.
 2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
 ### Adding image duration
@@ -104,6 +124,9 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Adding custom text
 
 1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
@@ -117,8 +140,14 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
 2. Preview the changes and click ‘Done’.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
@@ -132,6 +161,9 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 2. Position the effect by dragging/dropping and via preview panel > set the time range for effect > adjust the Y and Z co-ordinates for the effect. Some of the effects are applicable to the whole clip, while some are meant to be placed at particular locations over the clip. Slide on the ‘Attach to a point’ toggle, so it makes the effect move or stay fixed, depending on the object it is fixed to.
 3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
 
 ## Part 6: How to export a Story Remix video
@@ -157,6 +189,9 @@ Why bother for messy and complex video editing tools, when you can get everythin
 
 If you want to edit video, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -175,3 +210,38 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-blending-beats-and-imagery-music-tips-for-instagram/"><u>[New] Blending Beats and Imagery  Music Tips for Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cerebral-showdowns-top-general-knowledge-videos/"><u>[New] Cerebral Showdowns - Top General Knowledge Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-your-storytelling-mastering-the-green-screen-on-instagram/"><u>[Updated] 2024 Approved  Enhance Your Storytelling  Mastering the Green Screen on Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-annual-compilation-of-premium-free-lut-choices/"><u>[Updated] Annual Compilation of Premium Free LUT Choices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-offer-top-business-cloud-solutions/"><u>[Updated] Best Offer  Top Business Cloud Solutions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-master-the-quick-art-of-tiktok-film-rate-for-2024/"><u>[Updated] Master the Quick Art of TikTok Film Rate for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-snappy-narratives-on-the-social-scene-for-2024/"><u>[Updated] Snappy Narratives on the Social Scene for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-slidecast-potential-the-webcam-revolution/"><u>[Updated] Unlocking Slidecast Potential  The Webcam Revolution</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-easy-steps-for-brightening-your-photos/"><u>2024 Approved  10 Easy Steps for Brightening Your Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-20-must-haves-free-copyright-compliant-relaxation-tracks/"><u>2024 Approved  20 Must-Haves  Free, Copyright-Compliant Relaxation Tracks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-unzipping-of-multiple-files-using-windows-tools/"><u>Accelerated Unzipping of Multiple Files Using Windows Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-computers-at-your-fingertips-for-2024/"><u>Advanced Computers at Your Fingertips for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/an-encyclopedia-on-hand-pose-identification-systems/"><u>An Encyclopedia on Hand Pose Identification Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-time-lapses-with-the-best-video-editing-software-for-2024/"><u>Create Stunning Time-Lapses with the Best Video Editing Software for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-soundscape-shaping-techniques-for-pubg-strategists/"><u>Effortless Soundscape Shaping Techniques for PUBG Strategists</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-guide-to-affordable-cross-platform-streamers/"><u>Essential Guide to Affordable, Cross-Platform Streamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/final-cut-pro-unlocked-how-to-edit-for-free/"><u>Final Cut Pro Unlocked  How to Edit for Free</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-7-best-budget-mirrorless-4k-cameras-under-1000/"><u>In 2024, 7 Best Budget Mirrorless 4K Cameras Under $1000</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-apply-stunning-radial-blur-to-enhance-digital-images/"><u>In 2024, Apply Stunning Radial Blur to Enhance Digital Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-every-moment-in-motion-with-polaroids-new-release/"><u>In 2024, Capturing Every Moment in Motion with Polaroid's New Release</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cinema-in-editing-10-snippet-selections/"><u>In 2024, Cinema in Editing  10 Snippet Selections</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-c32-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia C32? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>The Artisan’s Touch  Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-pioneers-guide-to-gopro-and-timelapse-magic/"><u>The Pioneer's Guide to GoPro and Timelapse Magic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-potential-essential-windows-10-skills-review/"><u>Unleash Potential  Essential Windows 10 Skills Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-secrets-of-alluring-vlog-narratives/"><u>Unlocking the Secrets of Alluring Vlog Narratives</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-navigating-the-world-of-public-domain-photography-the-pexels-experience/"><u>Updated In 2024, Navigating the World of Public Domain Photography The Pexels Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-no-loudness-left-behind-a-comprehensive-guide-to-audio-cutting-in-imovie/"><u>Updated No Loudness Left Behind A Comprehensive Guide to Audio Cutting in iMovie</u></a></li>
+<li><a href="https://extra-information.techidaily.com/whispered-wonders-in-video-evaluating-bedtime-story-adaptations/"><u>Whispered Wonders in Video  Evaluating Bedtime Story Adaptations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/xsplit-index-download-and-evaluation-guide/"><u>XSplit Index  Download & Evaluation Guide</u></a></li>
+</ul></div>

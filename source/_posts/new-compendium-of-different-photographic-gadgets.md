@@ -1,7 +1,7 @@
 ---
 title: "[New] Compendium of Different Photographic Gadgets"
-date: 2024-05-24T10:42:08.859Z
-updated: 2024-05-25T10:42:08.859Z
+date: 2024-07-27T01:30:17.947Z
+updated: 2024-07-28T01:30:17.947Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Compendium of Different Photographic Gadgets"
 excerpt: "This Article Describes [New] Compendium of Different Photographic Gadgets"
 keywords: "PhotoTech Inventory,GearGallery Collection,CameraBuddy Listing,LensLibrary Guide,PrimesPortfolio Assortment,SnapEquip Setoverview,FlashForce Compendium"
-thumbnail: https://www.lifewire.com/thmb/i-T7joQomXU0dE-UMLkX448fWkk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Router-vs-Switch-5783607be8cb433e8b6feb68c356866c.jpg
+thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4cf3e7d146e6c0272a50f3335.jpg
 ---
 
 ## Compendium of Different Photographic Gadgets
@@ -39,6 +39,9 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 2. Consumer Video Cameras
 
 ![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
@@ -49,6 +52,101 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ## 3. Pro Consumer Video Camera
 
+![Prosumer camera](https://images.wondershare.com/filmora/article-images/prosumer-video-camera.jpg)
+
+ Next in the list are pro consumer video cameras. Pro consumer cameras lie in between consumer cameras and professional cameras. They are the cameras with smaller form factors than the larger cameras which are usually mounted on the shoulders for big budget TV production. However, the cameras are packed with enough features to grant professional image quality and are sufficient to do just any job.
+
+ Pro consumer video cameras are also fairly expensive and the decent ones range between $1500 and $10,000 – almost a third of what you could spend for fully professional cameras like those used for big budget television works. Despite the high price range and the kind of technology utilized in the manufacture of these cameras, they still come with manual image and audio controls and most of them have external audio inputs.
+
+ The other admirable thing about these cameras is that they offer bigger imaging chips, interchangeable lenses, as well as the versatility to be time code in and out in instances of multi-camera reporting. With all the features and capabilities of these cameras, it becomes really difficult to distinguish them as either pro consumer cameras or professional cameras. Perhaps the most glaring difference between the two sets of cameras is the price. For professional video cameras, you can expect to spend anywhere from $8,000 well up to the regions of $50,000 and sometimes beyond.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4. Super Chip Cameras
+
+![Super chip video cameras](https://images.wondershare.com/filmora/article-images/super-chip-camera.jpg)
+
+ Yet again, there is a set of cameras in between the pro consumer cameras and the professional cameras and we prefer to call them super chip cameras. These cameras are characterized by three distinct factors below:
+
+* Super chip cameras all have imaging chips which are larger than traditional pro video cameras. The imaging chips in these cameras are two to three times bigger than those in traditional pro video cameras.
+* The second factor distinguishing the super chip video cameras is the fact that they come with interchangeable lenses.
+* The third distinguishing factor is the price of the super chip cameras.
+
+ Super chip cameras are primarily packed with big chips and professional features and they are also relatively affordable than the professional cameras. The cost of super chip cameras could be anywhere between **$6,000** and **$20,000**. Some examples of the super chip cameras include some brands of Sony, Cannons Compact and the powerful Panasonic F100 video camera.
+
+ These cameras have the capability to do everything that a traditional program could do, but with the added advantage of achieving the same tasks at relatively affordable rates. They are also ideal for high-end freelance broadcast work and film making.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+## 5. DSLR Video Cameras
+
+![DRSL video camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
+
+ DSLR (Digital Single Lens Reflex) is basically digital photo camera fitted with the ability to take high quality HD videos. The popularity of these cameras has grown in the past few years due to three outstanding characteristics below common to all DSLR cameras:
+
+* They have big imaging chips which lead to high quality images.
+* They have interchangeable lenses which allow for more creative flexibility, making it possible for you to use first-class lenses if you can afford.
+* DSLR cameras are affordable. For instance, with about $3,000 you can purchase a DSLR camera with double image quality considering that this is half of what you would have paid for a dedicated pro consumer video camera.
+
+ At the look of things, it may appear that DSLR cameras is the way to go, considering its features as well as the fact that they are more affordable. However, there are certain limitations you may not like about them. For instance, DSLR cameras are still photo cameras. They were never designed for video and this was an afterthought in their design.
+
+ Again, you will be disappointed to learn that most of the important features presented even on the low video cameras are missing in these cameras. The features absent in DLSR include manual audio control, zebra stripes for judging exposure, speaking to judge focus, and motorized zoom.
+
+ Additionally, DSLR cameras don’t have an XLR audio inputs to allow the use of professional mics and mixes and they also have a limited recording time of just 12 minutes per clip and this is not very encouraging if you are in the middle of recording someone’s wedding vows. Even though there are a number of workarounds and third party applications to help in overcoming these shortcomings, they will only add to the cost and complications of DSLR shooting.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+ The evolution of video cameras has been so incredible that sometimes it is difficult to comprehend how people used to take photos and videos in the early days. The options available back then were very rudimentary compared to what we have at the present times, thanks to advancements in technology as well as the phenomenon growth in the photography industry. Not long ago, the term video camera was used to encompass just a handful of devices which all had similar characteristics. But nowadays, there are many types of video cameras at all budget levels, shapes and sizes and presented below is a quick overview of the types of video cameras available in the market today:
+
+ **_You may also like:_**
+_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
+_[What is Frame Rate](https://tools.techidaily.com/wondershare/filmora/download/)_
+_[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/download/)_
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1. Smartphone
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![ Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
+
+ Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
+
+## 2. Consumer Video Cameras
+
+![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
+
+ Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
+
+ The other characteristic of consumer cameras is that they are smaller and simpler to operate, with most of them being fully automatic. But users still have the versatility to manually adjust other settings such as exposure audio level, focus and white balance amongst others. Unlike their professional counterparts, consumer cameras don’t have extensions to allow for extra audio inputs for professional sound equipment and all of them have fixed lenses with outdated digital revolution.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+## 3. Pro Consumer Video Camera
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prosumer camera](https://images.wondershare.com/filmora/article-images/prosumer-video-camera.jpg)
 
  Next in the list are pro consumer video cameras. Pro consumer cameras lie in between consumer cameras and professional cameras. They are the cameras with smaller form factors than the larger cameras which are usually mounted on the shoulders for big budget TV production. However, the cameras are packed with enough features to grant professional image quality and are sufficient to do just any job.
@@ -71,8 +169,14 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  These cameras have the capability to do everything that a traditional program could do, but with the added advantage of achieving the same tasks at relatively affordable rates. They are also ideal for high-end freelance broadcast work and film making.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. DSLR Video Cameras
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![DRSL video camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
 
  DSLR (Digital Single Lens Reflex) is basically digital photo camera fitted with the ability to take high quality HD videos. The popularity of these cameras has grown in the past few years due to three outstanding characteristics below common to all DSLR cameras:
@@ -87,6 +191,9 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  Additionally, DSLR cameras don’t have an XLR audio inputs to allow the use of professional mics and mixes and they also have a limited recording time of just 12 minutes per clip and this is not very encouraging if you are in the middle of recording someone’s wedding vows. Even though there are a number of workarounds and third party applications to help in overcoming these shortcomings, they will only add to the cost and complications of DSLR shooting.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -112,14 +219,23 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Consumer Video Cameras
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
 
  Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
 
  The other characteristic of consumer cameras is that they are smaller and simpler to operate, with most of them being fully automatic. But users still have the versatility to manually adjust other settings such as exposure audio level, focus and white balance amongst others. Unlike their professional counterparts, consumer cameras don’t have extensions to allow for extra audio inputs for professional sound equipment and all of them have fixed lenses with outdated digital revolution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3. Pro Consumer Video Camera
 
 ![Prosumer camera](https://images.wondershare.com/filmora/article-images/prosumer-video-camera.jpg)
@@ -160,6 +276,9 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  Additionally, DSLR cameras don’t have an XLR audio inputs to allow the use of professional mics and mixes and they also have a limited recording time of just 12 minutes per clip and this is not very encouraging if you are in the middle of recording someone’s wedding vows. Even though there are a number of workarounds and third party applications to help in overcoming these shortcomings, they will only add to the cost and complications of DSLR shooting.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -185,6 +304,9 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Consumer Video Cameras
 
 ![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
@@ -195,6 +317,9 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ## 3. Pro Consumer Video Camera
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prosumer camera](https://images.wondershare.com/filmora/article-images/prosumer-video-camera.jpg)
 
  Next in the list are pro consumer video cameras. Pro consumer cameras lie in between consumer cameras and professional cameras. They are the cameras with smaller form factors than the larger cameras which are usually mounted on the shoulders for big budget TV production. However, the cameras are packed with enough features to grant professional image quality and are sufficient to do just any job.
@@ -205,6 +330,9 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ## 4. Super Chip Cameras
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Super chip video cameras](https://images.wondershare.com/filmora/article-images/super-chip-camera.jpg)
 
  Yet again, there is a set of cameras in between the pro consumer cameras and the professional cameras and we prefer to call them super chip cameras. These cameras are characterized by three distinct factors below:
@@ -217,8 +345,14 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  These cameras have the capability to do everything that a traditional program could do, but with the added advantage of achieving the same tasks at relatively affordable rates. They are also ideal for high-end freelance broadcast work and film making.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5. DSLR Video Cameras
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![DRSL video camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
 
  DSLR (Digital Single Lens Reflex) is basically digital photo camera fitted with the ability to take high quality HD videos. The popularity of these cameras has grown in the past few years due to three outstanding characteristics below common to all DSLR cameras:
@@ -233,79 +367,9 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  Additionally, DSLR cameras don’t have an XLR audio inputs to allow the use of professional mics and mixes and they also have a limited recording time of just 12 minutes per clip and this is not very encouraging if you are in the middle of recording someone’s wedding vows. Even though there are a number of workarounds and third party applications to help in overcoming these shortcomings, they will only add to the cost and complications of DSLR shooting.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
- The evolution of video cameras has been so incredible that sometimes it is difficult to comprehend how people used to take photos and videos in the early days. The options available back then were very rudimentary compared to what we have at the present times, thanks to advancements in technology as well as the phenomenon growth in the photography industry. Not long ago, the term video camera was used to encompass just a handful of devices which all had similar characteristics. But nowadays, there are many types of video cameras at all budget levels, shapes and sizes and presented below is a quick overview of the types of video cameras available in the market today:
-
- **_You may also like:_**
-_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[What is Frame Rate](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/download/)_
-
-## 1. Smartphone
-
-![ Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
-
- Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
-
-## 2. Consumer Video Cameras
-
-![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
-
- Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
-
- The other characteristic of consumer cameras is that they are smaller and simpler to operate, with most of them being fully automatic. But users still have the versatility to manually adjust other settings such as exposure audio level, focus and white balance amongst others. Unlike their professional counterparts, consumer cameras don’t have extensions to allow for extra audio inputs for professional sound equipment and all of them have fixed lenses with outdated digital revolution.
-
-## 3. Pro Consumer Video Camera
-
-![Prosumer camera](https://images.wondershare.com/filmora/article-images/prosumer-video-camera.jpg)
-
- Next in the list are pro consumer video cameras. Pro consumer cameras lie in between consumer cameras and professional cameras. They are the cameras with smaller form factors than the larger cameras which are usually mounted on the shoulders for big budget TV production. However, the cameras are packed with enough features to grant professional image quality and are sufficient to do just any job.
-
- Pro consumer video cameras are also fairly expensive and the decent ones range between $1500 and $10,000 – almost a third of what you could spend for fully professional cameras like those used for big budget television works. Despite the high price range and the kind of technology utilized in the manufacture of these cameras, they still come with manual image and audio controls and most of them have external audio inputs.
-
- The other admirable thing about these cameras is that they offer bigger imaging chips, interchangeable lenses, as well as the versatility to be time code in and out in instances of multi-camera reporting. With all the features and capabilities of these cameras, it becomes really difficult to distinguish them as either pro consumer cameras or professional cameras. Perhaps the most glaring difference between the two sets of cameras is the price. For professional video cameras, you can expect to spend anywhere from $8,000 well up to the regions of $50,000 and sometimes beyond.
-
-## 4. Super Chip Cameras
-
-![Super chip video cameras](https://images.wondershare.com/filmora/article-images/super-chip-camera.jpg)
-
- Yet again, there is a set of cameras in between the pro consumer cameras and the professional cameras and we prefer to call them super chip cameras. These cameras are characterized by three distinct factors below:
-
-* Super chip cameras all have imaging chips which are larger than traditional pro video cameras. The imaging chips in these cameras are two to three times bigger than those in traditional pro video cameras.
-* The second factor distinguishing the super chip video cameras is the fact that they come with interchangeable lenses.
-* The third distinguishing factor is the price of the super chip cameras.
-
- Super chip cameras are primarily packed with big chips and professional features and they are also relatively affordable than the professional cameras. The cost of super chip cameras could be anywhere between **$6,000** and **$20,000**. Some examples of the super chip cameras include some brands of Sony, Cannons Compact and the powerful Panasonic F100 video camera.
-
- These cameras have the capability to do everything that a traditional program could do, but with the added advantage of achieving the same tasks at relatively affordable rates. They are also ideal for high-end freelance broadcast work and film making.
-
-## 5. DSLR Video Cameras
-
-![DRSL video camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
-
- DSLR (Digital Single Lens Reflex) is basically digital photo camera fitted with the ability to take high quality HD videos. The popularity of these cameras has grown in the past few years due to three outstanding characteristics below common to all DSLR cameras:
-
-* They have big imaging chips which lead to high quality images.
-* They have interchangeable lenses which allow for more creative flexibility, making it possible for you to use first-class lenses if you can afford.
-* DSLR cameras are affordable. For instance, with about $3,000 you can purchase a DSLR camera with double image quality considering that this is half of what you would have paid for a dedicated pro consumer video camera.
-
- At the look of things, it may appear that DSLR cameras is the way to go, considering its features as well as the fact that they are more affordable. However, there are certain limitations you may not like about them. For instance, DSLR cameras are still photo cameras. They were never designed for video and this was an afterthought in their design.
-
- Again, you will be disappointed to learn that most of the important features presented even on the low video cameras are missing in these cameras. The features absent in DLSR include manual audio control, zebra stripes for judging exposure, speaking to judge focus, and motorized zoom.
-
- Additionally, DSLR cameras don’t have an XLR audio inputs to allow the use of professional mics and mixes and they also have a limited recording time of just 12 minutes per clip and this is not very encouraging if you are in the middle of recording someone’s wedding vows. Even though there are a number of workarounds and third party applications to help in overcoming these shortcomings, they will only add to the cost and complications of DSLR shooting.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -338,3 +402,55 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-apex-developers-in-the-realm-of-virtual-reality/"><u>[New] Apex Developers in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-createwinfx-movies/"><u>[New] CreateWinFX Movies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-asmr-mics-for-optimal-audio-experience-for-2024/"><u>[New] Essential ASMR Mics for Optimal Audio Experience for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-integrate-youtube-playlists-into-your-site/"><u>[New] How to Integrate YouTube Playlists Into Your Site</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-dual-dimensions-in-display-the-instagram-guide-to-effortless-image-turns/"><u>[New] In 2024, Dual Dimensions in Display  The Instagram Guide to Effortless Image Turns</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inventory-list-a-range-of-video-recording-devices/"><u>[New] Inventory List  A Range of Video Recording Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-your-phones-call-chronicle-iphone-2024/"><u>[New] Your Phone's Call Chronicle - iPhone 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-copyright-free-online-collections-for-games/"><u>[Updated] Copyright-Free Online Collections for Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-subc-from-srt-efficient-actionable-paths/"><u>[Updated] Crafting SUBC From SRT  Efficient, Actionable Paths</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-acquiring-igtv-media-the-comprehensive-guidebook/"><u>[Updated] In 2024, Acquiring IGTV Media  The Comprehensive Guidebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mystery-of-continuous-pauses-in-photo-booths/"><u>[Updated] Mystery of Continuous Pauses in Photo Booths</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-guide-to-incor-written-as-a-python-list-which-represents-the-30-titles-above-the-elements-of-this-list-should-be-strings-that-are-already-comp/"><u>[Updated] Quick Guide to Incor Written as a Python List, Which Represents the 30 Titles Above. The Elements of This List Should Be Strings that Are Already Complete Sentences and Adhere to the Given Constraints. Ensure No Title Exceeds 156 Characters</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleash-creativity-with-these-8-mirrorless-cams-for-video/"><u>[Updated] Unleash Creativity with These 8 Mirrorless Cams For Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-top-tools-for-dynamic-image-background-alterations-for-2024/"><u>10 Top Tools for Dynamic Image Background Alterations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-and-reducing-speed-with-iphone-a-step-by-step-guide/"><u>2024 Approved  Capturing and Reducing Speed with iPhone  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/7-ideas-to-improve-the-unboxing-experience/"><u>7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adobes-photo-jiggle-decrease-enhancing-or-eliminating/"><u>Adobe's Photo Jiggle Decrease  Enhancing or Eliminating?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-6-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 6 How to Bypass?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assemble-creative-gifs-for-online-sharing/"><u>Assemble Creative GIFs for Online Sharing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-and-structure-knowledge-via-mematic-for-2024/"><u>Capture and Structure Knowledge via Mematic for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-life-in-motion-top-mobile-cameras-for-steady-videos/"><u>Capture Life in Motion  Top Mobile Cameras for Steady Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-visual-magic-essential-techniques-for-ps-3d-luts-for-2024/"><u>Crafting Visual Magic  Essential Techniques for PS 3D Luts for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-data-wipe-guides-and-insights-with-stellar/"><u>Expert Data Wipe Guides & Insights with Stellar</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/formula-field-report-game-reviews-for-2024/"><u>FORMULA FIELD REPORT  Game Reviews for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fresh-look-at-sonys-ultra-hd-player-s3700/"><u>Fresh Look at Sony's Ultra HD PLAYER  S3700</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frolicsome-videoland-assessor/"><u>Frolicsome Videoland Assessor</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-google-pixel-7a-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Google Pixel 7a 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmonizing-music-posting-with-legal-standards/"><u>Harmonizing Music Posting with Legal Standards</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-f14-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy F14 5G FRP?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-360-camera-buying-guide-how-to-choose-a-suitable-360-camera-2023-update/"><u>In 2024, 360 Camera Buying Guide  How to Choose a Suitable 360 Camera -2023 Update</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-6-empowering-metaverse-instances-explained/"><u>In 2024, 6 Empowering Metaverse Instances Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-screen-arvr-infused-inspirational-sayings/"><u>In 2024, Beyond the Screen  AR/VR-Infused Inspirational Sayings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-lifes-moments-with-the-virb-ultra-30-an-in-depth-guide/"><u>In 2024, Capturing Life's Moments with the VIRB Ultra 30 – An In-Depth Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-craft-perfect-openings-anywhere-and-anytime/"><u>In 2024, Craft Perfect Openings, Anywhere and Anytime</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-android-a-step-by-step-approach-to-sound-customization/"><u>In 2024, Navigating Android  A Step-by-Step Approach to Sound Customization</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-strategies-for-recording-in-audacity-for-2024/"><u>Innovative Strategies for Recording in Audacity for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mi-drone-reviewed-capturing-landscapes-in-full-resolution/"><u>MI Drone Reviewed  Capturing Landscapes in Full Resolution</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-avi-video-rotators-a-roundup-of-the-best-tools-for-all-platforms/"><u>New In 2024, Free AVI Video Rotators A Roundup of the Best Tools for All Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/spring-into-action-with-augmented-gaming/"><u>Spring Into Action with Augmented Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-podcast-titling-a-step-by-step-guide/"><u>The Art of Podcast Titling  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tickletech-design-easy-entertaining-visuals/"><u>TickleTech  Design Easy, Entertaining Visuals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-5-efforts-crafting-perfect-titles/"><u>Top 5 Efforts  Crafting Perfect Titles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultra-creations-synopsis-studio-25-detailed-analysis-2023/"><u>Ultra Creations Synopsis  Studio 25 Detailed Analysis, 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-the-price-tag-on-youtube-promo/"><u>Understanding the Price Tag on Youtube Promo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-palette-of-possibilities-with-downloadable-spark-ar-luts/"><u>Unlocking the Palette of Possibilities with Downloadable Spark AR LUTs</u></a></li>
+</ul></div>

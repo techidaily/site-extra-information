@@ -1,7 +1,7 @@
 ---
 title: "\"Simplify Images  Remove the Environmental Elements\""
-date: 2024-06-10T18:34:40.380Z
-updated: 2024-06-11T18:34:40.380Z
+date: 2024-07-27T05:02:45.329Z
+updated: 2024-07-28T05:02:45.329Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,14 +37,24 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -109,6 +122,11 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -125,6 +143,9 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -143,6 +164,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -177,3 +201,42 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>[New] Action Cam Showdown  Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-ringtones-roundup-essential-sites/"><u>[New] Best Ringtones Roundup  Essential Sites</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-20-gratis-plus-purchasable-luts-enhance-canon-cams/"><u>[Updated] 20 Gratis + Purchasable LUTs  Enhance Canon Cams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-banish-blurry-footage-keeping-your-gopro-crisp/"><u>[Updated] Banish Blurry Footage  Keeping Your GoPro Crisp</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evenings-reassessment-alternate-vision/"><u>[Updated] Evening's Reassessment  Alternate Vision</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-frame-to-firm-selecting-your-mcn-partner/"><u>[Updated] In 2024, From Frame to Firm  Selecting Your MCN Partner</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-full-circle-clips-iphone-filming-tips/"><u>[Updated] In 2024, Mastering Full-Circle Clips  IPhone Filming Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quick-guide-to-planning-google-meet-sessions/"><u>[Updated] In 2024, Quick Guide to Planning Google Meet Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-essential-users-manual-for-effective-use-of-mobizen-screensaver/"><u>[Updated] In 2024, The Essential User's Manual for Effective Use of Mobizen Screensaver</u></a></li>
+<li><a href="https://games-able.techidaily.com/489plus-innocn-39g1-r-top-refresh-tech/"><u>$489+ InnoCN 39G1 R: Top Refresh Tech</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-s17-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo S17 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-curiosity-with-these-6-video-categories/"><u>2024 Approved  Capture Curiosity with These 6 Video Categories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-capital-breakdown-starting-your-podcast/"><u>2024 Approved  Comprehensive Capital Breakdown  Starting Your Podcast</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-market-mastery-blueprint-strategic-openings/"><u>2024 Approved  Market Mastery Blueprint  Strategic Openings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-look-at-quantum-hdr/"><u>A Comprehensive Look at Quantum HDR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-soft-sound-dissolution-in-audacity/"><u>Achieving Soft Sound Dissolution in Audacity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-ambitions-scouting-the-ultimate-10-songs-for-podcasts/"><u>Auditory Ambitions  Scouting the Ultimate 10 Songs for Podcasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-companions-for-podcast-lovers-activities-and-tasks/"><u>Best Companions for Podcast Lovers  Activities and Tasks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-wirecast-a-guide-to-alternative-software-for-2024/"><u>Beyond WireCast  A Guide to Alternative Software for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chuckle-composer-app-for-2024/"><u>Chuckle Composer App for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-issues-imovies-automatic-dimension-adjustments/"><u>Cutting Edge Issues  IMovie’s Automatic Dimension Adjustments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-interface-mastery-with-these-less-known-windows-11-strategies/"><u>Elevate Your Interface Mastery with These Less-Known Windows 11 Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-display-decoded-examining-samsungs-ue590-monitor/"><u>Elite Display Decoded  Examining Samsung's UE590 Monitor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-daydream-to-reality-a-short-vr-history/"><u>From Daydream to Reality  A Short VR History</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-building-a-robust-spotify-advertising-foundation/"><u>In 2024, Building a Robust Spotify Advertising Foundation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-excellent-micro-photography-videos-step-by-step/"><u>In 2024, Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
+<li><a href="https://extra-information.techidaily.com/live-stream-excellence-which-software-leads-the-pack-vmix-or-wirecast/"><u>Live Stream Excellence  Which Software Leads the Pack? VMix or Wirecast?</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-chat-apps-beyond-facebooks-messages/"><u>Mastering Chat Apps: Beyond Facebook's Messages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-your-experience-with-youtubes-comment-features/"><u>Streamline Your Experience with YouTube's Comment Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-8-filter-trios-for-broadcast-excellence/"><u>Superior 8 Filter Trios for Broadcast Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-amusement-master-memes-with-kapwing/"><u>The Art of Amusement – Master Memes with Kapwing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
+<li><a href="https://driver-install.techidaily.com/third-party-info-unsigned-problem-addressed/"><u>Third-Party Info Unsigned, Problem Addressed</u></a></li>
+</ul></div>

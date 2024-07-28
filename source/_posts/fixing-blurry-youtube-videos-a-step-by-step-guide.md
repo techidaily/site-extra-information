@@ -1,7 +1,7 @@
 ---
 title: "\"Fixing Blurry YouTube Videos  A Step-by-Step Guide\""
-date: 2024-06-27T19:43:03.542Z
-updated: 2024-06-28T19:43:03.542Z
+date: 2024-07-27T04:29:35.464Z
+updated: 2024-07-28T04:29:35.464Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,9 @@ Watching videos on YouTube can be an exhilarating experience. But YouTube video 
 
 Several things can cause Youtube social distortion. They include:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Poor Hardware Performance
 
 Experiencing YouTube videos with green and distorted issues can be annoying. It can be a result of your computer having poor hardware performance. When using your computer, there will always come a point when it will behave unexpectedly and become slow. Running multiple applications on your computer can affect its speed because each application has less memory to use. The more applications run simultaneously, the slower your computer will be.
@@ -50,6 +53,9 @@ Viruses, spyware, and malware can also monitor your activity and take control of
 
 ![what causes youtube video distortion - poor hardware performace](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Outdated Graphics Drivers
 
 Your graphics card type can also determine the performance of your computer. Graphics cards are used to perform nonvisual computations, meaning they are crucial for the general performance of your PC.
@@ -60,12 +66,19 @@ What's more? You have to keep your graphics updated, or your computer won't supp
 
 ![what causes youtube video distortion - Outdated Graphics Drivers](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 3\. Unsafe Third-Party Software
 
 There are tons of helpful and inexpensive programs on the internet, and it can be tempting to install them. But there are numerous reasons you might want to think twice before downloading and installing one. They can result in YouTube videos green and distorted problems.
 
 In addition to third-party programs giving leeway to hackers and containing weaknesses, this software comes with other security risks. The software could have unmaintained codes, which can lead to failure to do what it's supposed to. Its functionality and performance will be obstructed.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![what causes youtube video distortion - Unsafe Third-Party Software](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-3.png)
 
 ### 4\. Outdated Flash
@@ -74,6 +87,9 @@ If you've installed an old version of Flash, it might not work well with your br
 
 ![what causes youtube video distortion - Outdated Flash](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Setting Video Resolution High
 
 Setting the video resolution higher than what your video card or monitor supports can result in YouTube video distortion. If a 4K YouTube video is distorted, this means your PC is not advanced enough to do so.
@@ -86,6 +102,9 @@ You might have noticed that the video is blurred while watching it. You shot the
 
 Resolutions measure the number of pixels used to represent an image. The higher the resolution, the more details you can see in a video. In most cases, videos are shot in 720 or 1080 pixels. High-resolution videos can also help you see small details that are not visible in low-resolution videos.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### \- Reinstall Flash Player
 
 Many people use the latest version of Adobe Flash Player, and even though it is the most stable version, some people cannot see videos on YouTube; this may be because of the Flash Player. If you have updated your browser to the latest version, you will also need to update your Flash Player.
@@ -94,6 +113,9 @@ Many people use the latest version of Adobe Flash Player, and even though it is 
 
 The best way to solve YouTube video distortion is to update your video drivers. Outdated video card drivers could be having bugs that cause your YouTube video distorted. Depending on your card's brand, download the updates to your computer's video card.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disable Hardware Acceleration
 
 To solve YouTube social distortion, you may need to disable hardware acceleration. To do so, you need to go to the YouTube settings of that particular video. On the enable hardware acceleration tab, click close. Next, refresh your page and watch the video. Your video card needs replacing if this fixes the problem. In the meantime, you can watch YouTube videos without hardware acceleration.
@@ -139,6 +161,9 @@ You can make the Heat distortion effect look more realistic by adding the haze e
 
 You can use this effect to zoom in on a certain area of a layer; the Magnify Effect causes the illusion of a lens put over part of an image. You can use this effect to magnify the whole image several times its original size without losing resolution. Essentially, you can change the focal point, size, and shape of this distortion effect.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![create distortion effect with filmora - magnify effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-6.png)
 
 #### Insect Vision Effect
@@ -149,6 +174,381 @@ This effect produces a honeycomb lens pattern. You can use the Iris Bulge settin
 
 The Witness Protection effect allows you to obscure a certain area within the image. You can use this effect to hide serial numbers, watermarks, faces, and text that contains sensitive information.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+![create distortion effect with filmora - witness protection effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-7.png)
+
+#### Mosaic Effect
+
+This effect splits a layer into solid-colored blocks and creates pixelation. You can use the Mosaic effect to conceal text or faces or create the illusion of an image with low resolution. The Vertical Blocks setting allows you to adjust the number of blocks each column has, while the Horizontal Blocks lets you set how many blocks will appear in each row.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+### How to Create Distortion Effects Using Filmora
+
+Creating distortion effects for your video using Filmora is a walk in the park. You only need to follow the steps below:
+
+• Import your video to Filmora's Timeline.
+
+![create distortion effect with filmora - import video](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-8.png)
+
+• Go to the section of the top toolbar and click on Effects. You'll see a list of effects on the left sidebar of your screen. Choose the one you want and click on it to apply the effect to your footage.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+![create distortion effect with filmora - go to effects](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-9.png)
+
+• You can adjust the effect to suit your preference.
+
+## Conclusion
+
+**●** **YouTube video distorted issues** can result from several factors, including PC performance, outdated drivers, and installing unsafe third-party on your PC. You can use video distortion to make your videos stand out or conceal images or text in your video. Filmora allows you to create distortion effects in your video with just a few clicks.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Watching videos on YouTube can be an exhilarating experience. But YouTube video distorted issues can be annoying if you do not know how to resolve them. We'll look at some of the things that can cause YouTube distortion and how to solve these issues.
+
+#### In this article
+
+01 [What Causes YouTube Distortion?](#part1)
+
+02 [How To Solve YouTube Video Distortion?](#part2)
+
+03 [Extra Tips! Create Distortion Effects for Your Video with Filmora](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+## What Causes YouTube Distortion?
+
+Several things can cause Youtube social distortion. They include:
+
+### 1\. Poor Hardware Performance
+
+Experiencing YouTube videos with green and distorted issues can be annoying. It can be a result of your computer having poor hardware performance. When using your computer, there will always come a point when it will behave unexpectedly and become slow. Running multiple applications on your computer can affect its speed because each application has less memory to use. The more applications run simultaneously, the slower your computer will be.
+
+Viruses, spyware, and malware can also monitor your activity and take control of your PC, creating all kinds of complications that reduce performance.
+
+![what causes youtube video distortion - poor hardware performace](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-1.png)
+
+### 2\. Outdated Graphics Drivers
+
+Your graphics card type can also determine the performance of your computer. Graphics cards are used to perform nonvisual computations, meaning they are crucial for the general performance of your PC.
+
+Having outdated Graphics drivers on your PC can result in many problems, including YouTube video distortion. You need a robust graphics card, a suitable driver, and GPU to have stunning graphics on your PC.
+
+What's more? You have to keep your graphics updated, or your computer won't support HD visuals. Therefore, if you are experiencing YouTube social distortion, install the latest GPU driver on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![what causes youtube video distortion - Outdated Graphics Drivers](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+### 3\. Unsafe Third-Party Software
+
+There are tons of helpful and inexpensive programs on the internet, and it can be tempting to install them. But there are numerous reasons you might want to think twice before downloading and installing one. They can result in YouTube videos green and distorted problems.
+
+In addition to third-party programs giving leeway to hackers and containing weaknesses, this software comes with other security risks. The software could have unmaintained codes, which can lead to failure to do what it's supposed to. Its functionality and performance will be obstructed.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![what causes youtube video distortion - Unsafe Third-Party Software](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-3.png)
+
+### 4\. Outdated Flash
+
+If you've installed an old version of Flash, it might not work well with your browser or YouTube. In turn, this can lead to YouTube videos being green and distorted.
+
+![what causes youtube video distortion - Outdated Flash](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-4.png)
+
+### 5\. Setting Video Resolution High
+
+Setting the video resolution higher than what your video card or monitor supports can result in YouTube video distortion. If a 4K YouTube video is distorted, this means your PC is not advanced enough to do so.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How To Solve YouTube Video Distortion?
+
+You might have noticed that the video is blurred while watching it. You shot the video with a camera with a built-in lens with a wide view, and it cannot focus perfectly. Some videos are also shot in low resolution, which is blurry. Sometimes there is also compression, which means you can't see all the picture details. Here are ways to solve YouTube video distortion.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### \- Change Resolution
+
+Resolutions measure the number of pixels used to represent an image. The higher the resolution, the more details you can see in a video. In most cases, videos are shot in 720 or 1080 pixels. High-resolution videos can also help you see small details that are not visible in low-resolution videos.
+
+### \- Reinstall Flash Player
+
+Many people use the latest version of Adobe Flash Player, and even though it is the most stable version, some people cannot see videos on YouTube; this may be because of the Flash Player. If you have updated your browser to the latest version, you will also need to update your Flash Player.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### \- Update Video Drivers
+
+The best way to solve YouTube video distortion is to update your video drivers. Outdated video card drivers could be having bugs that cause your YouTube video distorted. Depending on your card's brand, download the updates to your computer's video card.
+
+### Disable Hardware Acceleration
+
+To solve YouTube social distortion, you may need to disable hardware acceleration. To do so, you need to go to the YouTube settings of that particular video. On the enable hardware acceleration tab, click close. Next, refresh your page and watch the video. Your video card needs replacing if this fixes the problem. In the meantime, you can watch YouTube videos without hardware acceleration.
+
+## Extra Tips! Create Distortion Effects for Your Video with Filmora
+
+As one of the most popular video editing software on the market, Filmora comes with a distortion tool with multiple effects that can make your YouTube video stand out and get more views. You can use the tool to change the behavior and shape of a layer. Let's take a look at some of these distortion effects.
+
+#### Heat Distortion Effect
+
+The Heat distortion effect simulates realistic heat waves, and it features controls for amount, speed, direction, intensity, and much more.
+
+* **Distort Single Axis:** This option will apply the heat distortion effect in a single direction. You can also specify the angle with the Distortion Rotation setting.
+* **Distortion Rotation:** With this setting, you can change the direction of the distortion.
+* **Scale:** The Scale option allows you to set the scale of the distortion.
+* **Diffusion Strength:** You can adjust the blur intensity with this setting.
+* **Diffusion Bias:** High values of the Diffusion Bias makes the blur more prevalent.
+* **Distortion:** This option allows you to set the heat distortion strength on a layer.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+![create distortion effect with filmora - heat distortion effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-5.png)
+
+#### Bulge Effect
+
+This effect wraps your image around a specific point, creating an illusion of a bulging shape that's through the layer. Essentially, the Bulge effect makes your image appear to sink away from viewers or protrude outwards. The depth and size of the bulge depend on the selected options. There are numerous bulge shapes to choose from, and they include:
+
+* **Bulge:** Here, low values pinch the image, while high values stretch the image.
+* **Center:** The center shape moves the bulge focal point around the image frame.
+* **Plateau:** This option generates a flat area but without distortion in the middle of the bulge.
+* **Radius:** The radius option allows you to adjust how big or small the distorted area will be.
+* **Shape:** You can change the shape of the bulge with this option.
+* **Scale X/Y:** With the Scale X/Y, you can alter the bulge ratio along the vertical and horizontal axes. You can stretch or pinch the bulge in a specified direction.
+* **Wrap:** Wrap lets you determine the distortion level at the edges of the frame or layer.
+
+#### Heat Distortion Animation
+
+You can make the Heat distortion effect look more realistic by adding the haze effect or animation. Users can control heat distortion animation movement with the following settings:
+
+* **Wind Speed:** With this setting, you can alter the intensity and speed of movement along the haze effect direction.
+* **Noise Speed:** This setting changes the speed of the heat noise and the haze effect shape.
+* **Wind Direction:** With the Wind Direction setting, you can adjust the haze effect direction.
+
+#### Magnify Effect
+
+You can use this effect to zoom in on a certain area of a layer; the Magnify Effect causes the illusion of a lens put over part of an image. You can use this effect to magnify the whole image several times its original size without losing resolution. Essentially, you can change the focal point, size, and shape of this distortion effect.
+
+![create distortion effect with filmora - magnify effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-6.png)
+
+#### Insect Vision Effect
+
+This effect produces a honeycomb lens pattern. You can use the Iris Bulge setting to add a bulge effect in the cells. What's more? You can change the size of each cell.
+
+#### Witness Protection Effect
+
+The Witness Protection effect allows you to obscure a certain area within the image. You can use this effect to hide serial numbers, watermarks, faces, and text that contains sensitive information.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![create distortion effect with filmora - witness protection effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-7.png)
+
+#### Mosaic Effect
+
+This effect splits a layer into solid-colored blocks and creates pixelation. You can use the Mosaic effect to conceal text or faces or create the illusion of an image with low resolution. The Vertical Blocks setting allows you to adjust the number of blocks each column has, while the Horizontal Blocks lets you set how many blocks will appear in each row.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Create Distortion Effects Using Filmora
+
+Creating distortion effects for your video using Filmora is a walk in the park. You only need to follow the steps below:
+
+• Import your video to Filmora's Timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![create distortion effect with filmora - import video](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-8.png)
+
+• Go to the section of the top toolbar and click on Effects. You'll see a list of effects on the left sidebar of your screen. Choose the one you want and click on it to apply the effect to your footage.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+![create distortion effect with filmora - go to effects](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-9.png)
+
+• You can adjust the effect to suit your preference.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+**●** **YouTube video distorted issues** can result from several factors, including PC performance, outdated drivers, and installing unsafe third-party on your PC. You can use video distortion to make your videos stand out or conceal images or text in your video. Filmora allows you to create distortion effects in your video with just a few clicks.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Watching videos on YouTube can be an exhilarating experience. But YouTube video distorted issues can be annoying if you do not know how to resolve them. We'll look at some of the things that can cause YouTube distortion and how to solve these issues.
+
+#### In this article
+
+01 [What Causes YouTube Distortion?](#part1)
+
+02 [How To Solve YouTube Video Distortion?](#part2)
+
+03 [Extra Tips! Create Distortion Effects for Your Video with Filmora](#part3)
+
+## What Causes YouTube Distortion?
+
+Several things can cause Youtube social distortion. They include:
+
+### 1\. Poor Hardware Performance
+
+Experiencing YouTube videos with green and distorted issues can be annoying. It can be a result of your computer having poor hardware performance. When using your computer, there will always come a point when it will behave unexpectedly and become slow. Running multiple applications on your computer can affect its speed because each application has less memory to use. The more applications run simultaneously, the slower your computer will be.
+
+Viruses, spyware, and malware can also monitor your activity and take control of your PC, creating all kinds of complications that reduce performance.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![what causes youtube video distortion - poor hardware performace](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+### 2\. Outdated Graphics Drivers
+
+Your graphics card type can also determine the performance of your computer. Graphics cards are used to perform nonvisual computations, meaning they are crucial for the general performance of your PC.
+
+Having outdated Graphics drivers on your PC can result in many problems, including YouTube video distortion. You need a robust graphics card, a suitable driver, and GPU to have stunning graphics on your PC.
+
+What's more? You have to keep your graphics updated, or your computer won't support HD visuals. Therefore, if you are experiencing YouTube social distortion, install the latest GPU driver on your PC.
+
+![what causes youtube video distortion - Outdated Graphics Drivers](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-2.png)
+
+### 3\. Unsafe Third-Party Software
+
+There are tons of helpful and inexpensive programs on the internet, and it can be tempting to install them. But there are numerous reasons you might want to think twice before downloading and installing one. They can result in YouTube videos green and distorted problems.
+
+In addition to third-party programs giving leeway to hackers and containing weaknesses, this software comes with other security risks. The software could have unmaintained codes, which can lead to failure to do what it's supposed to. Its functionality and performance will be obstructed.
+
+![what causes youtube video distortion - Unsafe Third-Party Software](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-3.png)
+
+### 4\. Outdated Flash
+
+If you've installed an old version of Flash, it might not work well with your browser or YouTube. In turn, this can lead to YouTube videos being green and distorted.
+
+![what causes youtube video distortion - Outdated Flash](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+### 5\. Setting Video Resolution High
+
+Setting the video resolution higher than what your video card or monitor supports can result in YouTube video distortion. If a 4K YouTube video is distorted, this means your PC is not advanced enough to do so.
+
+## How To Solve YouTube Video Distortion?
+
+You might have noticed that the video is blurred while watching it. You shot the video with a camera with a built-in lens with a wide view, and it cannot focus perfectly. Some videos are also shot in low resolution, which is blurry. Sometimes there is also compression, which means you can't see all the picture details. Here are ways to solve YouTube video distortion.
+
+### \- Change Resolution
+
+Resolutions measure the number of pixels used to represent an image. The higher the resolution, the more details you can see in a video. In most cases, videos are shot in 720 or 1080 pixels. High-resolution videos can also help you see small details that are not visible in low-resolution videos.
+
+### \- Reinstall Flash Player
+
+Many people use the latest version of Adobe Flash Player, and even though it is the most stable version, some people cannot see videos on YouTube; this may be because of the Flash Player. If you have updated your browser to the latest version, you will also need to update your Flash Player.
+
+### \- Update Video Drivers
+
+The best way to solve YouTube video distortion is to update your video drivers. Outdated video card drivers could be having bugs that cause your YouTube video distorted. Depending on your card's brand, download the updates to your computer's video card.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Disable Hardware Acceleration
+
+To solve YouTube social distortion, you may need to disable hardware acceleration. To do so, you need to go to the YouTube settings of that particular video. On the enable hardware acceleration tab, click close. Next, refresh your page and watch the video. Your video card needs replacing if this fixes the problem. In the meantime, you can watch YouTube videos without hardware acceleration.
+
+## Extra Tips! Create Distortion Effects for Your Video with Filmora
+
+As one of the most popular video editing software on the market, Filmora comes with a distortion tool with multiple effects that can make your YouTube video stand out and get more views. You can use the tool to change the behavior and shape of a layer. Let's take a look at some of these distortion effects.
+
+#### Heat Distortion Effect
+
+The Heat distortion effect simulates realistic heat waves, and it features controls for amount, speed, direction, intensity, and much more.
+
+* **Distort Single Axis:** This option will apply the heat distortion effect in a single direction. You can also specify the angle with the Distortion Rotation setting.
+* **Distortion Rotation:** With this setting, you can change the direction of the distortion.
+* **Scale:** The Scale option allows you to set the scale of the distortion.
+* **Diffusion Strength:** You can adjust the blur intensity with this setting.
+* **Diffusion Bias:** High values of the Diffusion Bias makes the blur more prevalent.
+* **Distortion:** This option allows you to set the heat distortion strength on a layer.
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+![create distortion effect with filmora - heat distortion effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-5.png)
+
+#### Bulge Effect
+
+This effect wraps your image around a specific point, creating an illusion of a bulging shape that's through the layer. Essentially, the Bulge effect makes your image appear to sink away from viewers or protrude outwards. The depth and size of the bulge depend on the selected options. There are numerous bulge shapes to choose from, and they include:
+
+* **Bulge:** Here, low values pinch the image, while high values stretch the image.
+* **Center:** The center shape moves the bulge focal point around the image frame.
+* **Plateau:** This option generates a flat area but without distortion in the middle of the bulge.
+* **Radius:** The radius option allows you to adjust how big or small the distorted area will be.
+* **Shape:** You can change the shape of the bulge with this option.
+* **Scale X/Y:** With the Scale X/Y, you can alter the bulge ratio along the vertical and horizontal axes. You can stretch or pinch the bulge in a specified direction.
+* **Wrap:** Wrap lets you determine the distortion level at the edges of the frame or layer.
+
+#### Heat Distortion Animation
+
+You can make the Heat distortion effect look more realistic by adding the haze effect or animation. Users can control heat distortion animation movement with the following settings:
+
+* **Wind Speed:** With this setting, you can alter the intensity and speed of movement along the haze effect direction.
+* **Noise Speed:** This setting changes the speed of the heat noise and the haze effect shape.
+* **Wind Direction:** With the Wind Direction setting, you can adjust the haze effect direction.
+
+#### Magnify Effect
+
+You can use this effect to zoom in on a certain area of a layer; the Magnify Effect causes the illusion of a lens put over part of an image. You can use this effect to magnify the whole image several times its original size without losing resolution. Essentially, you can change the focal point, size, and shape of this distortion effect.
+
+![create distortion effect with filmora - magnify effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-6.png)
+
+#### Insect Vision Effect
+
+This effect produces a honeycomb lens pattern. You can use the Iris Bulge setting to add a bulge effect in the cells. What's more? You can change the size of each cell.
+
+#### Witness Protection Effect
+
+The Witness Protection effect allows you to obscure a certain area within the image. You can use this effect to hide serial numbers, watermarks, faces, and text that contains sensitive information.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create distortion effect with filmora - witness protection effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-7.png)
 
 #### Mosaic Effect
@@ -189,6 +589,18 @@ Watching videos on YouTube can be an exhilarating experience. But YouTube video 
 
 Several things can cause Youtube social distortion. They include:
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Poor Hardware Performance
 
 Experiencing YouTube videos with green and distorted issues can be annoying. It can be a result of your computer having poor hardware performance. When using your computer, there will always come a point when it will behave unexpectedly and become slow. Running multiple applications on your computer can affect its speed because each application has less memory to use. The more applications run simultaneously, the slower your computer will be.
@@ -197,6 +609,9 @@ Viruses, spyware, and malware can also monitor your activity and take control of
 
 ![what causes youtube video distortion - poor hardware performace](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Outdated Graphics Drivers
 
 Your graphics card type can also determine the performance of your computer. Graphics cards are used to perform nonvisual computations, meaning they are crucial for the general performance of your PC.
@@ -215,12 +630,21 @@ In addition to third-party programs giving leeway to hackers and containing weak
 
 ![what causes youtube video distortion - Unsafe Third-Party Software](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Outdated Flash
 
 If you've installed an old version of Flash, it might not work well with your browser or YouTube. In turn, this can lead to YouTube videos being green and distorted.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![what causes youtube video distortion - Outdated Flash](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Setting Video Resolution High
 
 Setting the video resolution higher than what your video card or monitor supports can result in YouTube video distortion. If a 4K YouTube video is distorted, this means your PC is not advanced enough to do so.
@@ -229,10 +653,16 @@ Setting the video resolution higher than what your video card or monitor support
 
 You might have noticed that the video is blurred while watching it. You shot the video with a camera with a built-in lens with a wide view, and it cannot focus perfectly. Some videos are also shot in low resolution, which is blurry. Sometimes there is also compression, which means you can't see all the picture details. Here are ways to solve YouTube video distortion.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### \- Change Resolution
 
 Resolutions measure the number of pixels used to represent an image. The higher the resolution, the more details you can see in a video. In most cases, videos are shot in 720 or 1080 pixels. High-resolution videos can also help you see small details that are not visible in low-resolution videos.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### \- Reinstall Flash Player
 
 Many people use the latest version of Adobe Flash Player, and even though it is the most stable version, some people cannot see videos on YouTube; this may be because of the Flash Player. If you have updated your browser to the latest version, you will also need to update your Flash Player.
@@ -241,6 +671,9 @@ Many people use the latest version of Adobe Flash Player, and even though it is 
 
 The best way to solve YouTube video distortion is to update your video drivers. Outdated video card drivers could be having bugs that cause your YouTube video distorted. Depending on your card's brand, download the updates to your computer's video card.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disable Hardware Acceleration
 
 To solve YouTube social distortion, you may need to disable hardware acceleration. To do so, you need to go to the YouTube settings of that particular video. On the enable hardware acceleration tab, click close. Next, refresh your page and watch the video. Your video card needs replacing if this fixes the problem. In the meantime, you can watch YouTube videos without hardware acceleration.
@@ -260,6 +693,9 @@ The Heat distortion effect simulates realistic heat waves, and it features contr
 * **Diffusion Bias:** High values of the Diffusion Bias makes the blur more prevalent.
 * **Distortion:** This option allows you to set the heat distortion strength on a layer.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![create distortion effect with filmora - heat distortion effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-5.png)
 
 #### Bulge Effect
@@ -296,12 +732,18 @@ This effect produces a honeycomb lens pattern. You can use the Iris Bulge settin
 
 The Witness Protection effect allows you to obscure a certain area within the image. You can use this effect to hide serial numbers, watermarks, faces, and text that contains sensitive information.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create distortion effect with filmora - witness protection effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-7.png)
 
 #### Mosaic Effect
 
 This effect splits a layer into solid-colored blocks and creates pixelation. You can use the Mosaic effect to conceal text or faces or create the illusion of an image with low resolution. The Vertical Blocks setting allows you to adjust the number of blocks each column has, while the Horizontal Blocks lets you set how many blocks will appear in each row.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### How to Create Distortion Effects Using Filmora
 
 Creating distortion effects for your video using Filmora is a walk in the park. You only need to follow the steps below:
@@ -316,300 +758,14 @@ Creating distortion effects for your video using Filmora is a walk in the park. 
 
 • You can adjust the effect to suit your preference.
 
-## Conclusion
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
 
-**●** **YouTube video distorted issues** can result from several factors, including PC performance, outdated drivers, and installing unsafe third-party on your PC. You can use video distortion to make your videos stand out or conceal images or text in your video. Filmora allows you to create distortion effects in your video with just a few clicks.
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Watching videos on YouTube can be an exhilarating experience. But YouTube video distorted issues can be annoying if you do not know how to resolve them. We'll look at some of the things that can cause YouTube distortion and how to solve these issues.
-
-#### In this article
-
-01 [What Causes YouTube Distortion?](#part1)
-
-02 [How To Solve YouTube Video Distortion?](#part2)
-
-03 [Extra Tips! Create Distortion Effects for Your Video with Filmora](#part3)
-
-## What Causes YouTube Distortion?
-
-Several things can cause Youtube social distortion. They include:
-
-### 1\. Poor Hardware Performance
-
-Experiencing YouTube videos with green and distorted issues can be annoying. It can be a result of your computer having poor hardware performance. When using your computer, there will always come a point when it will behave unexpectedly and become slow. Running multiple applications on your computer can affect its speed because each application has less memory to use. The more applications run simultaneously, the slower your computer will be.
-
-Viruses, spyware, and malware can also monitor your activity and take control of your PC, creating all kinds of complications that reduce performance.
-
-![what causes youtube video distortion - poor hardware performace](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-1.png)
-
-### 2\. Outdated Graphics Drivers
-
-Your graphics card type can also determine the performance of your computer. Graphics cards are used to perform nonvisual computations, meaning they are crucial for the general performance of your PC.
-
-Having outdated Graphics drivers on your PC can result in many problems, including YouTube video distortion. You need a robust graphics card, a suitable driver, and GPU to have stunning graphics on your PC.
-
-What's more? You have to keep your graphics updated, or your computer won't support HD visuals. Therefore, if you are experiencing YouTube social distortion, install the latest GPU driver on your PC.
-
-![what causes youtube video distortion - Outdated Graphics Drivers](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-2.png)
-
-### 3\. Unsafe Third-Party Software
-
-There are tons of helpful and inexpensive programs on the internet, and it can be tempting to install them. But there are numerous reasons you might want to think twice before downloading and installing one. They can result in YouTube videos green and distorted problems.
-
-In addition to third-party programs giving leeway to hackers and containing weaknesses, this software comes with other security risks. The software could have unmaintained codes, which can lead to failure to do what it's supposed to. Its functionality and performance will be obstructed.
-
-![what causes youtube video distortion - Unsafe Third-Party Software](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-3.png)
-
-### 4\. Outdated Flash
-
-If you've installed an old version of Flash, it might not work well with your browser or YouTube. In turn, this can lead to YouTube videos being green and distorted.
-
-![what causes youtube video distortion - Outdated Flash](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-4.png)
-
-### 5\. Setting Video Resolution High
-
-Setting the video resolution higher than what your video card or monitor supports can result in YouTube video distortion. If a 4K YouTube video is distorted, this means your PC is not advanced enough to do so.
-
-## How To Solve YouTube Video Distortion?
-
-You might have noticed that the video is blurred while watching it. You shot the video with a camera with a built-in lens with a wide view, and it cannot focus perfectly. Some videos are also shot in low resolution, which is blurry. Sometimes there is also compression, which means you can't see all the picture details. Here are ways to solve YouTube video distortion.
-
-### \- Change Resolution
-
-Resolutions measure the number of pixels used to represent an image. The higher the resolution, the more details you can see in a video. In most cases, videos are shot in 720 or 1080 pixels. High-resolution videos can also help you see small details that are not visible in low-resolution videos.
-
-### \- Reinstall Flash Player
-
-Many people use the latest version of Adobe Flash Player, and even though it is the most stable version, some people cannot see videos on YouTube; this may be because of the Flash Player. If you have updated your browser to the latest version, you will also need to update your Flash Player.
-
-### \- Update Video Drivers
-
-The best way to solve YouTube video distortion is to update your video drivers. Outdated video card drivers could be having bugs that cause your YouTube video distorted. Depending on your card's brand, download the updates to your computer's video card.
-
-### Disable Hardware Acceleration
-
-To solve YouTube social distortion, you may need to disable hardware acceleration. To do so, you need to go to the YouTube settings of that particular video. On the enable hardware acceleration tab, click close. Next, refresh your page and watch the video. Your video card needs replacing if this fixes the problem. In the meantime, you can watch YouTube videos without hardware acceleration.
-
-## Extra Tips! Create Distortion Effects for Your Video with Filmora
-
-As one of the most popular video editing software on the market, Filmora comes with a distortion tool with multiple effects that can make your YouTube video stand out and get more views. You can use the tool to change the behavior and shape of a layer. Let's take a look at some of these distortion effects.
-
-#### Heat Distortion Effect
-
-The Heat distortion effect simulates realistic heat waves, and it features controls for amount, speed, direction, intensity, and much more.
-
-* **Distort Single Axis:** This option will apply the heat distortion effect in a single direction. You can also specify the angle with the Distortion Rotation setting.
-* **Distortion Rotation:** With this setting, you can change the direction of the distortion.
-* **Scale:** The Scale option allows you to set the scale of the distortion.
-* **Diffusion Strength:** You can adjust the blur intensity with this setting.
-* **Diffusion Bias:** High values of the Diffusion Bias makes the blur more prevalent.
-* **Distortion:** This option allows you to set the heat distortion strength on a layer.
-
-![create distortion effect with filmora - heat distortion effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-5.png)
-
-#### Bulge Effect
-
-This effect wraps your image around a specific point, creating an illusion of a bulging shape that's through the layer. Essentially, the Bulge effect makes your image appear to sink away from viewers or protrude outwards. The depth and size of the bulge depend on the selected options. There are numerous bulge shapes to choose from, and they include:
-
-* **Bulge:** Here, low values pinch the image, while high values stretch the image.
-* **Center:** The center shape moves the bulge focal point around the image frame.
-* **Plateau:** This option generates a flat area but without distortion in the middle of the bulge.
-* **Radius:** The radius option allows you to adjust how big or small the distorted area will be.
-* **Shape:** You can change the shape of the bulge with this option.
-* **Scale X/Y:** With the Scale X/Y, you can alter the bulge ratio along the vertical and horizontal axes. You can stretch or pinch the bulge in a specified direction.
-* **Wrap:** Wrap lets you determine the distortion level at the edges of the frame or layer.
-
-#### Heat Distortion Animation
-
-You can make the Heat distortion effect look more realistic by adding the haze effect or animation. Users can control heat distortion animation movement with the following settings:
-
-* **Wind Speed:** With this setting, you can alter the intensity and speed of movement along the haze effect direction.
-* **Noise Speed:** This setting changes the speed of the heat noise and the haze effect shape.
-* **Wind Direction:** With the Wind Direction setting, you can adjust the haze effect direction.
-
-#### Magnify Effect
-
-You can use this effect to zoom in on a certain area of a layer; the Magnify Effect causes the illusion of a lens put over part of an image. You can use this effect to magnify the whole image several times its original size without losing resolution. Essentially, you can change the focal point, size, and shape of this distortion effect.
-
-![create distortion effect with filmora - magnify effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-6.png)
-
-#### Insect Vision Effect
-
-This effect produces a honeycomb lens pattern. You can use the Iris Bulge setting to add a bulge effect in the cells. What's more? You can change the size of each cell.
-
-#### Witness Protection Effect
-
-The Witness Protection effect allows you to obscure a certain area within the image. You can use this effect to hide serial numbers, watermarks, faces, and text that contains sensitive information.
-
-![create distortion effect with filmora - witness protection effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-7.png)
-
-#### Mosaic Effect
-
-This effect splits a layer into solid-colored blocks and creates pixelation. You can use the Mosaic effect to conceal text or faces or create the illusion of an image with low resolution. The Vertical Blocks setting allows you to adjust the number of blocks each column has, while the Horizontal Blocks lets you set how many blocks will appear in each row.
-
-### How to Create Distortion Effects Using Filmora
-
-Creating distortion effects for your video using Filmora is a walk in the park. You only need to follow the steps below:
-
-• Import your video to Filmora's Timeline.
-
-![create distortion effect with filmora - import video](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-8.png)
-
-• Go to the section of the top toolbar and click on Effects. You'll see a list of effects on the left sidebar of your screen. Choose the one you want and click on it to apply the effect to your footage.
-
-![create distortion effect with filmora - go to effects](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-9.png)
-
-• You can adjust the effect to suit your preference.
-
-## Conclusion
-
-**●** **YouTube video distorted issues** can result from several factors, including PC performance, outdated drivers, and installing unsafe third-party on your PC. You can use video distortion to make your videos stand out or conceal images or text in your video. Filmora allows you to create distortion effects in your video with just a few clicks.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Watching videos on YouTube can be an exhilarating experience. But YouTube video distorted issues can be annoying if you do not know how to resolve them. We'll look at some of the things that can cause YouTube distortion and how to solve these issues.
-
-#### In this article
-
-01 [What Causes YouTube Distortion?](#part1)
-
-02 [How To Solve YouTube Video Distortion?](#part2)
-
-03 [Extra Tips! Create Distortion Effects for Your Video with Filmora](#part3)
-
-## What Causes YouTube Distortion?
-
-Several things can cause Youtube social distortion. They include:
-
-### 1\. Poor Hardware Performance
-
-Experiencing YouTube videos with green and distorted issues can be annoying. It can be a result of your computer having poor hardware performance. When using your computer, there will always come a point when it will behave unexpectedly and become slow. Running multiple applications on your computer can affect its speed because each application has less memory to use. The more applications run simultaneously, the slower your computer will be.
-
-Viruses, spyware, and malware can also monitor your activity and take control of your PC, creating all kinds of complications that reduce performance.
-
-![what causes youtube video distortion - poor hardware performace](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-1.png)
-
-### 2\. Outdated Graphics Drivers
-
-Your graphics card type can also determine the performance of your computer. Graphics cards are used to perform nonvisual computations, meaning they are crucial for the general performance of your PC.
-
-Having outdated Graphics drivers on your PC can result in many problems, including YouTube video distortion. You need a robust graphics card, a suitable driver, and GPU to have stunning graphics on your PC.
-
-What's more? You have to keep your graphics updated, or your computer won't support HD visuals. Therefore, if you are experiencing YouTube social distortion, install the latest GPU driver on your PC.
-
-![what causes youtube video distortion - Outdated Graphics Drivers](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-2.png)
-
-### 3\. Unsafe Third-Party Software
-
-There are tons of helpful and inexpensive programs on the internet, and it can be tempting to install them. But there are numerous reasons you might want to think twice before downloading and installing one. They can result in YouTube videos green and distorted problems.
-
-In addition to third-party programs giving leeway to hackers and containing weaknesses, this software comes with other security risks. The software could have unmaintained codes, which can lead to failure to do what it's supposed to. Its functionality and performance will be obstructed.
-
-![what causes youtube video distortion - Unsafe Third-Party Software](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-3.png)
-
-### 4\. Outdated Flash
-
-If you've installed an old version of Flash, it might not work well with your browser or YouTube. In turn, this can lead to YouTube videos being green and distorted.
-
-![what causes youtube video distortion - Outdated Flash](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-4.png)
-
-### 5\. Setting Video Resolution High
-
-Setting the video resolution higher than what your video card or monitor supports can result in YouTube video distortion. If a 4K YouTube video is distorted, this means your PC is not advanced enough to do so.
-
-## How To Solve YouTube Video Distortion?
-
-You might have noticed that the video is blurred while watching it. You shot the video with a camera with a built-in lens with a wide view, and it cannot focus perfectly. Some videos are also shot in low resolution, which is blurry. Sometimes there is also compression, which means you can't see all the picture details. Here are ways to solve YouTube video distortion.
-
-### \- Change Resolution
-
-Resolutions measure the number of pixels used to represent an image. The higher the resolution, the more details you can see in a video. In most cases, videos are shot in 720 or 1080 pixels. High-resolution videos can also help you see small details that are not visible in low-resolution videos.
-
-### \- Reinstall Flash Player
-
-Many people use the latest version of Adobe Flash Player, and even though it is the most stable version, some people cannot see videos on YouTube; this may be because of the Flash Player. If you have updated your browser to the latest version, you will also need to update your Flash Player.
-
-### \- Update Video Drivers
-
-The best way to solve YouTube video distortion is to update your video drivers. Outdated video card drivers could be having bugs that cause your YouTube video distorted. Depending on your card's brand, download the updates to your computer's video card.
-
-### Disable Hardware Acceleration
-
-To solve YouTube social distortion, you may need to disable hardware acceleration. To do so, you need to go to the YouTube settings of that particular video. On the enable hardware acceleration tab, click close. Next, refresh your page and watch the video. Your video card needs replacing if this fixes the problem. In the meantime, you can watch YouTube videos without hardware acceleration.
-
-## Extra Tips! Create Distortion Effects for Your Video with Filmora
-
-As one of the most popular video editing software on the market, Filmora comes with a distortion tool with multiple effects that can make your YouTube video stand out and get more views. You can use the tool to change the behavior and shape of a layer. Let's take a look at some of these distortion effects.
-
-#### Heat Distortion Effect
-
-The Heat distortion effect simulates realistic heat waves, and it features controls for amount, speed, direction, intensity, and much more.
-
-* **Distort Single Axis:** This option will apply the heat distortion effect in a single direction. You can also specify the angle with the Distortion Rotation setting.
-* **Distortion Rotation:** With this setting, you can change the direction of the distortion.
-* **Scale:** The Scale option allows you to set the scale of the distortion.
-* **Diffusion Strength:** You can adjust the blur intensity with this setting.
-* **Diffusion Bias:** High values of the Diffusion Bias makes the blur more prevalent.
-* **Distortion:** This option allows you to set the heat distortion strength on a layer.
-
-![create distortion effect with filmora - heat distortion effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-5.png)
-
-#### Bulge Effect
-
-This effect wraps your image around a specific point, creating an illusion of a bulging shape that's through the layer. Essentially, the Bulge effect makes your image appear to sink away from viewers or protrude outwards. The depth and size of the bulge depend on the selected options. There are numerous bulge shapes to choose from, and they include:
-
-* **Bulge:** Here, low values pinch the image, while high values stretch the image.
-* **Center:** The center shape moves the bulge focal point around the image frame.
-* **Plateau:** This option generates a flat area but without distortion in the middle of the bulge.
-* **Radius:** The radius option allows you to adjust how big or small the distorted area will be.
-* **Shape:** You can change the shape of the bulge with this option.
-* **Scale X/Y:** With the Scale X/Y, you can alter the bulge ratio along the vertical and horizontal axes. You can stretch or pinch the bulge in a specified direction.
-* **Wrap:** Wrap lets you determine the distortion level at the edges of the frame or layer.
-
-#### Heat Distortion Animation
-
-You can make the Heat distortion effect look more realistic by adding the haze effect or animation. Users can control heat distortion animation movement with the following settings:
-
-* **Wind Speed:** With this setting, you can alter the intensity and speed of movement along the haze effect direction.
-* **Noise Speed:** This setting changes the speed of the heat noise and the haze effect shape.
-* **Wind Direction:** With the Wind Direction setting, you can adjust the haze effect direction.
-
-#### Magnify Effect
-
-You can use this effect to zoom in on a certain area of a layer; the Magnify Effect causes the illusion of a lens put over part of an image. You can use this effect to magnify the whole image several times its original size without losing resolution. Essentially, you can change the focal point, size, and shape of this distortion effect.
-
-![create distortion effect with filmora - magnify effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-6.png)
-
-#### Insect Vision Effect
-
-This effect produces a honeycomb lens pattern. You can use the Iris Bulge setting to add a bulge effect in the cells. What's more? You can change the size of each cell.
-
-#### Witness Protection Effect
-
-The Witness Protection effect allows you to obscure a certain area within the image. You can use this effect to hide serial numbers, watermarks, faces, and text that contains sensitive information.
-
-![create distortion effect with filmora - witness protection effect](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-7.png)
-
-#### Mosaic Effect
-
-This effect splits a layer into solid-colored blocks and creates pixelation. You can use the Mosaic effect to conceal text or faces or create the illusion of an image with low resolution. The Vertical Blocks setting allows you to adjust the number of blocks each column has, while the Horizontal Blocks lets you set how many blocks will appear in each row.
-
-### How to Create Distortion Effects Using Filmora
-
-Creating distortion effects for your video using Filmora is a walk in the park. You only need to follow the steps below:
-
-• Import your video to Filmora's Timeline.
-
-![create distortion effect with filmora - import video](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-8.png)
-
-• Go to the section of the top toolbar and click on Effects. You'll see a list of effects on the left sidebar of your screen. Choose the one you want and click on it to apply the effect to your footage.
-
-![create distortion effect with filmora - go to effects](https://images.wondershare.com/filmora/article-images/2022/04/youtube-video-distorted-9.png)
-
-• You can adjust the effect to suit your preference.
-
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 **●** **YouTube video distorted issues** can result from several factors, including PC performance, outdated drivers, and installing unsafe third-party on your PC. You can use video distortion to make your videos stand out or conceal images or text in your video. Filmora allows you to create distortion effects in your video with just a few clicks.
@@ -638,3 +794,41 @@ Creating distortion effects for your video using Filmora is a walk in the park. 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-to-device-the-step-by-step-process-explained/"><u>[New] 2024 Approved  Snapchat to Device - The Step by Step Process Explained</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-streamlining-color-grading-with-lut-techniques-in-ae/"><u>[New] 2024 Approved  Streamlining Color Grading with LUT Techniques in AE</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-budget-friendly-methods-for-youtube-card-creation-for-2024/"><u>[New] Budget-Friendly Methods for YouTube Card Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>[New] In 2024, Essential Mobile Media Creation Tools  IPhone vs Android Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-guide-to-sharing-on-instagram-videos-and-more/"><u>[Updated] 2024 Approved  Guide to Sharing on Instagram  Videos & More</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-speed-control-for-instagram-stories-tempo/"><u>[Updated] Boost Speed Control for Instagram Stories Tempo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-cinematic-content-with-precision-ratios/"><u>[Updated] Crafting Cinematic Content with Precision Ratios</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beginning-conversations-in-the-cloud-mastering-zoom-on-android-phones/"><u>2024 Approved  Beginning Conversations in the Cloud  Mastering Zoom on Android Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accessories-for-travel-footage-production-for-2024/"><u>Accessories for Travel Footage Production for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-insights-into-gesture-based-user-input/"><u>Advanced Insights Into Gesture-Based User Input</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-4k-pads-for-ultimate-gameplay/"><u>Best 4K Pads for Ultimate Gameplay</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>Chuckle-Inducing Snaps  Applying the Cartoon Face Effect on Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-top-affordable-online-resources-your-dream-toolkit-for-visual-filmmaking-for-2024/"><u>Explore Top Affordable Online Resources - Your Dream Toolkit for Visual Filmmaking for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/framed-in-perfection-the-1-10-camera-lens-list-for-stunning-photography/"><u>Framed in Perfection  The #1-10 Camera Lens List for Stunning Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-gifs-to-stickers-comprehensive-tutorial-series-for-multiple-chat-apps-for-2024/"><u>From Gifs to Stickers  Comprehensive Tutorial Series for Multiple Chat Apps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/guide-to-correct-age-information-for-tiktok-users/"><u>Guide to Correct Age Information for TikTok Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-find-x7-ultra-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo Find X7 Ultra to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-acknowledging-talent-free-to-own-outro-templates/"><u>In 2024, Acknowledging Talent  Free-to-Own Outro Templates</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-buzz-generator-prodigy/"><u>In 2024, Prime Buzz Generator Prodigy</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-visual-rhythm-mastering-the-slow-motion-balance/"><u>Instagram's Visual Rhythm  Mastering the Slow-Motion Balance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-plan-youtube-content-into-mp4/"><u>Master Plan  YouTube Content Into MP4</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mememakerpro-share-your-giggles/"><u>MemeMakerPro  Share Your Giggles</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-gopro-editing-applications-on-smartphones/"><u>Premium GoPro Editing Applications on Smartphones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-fps-range-for-gradual-action-footage/"><u>Prime FPS Range for Gradual Action Footage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reimagine-virtual-engagements-with-customized-video-filters-in-zoom/"><u>Reimagine Virtual Engagements with Customized Video Filters in Zoom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-soundtracks-audiophile-choices-by-google/"><u>Superior Soundtracks  Audiophile Choices by Google</u></a></li>
+<li><a href="https://extra-information.techidaily.com/syma-x8c-tech-specifications-study/"><u>Syma X8C Tech Specifications Study</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-title-design-in-after-effects/"><u>The Art of Title Design in After Effects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro/"><u>Top 4 Remedies  Enhancing iPhone HDR Images in Premiere Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-show-reviewed-detailed-analysis-of-the-2024-edition/"><u>Video Show Reviewed  Detailed Analysis of the 2024 Edition</u></a></li>
+</ul></div>

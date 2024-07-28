@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step  Clearing Background Artifacts in Figma\""
-date: 2024-05-24T11:37:51.506Z
-updated: 2024-05-25T11:37:51.506Z
+date: 2024-07-27T03:09:12.050Z
+updated: 2024-07-28T03:09:12.050Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Step-by-Step: Clearing Background Artifacts in Figma\""
 excerpt: "\"This Article Describes Step-by-Step: Clearing Background Artifacts in Figma\""
 keywords: "Adding Track to YouTube Lists,YouTube Playlist Addition Steps,Insert Tracks Into Playlists,Streamline Playlist Editing,Easy Track Inserting in YouTubes,Seamless Video Track Placement,Organize Videos for Playlists"
-thumbnail: https://www.lifewire.com/thmb/JnBSFSr8YQadpLe99CkaKn6MzEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/title-c0a673f2ceec4e48bf0388773f3bd360.jpg
+thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea338695faa58de9221c96a80.jpg
 ---
 
 ## Step-by-Step: Clearing Background Artifacts in Figma
@@ -58,6 +58,9 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -72,10 +75,17 @@ Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, 
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -83,6 +93,9 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -105,6 +118,9 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -133,14 +149,25 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
@@ -177,3 +204,56 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-bring-sound-effects-into-premiere-pro/"><u>[New] Bring Sound Effects Into Premiere Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dailymotion-vs-youtubes-revenue-battle-analysis/"><u>[New] Dailymotion vs YouTubes  Revenue Battle Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-deep-dive-into-videomovavi-11s-features-and-performance/"><u>[New] Deep Dive Into VideoMovavi 11'S Features & Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-scheduling-with-premium-recording-software/"><u>[New] In 2024, Advanced Scheduling with Premium Recording Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfect-propeller-synergy-for-awe-inspiring-fpv-flights/"><u>[New] In 2024, Perfect Propeller Synergy for Awe-Inspiring FPV Flights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-engagement-mastering-instagram-stories-for-2024/"><u>[New] The Ultimate Guide to Engagement  Mastering Instagram Stories for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-virtual-collaboration-share-your-screens-with-facebook-viewers/"><u>[New] Virtual Collaboration  Share Your Screens with Facebook Viewers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comparing-leading-names-in-4k-yt-video-to-mp3-tools/"><u>[Updated] Comparing Leading Names in 4K YT Video to MP3 Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unlocking-your-digital-cameras-potential/"><u>[Updated] In 2024, Unlocking Your Digital Camera's Potential</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-best-practices-for-boosting-srt-on-pc-and-macos/"><u>10 Best Practices for Boosting SRT on PC & macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-of-the-rest-cutting-edge-vr-games-for-google-cardboard/"><u>2024 Approved  Best of the Rest  Cutting-Edge VR Games for Google Cardboard</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-visualizer-windows-high-speed-image-viewer/"><u>2024 Approved  Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-zdsoft-video-recording/"><u>2024 Approved  The Ultimate Guide to ZDSoft Video Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-look-at-djis-quadcopter-standard-flight/"><u>A Comprehensive Look at DJI's Quadcopter Standard Flight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-to-boosting-your-podcasts-seo/"><u>A Step-by-Step Approach to Boosting Your Podcast's SEO</u></a></li>
+<li><a href="https://extra-information.techidaily.com/actors-availability-downloadable-content-terms-for-2024/"><u>Actors' Availability  Downloadable Content Terms for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adding-apple-music-a-guide-to-enhanced-videos/"><u>Adding Apple Music  A Guide to Enhanced Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/artistarc-complete-assessment-and-tutorial-series-24-for-2024/"><u>ArtistArc Complete Assessment & Tutorial Series '24 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-compatibility-between-switch-oled-and-classic-docks/"><u>Assessing Compatibility Between Switch OLED and Classic Docks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-artistry-in-storytelling-for-2024/"><u>Auditory Artistry in Storytelling for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/awesome-top-5-ios-podcast-platforms/"><u>Awesome Top 5 iOS Podcast Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/caption-kings-and-queens-top-10-mobile-writing-aids-iosandroid/"><u>Caption Kings and Queens  Top 10 Mobile Writing Aids (iOS/Android)</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-narzo-n55-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme Narzo N55 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/connect-or-date-understanding-facebooks-new-feature/"><u>Connect or Date? Understanding Facebook’s New Feature</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/dub-like-a-pro-top-6-video-dubbing-apps-for-android-and-ios/"><u>Dub Like a Pro Top 6 Video Dubbing Apps for Android and iOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-top-rated-frame-rate-choices-for-cinema-slow-motion/"><u>Exploring Top-Rated Frame Rate Choices for Cinema Slow-Motion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-ustream-and-its-counterparts/"><u>Exploring Ustream & Its Counterparts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-z-fold-5-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy Z Fold 5 for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-15-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 15 with a Broken Screen?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-captivating-windows-11-visual-themes/"><u>In 2024, Crafting Captivating Windows 11 Visual Themes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-earning-estimates-for-youtube-creators-adsense-pay-out-per-1000-viewers/"><u>In 2024, Earning Estimates for YouTube Creators  AdSense Pay-Out per 1,000 Viewers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-13-pro-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 13 Pro to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-sims-chronicles-uncut-expert-techniques-to-preserve-the-heart-of-your-gaming-life-in-sims-4/"><u>In 2024, Sims Chronicles Uncut  Expert Techniques to Preserve the Heart of Your Gaming Life in Sims 4</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-superior-console-emulation-best-ps1-games-for-your-pc/"><u>In 2024, Superior Console Emulation  Best PS1 Games for Your PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-10-websites-specializing-in-modern-3d-graffiti-letters/"><u>In 2024, The Ultimate List of 10 Websites Specializing in Modern 3D Graffiti Letters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters/"><u>Jokes Aplenty  Incorrante Guide to Snapchat's Cartoon Filters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-live-streaming-services-a-detailed-comparison/"><u>Leading Live Streaming Services  A Detailed Comparison</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-the-art-of-photo-editing-with-snapseed/"><u>Master the Art of Photo Editing with Snapseed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-to-samsung-converter-convert-mkv-for-samsung-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Samsung converter - convert MKV for Samsung</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-financial-landscape-for-podcasters/"><u>Navigating the Financial Landscape for Podcasters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proven-tactics-for-engaging-viewers-with-success-narratives-on-screen/"><u>Proven Tactics for Engaging Viewers with Success Narratives on Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quantum-hdr-unveiled-industry-insights/"><u>Quantum HDR Unveiled  Industry Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quieting-audible-outputs-a-windowsmac-guide/"><u>Quieting Audible Outputs  A Windows/Mac Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ming-success-latest-updates-on-earnings-guidelines-for-2024/"><u>Streaming Success  Latest Updates on Earnings Guidelines for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-way-of-stitching-gopro-recordings-in-extended-spherical-videos/"><u>Superior Way of Stitching GoPro Recordings in Extended Spherical Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-editor-writes-critical-cut-list-explained/"><u>The Editor’ Writes  Critical Cut List Explained</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unite-your-photos-cross-platform-instagram-collage/"><u>Unite Your Photos  Cross-Platform Instagram Collage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/whats-missing-from-todays-virtual-reality-library-insight/"><u>What's Missing From Today's Virtual Reality Library? - Insight</u></a></li>
+</ul></div>

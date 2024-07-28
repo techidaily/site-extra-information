@@ -1,7 +1,7 @@
 ---
 title: "\"Color Grading's Secret Weapon  Learning About LUTs\""
-date: 2024-05-24T10:20:48.258Z
-updated: 2024-05-25T10:20:48.258Z
+date: 2024-07-27T00:52:44.553Z
+updated: 2024-07-28T00:52:44.553Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Color Grading's Secret Weapon: Learning About LUTs\""
 excerpt: "\"This Article Describes Color Grading's Secret Weapon: Learning About LUTs\""
 keywords: "Lut Essentials,Color Grading Tips,Lut Basics Learn,Editing LUT Guide,Mastering Luts Quickly,Lut Techniques for Pros,Film Edits with Luts"
-thumbnail: https://www.lifewire.com/thmb/AbUU4zD-uREP7Hddr_1MmMfCNoQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/get-wifi-in-your-car-4047954-0f36e2ee5fc4412e88cd1407eefe47df.png
+thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ecfefae2f5882a90863822c25.png
 ---
 
 ## Color Grading's Secret Weapon: Learning About LUTs
@@ -38,6 +38,9 @@ Lookup Tables help you save a lot of work and time during the editing process. T
 
 LUTs also aid in the organization of your post-production processes. You must know when to use LUTs, just as you must know when to use other components of the editing process. It assists in getting the work done more effectively after you master the pattern and processes to follow.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How will LUTs change your photography?
 
 Photo editors who are searching for that extra oomph to take their images to the next level adore LUTs. Photographers who wish to save time without losing the excellent quality and aesthetic outcomes that come with hours of minor, manual slider tweaks will benefit significantly from LUTs. You can give your photos a professional look they deserve with just one click. Using the same LUT or a modest selection of LUTs across the board can also help you create consistency throughout a particular photo set or an entire portfolio.
@@ -50,12 +53,18 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -74,6 +83,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +93,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -105,6 +120,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +155,46 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-convenient-curvature-creation-techniques-in-pixels/"><u>[New] Convenient Curvature Creation Techniques in Pixels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastery-in-maintaining-a-clean-feed-best-twitter-tools-for-2024/"><u>[New] Mastery in Maintaining a Clean Feed  Best Twitter Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfected-approaches-to-capturing-remote-training-sessions-for-2024/"><u>[New] Perfected Approaches to Capturing Remote Training Sessions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition/"><u>2024 Approved  Artisan's Nexus Reports  In-Depth Studio Scrutiny, 2023 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-down-the-best-starter-drone-a-syma-x5c-review/"><u>2024 Approved  Breaking Down the Best Starter Drone – A Syma X5C Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-conquer-the-camera-prostrate-techniques-with-gopro-hero5-black/"><u>2024 Approved  Conquer the Camera  Prostrate Techniques With GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-countdown-charm-top-android-and-ios-timers-for-weddings/"><u>2024 Approved  Countdown Charm  Top Android & iOS Timers for Weddings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/7-superior-mac-video-applications/"><u>7 Superior Mac Video Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amplifying-zoom-picture-quality-insider-secrets/"><u>Amplifying Zoom Picture Quality  Insider Secrets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bizarre-vertical-reversal-in-insta-videos-a-glitch-for-2024/"><u>Bizarre Vertical Reversal in Insta Videos – A Glitch for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canva-guide-swiftly-erasing-image-borders/"><u>Canva Guide  Swiftly Erasing Image Borders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparative-analysis-of-the-metaverse-and-multimeva-worlds-detailed-guide-for-2024/"><u>Comparative Analysis of the Metaverse & Multimeva Worlds (Detailed Guide) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dial-down-audio-slowly-and-steadily/"><u>Dial Down Audio, Slowly and Steadily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-how-to-watch-dvds-without-costing-a-penny/"><u>Discover How to Watch DVDs Without Costing a Penny</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-your-ideal-drawing-tool-chromebooks-finest-list/"><u>Discover Your Ideal Drawing Tool  Chromebook's Finest List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-care-delivery-through-effective-fb-ads/"><u>Elevating Care Delivery Through Effective FB Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enchanted-frame-rate-reduction-tricks/"><u>Enchanted Frame Rate Reduction Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-top-5-compact-camcorders-for-adventure/"><u>Essential Top 5 Compact Camcorders for Adventure</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-vr-devices-for-drone-enthusiasts/"><u>Essential VR Devices for Drone Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/finding-your-perfect-match-premium-videographer-recruitment/"><u>Finding Your Perfect Match  Premium Videographer Recruitment</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/giggle-guild-undead-humor-bots/"><u>Giggle Guild  Undead Humor Bots</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-chat-and-quest-in-the-virtual-society/"><u>In 2024, 10 Chat & Quest in the Virtual Society</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-deep-examination-of-androids-photo-editing-tool-lightroom/"><u>In 2024, A Deep Examination of Android's Photo Editing Tool, Lightroom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-master-at-iphones-hdr-photography-techniques/"><u>In 2024, Becoming a Master at iPhone's HDR Photography Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chic-coverage-for-your-portable-screen/"><u>In 2024, Chic Coverage for Your Portable Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic-v2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic V2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-virtual-reality-enhancements-for-gamers/"><u>Leading Virtual Reality Enhancements for Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-iphones-detailed-photography/"><u>Mastering the Art of iPhone's Detailed Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/splash-to-fame-surfers-choice-camera-picks-2e3/"><u>Splash to Fame  Surfer's Choice Camera Picks (2E3)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-evolution-of-live-streaming-with-periscope/"><u>The Evolution of Live Streaming with Periscope</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-12-html5-videophones-for-optimal-viewing/"><u>Top 12 HTML5 Videophones for Optimal Viewing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/trim-the-excess-a-beginners-guide-to-simple-video-cuts-in-windows/"><u>Trim the Excess  A Beginner's Guide to Simple Video Cuts in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-full-potential-of-powerdirector-24/"><u>Unveiling the Full Potential of PowerDirector '24</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vegas-pro-2021-a-detailed-gaming-world-survey/"><u>Vegas Pro 2021  A Detailed Gaming World Survey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visionary-studios-pioneering-next-gen-virtual-realms/"><u>Visionary Studios Pioneering Next-Gen Virtual Realms</u></a></li>
+</ul></div>

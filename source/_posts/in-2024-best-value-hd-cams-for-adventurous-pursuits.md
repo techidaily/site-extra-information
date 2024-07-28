@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Best Value HD Cams for Adventurous Pursuits"
-date: 2024-05-24T11:30:02.126Z
-updated: 2024-05-25T11:30:02.126Z
+date: 2024-07-27T02:55:13.949Z
+updated: 2024-07-28T02:55:13.949Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes In 2024, Best Value HD Cams for Adventurous Pursuits"
 excerpt: "This Article Describes In 2024, Best Value HD Cams for Adventurous Pursuits"
 keywords: "\"HD Cam Equipment,High-Def Outdoor Cameras,Quality Camcorders,Affordable Cam Tech,Value-Priced Camera Gear,Adventure Video Tools,Budget-Friendly HD Cams\""
-thumbnail: https://www.lifewire.com/thmb/nPjq8dKxfPk2blHP7ld-qvTcgbA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Android-Auto-vs-Apple-Carplay-392b0e27330d42f4be8ac186a3257459.jpg
+thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46ca38580b5c0bd47ee47b9b9c.jpg
 ---
 
 ## Best Value HD Cams for Adventurous Pursuits
 
 # Top 5 Best Full HD Action Cameras Below $100
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -47,6 +50,9 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 #### 2. Polaroid XS100i Wi-Fi Waterproof Action Camera
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![polaroid xs 100i](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
@@ -77,6 +83,9 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 #### 4. Xiaomi Yi
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![yi action amera](https://images.wondershare.com/filmora/article-images/yi-action-camera.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
@@ -123,6 +132,9 @@ Follow @Max Wales
 
 #### 1. Drift Innovation STEALTH-2
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drift ghost s](//images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00MCWWL0G/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MCWWL0G&linkId=18467dac61fdbb82717c78990474d825)
@@ -138,6 +150,115 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 #### 2. Polaroid XS100i Wi-Fi Waterproof Action Camera
 
+![polaroid xs 100i](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
+
+**Max Video Resolution:** 1080P/720P | **Weight:**  136g | **Battery life:**  1200 mAh | **Stills resolution:** 16MP | **1080:**  30fps | **Waterproof:** Yes, up to 30’ |
+
+| # | Pros                                                    | Cons                                             |
+| - | ------------------------------------------------------- | ------------------------------------------------ |
+| 1 | Curved lenses that make underwater videos much smoother | It does not offer electronic image stabilization |
+| 2 | Fine and Sharp details for each shoot                   |                                                  |
+
+ Polaroid S XS100 is designed with lots of advanced features so that users can enjoy fast and detailed movements with each shot. Its 170 degree FOV capability ensures wide focus whereas the battery can serve you for 2 ½ hours when you are recording at 1080p resolution level. You need not to buy any additional protective case for this device as it is waterproof up to 30 feet. The fish eye lenses make it barrel free and its shock resistant design allows users to enjoy immersive recording experience even in tough weather conditions. You will love to explore its easy functionality via smartphone using Wi-Fi connectivity or specially designed application.
+
+#### 3. Polaroid Cube + 1440p Wi-Fi
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+![polaroid cube plus](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
+
+**Max Video Resolution:** 1440P, 1080p and 720p | **Weight:**  97g | **Battery life:** 107 minutes | **Stills resolution:** 8MP | **1080:** 30/25fps | **Weatherproof:** Yes | **Image Stabilization:** Yes|
+
+| # | Pros                                               | Cons                  |
+| - | -------------------------------------------------- | --------------------- |
+| 1 | Lightweight and compact design                     | Non removable battery |
+| 2 | Wireless capabilities assist in easy functionality |                       |
+
+ Polaroid Cube Plus is well known for its compact size and light weight construction and the wireless connectivity assists in effective remote controlling. The advanced photo and video recording features offer slow motion, time lapse capture abilities and Full HD recording can go with 60fps frame rate. This product is accompanies by a protective case and microSD card that offers 8GB storage. The Cube+ device offers 124 degree wide angle of view and its weather proof as well as shock proof design make it best choice for little rain or snowy mountain recording needs. Cube+ offers simple operation, impressive design and breathtaking video quality with its reasonable price range. You can easily control it from iOS or android using wireless connectivity feature and device screen can better act as a viewfinder with this device.
+
+#### 4. Xiaomi Yi
+
+![yi action amera](https://images.wondershare.com/filmora/article-images/yi-action-camera.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
+
+**Max Video Resolution:** 1080P/60fps | **Weight:** 76.6 g | **Battery life:** 90 mins | **Stills resolution:** 16MP | **1080:** 30/25 fps | **Waterproof:** Yes |
+
+| # | Pros                               | Cons                                                |
+| - | ---------------------------------- | --------------------------------------------------- |
+| 1 | 3D noise reduction ability         | Limited battery life as compared to its competitors |
+| 2 | 155 degree ultra wide angle lenses |                                                     |
+
+ Xiaomi Yi is a new action camera unit with wide range of interesting features. It can record Full HD videos seamlessly whereas advanced noise reduction and image stabilization features make footage more interesting. Users can switch between different recording modes depending upon their mood and the advance 16MP image sensor grabs perfect shots even in low light conditions. You will love to explore its wide angle focus during action photography whereas built in Wi-Fi facility make it more suitable for enjoying live preview of recording on phone screen. Four popular shooting modes are burst mode, self timer mode, time lapse mode and single mode.
+
+#### 5. iON Camera Air Pro 2
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ino airpro2](https://images.wondershare.com/filmora/article-images/ino-air-pro-3.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00CKPMHSQ/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CKPMHSQ&linkId=10f82ce1fa07ee60640f908cfbf0d05c)
+
+**Max Video Resolution:** 1080P | **Weight:** 130g | **Battery life:** 1200 mAh | **Stills resolution:** 14MP | **1080:** 30fps | **Waterproof:** Yes, Up to 30 feet |
+
+| # | Pros                                                    | Cons                                 |
+| - | ------------------------------------------------------- | ------------------------------------ |
+| 1 | It is waterproof even without any additional case       | Audio is rated to be of poor quality |
+| 2 | Wireless connectivity assists in easy remote navigation |                                      |
+
+ iON Air action camera unit is waterproof as well as mountable even without any additional housing, it can easily go up to 30 feet under water. This device is preferred by most of professionals due to its lighter weight and compact size. It is easier to obtain immersive photo quality with its 14MP sensor whereas wide field of view can go up to 180 degrees. Users can record videos with easy selection to resolution level 1080p, 960p and 720p with different frame rates. Professionals call iON Air a solid choice in budget friendly action camera list that can be easily mounted on different types of mounts to avail footage from critical angles.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ If you are planning to buy a new action camera then probably you have a big list to choose from. Presently, almost all big brands like Sony and GoPro etc. are launching their classic and feature rich action cameras so you may find it little difficult to choose the best one that can suit your needs. The article below will help you to collect some useful information about best action cameras that are priced below $100 and still offer Full HD content quality with frame rate ranging somewhere between 60 to 30 fps.
+
+## Top 5 Best Full HD Action Cameras Below $100
+
+#### 1. Drift Innovation STEALTH-2
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+![drift ghost s](//images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00MCWWL0G/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MCWWL0G&linkId=18467dac61fdbb82717c78990474d825)
+
+**Max Video Resolution:** 1080P | **Weight:** 97g | **Battery life:** 3hrs | **Stills resolution:** 12MP | **1080:** 30/25fps | **Waterproof:** 40m using optional case |
+
+| # | Pros                                            | Cons                                                                      |
+| - | ----------------------------------------------- | ------------------------------------------------------------------------- |
+| 1 | Lightweight and compact design                  | Application does not allow users to enjoy live view streaming facility    |
+| 2 | Rotating lenses that can cover 360 degree focus | With Full HD recording you can access maximum frame rate up to 30fps only |
+
+This device copies so many features from the all time favorite Ghost-S action camera unit. The easy mounting options, discrete design and automotive control features- all these impressive additions make this action camera best buy product for beginners as well as professionals. As Ghost S users were searching for a feature rich but lightweight and compact action camera unit from long past so this time Drift Innovation STEALTH-2 can serve their all requirements. Some of its incredible features include three hour long battery life, quick orientation adjustments without additional mounts and lens designs are quite impressive. You may find little trouble with brighter shoots but all details are well managed at high contrast levels. This is one of the most popular model in 2017 so far.
+
+#### 2. Polaroid XS100i Wi-Fi Waterproof Action Camera
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![polaroid xs 100i](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
@@ -196,6 +317,9 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
  iON Air action camera unit is waterproof as well as mountable even without any additional housing, it can easily go up to 30 feet under water. This device is preferred by most of professionals due to its lighter weight and compact size. It is easier to obtain immersive photo quality with its 14MP sensor whereas wide field of view can go up to 180 degrees. Users can record videos with easy selection to resolution level 1080p, 960p and 720p with different frame rates. Professionals call iON Air a solid choice in budget friendly action camera list that can be easily mounted on different types of mounts to avail footage from critical angles.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -229,6 +353,9 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 #### 2. Polaroid XS100i Wi-Fi Waterproof Action Camera
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![polaroid xs 100i](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
@@ -244,6 +371,9 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 #### 3. Polaroid Cube + 1440p Wi-Fi
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![polaroid cube plus](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
@@ -274,6 +404,9 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 #### 5. iON Camera Air Pro 2
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![ino airpro2](https://images.wondershare.com/filmora/article-images/ino-air-pro-3.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00CKPMHSQ/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CKPMHSQ&linkId=10f82ce1fa07ee60640f908cfbf0d05c)
@@ -287,97 +420,9 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
  iON Air action camera unit is waterproof as well as mountable even without any additional housing, it can easily go up to 30 feet under water. This device is preferred by most of professionals due to its lighter weight and compact size. It is easier to obtain immersive photo quality with its 14MP sensor whereas wide field of view can go up to 180 degrees. Users can record videos with easy selection to resolution level 1080p, 960p and 720p with different frame rates. Professionals call iON Air a solid choice in budget friendly action camera list that can be easily mounted on different types of mounts to avail footage from critical angles.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- If you are planning to buy a new action camera then probably you have a big list to choose from. Presently, almost all big brands like Sony and GoPro etc. are launching their classic and feature rich action cameras so you may find it little difficult to choose the best one that can suit your needs. The article below will help you to collect some useful information about best action cameras that are priced below $100 and still offer Full HD content quality with frame rate ranging somewhere between 60 to 30 fps.
-
-## Top 5 Best Full HD Action Cameras Below $100
-
-#### 1. Drift Innovation STEALTH-2
-
-![drift ghost s](//images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00MCWWL0G/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MCWWL0G&linkId=18467dac61fdbb82717c78990474d825)
-
-**Max Video Resolution:** 1080P | **Weight:** 97g | **Battery life:** 3hrs | **Stills resolution:** 12MP | **1080:** 30/25fps | **Waterproof:** 40m using optional case |
-
-| # | Pros                                            | Cons                                                                      |
-| - | ----------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | Lightweight and compact design                  | Application does not allow users to enjoy live view streaming facility    |
-| 2 | Rotating lenses that can cover 360 degree focus | With Full HD recording you can access maximum frame rate up to 30fps only |
-
-This device copies so many features from the all time favorite Ghost-S action camera unit. The easy mounting options, discrete design and automotive control features- all these impressive additions make this action camera best buy product for beginners as well as professionals. As Ghost S users were searching for a feature rich but lightweight and compact action camera unit from long past so this time Drift Innovation STEALTH-2 can serve their all requirements. Some of its incredible features include three hour long battery life, quick orientation adjustments without additional mounts and lens designs are quite impressive. You may find little trouble with brighter shoots but all details are well managed at high contrast levels. This is one of the most popular model in 2017 so far.
-
-#### 2. Polaroid XS100i Wi-Fi Waterproof Action Camera
-
-![polaroid xs 100i](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
-
-**Max Video Resolution:** 1080P/720P | **Weight:**  136g | **Battery life:**  1200 mAh | **Stills resolution:** 16MP | **1080:**  30fps | **Waterproof:** Yes, up to 30’ |
-
-| # | Pros                                                    | Cons                                             |
-| - | ------------------------------------------------------- | ------------------------------------------------ |
-| 1 | Curved lenses that make underwater videos much smoother | It does not offer electronic image stabilization |
-| 2 | Fine and Sharp details for each shoot                   |                                                  |
-
- Polaroid S XS100 is designed with lots of advanced features so that users can enjoy fast and detailed movements with each shot. Its 170 degree FOV capability ensures wide focus whereas the battery can serve you for 2 ½ hours when you are recording at 1080p resolution level. You need not to buy any additional protective case for this device as it is waterproof up to 30 feet. The fish eye lenses make it barrel free and its shock resistant design allows users to enjoy immersive recording experience even in tough weather conditions. You will love to explore its easy functionality via smartphone using Wi-Fi connectivity or specially designed application.
-
-#### 3. Polaroid Cube + 1440p Wi-Fi
-
-![polaroid cube plus](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
-
-**Max Video Resolution:** 1440P, 1080p and 720p | **Weight:**  97g | **Battery life:** 107 minutes | **Stills resolution:** 8MP | **1080:** 30/25fps | **Weatherproof:** Yes | **Image Stabilization:** Yes|
-
-| # | Pros                                               | Cons                  |
-| - | -------------------------------------------------- | --------------------- |
-| 1 | Lightweight and compact design                     | Non removable battery |
-| 2 | Wireless capabilities assist in easy functionality |                       |
-
- Polaroid Cube Plus is well known for its compact size and light weight construction and the wireless connectivity assists in effective remote controlling. The advanced photo and video recording features offer slow motion, time lapse capture abilities and Full HD recording can go with 60fps frame rate. This product is accompanies by a protective case and microSD card that offers 8GB storage. The Cube+ device offers 124 degree wide angle of view and its weather proof as well as shock proof design make it best choice for little rain or snowy mountain recording needs. Cube+ offers simple operation, impressive design and breathtaking video quality with its reasonable price range. You can easily control it from iOS or android using wireless connectivity feature and device screen can better act as a viewfinder with this device.
-
-#### 4. Xiaomi Yi
-
-![yi action amera](https://images.wondershare.com/filmora/article-images/yi-action-camera.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
-
-**Max Video Resolution:** 1080P/60fps | **Weight:** 76.6 g | **Battery life:** 90 mins | **Stills resolution:** 16MP | **1080:** 30/25 fps | **Waterproof:** Yes |
-
-| # | Pros                               | Cons                                                |
-| - | ---------------------------------- | --------------------------------------------------- |
-| 1 | 3D noise reduction ability         | Limited battery life as compared to its competitors |
-| 2 | 155 degree ultra wide angle lenses |                                                     |
-
- Xiaomi Yi is a new action camera unit with wide range of interesting features. It can record Full HD videos seamlessly whereas advanced noise reduction and image stabilization features make footage more interesting. Users can switch between different recording modes depending upon their mood and the advance 16MP image sensor grabs perfect shots even in low light conditions. You will love to explore its wide angle focus during action photography whereas built in Wi-Fi facility make it more suitable for enjoying live preview of recording on phone screen. Four popular shooting modes are burst mode, self timer mode, time lapse mode and single mode.
-
-#### 5. iON Camera Air Pro 2
-
-![ino airpro2](https://images.wondershare.com/filmora/article-images/ino-air-pro-3.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00CKPMHSQ/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CKPMHSQ&linkId=10f82ce1fa07ee60640f908cfbf0d05c)
-
-**Max Video Resolution:** 1080P | **Weight:** 130g | **Battery life:** 1200 mAh | **Stills resolution:** 14MP | **1080:** 30fps | **Waterproof:** Yes, Up to 30 feet |
-
-| # | Pros                                                    | Cons                                 |
-| - | ------------------------------------------------------- | ------------------------------------ |
-| 1 | It is waterproof even without any additional case       | Audio is rated to be of poor quality |
-| 2 | Wireless connectivity assists in easy remote navigation |                                      |
-
- iON Air action camera unit is waterproof as well as mountable even without any additional housing, it can easily go up to 30 feet under water. This device is preferred by most of professionals due to its lighter weight and compact size. It is easier to obtain immersive photo quality with its 14MP sensor whereas wide field of view can go up to 180 degrees. Users can record videos with easy selection to resolution level 1080p, 960p and 720p with different frame rates. Professionals call iON Air a solid choice in budget friendly action camera list that can be easily mounted on different types of mounts to avail footage from critical angles.
-
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -410,3 +455,41 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-award-winning-screenplays-for-each-genre-division/"><u>[New] Award-Winning Screenplays for Each Genre Division</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-step-by-step-subtitle-insertion-for-vimeo-videos/"><u>[New] In 2024, Step-by-Step  Subtitle Insertion for Vimeo Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-iphones-album-orchestration-and-cloud-storage-sync/"><u>[New] The Complete Guide to iPhone's Album Orchestration and Cloud Storage Sync</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-thriving-in-the-youtube-landscape-with-data-driven-approach/"><u>[Updated] 2024 Approved  Thriving in the YouTube Landscape with Data-Driven Approach</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-build-a-custom-vr-device-diy-google-cardboard-guide/"><u>[Updated] Build a Custom VR Device  DIY Google Cardboard Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cognitive-conundrums-top-11-gk-video-hubs/"><u>[Updated] Cognitive Conundrums  Top 11 GK Video Hubs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-basics-professional-tips-from-vidas-features/"><u>2024 Approved  Beyond Basics  Professional Tips From Vida's Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-tips-ifunny-meme-download-and-use/"><u>2024 Approved  Comprehensive Tips  IFunny Meme Download & Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-full-guide-on-speeding-up-facebook-videos-best-extensions-apps-and/"><u>2024 Approved  Full Guide on Speeding Up Facebook Videos- Best Extensions, Apps, And</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-ranking-action-cameras-seventh-to-leading-wet-proof/"><u>2024 Approved  Ranking Action Cameras, Seventh to Leading Wet-Proof</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-snap-the-truth-your-manual-to-authenticity-on-instagram/"><u>2024 Approved  Snap the Truth  Your Manual to Authenticity on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-guide-to-the-best-iphone-and-ipad-videos-top-10/"><u>2024 Approved  The Ultimate Guide to the Best iPhone & iPad Videos (Top 10)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-audio-editing-tools-in-magix-producer-suite-for-2024/"><u>Analyzing Audio Editing Tools in Magix Producer Suite for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-brightness-boost-in-hd-and-its-hdr-impact/"><u>Analyzing Brightness Boost in HD and Its HDR Impact</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bringing-smiles-without-dollars-the-mememakers-way/"><u>Bringing Smiles without Dollars – The MemeMaker’s Way</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-color-standards-in-review-rgb-vs-srgb-breakdown/"><u>Digital Color Standards in Review  Rgb vs Srgb Breakdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-vtuber-experience-with-top-voice-modification-tools/"><u>Enhance Your VTuber Experience with Top Voice Modification Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fiscal-flyers-top-5-low-cost-aerial-vehicles/"><u>Fiscal Flyers  Top 5 Low-Cost Aerial Vehicles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-tos-for-immersive-nba-livestream-watching/"><u>How-To's for Immersive NBA Livestream Watching</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-asuss-high-tech-display-unveiled-the-mg28uq-monitor-insight/"><u>In 2024, ASUS's High Tech Display Unveiled – The MG28UQ Monitor Insight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bend-the-norm-innovative-text-transformation-techniques/"><u>In 2024, Bend the Norm  Innovative Text Transformation Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options/"><u>In 2024, Boost Your Photography Game  Complimentary Basics + Expandable Paid LUT Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scheduling-effective-zoom-conversations-on-android-platforms/"><u>In 2024, Scheduling Effective Zoom Conversations on Android Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>Key Sites  The 6 Most Vital Platforms for B2B Relationships</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-frames-with-top-rated-tools-24/"><u>Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rapid-expansion-youtube-channels-boosting-brainpower/"><u>Rapid Expansion  YouTube Channels Boosting Brainpower</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionary-reddit-techniques-for-aspiring-digital-wizards/"><u>Revolutionary Reddit Techniques for Aspiring Digital Wizards</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-to-dynamic-sports-filmmaking/"><u>Step-by-Step Guide to Dynamic Sports Filmmaking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-pc-video-cuts-with-inshot/"><u>Streamlining PC Video Cuts with Inshot</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-scan-of-lg-360-modern-updates-review/"><u>The Complete Scan of LG 360  Modern Updates Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essentials-for-a-powerful-metaverse-experience-top-7/"><u>The Essentials for a Powerful Metaverse Experience (Top 7)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-17-skinning-tools-for-photo-editing/"><u>Top 17 Skinning Tools for Photo Editing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unshake-your-iphone-videos-3-stabilization-hacks-revealed/"><u>Unshake Your iPhone Videos  3 Stabilization Hacks Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-magic-v2-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Magic V2? Here is How | Dr.fone</u></a></li>
+</ul></div>

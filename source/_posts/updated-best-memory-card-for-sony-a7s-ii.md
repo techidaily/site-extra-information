@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Memory Card for Sony A7S II"
-date: 2024-05-24T10:25:32.968Z
-updated: 2024-05-25T10:25:32.968Z
+date: 2024-07-27T01:01:00.996Z
+updated: 2024-07-28T01:01:00.996Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Best Memory Card for Sony A7S II"
 excerpt: "This Article Describes [Updated] Best Memory Card for Sony A7S II"
 keywords: "\"Sony A7S II Card,Premium A7S Memory,High-Performance A7S,A7S II Storage Upgrade,UltraMemory A7S,Sony A7S II Compatible,Fastest Card for A7S II\""
-thumbnail: https://www.lifewire.com/thmb/hlAQtmPhv5YXD3G66GCzQjh5g-E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-155381441-5851a2303df78c491e5b3ce1.jpg
+thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00caea55a88bfd5d394c85530ff.jpg
 ---
 
 ## Top-Rated Sony A7S II Memory Accessory
@@ -30,6 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/hlAQtmPhv5YXD3G66GCzQjh5g-E=/400x300/fi
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/hlAQtmPhv5YXD3G66GCzQjh5g-E=/400x300/fi
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -287,6 +293,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -303,6 +312,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -340,6 +352,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -378,6 +393,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -410,3 +428,52 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/"><u>[New] 2024 Approved  Digital Detective Work  Cracking the Code to Live Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>[New] Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beatboxing-basics-add-audio-to-windows-11-projects-with-ease/"><u>[New] Beatboxing Basics  Add Audio to Windows 11 Projects with Ease</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-top-five-transformative-facebook-traits/"><u>[New] Unlocking Top Five Transformative Facebook Traits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-low-cost-drones-maximum-performance-on-a-shoestring/"><u>[Updated] 5 Low-Cost Drones  Maximum Performance on a Shoestring</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoid-blur-and-clarity-issues-zooming-techniques-with-videoleap/"><u>[Updated] Avoid Blur and Clarity Issues  Zooming Techniques with Videoleap</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breathing-life-into-images-mastering-face-motion-blur-in-picsart/"><u>[Updated] Breathing Life Into Images  Mastering Face Motion Blur in Picsart</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-assessment-of-vidmas-impact-on-modern-screen-recorders/"><u>[Updated] In 2024, Assessment of Vidma's Impact on Modern Screen Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-shooter-synergy-crafting-a-list-of-top-7-game-battles/"><u>[Updated] In 2024, Shooter Synergy  Crafting a List of Top 7 Game Battles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam-for-2024/"><u>[Updated] Livestran vs Screen Capture Titans  Battle of Software Giants, OBS & Bandicam for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>2024 Approved  Become a Design Pro  Expertise in Bypassing Backgrounds with Canva</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-empowering-users-to-tackle-instagram-video-snags/"><u>2024 Approved  Empowering Users to Tackle Instagram Video Snags</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-gt-5-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme GT 5 Unlock Without Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/6-leading-nft-makers-elevating-artist-expression/"><u>6 Leading NFT Makers Elevating Artist Expression</u></a></li>
+<li><a href="https://extra-information.techidaily.com/7-essential-gif-creation-techniques-for-2024/"><u>7 Essential GIF Creation Techniques for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/access-from-afar-zero-password-connectivity-on-win-11/"><u>Access From Afar: Zero-Password Connectivity on Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparative-analysis-of-the-metaverse-and-multimeva-worlds-detailed-guide/"><u>Comparative Analysis of the Metaverse & Multimeva Worlds (Detailed Guide)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-online-presentations-using-zoom-for-youtube-broadcasts-for-2024/"><u>Crafting Compelling Online Presentations  Using Zoom for YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/data-mastery-for-pcs-uncovering-5-top-notch-fileshare-tools/"><u>Data Mastery for PCs: Uncovering 5 Top-Notch Fileshare Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/faster-powerpoint-tips-for-quick-video-viewing/"><u>Faster PowerPoint  Tips for Quick Video Viewing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-forgotten-frames-to-captivating-clip-sequences/"><u>From Forgotten Frames to Captivating Clip Sequences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/handsonguide-to-yourwebcamrecord/"><u>HandsOnGuide to YourWebcamRecord</u></a></li>
+<li><a href="https://extra-information.techidaily.com/holistic-locomotion-scrutiny-report/"><u>Holistic Locomotion Scrutiny Report</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-note-30-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Note 30 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xltx-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xltx Using DigiSigner</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-guide-to-writing-successful-vlogging-scripts/"><u>In 2024, A Guide to Writing Successful Vlogging Scripts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-shoot-spots-seeking-budget-friendly-stunning-tiktok-backdrops/"><u>In 2024, Behind-the-Shoot Spots  Seeking Budget-Friendly, Stunning TikTok Backdrops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-castcritique-exploring-dacast-options/"><u>In 2024, CastCritique  Exploring DaCast Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>In 2024, Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-unlocking-the-art-of-engaging-with-tweets-in-videos/"><u>In 2024, Unlocking the Art of Engaging with Tweets in Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pinnacle-of-presence-a-strategic-approach-for-live-video-graphics/"><u>Pinnacle of Presence  A Strategic Approach for Live Video Graphics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prodigy-ai-image-editing-arsenal/"><u>Prodigy AI Image Editing Arsenal</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-phantom-v-flip-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Phantom V Flip Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-mix-combining-intro-and-exit-strategies-for-success/"><u>The Essential Mix  Combining Intro & Exit Strategies for Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-online-hubs-for-public-domain-music-in-games/"><u>Top 10 Online Hubs for Public Domain Music in Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-30-acid-pro-replacements-explored/"><u>Top 30  ACID Pro Replacements Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-6-typical-windows-display-issues/"><u>Troubleshooting 6 Typical Windows Display Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-c1900101-error-on-windows-11-setup/"><u>Troubleshooting C1900101 Error on Windows 11 Setup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-movie-storage-space-needs-over-24-hours/"><u>Understanding Movie Storage Space Needs Over 24 Hours</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-the-potency-of-open-source-video-engines/"><u>Unleashing the Potency of Open Source Video Engines</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-creative-potential-instagram-collage-simplified/"><u>Unlocking Creative Potential  Instagram Collage Simplified</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-trio-a-deep-dive-into-vr-ar-and-mr/"><u>Unveiling the Trio  A Deep Dive Into VR, AR, & MR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vdreams-comparing-paid-and-free-lightroom-counterparts/"><u>VDreams  Comparing Paid & Free Lightroom Counterparts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zero-price-maximum-fun-quickmemes-101/"><u>Zero Price, Maximum Fun  QuickMemes 101</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Simplicity of Monitoring and Viewing Loved YouTube Remarks"
-date: 2024-05-24T10:36:32.115Z
-updated: 2024-05-25T10:36:32.115Z
+date: 2024-07-27T01:20:18.553Z
+updated: 2024-07-28T01:20:18.553Z
 tags: 
   - screen-recording
   - ai video
@@ -63,8 +63,14 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -85,28 +91,52 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -181,14 +211,23 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -211,6 +250,10 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -285,3 +328,54 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-insight-the-most-efficient-snipping-software-for-windows/"><u>[New] 2024 Approved  Essential Insight  The Most Efficient Snipping Software for WINDOWS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-glow-up-guide-3-masterful-instagram-highlight-tricks/"><u>[New] 2024 Approved  Glow-Up Guide  3 Masterful Instagram Highlight Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beginners-booklet-on-backdrops-and-blending/"><u>[New] Beginner's Booklet on Backdrops & Blending</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boost-speech-intelligence-on-chrome-select-the-best-web-based-tools-for-change/"><u>[New] Boost Speech Intelligence on Chrome  Select the Best Web-Based Tools for Change</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bygone-beauty-iphone-x-portrait-moments/"><u>[New] Bygone Beauty  IPhone X Portrait Moments</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-bring-back-disappearing-video-icon-on-fb-watch/"><u>[New] In 2024, Bring Back Disappearing Video Icon on FB Watch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-top-specialists-exceptional-instragram-highlight-artisans/"><u>[New] In 2024, Top Specialists  Exceptional Instragram Highlight Artisans</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-optimize-video-posts-a-comprehensive-crop-and-export-method-for-2024/"><u>[New] Optimize Video Posts  A Comprehensive Crop & Export Method for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-of-the-best-in-gpodc-podcasts/"><u>[Updated] Best of the Best in GPodC Podcasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-novice-to-pro-simplified-youtube-live-streaming-with-obs/"><u>[Updated] In 2024, From Novice to Pro  Simplified YouTube Live Streaming with OBS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-7-best-fmovie-alternatives2023-updates/"><u>[Updated] Top 7 Best Fmovie Alternatives[2023 Updates]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>2024 Approved  5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-drone-deals-ready-to-buy/"><u>2024 Approved  Best Drone Deals Ready to Buy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/"><u>2024 Approved  Beyond Imagination  The Best Sci-Fi Metaverse Films for Adventurers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-studio-exploration-in-depth-xvideoexamine/"><u>2024 Approved  Complete Studio Exploration  In-Depth XVideoExamine</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-recruiter-shorts-find-your-motivation/"><u>2024 Approved  Top Recruiter Shorts  Find Your Motivation!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-4k-cameras-guide-(1k-top-picks/"><u>Affordable 4K Cameras Guide (<$1K) - Top Picks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-auto-tracking-mount-for-cameras-and-phones/"><u>Best Auto Tracking Mount for Cameras and Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breathe-new-life-into-your-ig-story-with-simple-animated-text-tips/"><u>Breathe New Life Into Your IG Story with Simple Animated Text Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-price-proposition-the-first-step-in-podcasting-for-2024/"><u>Complete Price Proposition  The First Step in Podcasting for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/curated-collection-saving-snapchat-ringtone-audio/"><u>Curated Collection  Saving Snapchat Ringtone Audio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-tutorial-inshot-on-desktop-video-creation/"><u>Cutting-Edge Tutorial  Inshot on Desktop Video Creation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/examining-vivocuts-impact-on-the-video-editor-writes-of-2024/"><u>Examining VivoCut's Impact on the Video Editor' Writes of 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harnessing-testimonials-for-genuine-brand-connection/"><u>Harnessing Testimonials for Genuine Brand Connection</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-add-music-to-facebook-videos/"><u>How to Add Music to Facebook Videos?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-peek-into-the-viral-world-of-stock-photo-memes/"><u>In 2024, A Peek Into the Viral World of Stock Photo Memes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-broadcast-tools-battle-wirecast-versus-obs-in-detail/"><u>In 2024, Broadcast Tools Battle  Wirecast versus OBS in Detail</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-it-all-webcams-to-transform-podcasts/"><u>In 2024, Capture It All  Webcams to Transform Podcasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-with-purpose-iphones-10-commandments-of-image-design/"><u>In 2024, Capture with Purpose  IPhone's 10 Commandments of Image Design</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-visuals-theory-to-practice-with-colors/"><u>In 2024, Crafting Visuals  Theory to Practice with Colors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-v29-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo V29 Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-secrets-crafting-captivating-instagram-unboxing-videos/"><u>In 2024, Unlock the Secrets  Crafting Captivating Instagram Unboxing Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-winning-instagram-viewers-with-impactful-videos/"><u>In 2024, Winning Instagram Viewers with Impactful Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterclass-in-making-panzoids/"><u>Masterclass in Making Panzoids</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-monochrome-output-from-portable-units/"><u>Mending Monochrome Output From Portable Units</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-tips-rotate-and-flip-iphone-imagery/"><u>Professional Tips  Rotate and Flip iPhone Imagery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/push-the-limits-a-review-of-lgs-27uhd68-freesync-display/"><u>Push the Limits  A Review of LG’s 27UHD68 FreeSync Display</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-pace-facebook-videos-prime-extensions-tips-and-tricks-list/"><u>Quick-Pace Facebook Videos  Prime Extensions, Tips & Tricks List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sounds-unveiled-first-steps-using-auditions-fade-in-feature/"><u>Sounds Unveiled  First Steps Using Audition's Fade In Feature</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-inserting-times-on-youtube-videos/"><u>Step-by-Step  Inserting Times on YouTube Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-sound-integration-with-powerpoint-displays/"><u>Streamline Sound Integration with PowerPoint Displays</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-video-logging-on-periscope-platforms/"><u>Streamlining Video Logging on Periscope Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-progression-of-vegaspro-through-its-2019-updates/"><u>The Progression of VegasPro Through Its 2019 Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-magixs-acid-pro-and-its-market-rivals/"><u>Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-mastering-video-import-and-export-in-adobe-premiere-pro/"><u>Updated Mastering Video Import and Export in Adobe Premiere Pro</u></a></li>
+</ul></div>

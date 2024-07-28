@@ -1,7 +1,7 @@
 ---
 title: "Dial Down Audio, Slowly and Steadily"
-date: 2024-05-24T10:46:07.126Z
-updated: 2024-05-25T10:46:07.126Z
+date: 2024-07-27T01:37:17.329Z
+updated: 2024-07-28T01:37:17.329Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Dial Down Audio, Slowly and Steadily"
 excerpt: "This Article Describes Dial Down Audio, Slowly and Steadily"
 keywords: "\"Dial Down Sound,Slow Audio Reduction,Steady Volume Decrease,Quieter Audio Step-by-Step,Gradual Sound Lowering,Reduce Noise Gently,Controlled Audio Diminish\""
-thumbnail: https://www.lifewire.com/thmb/dMx9heVT2DVApYYCeunE8JND7XE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/headphonesrunning-5c8877304cedfd000190b254.jpg
+thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771beaa7f3b2a1e86afcc1230369a.jpg
 ---
 
 ## Dial Down Audio, Slowly and Steadily
@@ -30,12 +30,18 @@ It can create new sounds through drum machines as a result you can show your cre
 
 Step1 The first and foremost task to do is the successful installation of FL Studio. Getting the latest version of this will be useful for you as it has a lot of new features.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
 
 After selecting that, there will be an addition of a new automation clip to the playlist.
@@ -54,6 +60,23 @@ However, if you are looking forward to the alternative option for FL Studio, [Fi
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
@@ -66,6 +89,9 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
@@ -86,14 +112,23 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
@@ -102,6 +137,9 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -130,3 +168,58 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-blueprinting-breathtaking-cinematic-sketches/"><u>[New] Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cheap-yet-quality-top-cam-lows/"><u>[New] Cheap Yet Quality  Top Cam Lows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chromebook-voice-overhaul-guide-top-5-cloud-vocal-modification-tools-reviewed/"><u>[New] Chromebook Voice Overhaul Guide  Top 5 Cloud Vocal Modification Tools Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cost-outline-for-composing-sounds-to-screen-titles/"><u>[New] Cost Outline for Composing Sounds to Screen-Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-experience-the-virtual-reality-frontier-on-youtube-for-2024/"><u>[New] Experience the Virtual Reality Frontier on Youtube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-fast-forward-fame-insta-popularity-through-content-for-2024/"><u>[New] Fast Forward Fame  Insta Popularity Through Content for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams-for-2024/"><u>[New] From Chat Room to Screen  Step-by-Step Google Meet YouTube Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-convert-fb-footage-fast-free-720p-1080p-to-mp4-conversion/"><u>[New] In 2024, Convert FB Footage Fast - Free 720P, 1080P to MP4 Conversion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-popart-app-deep-dive-2024-edition/"><u>[New] PopArt App Deep Dive - 2024 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-speech-recognition-made-easy-a-guide-to-text-conversion-in-ms-word/"><u>[New] Speech Recognition Made Easy  A Guide to Text Conversion in MS Word</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-producers-playbook-for-mixing-audio-and-visuals-on-fb-platform/"><u>[New] The Producer's Playbook for Mixing Audio and Visuals on FB Platform</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-hilarious-highlights/"><u>[New] Twitter's Hilarious Highlights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-utilize-vlc-software-for-webcam-video-storage-for-2024/"><u>[New] Utilize VLC Software for Webcam Video Storage for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-auditory-archive-top-resources-for-free-skype-music-files/"><u>[Updated] Auditory Archive  Top Resources for Free Skype Music Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chroma-chronicles-expertise-in-color-crafting/"><u>[Updated] Chroma Chronicles  Expertise in Color Crafting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-creating-captivating-iphone-lengthened-photos/"><u>[Updated] Creating Captivating iPhone Lengthened Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-12-live-video-streaming-app-for-watching-and-streaming-videos/"><u>2024 Approved  12 Live Video Streaming App for Watching and Streaming Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>2024 Approved  Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-perfect-srt-output-with-premiere-pro/"><u>2024 Approved  Crafting Perfect SRT Output with Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-minecraft-shaping-mastery-crafting-circles-and-spheres/"><u>2024 Approved  Minecraft Shaping Mastery  Crafting Circles & Spheres</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-personalize-vr-gear-with-homemade-google-headgear/"><u>2024 Approved  Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8-superb-tablet-titans-to-take-your-photo-editing-skills-further-for-2024/"><u>8 Superb Tablet Titans to Take Your Photo Editing Skills Further for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-beginners-primer-on-virtual-reality-concepts/"><u>A Beginner's Primer on Virtual Reality Concepts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-choosing-win-compatible-drawing-software/"><u>A Guide to Choosing Win-Compatible Drawing Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-power-to-replay-film-slices-for-2024/"><u>Android's Power to Replay Film Slices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-visual-and-auditory-composition-with-custom-filters-and-melodies-windows-10-photos-for-2024/"><u>Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/diy-guide-personalize-google-cardboard-vr-headset/"><u>DIY Guide  Personalize Google Cardboard VR Headset</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertly-handling-timecodes-in-srt-using-macos-tools/"><u>Expertly Handling Timecodes in SRT Using macOS Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-unlimited-access-to-fcp/"><u>Explore Unlimited Access to FCP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-vivo-s18-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo S18 Pro Phone Screen?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>In 2024, Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blending-audio-from-youtube-into-video-mediums/"><u>In 2024, Blending Audio From YouTube Into Video Mediums</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagrams-most-active-hours/"><u>In 2024, Mastering Instagram's Most Active Hours</u></a></li>
+<li><a href="https://extra-information.techidaily.com/initiate-insight-an-entryway-guide-to-online-product-critique-channels/"><u>Initiate Insight  An Entryway Guide to Online Product Critique Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leveraging-filmora-insights-for-every-content-creator/"><u>Leveraging Filmora  Insights for Every Content Creator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-shopping-spree-videography/"><u>Mastering the Art of Shopping Spree Videography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-pitch-integrating-music-with-cropping-and-editing-in-canva-for-2024/"><u>Perfect Pitch  Integrating Music with Cropping and Editing in Canva for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-self-portraits-iphones-burst-capability/"><u>Perfecting Self-Portraits  IPhone's Burst Capability</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfectly-funny-meme-creator-app/"><u>Perfectly Funny Meme Creator App</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-infinix-note-30-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Infinix Note 30</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>Seamless Streaming  Tips for Uninterrupted Broadcasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/secure-smooth-photo-viewing-w10-troubleshooting-tips-unveiled/"><u>Secure Smooth Photo Viewing  W10 Troubleshooting Tips Unveiled</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-driver-problems-in-windows-11-8-or-7-get-your-devices-working-now/"><u>Step-by-Step Solution to Driver Problems in Windows 11, 8 or 7 – Get Your Devices Working Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-comprehensive-guide-to-changing-console-voice/"><u>The Comprehensive Guide to Changing Console Voice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-metaverse-multiverse-dichotomy-explained/"><u>The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unboxing-the-market-strategic-essentials/"><u>Unboxing the Market  Strategic Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unraveling-the-expertise-within-polarrs-photography-suite/"><u>Unraveling the Expertise Within Polarr’s Photography Suite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/z2-play-revelation-a-high-tech-smartphone-study/"><u>Z2 Play Revelation  A High-Tech Smartphone Study</u></a></li>
+</ul></div>

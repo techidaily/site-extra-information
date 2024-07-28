@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Behind the Screen  Discovering Samsung Galaxy S8's 4K Edge\""
-date: 2024-05-24T10:28:39.071Z
-updated: 2024-05-25T10:28:39.071Z
+date: 2024-07-27T01:06:33.728Z
+updated: 2024-07-28T01:06:33.728Z
 tags: 
   - screen-recording
   - ai video
@@ -13,14 +13,308 @@ categories:
 description: "\"This Article Describes 2024 Approved: Behind the Screen: Discovering Samsung Galaxy S8's 4K Edge\""
 excerpt: "\"This Article Describes 2024 Approved: Behind the Screen: Discovering Samsung Galaxy S8's 4K Edge\""
 keywords: "Galaxy S8 4K Video,S8 Screen Edge Review,4K Display on Samsung,S8 Unveiling High Res,Explore S8 Ultra HD,S8's Innovative Design,Samsung S8 Visuals"
-thumbnail: https://www.lifewire.com/thmb/vNiduGzd38MaH6SQoi23lWSaGTw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-122061346-f4d63be5cfde470e9b7192d89497b501.jpg
+thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec122694d578843a25c7f44c71.jpg
 ---
 
 ## Behind the Screen: Discovering Samsung Galaxy S8's 4K Edge
 
 # Samsung Galaxy S8 4K Smartphone Review
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The Samsung galaxy S8 offers an incredible level of performance from one of the premier Samsung phones. If you are looking for a large screen as well as some of the fastest processing power from a Samsung device, this is a premium phone that also comes with a premium price. Working to compete with Apple, the iPhone seven as well as other flagship phones is a very difficult process in the galaxy S8 isn’t perfect. It is however a dramatic shift for Samsung.
+
+* [Section 1: Samsung Galaxy S8 Hardware Design](#section1)
+* [Section 2: Samsung Galaxy S8 Features and Performance](#section2)
+* [Section 3: Samsung Galaxy S8 Onboard Software](#section3)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B06Y14T5YW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06Y14T5YW&linkId=01db8297751893b9921ba30138d3f180)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Samsung Galaxy S8 Pros and cons
+
+**Pros:**
+
+* The first and most recognizable feature of this device is the large display with its bezel free design.
+* The S8 comes with incredible power on board as well.
+* The camera produces some beautiful photos even if you don't consider yourself a photographer.
+
+**Cons:**
+
+* Biometric unlocking can become a tedious security feature.
+* One of the most expensive phones on the market
+* The Bixby feature is largely pointless.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Section 1: Samsung Galaxy S8 Hardware Design
+
+#### 1.Samsung Galaxy S8 Design
+
+The body design is unlike anything you've ever seen on this device. The curved screen, as well as the design without bezels, is truly something to both hold. It's probably one of the most beautiful smartphones on the market from a design perspective. This screen offers some of the sharpest clarity and color production on any natural phone.
+
+Everything in the design of this phone is done at a premium. If you're going be upgrading from a galaxy S5 or switching over from an older iPhone you will feel as though you're living in the future. The glass on the front is curved on both sides rounded with a glossy style feature and this could very well become the new standard. This style of screen is extremely easy to get adjusted with as well.
+
+The metal rim and the quality glass and weight to the phone really just make it feel like a premium device and it certainly is with a price tag sometimes in excess of $1100 US. Each of the buttons on the phone are extremely well-crafted as well. Samsung removed a number of keys and included some new keys on the phone to improve the tactile feeling and durability. The only real button that can sometimes get in the way is the Bixby information screen. This button seems to get in the way and start up the Bixby voice recognition app regularly. This is really the only detraction from the overall design and style with the power button still found on the right-hand side in good placement, volume rocker on the left-hand side as well as a fingerprint scanner in a fairly sensible area right next to the camera. USB c connections can be found in the bottom.
+
+A standard headphone jack can still be found at the top of this device as well.
+
+#### 2.Samsung Galaxy S8 Display
+
+![samsung-s8-design](https://images.wondershare.com/filmora/article-images/samsung-s8-design.jpg)
+
+The Samsung Galaxy S8 has a display that is known for being particularly stunning. It can deliver beautiful black and white contrast tones as well as very rich colors. Do yourself a favor and start streaming content in HD as soon as you get this device.
+
+With a screen free of any black space the phone offers a 5.8 inch display which is one of the biggest on the market. The 18.5:9 ratio delivers a completely unique look on a smart phone especially when many applications and videos are made to fit a 16 :9 widescreen. Nevertheless Samsung handles this conversion very well and delivers wonderful entertainment experiences.
+
+The device is certified by UHT alliance and delivers HDR compatible display. The only problem is that there currently aren't any HDR compatible applications or videos apart from the ones that you might actually shoot on this camera.
+
+#### 3.Samsung Galaxy S8 Hardware
+
+The hardware on this device is equally as impressive with a Snapdragon 835 standard processor that delivers industry-leading performance. It also comes with a standard 64 GB of HD storage with the chance to expand via the SD memory card of your choice. It's possible to extend the memory of this phone with a 256 GB card for nearly endless possibilities with filming content, downloading apps and more.
+
+It may not have the same amount of RAM that you might find in a Oneplus 5 but with 4 GB of onboard RAM the device does fine when paired with this processor. It can run through some of the worlds most demanding applications as well as display HD content with ease.
+
+The battery on board is kept to just a 3000mAH option which is lower than some of the other competitors but the device does have a number of power saving techniques within Android as well as the efficiency of the hardware itself.
+
+In many stress tests with this phone even with high-rise display it can deliver improved sharpness as well as handle a large load of tasks. It is one of the best speced phones on the market and it produces some of the best benchmark results available today.
+
+To make connectivity even better the S8 is equipped with Bluetooth five which improves range, control and even the option for improved smart home automation.
+
+#### 4. Samsung Galaxy S8 Durability
+
+The phone comes with a very durable design that is created to be waterproof. With the full certification on waterproofing this is maybe not a device that you would use for diving but it can stand up to light rain, splashing and other situations. The majority of the device is made out of an aluminum instruction with the front of the device being constructed out of Gorilla Glass 5\. The weight and the durability of this device is not something to question as it can deliver the best in performance throughout a standard day.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Section 2: Samsung Galaxy S8 Features and Performance
+
+#### 1. Samsung Galaxy S8 Camera Performance
+
+The camera in the Galaxy S8 hasn't been upgraded that much since previous versions of the Galaxy. On board comes a 12 megapixel camera in the rear of the Samsung device as well as an eight megapixel sensor in the front facing camera. The device is other software have been upgraded fairly substantially and this means producing photos that have great contrast and edits done almost automatically on the phone. Although the specs have not been upgraded Samsung has really zeroed in on the right types of cameras to use in their devices.
+
+Some of the photos that were taken in tests tend to look a little bit over exposed but overall the device handles taking photos in all types of lighting very well. Double tapping the power button will instantly open up the camera app to make for quick photos. With the onboard performance it's also possible to capture images in less than a second. Quick shortcuts as well as an even quicker photo app ensures that you can always capture the shot even when you are pressed for time.
+
+If you want to edit your 4K video footage on Galaxy S8, or you want to make video with the photos you shot with Galaxy S8, we recommend you to try Filmora, which will make a video for you within one minutes. It is easy to use yet powerful enough. Besides the basic video editing features, such as trimming, splitting, rotating, cutting, cropping and reversing, it also provides themes, overlays, filters, transitions and elements for you to use. You can also add text and titles, and voiceover to your video, or make a PIP video.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+[![Download filmora](https://images.wondershare.com/filmora/guide/google_play.jpg) ](https://play.google.com/store/apps/details?id=com.wondershare.filmorago)
+
+However, if you are looking for a more advanced video editing tool to make a video on your PC, you should not miss [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video before to check how to make a video with Filmora.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 2. Samsung Galaxy S8 Audio Performance
+
+The inclusion of the newest Bluetooth features allows the device to easily connect with a variety of others to deliver unprecedented sound. It actually possible the connected to different Bluetooth speakers at once using the S8 to produce a stereo sound equivalent. The onboard speaker is relatively strong but it is these Bluetooth features that really improved the sound on the phone and the type of sounds that you can get watching videos, streaming content and more.
+
+The sound on board the phone through the music player application and the headphones that come with the device is also extremely strong. While Samsung has always produced relatively strong speakers in its smartphone considerable changes really haven't been made with the S8 apart from the Bluetooth inclusion.
+
+#### 3. Samsung Galaxy S8 Battery Performance
+
+With just a 3000 mAh battery on board, most would have expected to see a larger battery. Many suggest that the reason Samsung scaled back the battery is to avoid the chance for explosions and fires that occurred with the note 7\. The battery life is fairly good to considering the type of hardware that's on board. It's the power saving modes and the efficient hardware that really make this 3000 mAh battery seem like a substantial option.
+
+More conveniently the S8 does offer wireless charging. If you have a wireless charging platform the process for charging this phone at night or throughout the day is very simple. This extra feature really improves the versatility of this device and ensure is that you can keep it well charged up through the day. There are plenty of ways that you can make sure you don't ever run out of power even considering the smaller battery on this device.
+
+It can handle plenty of demanding applications but it's very important to use the automatic brightness and power saving modes where applicable so that you can save on battery life and make sure that you get the phone through an entire day.
+
+#### 4. Samsung Galaxy S8 Security Performance
+
+![samsung-s8-security-performance](https://images.wondershare.com/filmora/article-images/samsung-s8-security-performance.jpg)
+
+The S8 has some of the most advanced biometric security available on any smart phone, it has facial recognition, iris recognition as well as a fingerprint scanner all on board. One of the only problems that comes with using these biometrics is that you can end up with a device that consistently needs your permission to unlock and access various applications. Setting up the features is relatively easy and can be done at the start during Samsung set up. Most people end up turning off the iris recognition, facial recognition and opt for fingerprint scanning only as of the much more discreet way to unlock the phone.
+
+#### 5. Samsung Galaxy S8 Compatibility
+
+![samsung-s8-vr-compatible](https://images.wondershare.com/filmora/article-images/samsung-s8-vr-compatible.jpg)
+
+The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+## Section 3: Samsung Galaxy S8 Onboard Software
+
+The device comes with a touchwiz UI which is very similar to other Samsung application experiences. The menus are all extremely easy-to-use and the home button and menu buttons on the back really assist with navigation throughout the phone.
+
+![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
+
+Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
+
+### Conclusion
+
+This is currently one of the best android smart phones available on the market. Although it commands one of the highest price tags it's also one of the most beautiful from a design perspective. If you are a fan of Samsung phones and you're looking for an upgrade or you are looking for one of the best phones that you could switch over to from an iphone, this could be just the phone you are looking for.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The Samsung galaxy S8 offers an incredible level of performance from one of the premier Samsung phones. If you are looking for a large screen as well as some of the fastest processing power from a Samsung device, this is a premium phone that also comes with a premium price. Working to compete with Apple, the iPhone seven as well as other flagship phones is a very difficult process in the galaxy S8 isn’t perfect. It is however a dramatic shift for Samsung.
+
+* [Section 1: Samsung Galaxy S8 Hardware Design](#section1)
+* [Section 2: Samsung Galaxy S8 Features and Performance](#section2)
+* [Section 3: Samsung Galaxy S8 Onboard Software](#section3)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B06Y14T5YW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06Y14T5YW&linkId=01db8297751893b9921ba30138d3f180)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Samsung Galaxy S8 Pros and cons
+
+**Pros:**
+
+* The first and most recognizable feature of this device is the large display with its bezel free design.
+* The S8 comes with incredible power on board as well.
+* The camera produces some beautiful photos even if you don't consider yourself a photographer.
+
+**Cons:**
+
+* Biometric unlocking can become a tedious security feature.
+* One of the most expensive phones on the market
+* The Bixby feature is largely pointless.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Section 1: Samsung Galaxy S8 Hardware Design
+
+#### 1.Samsung Galaxy S8 Design
+
+The body design is unlike anything you've ever seen on this device. The curved screen, as well as the design without bezels, is truly something to both hold. It's probably one of the most beautiful smartphones on the market from a design perspective. This screen offers some of the sharpest clarity and color production on any natural phone.
+
+Everything in the design of this phone is done at a premium. If you're going be upgrading from a galaxy S5 or switching over from an older iPhone you will feel as though you're living in the future. The glass on the front is curved on both sides rounded with a glossy style feature and this could very well become the new standard. This style of screen is extremely easy to get adjusted with as well.
+
+The metal rim and the quality glass and weight to the phone really just make it feel like a premium device and it certainly is with a price tag sometimes in excess of $1100 US. Each of the buttons on the phone are extremely well-crafted as well. Samsung removed a number of keys and included some new keys on the phone to improve the tactile feeling and durability. The only real button that can sometimes get in the way is the Bixby information screen. This button seems to get in the way and start up the Bixby voice recognition app regularly. This is really the only detraction from the overall design and style with the power button still found on the right-hand side in good placement, volume rocker on the left-hand side as well as a fingerprint scanner in a fairly sensible area right next to the camera. USB c connections can be found in the bottom.
+
+A standard headphone jack can still be found at the top of this device as well.
+
+#### 2.Samsung Galaxy S8 Display
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+![samsung-s8-design](https://images.wondershare.com/filmora/article-images/samsung-s8-design.jpg)
+
+The Samsung Galaxy S8 has a display that is known for being particularly stunning. It can deliver beautiful black and white contrast tones as well as very rich colors. Do yourself a favor and start streaming content in HD as soon as you get this device.
+
+With a screen free of any black space the phone offers a 5.8 inch display which is one of the biggest on the market. The 18.5:9 ratio delivers a completely unique look on a smart phone especially when many applications and videos are made to fit a 16 :9 widescreen. Nevertheless Samsung handles this conversion very well and delivers wonderful entertainment experiences.
+
+The device is certified by UHT alliance and delivers HDR compatible display. The only problem is that there currently aren't any HDR compatible applications or videos apart from the ones that you might actually shoot on this camera.
+
+#### 3.Samsung Galaxy S8 Hardware
+
+The hardware on this device is equally as impressive with a Snapdragon 835 standard processor that delivers industry-leading performance. It also comes with a standard 64 GB of HD storage with the chance to expand via the SD memory card of your choice. It's possible to extend the memory of this phone with a 256 GB card for nearly endless possibilities with filming content, downloading apps and more.
+
+It may not have the same amount of RAM that you might find in a Oneplus 5 but with 4 GB of onboard RAM the device does fine when paired with this processor. It can run through some of the worlds most demanding applications as well as display HD content with ease.
+
+The battery on board is kept to just a 3000mAH option which is lower than some of the other competitors but the device does have a number of power saving techniques within Android as well as the efficiency of the hardware itself.
+
+In many stress tests with this phone even with high-rise display it can deliver improved sharpness as well as handle a large load of tasks. It is one of the best speced phones on the market and it produces some of the best benchmark results available today.
+
+To make connectivity even better the S8 is equipped with Bluetooth five which improves range, control and even the option for improved smart home automation.
+
+#### 4. Samsung Galaxy S8 Durability
+
+The phone comes with a very durable design that is created to be waterproof. With the full certification on waterproofing this is maybe not a device that you would use for diving but it can stand up to light rain, splashing and other situations. The majority of the device is made out of an aluminum instruction with the front of the device being constructed out of Gorilla Glass 5\. The weight and the durability of this device is not something to question as it can deliver the best in performance throughout a standard day.
+
+## Section 2: Samsung Galaxy S8 Features and Performance
+
+#### 1. Samsung Galaxy S8 Camera Performance
+
+The camera in the Galaxy S8 hasn't been upgraded that much since previous versions of the Galaxy. On board comes a 12 megapixel camera in the rear of the Samsung device as well as an eight megapixel sensor in the front facing camera. The device is other software have been upgraded fairly substantially and this means producing photos that have great contrast and edits done almost automatically on the phone. Although the specs have not been upgraded Samsung has really zeroed in on the right types of cameras to use in their devices.
+
+Some of the photos that were taken in tests tend to look a little bit over exposed but overall the device handles taking photos in all types of lighting very well. Double tapping the power button will instantly open up the camera app to make for quick photos. With the onboard performance it's also possible to capture images in less than a second. Quick shortcuts as well as an even quicker photo app ensures that you can always capture the shot even when you are pressed for time.
+
+If you want to edit your 4K video footage on Galaxy S8, or you want to make video with the photos you shot with Galaxy S8, we recommend you to try Filmora, which will make a video for you within one minutes. It is easy to use yet powerful enough. Besides the basic video editing features, such as trimming, splitting, rotating, cutting, cropping and reversing, it also provides themes, overlays, filters, transitions and elements for you to use. You can also add text and titles, and voiceover to your video, or make a PIP video.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+[![Download filmora](https://images.wondershare.com/filmora/guide/google_play.jpg) ](https://play.google.com/store/apps/details?id=com.wondershare.filmorago)
+
+However, if you are looking for a more advanced video editing tool to make a video on your PC, you should not miss [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video before to check how to make a video with Filmora.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 2. Samsung Galaxy S8 Audio Performance
+
+The inclusion of the newest Bluetooth features allows the device to easily connect with a variety of others to deliver unprecedented sound. It actually possible the connected to different Bluetooth speakers at once using the S8 to produce a stereo sound equivalent. The onboard speaker is relatively strong but it is these Bluetooth features that really improved the sound on the phone and the type of sounds that you can get watching videos, streaming content and more.
+
+The sound on board the phone through the music player application and the headphones that come with the device is also extremely strong. While Samsung has always produced relatively strong speakers in its smartphone considerable changes really haven't been made with the S8 apart from the Bluetooth inclusion.
+
+#### 3. Samsung Galaxy S8 Battery Performance
+
+With just a 3000 mAh battery on board, most would have expected to see a larger battery. Many suggest that the reason Samsung scaled back the battery is to avoid the chance for explosions and fires that occurred with the note 7\. The battery life is fairly good to considering the type of hardware that's on board. It's the power saving modes and the efficient hardware that really make this 3000 mAh battery seem like a substantial option.
+
+More conveniently the S8 does offer wireless charging. If you have a wireless charging platform the process for charging this phone at night or throughout the day is very simple. This extra feature really improves the versatility of this device and ensure is that you can keep it well charged up through the day. There are plenty of ways that you can make sure you don't ever run out of power even considering the smaller battery on this device.
+
+It can handle plenty of demanding applications but it's very important to use the automatic brightness and power saving modes where applicable so that you can save on battery life and make sure that you get the phone through an entire day.
+
+#### 4. Samsung Galaxy S8 Security Performance
+
+![samsung-s8-security-performance](https://images.wondershare.com/filmora/article-images/samsung-s8-security-performance.jpg)
+
+The S8 has some of the most advanced biometric security available on any smart phone, it has facial recognition, iris recognition as well as a fingerprint scanner all on board. One of the only problems that comes with using these biometrics is that you can end up with a device that consistently needs your permission to unlock and access various applications. Setting up the features is relatively easy and can be done at the start during Samsung set up. Most people end up turning off the iris recognition, facial recognition and opt for fingerprint scanning only as of the much more discreet way to unlock the phone.
+
+#### 5. Samsung Galaxy S8 Compatibility
+
+![samsung-s8-vr-compatible](https://images.wondershare.com/filmora/article-images/samsung-s8-vr-compatible.jpg)
+
+The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## Section 3: Samsung Galaxy S8 Onboard Software
+
+The device comes with a touchwiz UI which is very similar to other Samsung application experiences. The menus are all extremely easy-to-use and the home button and menu buttons on the back really assist with navigation throughout the phone.
+
+![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
+
+Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Conclusion
+
+This is currently one of the best android smart phones available on the market. Although it commands one of the highest price tags it's also one of the most beautiful from a design perspective. If you are a fan of Samsung phones and you're looking for an upgrade or you are looking for one of the best phones that you could switch over to from an iphone, this could be just the phone you are looking for.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
 
 ##### Max Wales
 
@@ -48,6 +342,9 @@ The Samsung galaxy S8 offers an incredible level of performance from one of the 
 * One of the most expensive phones on the market
 * The Bixby feature is largely pointless.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Section 1: Samsung Galaxy S8 Hardware Design
 
 #### 1.Samsung Galaxy S8 Design
@@ -62,6 +359,9 @@ A standard headphone jack can still be found at the top of this device as well.
 
 #### 2.Samsung Galaxy S8 Display
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![samsung-s8-design](https://images.wondershare.com/filmora/article-images/samsung-s8-design.jpg)
 
 The Samsung Galaxy S8 has a display that is known for being particularly stunning. It can deliver beautiful black and white contrast tones as well as very rich colors. Do yourself a favor and start streaming content in HD as soon as you get this device.
@@ -124,6 +424,9 @@ The S8 has some of the most advanced biometric security available on any smart p
 
 #### 5. Samsung Galaxy S8 Compatibility
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung-s8-vr-compatible](https://images.wondershare.com/filmora/article-images/samsung-s8-vr-compatible.jpg)
 
 The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
@@ -132,6 +435,9 @@ The Samsung S8 is one of the best new devices for using with the Samsung deX acc
 
 The device comes with a touchwiz UI which is very similar to other Samsung application experiences. The menus are all extremely easy-to-use and the home button and menu buttons on the back really assist with navigation throughout the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
 
 Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
@@ -188,6 +494,9 @@ A standard headphone jack can still be found at the top of this device as well.
 
 #### 2.Samsung Galaxy S8 Display
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![samsung-s8-design](https://images.wondershare.com/filmora/article-images/samsung-s8-design.jpg)
 
 The Samsung Galaxy S8 has a display that is known for being particularly stunning. It can deliver beautiful black and white contrast tones as well as very rich colors. Do yourself a favor and start streaming content in HD as soon as you get this device.
@@ -222,10 +531,16 @@ Some of the photos that were taken in tests tend to look a little bit over expos
 
 If you want to edit your 4K video footage on Galaxy S8, or you want to make video with the photos you shot with Galaxy S8, we recommend you to try Filmora, which will make a video for you within one minutes. It is easy to use yet powerful enough. Besides the basic video editing features, such as trimming, splitting, rotating, cutting, cropping and reversing, it also provides themes, overlays, filters, transitions and elements for you to use. You can also add text and titles, and voiceover to your video, or make a PIP video.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download filmora](https://images.wondershare.com/filmora/guide/google_play.jpg) ](https://play.google.com/store/apps/details?id=com.wondershare.filmorago)
 
 However, if you are looking for a more advanced video editing tool to make a video on your PC, you should not miss [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video before to check how to make a video with Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2. Samsung Galaxy S8 Audio Performance
@@ -250,10 +565,17 @@ The S8 has some of the most advanced biometric security available on any smart p
 
 #### 5. Samsung Galaxy S8 Compatibility
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![samsung-s8-vr-compatible](https://images.wondershare.com/filmora/article-images/samsung-s8-vr-compatible.jpg)
 
 The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Section 3: Samsung Galaxy S8 Onboard Software
 
 The device comes with a touchwiz UI which is very similar to other Samsung application experiences. The menus are all extremely easy-to-use and the home button and menu buttons on the back really assist with navigation throughout the phone.
@@ -266,258 +588,9 @@ Bixby is one of the latest highlighted features which is somewhat similar to the
 
 This is currently one of the best android smart phones available on the market. Although it commands one of the highest price tags it's also one of the most beautiful from a design perspective. If you are a fan of Samsung phones and you're looking for an upgrade or you are looking for one of the best phones that you could switch over to from an iphone, this could be just the phone you are looking for.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The Samsung galaxy S8 offers an incredible level of performance from one of the premier Samsung phones. If you are looking for a large screen as well as some of the fastest processing power from a Samsung device, this is a premium phone that also comes with a premium price. Working to compete with Apple, the iPhone seven as well as other flagship phones is a very difficult process in the galaxy S8 isn’t perfect. It is however a dramatic shift for Samsung.
-
-* [Section 1: Samsung Galaxy S8 Hardware Design](#section1)
-* [Section 2: Samsung Galaxy S8 Features and Performance](#section2)
-* [Section 3: Samsung Galaxy S8 Onboard Software](#section3)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B06Y14T5YW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06Y14T5YW&linkId=01db8297751893b9921ba30138d3f180)
-
-## Samsung Galaxy S8 Pros and cons
-
-**Pros:**
-
-* The first and most recognizable feature of this device is the large display with its bezel free design.
-* The S8 comes with incredible power on board as well.
-* The camera produces some beautiful photos even if you don't consider yourself a photographer.
-
-**Cons:**
-
-* Biometric unlocking can become a tedious security feature.
-* One of the most expensive phones on the market
-* The Bixby feature is largely pointless.
-
-## Section 1: Samsung Galaxy S8 Hardware Design
-
-#### 1.Samsung Galaxy S8 Design
-
-The body design is unlike anything you've ever seen on this device. The curved screen, as well as the design without bezels, is truly something to both hold. It's probably one of the most beautiful smartphones on the market from a design perspective. This screen offers some of the sharpest clarity and color production on any natural phone.
-
-Everything in the design of this phone is done at a premium. If you're going be upgrading from a galaxy S5 or switching over from an older iPhone you will feel as though you're living in the future. The glass on the front is curved on both sides rounded with a glossy style feature and this could very well become the new standard. This style of screen is extremely easy to get adjusted with as well.
-
-The metal rim and the quality glass and weight to the phone really just make it feel like a premium device and it certainly is with a price tag sometimes in excess of $1100 US. Each of the buttons on the phone are extremely well-crafted as well. Samsung removed a number of keys and included some new keys on the phone to improve the tactile feeling and durability. The only real button that can sometimes get in the way is the Bixby information screen. This button seems to get in the way and start up the Bixby voice recognition app regularly. This is really the only detraction from the overall design and style with the power button still found on the right-hand side in good placement, volume rocker on the left-hand side as well as a fingerprint scanner in a fairly sensible area right next to the camera. USB c connections can be found in the bottom.
-
-A standard headphone jack can still be found at the top of this device as well.
-
-#### 2.Samsung Galaxy S8 Display
-
-![samsung-s8-design](https://images.wondershare.com/filmora/article-images/samsung-s8-design.jpg)
-
-The Samsung Galaxy S8 has a display that is known for being particularly stunning. It can deliver beautiful black and white contrast tones as well as very rich colors. Do yourself a favor and start streaming content in HD as soon as you get this device.
-
-With a screen free of any black space the phone offers a 5.8 inch display which is one of the biggest on the market. The 18.5:9 ratio delivers a completely unique look on a smart phone especially when many applications and videos are made to fit a 16 :9 widescreen. Nevertheless Samsung handles this conversion very well and delivers wonderful entertainment experiences.
-
-The device is certified by UHT alliance and delivers HDR compatible display. The only problem is that there currently aren't any HDR compatible applications or videos apart from the ones that you might actually shoot on this camera.
-
-#### 3.Samsung Galaxy S8 Hardware
-
-The hardware on this device is equally as impressive with a Snapdragon 835 standard processor that delivers industry-leading performance. It also comes with a standard 64 GB of HD storage with the chance to expand via the SD memory card of your choice. It's possible to extend the memory of this phone with a 256 GB card for nearly endless possibilities with filming content, downloading apps and more.
-
-It may not have the same amount of RAM that you might find in a Oneplus 5 but with 4 GB of onboard RAM the device does fine when paired with this processor. It can run through some of the worlds most demanding applications as well as display HD content with ease.
-
-The battery on board is kept to just a 3000mAH option which is lower than some of the other competitors but the device does have a number of power saving techniques within Android as well as the efficiency of the hardware itself.
-
-In many stress tests with this phone even with high-rise display it can deliver improved sharpness as well as handle a large load of tasks. It is one of the best speced phones on the market and it produces some of the best benchmark results available today.
-
-To make connectivity even better the S8 is equipped with Bluetooth five which improves range, control and even the option for improved smart home automation.
-
-#### 4. Samsung Galaxy S8 Durability
-
-The phone comes with a very durable design that is created to be waterproof. With the full certification on waterproofing this is maybe not a device that you would use for diving but it can stand up to light rain, splashing and other situations. The majority of the device is made out of an aluminum instruction with the front of the device being constructed out of Gorilla Glass 5\. The weight and the durability of this device is not something to question as it can deliver the best in performance throughout a standard day.
-
-## Section 2: Samsung Galaxy S8 Features and Performance
-
-#### 1. Samsung Galaxy S8 Camera Performance
-
-The camera in the Galaxy S8 hasn't been upgraded that much since previous versions of the Galaxy. On board comes a 12 megapixel camera in the rear of the Samsung device as well as an eight megapixel sensor in the front facing camera. The device is other software have been upgraded fairly substantially and this means producing photos that have great contrast and edits done almost automatically on the phone. Although the specs have not been upgraded Samsung has really zeroed in on the right types of cameras to use in their devices.
-
-Some of the photos that were taken in tests tend to look a little bit over exposed but overall the device handles taking photos in all types of lighting very well. Double tapping the power button will instantly open up the camera app to make for quick photos. With the onboard performance it's also possible to capture images in less than a second. Quick shortcuts as well as an even quicker photo app ensures that you can always capture the shot even when you are pressed for time.
-
-If you want to edit your 4K video footage on Galaxy S8, or you want to make video with the photos you shot with Galaxy S8, we recommend you to try Filmora, which will make a video for you within one minutes. It is easy to use yet powerful enough. Besides the basic video editing features, such as trimming, splitting, rotating, cutting, cropping and reversing, it also provides themes, overlays, filters, transitions and elements for you to use. You can also add text and titles, and voiceover to your video, or make a PIP video.
-
-[![Download filmora](https://images.wondershare.com/filmora/guide/google_play.jpg) ](https://play.google.com/store/apps/details?id=com.wondershare.filmorago)
-
-However, if you are looking for a more advanced video editing tool to make a video on your PC, you should not miss [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video before to check how to make a video with Filmora.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 2. Samsung Galaxy S8 Audio Performance
-
-The inclusion of the newest Bluetooth features allows the device to easily connect with a variety of others to deliver unprecedented sound. It actually possible the connected to different Bluetooth speakers at once using the S8 to produce a stereo sound equivalent. The onboard speaker is relatively strong but it is these Bluetooth features that really improved the sound on the phone and the type of sounds that you can get watching videos, streaming content and more.
-
-The sound on board the phone through the music player application and the headphones that come with the device is also extremely strong. While Samsung has always produced relatively strong speakers in its smartphone considerable changes really haven't been made with the S8 apart from the Bluetooth inclusion.
-
-#### 3. Samsung Galaxy S8 Battery Performance
-
-With just a 3000 mAh battery on board, most would have expected to see a larger battery. Many suggest that the reason Samsung scaled back the battery is to avoid the chance for explosions and fires that occurred with the note 7\. The battery life is fairly good to considering the type of hardware that's on board. It's the power saving modes and the efficient hardware that really make this 3000 mAh battery seem like a substantial option.
-
-More conveniently the S8 does offer wireless charging. If you have a wireless charging platform the process for charging this phone at night or throughout the day is very simple. This extra feature really improves the versatility of this device and ensure is that you can keep it well charged up through the day. There are plenty of ways that you can make sure you don't ever run out of power even considering the smaller battery on this device.
-
-It can handle plenty of demanding applications but it's very important to use the automatic brightness and power saving modes where applicable so that you can save on battery life and make sure that you get the phone through an entire day.
-
-#### 4. Samsung Galaxy S8 Security Performance
-
-![samsung-s8-security-performance](https://images.wondershare.com/filmora/article-images/samsung-s8-security-performance.jpg)
-
-The S8 has some of the most advanced biometric security available on any smart phone, it has facial recognition, iris recognition as well as a fingerprint scanner all on board. One of the only problems that comes with using these biometrics is that you can end up with a device that consistently needs your permission to unlock and access various applications. Setting up the features is relatively easy and can be done at the start during Samsung set up. Most people end up turning off the iris recognition, facial recognition and opt for fingerprint scanning only as of the much more discreet way to unlock the phone.
-
-#### 5. Samsung Galaxy S8 Compatibility
-
-![samsung-s8-vr-compatible](https://images.wondershare.com/filmora/article-images/samsung-s8-vr-compatible.jpg)
-
-The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
-
-## Section 3: Samsung Galaxy S8 Onboard Software
-
-The device comes with a touchwiz UI which is very similar to other Samsung application experiences. The menus are all extremely easy-to-use and the home button and menu buttons on the back really assist with navigation throughout the phone.
-
-![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
-
-Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
-
-### Conclusion
-
-This is currently one of the best android smart phones available on the market. Although it commands one of the highest price tags it's also one of the most beautiful from a design perspective. If you are a fan of Samsung phones and you're looking for an upgrade or you are looking for one of the best phones that you could switch over to from an iphone, this could be just the phone you are looking for.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The Samsung galaxy S8 offers an incredible level of performance from one of the premier Samsung phones. If you are looking for a large screen as well as some of the fastest processing power from a Samsung device, this is a premium phone that also comes with a premium price. Working to compete with Apple, the iPhone seven as well as other flagship phones is a very difficult process in the galaxy S8 isn’t perfect. It is however a dramatic shift for Samsung.
-
-* [Section 1: Samsung Galaxy S8 Hardware Design](#section1)
-* [Section 2: Samsung Galaxy S8 Features and Performance](#section2)
-* [Section 3: Samsung Galaxy S8 Onboard Software](#section3)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B06Y14T5YW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06Y14T5YW&linkId=01db8297751893b9921ba30138d3f180)
-
-## Samsung Galaxy S8 Pros and cons
-
-**Pros:**
-
-* The first and most recognizable feature of this device is the large display with its bezel free design.
-* The S8 comes with incredible power on board as well.
-* The camera produces some beautiful photos even if you don't consider yourself a photographer.
-
-**Cons:**
-
-* Biometric unlocking can become a tedious security feature.
-* One of the most expensive phones on the market
-* The Bixby feature is largely pointless.
-
-## Section 1: Samsung Galaxy S8 Hardware Design
-
-#### 1.Samsung Galaxy S8 Design
-
-The body design is unlike anything you've ever seen on this device. The curved screen, as well as the design without bezels, is truly something to both hold. It's probably one of the most beautiful smartphones on the market from a design perspective. This screen offers some of the sharpest clarity and color production on any natural phone.
-
-Everything in the design of this phone is done at a premium. If you're going be upgrading from a galaxy S5 or switching over from an older iPhone you will feel as though you're living in the future. The glass on the front is curved on both sides rounded with a glossy style feature and this could very well become the new standard. This style of screen is extremely easy to get adjusted with as well.
-
-The metal rim and the quality glass and weight to the phone really just make it feel like a premium device and it certainly is with a price tag sometimes in excess of $1100 US. Each of the buttons on the phone are extremely well-crafted as well. Samsung removed a number of keys and included some new keys on the phone to improve the tactile feeling and durability. The only real button that can sometimes get in the way is the Bixby information screen. This button seems to get in the way and start up the Bixby voice recognition app regularly. This is really the only detraction from the overall design and style with the power button still found on the right-hand side in good placement, volume rocker on the left-hand side as well as a fingerprint scanner in a fairly sensible area right next to the camera. USB c connections can be found in the bottom.
-
-A standard headphone jack can still be found at the top of this device as well.
-
-#### 2.Samsung Galaxy S8 Display
-
-![samsung-s8-design](https://images.wondershare.com/filmora/article-images/samsung-s8-design.jpg)
-
-The Samsung Galaxy S8 has a display that is known for being particularly stunning. It can deliver beautiful black and white contrast tones as well as very rich colors. Do yourself a favor and start streaming content in HD as soon as you get this device.
-
-With a screen free of any black space the phone offers a 5.8 inch display which is one of the biggest on the market. The 18.5:9 ratio delivers a completely unique look on a smart phone especially when many applications and videos are made to fit a 16 :9 widescreen. Nevertheless Samsung handles this conversion very well and delivers wonderful entertainment experiences.
-
-The device is certified by UHT alliance and delivers HDR compatible display. The only problem is that there currently aren't any HDR compatible applications or videos apart from the ones that you might actually shoot on this camera.
-
-#### 3.Samsung Galaxy S8 Hardware
-
-The hardware on this device is equally as impressive with a Snapdragon 835 standard processor that delivers industry-leading performance. It also comes with a standard 64 GB of HD storage with the chance to expand via the SD memory card of your choice. It's possible to extend the memory of this phone with a 256 GB card for nearly endless possibilities with filming content, downloading apps and more.
-
-It may not have the same amount of RAM that you might find in a Oneplus 5 but with 4 GB of onboard RAM the device does fine when paired with this processor. It can run through some of the worlds most demanding applications as well as display HD content with ease.
-
-The battery on board is kept to just a 3000mAH option which is lower than some of the other competitors but the device does have a number of power saving techniques within Android as well as the efficiency of the hardware itself.
-
-In many stress tests with this phone even with high-rise display it can deliver improved sharpness as well as handle a large load of tasks. It is one of the best speced phones on the market and it produces some of the best benchmark results available today.
-
-To make connectivity even better the S8 is equipped with Bluetooth five which improves range, control and even the option for improved smart home automation.
-
-#### 4. Samsung Galaxy S8 Durability
-
-The phone comes with a very durable design that is created to be waterproof. With the full certification on waterproofing this is maybe not a device that you would use for diving but it can stand up to light rain, splashing and other situations. The majority of the device is made out of an aluminum instruction with the front of the device being constructed out of Gorilla Glass 5\. The weight and the durability of this device is not something to question as it can deliver the best in performance throughout a standard day.
-
-## Section 2: Samsung Galaxy S8 Features and Performance
-
-#### 1. Samsung Galaxy S8 Camera Performance
-
-The camera in the Galaxy S8 hasn't been upgraded that much since previous versions of the Galaxy. On board comes a 12 megapixel camera in the rear of the Samsung device as well as an eight megapixel sensor in the front facing camera. The device is other software have been upgraded fairly substantially and this means producing photos that have great contrast and edits done almost automatically on the phone. Although the specs have not been upgraded Samsung has really zeroed in on the right types of cameras to use in their devices.
-
-Some of the photos that were taken in tests tend to look a little bit over exposed but overall the device handles taking photos in all types of lighting very well. Double tapping the power button will instantly open up the camera app to make for quick photos. With the onboard performance it's also possible to capture images in less than a second. Quick shortcuts as well as an even quicker photo app ensures that you can always capture the shot even when you are pressed for time.
-
-If you want to edit your 4K video footage on Galaxy S8, or you want to make video with the photos you shot with Galaxy S8, we recommend you to try Filmora, which will make a video for you within one minutes. It is easy to use yet powerful enough. Besides the basic video editing features, such as trimming, splitting, rotating, cutting, cropping and reversing, it also provides themes, overlays, filters, transitions and elements for you to use. You can also add text and titles, and voiceover to your video, or make a PIP video.
-
-[![Download filmora](https://images.wondershare.com/filmora/guide/google_play.jpg) ](https://play.google.com/store/apps/details?id=com.wondershare.filmorago)
-
-However, if you are looking for a more advanced video editing tool to make a video on your PC, you should not miss [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video before to check how to make a video with Filmora.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 2. Samsung Galaxy S8 Audio Performance
-
-The inclusion of the newest Bluetooth features allows the device to easily connect with a variety of others to deliver unprecedented sound. It actually possible the connected to different Bluetooth speakers at once using the S8 to produce a stereo sound equivalent. The onboard speaker is relatively strong but it is these Bluetooth features that really improved the sound on the phone and the type of sounds that you can get watching videos, streaming content and more.
-
-The sound on board the phone through the music player application and the headphones that come with the device is also extremely strong. While Samsung has always produced relatively strong speakers in its smartphone considerable changes really haven't been made with the S8 apart from the Bluetooth inclusion.
-
-#### 3. Samsung Galaxy S8 Battery Performance
-
-With just a 3000 mAh battery on board, most would have expected to see a larger battery. Many suggest that the reason Samsung scaled back the battery is to avoid the chance for explosions and fires that occurred with the note 7\. The battery life is fairly good to considering the type of hardware that's on board. It's the power saving modes and the efficient hardware that really make this 3000 mAh battery seem like a substantial option.
-
-More conveniently the S8 does offer wireless charging. If you have a wireless charging platform the process for charging this phone at night or throughout the day is very simple. This extra feature really improves the versatility of this device and ensure is that you can keep it well charged up through the day. There are plenty of ways that you can make sure you don't ever run out of power even considering the smaller battery on this device.
-
-It can handle plenty of demanding applications but it's very important to use the automatic brightness and power saving modes where applicable so that you can save on battery life and make sure that you get the phone through an entire day.
-
-#### 4. Samsung Galaxy S8 Security Performance
-
-![samsung-s8-security-performance](https://images.wondershare.com/filmora/article-images/samsung-s8-security-performance.jpg)
-
-The S8 has some of the most advanced biometric security available on any smart phone, it has facial recognition, iris recognition as well as a fingerprint scanner all on board. One of the only problems that comes with using these biometrics is that you can end up with a device that consistently needs your permission to unlock and access various applications. Setting up the features is relatively easy and can be done at the start during Samsung set up. Most people end up turning off the iris recognition, facial recognition and opt for fingerprint scanning only as of the much more discreet way to unlock the phone.
-
-#### 5. Samsung Galaxy S8 Compatibility
-
-![samsung-s8-vr-compatible](https://images.wondershare.com/filmora/article-images/samsung-s8-vr-compatible.jpg)
-
-The Samsung S8 is one of the best new devices for using with the Samsung deX accessory as well as the gear 360\. For the future of Samsung VR, the screen without a bevel as well as the HD format that this device can deliver offers a considerable advantage in the market. This is a device that has been well optimized for the future of VR.
-
-## Section 3: Samsung Galaxy S8 Onboard Software
-
-The device comes with a touchwiz UI which is very similar to other Samsung application experiences. The menus are all extremely easy-to-use and the home button and menu buttons on the back really assist with navigation throughout the phone.
-
-![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
-
-Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
-
-### Conclusion
-
-This is currently one of the best android smart phones available on the market. Although it commands one of the highest price tags it's also one of the most beautiful from a design perspective. If you are a fan of Samsung phones and you're looking for an upgrade or you are looking for one of the best phones that you could switch over to from an iphone, this could be just the phone you are looking for.
-
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -550,3 +623,67 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-20plus-best-free-camera-apps-for-high-quality-slo-motion-videos/"><u>[New] 20+ Best Free Camera Apps for High-Quality Slo-Motion Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-10-parody-songs-that-totally-crack-you-up/"><u>[New] 2024 Approved  10 Parody Songs That Totally Crack You Up</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-full-screen-recorders-windows-and-macos-version/"><u>[New] 2024 Approved  Best Full-Screen Recorders - Windows & macOS Version</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-arcade-affordability-index/"><u>[New] ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-storing-solution-for-sony-a7s-ii/"><u>[New] Best Storing Solution for Sony A7S II</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bring-laughs-home-for-free-mememakers-way/"><u>[New] Bring Laughs Home for FREE - MemeMaker's Way</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-bringing-rhythm-to-instagrams-visual-narratives-for-2024/"><u>[New] Bringing Rhythm to Instagram's Visual Narratives for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-your-pc-screenshots-with-apowersofts-tool/"><u>[New] Elevate Your PC Screenshots with Apowersoft’s Tool</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-gecata-watchers-complete-appraisal/"><u>[Updated] 2024 Approved  GECATA Watcher's Complete Appraisal</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-a-step-by-step-guide-to-your-first-twitter-profile-for-2024/"><u>[Updated] A Step-by-Step Guide to Your First Twitter Profile for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-converge-your-viewing-proficiently-using-netflix-pip-mode/"><u>[Updated] Converge Your Viewing  Proficiently Using Netflix PIP Mode</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-essential-free-tiktok-cutting-tools-for-mac-computers-for-2024/"><u>[Updated] Essential Free TikTok Cutting Tools for Mac Computers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-content-with-youtube-tags-and-notes/"><u>[Updated] In 2024, Enhancing Content with YouTube Tags & Notes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-small-scale-screenplay-idea/"><u>[Updated] In 2024, Small-Scale Screenplay Idea</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-locomotion-survey-2023/"><u>[Updated] Total Locomotion Survey 2023</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-12r-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus 12R Unlock Without Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-pilots-best-friend-critical-uav-addons-and-replacements/"><u>A Pilot's Best Friend  Critical UAV Addons and Replacements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-treasure-trove-guide-to-public-domain-images/"><u>A Treasure Trove Guide to Public Domain Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-ammo-face-off-prodigy-cameras-compared-black-vs-session/"><u>Action Ammo Face-Off  Prodigy Cameras Compared – Black vs Session</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-encompassing-kinetic-review-2023/"><u>All-Encompassing Kinetic Review 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiovisual-excellence-top-5-premium-slow-motion-gear-for-2024/"><u>Audiovisual Excellence  Top 5 Premium Slow-Motion Gear for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-titles-google-cardboards-most-immersive-vr-games/"><u>Best Titles  Google Cardboard's Most Immersive VR Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-binary-boundaries-metaverse-vs-multiverse-for-2024/"><u>Beyond Binary Boundaries  Metaverse V/S Multiverse for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/composing-the-unseen-score-trailer-music-magic-for-2024/"><u>Composing the Unseen Score  Trailer Music Magic for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convert-your-social-feeds-videos-into-listenable-audio/"><u>Convert Your Social Feed's Videos Into Listenable Audio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-captivating-podcasts-a-step-by-step-writing-guide-for-2024/"><u>Crafting Captivating Podcasts  A Step-by-Step Writing Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>Crafting Seamless Transitions  The Art of Canon Time-Lapses</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-ffmpegs-ability-to-retain-audio-formats/"><u>Dissecting FFmpeg’s Ability to Retain Audio Formats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-viewing-experience-mastering-netflix-floating-window/"><u>Enhancing Viewing Experience  Mastering Netflix Floating Window</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-list-of-kid-safe-drones/"><u>Essential List of Kid-Safe Drones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/finding-non-inshot-video-software-for-pcs/"><u>Finding Non-Inshot Video Software for PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-listening-transcription-tool-unveiled/"><u>Free Listening Transcription Tool Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-video-to-verse-ranking-the-best-16-platforms-for-flawless-translation/"><u>From Video to Verse  Ranking the Best 16 Platforms for Flawless Translation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-definition-wonders-our-favorites-list/"><u>High Definition Wonders  Our Favorites List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-convert-avi-to-gif-on-windows-and-mac-with-filmora/"><u>How to Convert AVI to GIF on Windows & Mac with Filmora</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-smart-8-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Smart 8 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-your-audio-visual-experience-with-these-6-android-apps/"><u>In 2024, Amplify Your Audio-Visual Experience with These 6 Android Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-snapping-maestro-mastering-the-zoom-feature-in-snapchat/"><u>In 2024, Becoming a Snapping Maestro  Mastering the Zoom Feature in Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-audio-integration-in-adobe-premiere-pro-for-2024/"><u>Mastering Audio Integration in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>Mastering Podcasts  Incorporating Audio in PowerPoint Slides</u></a></li>
+<li><a href="https://extra-information.techidaily.com/moviemeld-editor-review-in-depth-analysis/"><u>MovieMeld Editor Review – In-Depth Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-marketing-landscape-essential-strategies-for-newbies/"><u>Navigating the Marketing Landscape  Essential Strategies for Newbies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-step-by-step-guide-to-extracting-and-editing-audio-in-adobe-premiere-pro-for-2024/"><u>New Step-by-Step Guide to Extracting and Editing Audio in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picart-tips-effortless-face-blurring-trick/"><u>PicArt Tips  Effortless Face Blurring Trick</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>Reel in the Future  Top 5 PS VR Games on The Brink of Launch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simple-tale-creation-guide/"><u>Simple Tale Creation Guide</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-xiaomi-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://extra-information.techidaily.com/speaking-and-listening-to-create-better-decks/"><u>Speaking and Listening to Create Better Decks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-subtitle-switch-up-success-strategies-highlighted/"><u>SRT Subtitle Switch-Up  Success Strategies Highlighted</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-essential-guide-to-creating-cinematic-videos-in-camtasa/"><u>The Essential Guide to Creating Cinematic Videos in Camtasa</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-experts-handbook-for-srt-file-conversions/"><u>The Expert's Handbook for SRT File Conversions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-image-editors-ultimate-toolkit-review/"><u>The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tips-labeling-footage-with-text-via-photos-app-win-11/"><u>Tips  Labeling Footage with Text via Photos App (Win 11)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-sites-for-buying-google-pixel-tunes/"><u>Top Sites for Buying Google Pixel Tunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-roadmap-to-mastery-the-ultimate-guide-to-google-podcasting/"><u>Your Roadmap to Mastery  The Ultimate Guide to Google Podcasting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-rules-the-creators-perspective-for-2024/"><u>YouTube’s Rules  The Creator's Perspective for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zoom-in-navigating-the-nearby-landscapes-of-roblox/"><u>Zoom In  Navigating the Nearby Landscapes of Roblox</u></a></li>
+</ul></div>

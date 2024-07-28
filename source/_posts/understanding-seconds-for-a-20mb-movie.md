@@ -1,7 +1,7 @@
 ---
 title: "Understanding Seconds for a 20MB Movie"
-date: 2024-05-24T11:24:41.234Z
-updated: 2024-05-25T11:24:41.234Z
+date: 2024-07-27T02:45:41.948Z
+updated: 2024-07-28T02:45:41.948Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Understanding Seconds for a 20MB Movie"
 excerpt: "This Article Describes Understanding Seconds for a 20MB Movie"
 keywords: "Movie Size & Seconds Ratio,Data Transfer Speed,Video Playback Time Estimate,File Size to Duration Conversion,Media Streaming Speed Analysis,Bitrate vs Movie Length,20MB Film Duration Calculation"
-thumbnail: https://www.lifewire.com/thmb/hlStnlL-La1A_-HAmJ_u_rIyoI4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/carbatterydeadwinter-568099e35f9b586a9edd07db.jpg
+thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca8c86ab396fe09af56299ebf.jpg
 ---
 
 ## Understanding Seconds for a 20MB Movie
@@ -72,6 +72,9 @@ Filmora can be used to change the bitrate of video files. It has a user-friendly
 
 * **Import Video -Bring the video files in.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -80,12 +83,19 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -168,6 +178,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -176,6 +189,10 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
@@ -216,6 +233,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -224,12 +244,18 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -240,6 +266,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -248,6 +277,9 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
@@ -288,6 +320,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -384,3 +419,54 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-accelerating-your-watch-experience-on-instagram-videos/"><u>[New] Accelerating Your Watch Experience on Instagram Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-avoiding-aerial-blur-essential-tips-for-choosing-a-drone-gimbal/"><u>[New] Avoiding Aerial Blur  Essential Tips for Choosing a Drone Gimbal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-xsplit-alternatives-for-streaming/"><u>[New] Best Xsplit Alternatives for Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boost-your-iphone-videography-skills-master-these-8-essentials/"><u>[New] Boost Your iPhone Videography Skills  Master These 8 Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chucklechips-studio-laughlens-lab/"><u>[New] ChuckleChips Studio  LaughLens Lab</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-plan-for-building-your-ideal-youtube-playlist/"><u>[New] The Ultimate Plan for Building Your Ideal YouTube Playlist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-verdict-hero4-black-excellence/"><u>[Updated] Full Verdict  Hero4 Black Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-best-free-luts-with-download-links-for-2024/"><u>10 Best Free LUTs with Download Links for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-4k-clarity-unleashed-an-intense-study-on-the-31mu97-b-monitor/"><u>2024 Approved  4K Clarity Unleashed - An Intense Study on the 31MU97-B Monitor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-zoom-webcams-compared-the-elite-six/"><u>2024 Approved  Best Zoom Webcams Compared - The Elite Six</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>2024 Approved  Budget-Conscious Skydrive Keepers  Mass File Basket Savings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-the-essence-including-dates-in-image-files/"><u>2024 Approved  Capturing the Essence  Including Dates in Image Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chimecrafted-a-step-by-step-guide-to-creating-your-own-ringtone-tracks/"><u>2024 Approved  ChimeCrafted  A Step-by-Step Guide to Creating Your Own Ringtone Tracks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-compact-cameras-for-mobile-cinematography/"><u>2024 Approved  Compact Cameras for Mobile Cinematography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adventure-videography-supplies-for-travelers-for-2024/"><u>Adventure Videography Supplies for Travelers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/become-a-spotify-ad-expert-in-no-time/"><u>Become a Spotify Ad Expert in No Time</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blueprint-to-blockbuster-scriptwriting-for-films-for-2024/"><u>Blueprint to Blockbuster  Scriptwriting for Films for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-and-zoom-the-essence-of-videography-heres-how/"><u>Capture and Zoom the Essence of Videography, Here's How</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-every-moment-in-motion-with-polaroids-new-release-for-2024/"><u>Capturing Every Moment in Motion with Polaroid's New Release for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-guide-to-morphvox-voice-changer-find-the-best-way/"><u>Complete Guide to MorphVOX Voice Changer  Find the Best Way</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-premium-data-reservoirs-for-2024/"><u>Comprehensive Guide to Premium Data Reservoirs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/demystifying-camera-technology-in-auto-and-ai-enhanced-hdr/"><u>Demystifying Camera Technology in Auto and AI-Enhanced HDR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enabling-adaptive-hdr-feature-in-windows-11/"><u>Enabling Adaptive HDR Feature in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-footage-quality-with-premium-handheld-stabilizers/"><u>Enhance Footage Quality with Premium Handheld Stabilizers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-list-celebrating-the-best-8-gaming-sites/"><u>Essential List: Celebrating the Best 8 Gaming Sites</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellence-in-voice-modification-tools-featuring-magic/"><u>Excellence in Voice Modification Tools, Featuring Magic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-list-best-4k-laptops-for-playing-games/"><u>Exclusive List  Best 4K Laptops for Playing Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-finding-the-best-text-design-resources/"><u>Expert Tips  Finding the Best Text Design Resources</u></a></li>
+<li><a href="https://network-issues.techidaily.com/exposed-issue-why-my-graphics-cards-name-is-hidden/"><u>Exposed Issue: Why My Graphics Card's Name Is Hidden</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flawlessimage-advanced-bg-eraser-app/"><u>FlawlessImage  Advanced BG Eraser App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-turnback-a-twitch-broadcast-top-ten-approaches/"><u>How to Turnback a Twitch Broadcast  Top Ten Approaches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-100-drone-bargains-top-budget-friendly-models/"><u>In 2024, $100 Drone Bargains  Top Budget-Friendly Models</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-free-vector-art-and-graphics-websites/"><u>In 2024, Best Free Vector Art and Graphics Websites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-musical-motifs-and-movie-magic-with-imovie/"><u>In 2024, Musical Motifs and Movie Magic with iMovie</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-steps-to-adobe-audition-fade-in/"><u>In 2024, Steps to Adobe Audition Fade In</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-gt-10-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix GT 10 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/instant-insight-snapshots-for-windows-enthusiasts/"><u>Instant Insight  Snapshots for Windows Enthusiasts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-cut-to-the-chase-get-direct-access-to-filmora-discount-codes-for-2024/"><u>New Cut to the Chase Get Direct Access to Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-teaser-film-assortment/"><u>Pinnacle Teaser Film Assortment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pros-playbook-achieving-crystal-clear-slow-motion-with-hero-10/"><u>Pros' Playbook  Achieving Crystal Clear Slow Motion with Hero 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g13-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G13 Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>The Ultimate Guide to Affordable Cloud Space  Best of the 20</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>Transforming Scenes with Ease  Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unmatched-visual-transformation-toolkit/"><u>Unmatched Visual Transformation Toolkit</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-exploring-the-best-text-to-speech-online-tools-to-use/"><u>Updated Exploring The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-my-instagram-videos-turned-upside-down-whats-going-on/"><u>Why My Instagram Videos Turned Upside Down – What's Going On?</u></a></li>
+</ul></div>

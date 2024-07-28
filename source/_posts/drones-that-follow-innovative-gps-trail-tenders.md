@@ -1,7 +1,7 @@
 ---
 title: "\"Drones That Follow  Innovative GPS Trail Tenders\""
-date: 2024-05-24T11:10:35.438Z
-updated: 2024-05-25T11:10:35.438Z
+date: 2024-07-27T02:20:25.822Z
+updated: 2024-07-28T02:20:25.822Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Drones That Follow: Innovative GPS Trail Tenders\""
 excerpt: "\"This Article Describes Drones That Follow: Innovative GPS Trail Tenders\""
 keywords: "Drones GPS Tracking,Flying Tracker Drones,GPS Drone Navigation,Drone Following System,Innovative Drone Paths,Advanced Drone GPS,Tender Drones Tech"
-thumbnail: https://www.lifewire.com/thmb/684HYeKVF7NwmTyrhJBo9KopPFA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084837b38e9693d564989750d9.jpg
 ---
 
 ## Drones That Follow: Innovative GPS Trail Tenders
 
 # Top 10 GPS Drones That Follow You
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/684HYeKVF7NwmTyrhJBo9KopPFA=/400x300/fi
 
 **Updated:** Now, DJI offers you another choice - [DJI Spark](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Top 10 GPS Drones that Follow You
 
  Click the name of drone to locate the detailed introduction
@@ -218,6 +224,9 @@ thumbnail: https://www.lifewire.com/thmb/684HYeKVF7NwmTyrhJBo9KopPFA=/400x300/fi
 
 #### 10. Hover's Passport: ($599)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hover's passport](https://images.wondershare.com/filmora/article-images/hover-s-passport.jpg)
 
  This durable and powerful drone is designed with ultra lightweight technology and its compact design is powered up with Qualcomm Snapdragon Flight Platform. You can always ensure smooth and clear footage with this device.
@@ -367,6 +376,239 @@ Follow @Max Wales
 
 #### 6. Hexo+: ($999)
 
+![hexo+](https://images.wondershare.com/filmora/article-images/hexo+.jpg)
+
+ This drone unit does not have cameras inside package but it compatible with GoPro devices. Its compact design make it suitable for adventure sports needs but price range is more as compared to other drones offering great facilities.
+
+ **Key Features:**
+
+* You need to buy your own GoPro camera as it does not come with camera.
+* Supports flight time of 15 minutes.
+* Maximum control range goes up to 300 meters.
+
+#### 7. Yuneec H: ($1299)
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![yuneec h](https://images.wondershare.com/filmora/article-images/yuneec-h.jpg)
+
+ It's a powerful six motor type drone unit that is designed to serve for impressive videography and photography needs. It comes with many intelligent flight modes, integrated autonomous flight mode, Journey Mode, Point of Interest Mode, Orbit Me, All in One controller and Team Mode.
+
+[Review for YUNEEC Typhoon H >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ **Key Features:**
+
+* It can stay in air up to 23 minutes.
+* Offers 4K UHD recording with 30fps frame rate and 1080p supports 120fps.
+* 12.4 MP stills.
+* Maximum flying range goes up to 1600 meters.
+
+#### 8. [ DJI Mavic: ($999)](<https://www.amazon.com/gp/product/B01LYNH0BD/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYNH0BD&linkId=5bc2d865f754465a48d14318e26748b0>
+
+)
+
+[dji mavic](https://images.wondershare.com/filmora/article-images/dji-mavic.jpg) ](https://www.amazon.com/gp/product/B01LYNH0BD/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYNH0BD&linkId=5bc2d865f754465a48d14318e26748b0
+)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01LYNH0BD/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYNH0BD&linkId=5bc2d865f754465a48d14318e26748b0
+)
+
+ Here is your compact and powerful drone unit that serves all typical user needs. It has small size and can be used for aerial photography needs. Users love its foldable, sleek body that is capable enough to keep gimbals and camera safe during travelling.
+
+[DJI MAVIC PRO Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ **Key Features:**
+
+* It offers 4K recording.
+* Can allow users to enjoy 26 minutes in air.
+* Maximum control range goes up to 7 Km.
+
+#### 9. [ Wingsland S6 Foldable Pocket Selfie Drone: ($550)](<https://www.amazon.com/gp/product/B01MU4ND0Z/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU4ND0Z&linkId=0cf31fc2afdcdceba4838c11fa155f16>
+
+)
+
+[wingsland s6 foldable pocket selfie drone](https://images.wondershare.com/filmora/article-images/wingsland-s6-foldable-pocket-selfie-drone.jpg) ](https://www.amazon.com/gp/product/B01MU4ND0Z/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU4ND0Z&linkId=0cf31fc2afdcdceba4838c11fa155f16
+)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01MU4ND0Z/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU4ND0Z&linkId=0cf31fc2afdcdceba4838c11fa155f16
+)
+
+ This mini drone unit is designed with ultra slim body so that users can easily carry it in their pocket. With such a small size, it can serve amazing results for aerial photography. Few additional features include: customizable flight path settings, auto following, time lapse, slow motion and panning etc.
+
+ **Key Features:**
+
+* It serves with 4K resolution for videos whereas stills are captured with 13MP abilities.
+* Maximum supported flight time is only 10 minutes.
+* Control range goes up to 120 meters.
+
+#### 10. Hover's Passport: ($599)
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![hover's passport](https://images.wondershare.com/filmora/article-images/hover-s-passport.jpg)
+
+ This durable and powerful drone is designed with ultra lightweight technology and its compact design is powered up with Qualcomm Snapdragon Flight Platform. You can always ensure smooth and clear footage with this device.
+
+ **Key Features:**
+
+* You can enjoy 4K resolution for videos and 13MP stills.
+* Maximum flight time is 10 minutes only.
+* It serves with 20 meter control range.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Quadcopters or Drones are best choice to take footage from hidden or unreachable positions, but they are also very efficient tool for taking selfie. The advanced follow-me drones are capable enough to focus on specific subject and they can provide crazy results for your action photography needs as well as for adventurous trips or sports events. No need to carry a selfie stick on tour, a GPS based drone can capture your video or photos from air with ease.
+
+**Updated:** Now, DJI offers you another choice - [DJI Spark](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Top 10 GPS Drones that Follow You
+
+ Click the name of drone to locate the detailed introduction
+
+| Product                                            | Price   | Video Resolution                        | Flight time | Control range |
+| -------------------------------------------------- | ------- | --------------------------------------- | ----------- | ------------- |
+| [DJI Phantom 3 Standard](#tab1)                   | $496    | 2.7k                                    | 25min       | 1km           |
+| [DJI Phantom 4](#tab2)                            | $961    | 4K Video                                | 28 min      | 3km           |
+| [3DR SOLO](#tab3)                                 | $260    | No. Designed for use with GoPro Cameras | 20 min      | 500m          |
+| [Hubsan H501S](#tab4)                              | $242.18 | 1080P HD Camera                         | 19 min      | 200m          |
+| [AirDog](#tab5)                                   | $650    | No. Designed for use with GoPro Cameras | 18 min      | 250m          |
+| [Hexo+](#tab6)                                    | $999    | No. Designed for use with GoPro Cameras | 15min       | 300m          |
+| [Yuneec H](#tab7)                                 | $1,299  | 4k                                      | 23min       | 1km           |
+| [DJI Mavic](#tab8)                                 | $999    | 4k                                      | 26min       | 7km           |
+| [Wingsland S6 Foldable Pocket Selfie Drone](#tab9) | $550    | 4k                                      | 10min       | 120m          |
+| [Hover's Passport](#tab10)                         | $599    | 4k                                      | 10min       | 20m           |
+
+#### 1. [ DJI Phantom 3 Standard: ($496)](<https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833>
+
+)
+
+[dji phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg) ](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
+)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
+)
+
+ This drone unit has created new wonders in the world of drones with impressive quality and low price range. It has wide range of specifications and follows impressive technical characteristics whereas advanced GPS system makes it perfect to enjoy Follow Me mode.
+
+[Complete Review for DJI Phantom 3 Standard >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ **Key Features:**
+
+* It offers maximum descent speed of about 3 meters/second and maximum ascent speed goes up to 5 meters/ second.
+* Phantom 3 Standard offers maximum flight speed of 16 meters/ second.
+* You can enjoy flights up to 25 minute even with its single battery unit.
+* It offers advanced GPS based tracking and return to home function.
+* Users will be able to record videos up to 2.7K resolution and maximum supported stills of 12MP.
+
+#### 2. [ DJI Phantom 4: ($961)](<https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df>
+
+)
+
+[dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phantom-4.jpg) ](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df
+)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df
+)
+
+ This recently launched Phantom model able to stay in air up to 28 minutes so it becomes best choice of many professionals. The advanced obstacle avoidance system makes its flights safer and crash free, especially when you are enjoying with it Follow Me mode.
+
+[DJI Phantom 4 Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ **Key Features:**
+
+* It offers video recording with 4K Ultra HD resolution level with 30fps frame rate whereas photos can be of 12MP.
+* Phantom 4 comes with advanced obstacle avoidance system to make it safe during flights.
+* The live feed HD with FPV capability is great addition.
+* It offers gimbal stabilization for 3 axis.
+
+#### 3. [ 3DR Solo: ($260)](<https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f>
+
+)
+
+[3dr solo](https://images.wondershare.com/filmora/article-images/3dr-solo.jpg)](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f
+)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f
+)
+
+ Here is one more advanced copter unit with smart technology that is powered with twin computers and offer more intelligent performance. You will be glad to work with its incredibly intuitive controls that make flight controls much easier for beginners. But the sad part is that it does not come with camera.
+
+[Review for 3DR Solo >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ **Key Features:**
+
+* Gimbals are available with GoPro Hero compatibility that you need to buy additionally.
+* Maximum offered flight time is 20 to 25 minutes only.
+* The maximum control range goes up to 500 meters and the maximum supported payload goes up to 420 grams.
+* Its battery takes about 1.5 hours for full charging.
+
+#### 4. [ Hubsan H501S: ($242.18)](<https://www.amazon.com/gp/product/B01GO1CWZO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01GO1CWZO&linkId=9b7f51dd8005d28e190aea46a7586d74>
+
+)
+
+[hubsan h501s](https://images.wondershare.com/filmora/article-images/hubsan-h501s.jpg) ](https://www.amazon.com/gp/product/B01GO1CWZO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01GO1CWZO&linkId=9b7f51dd8005d28e190aea46a7586d74
+)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01GO1CWZO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01GO1CWZO&linkId=9b7f51dd8005d28e190aea46a7586d74
+)
+
+ This GPS enabled drone unit is designed to serve the basic needs of beginners with addition of Follow Me mode. This drone is comes under affordable list and its six axis type gyro technology make it more suitable for tough flights. You will love to enjoy long hour flights with its transmitter - quadcopter synchronization that is supported by six satellites.
+
+[Hubsan H501S X4 FPV Quadcopter Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ **Key Features:**
+
+* It can record videos with 1080P resolution level.
+* Maximum flight time goes up to 20 minutes with flight control distance of about 300 meters.
+* Battery unit takes 150 minutes for full charging.
+* It supporst 5.8G wireless type video transmission feature.
+
+#### 5. [ AirDog: ($650)](<https://www.amazon.com/gp/product/B0182N945I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0182N945I&linkId=dee6179c3a782f1a7b08ccb5794b76ed>
+
+)
+
+[airdog](https://images.wondershare.com/filmora/article-images/airdog.jpg)](https://www.amazon.com/gp/product/B0182N945I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0182N945I&linkId=dee6179c3a782f1a7b08ccb5794b76ed
+)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B0182N945I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0182N945I&linkId=dee6179c3a782f1a7b08ccb5794b76ed
+)
+
+ It is designed with Follow Terrain feature so it becomes capable enough to follow you down and up in altitude. This facility is really useful for those who want their drone to capture adventurous activities during snowboarding and skiing. This drone unit does not include camera in package but is compatible with GoPro cameras.
+
+ **Key Features:**
+
+* Maximum flight time goes up to 18 minutes.
+* It is foldable device that is suitable for travelling needs.
+* AirDog offers classic wind resistance feature for air currents that have speed of 14m/sec.
+* It has operational range of approximately 250 meters.
+
+#### 6. Hexo+: ($999)
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hexo+](https://images.wondershare.com/filmora/article-images/hexo+.jpg)
 
  This drone unit does not have cameras inside package but it compatible with GoPro devices. Its compact design make it suitable for adventure sports needs but price range is more as compared to other drones offering great facilities.
@@ -432,6 +674,9 @@ Follow @Max Wales
 
 #### 10. Hover's Passport: ($599)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hover's passport](https://images.wondershare.com/filmora/article-images/hover-s-passport.jpg)
 
  This durable and powerful drone is designed with ultra lightweight technology and its compact design is powered up with Qualcomm Snapdragon Flight Platform. You can always ensure smooth and clear footage with this device.
@@ -593,220 +838,9 @@ Follow @Max Wales
 
 #### 7. Yuneec H: ($1299)
 
-![yuneec h](https://images.wondershare.com/filmora/article-images/yuneec-h.jpg)
-
- It's a powerful six motor type drone unit that is designed to serve for impressive videography and photography needs. It comes with many intelligent flight modes, integrated autonomous flight mode, Journey Mode, Point of Interest Mode, Orbit Me, All in One controller and Team Mode.
-
-[Review for YUNEEC Typhoon H >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
- **Key Features:**
-
-* It can stay in air up to 23 minutes.
-* Offers 4K UHD recording with 30fps frame rate and 1080p supports 120fps.
-* 12.4 MP stills.
-* Maximum flying range goes up to 1600 meters.
-
-#### 8. [ DJI Mavic: ($999)](<https://www.amazon.com/gp/product/B01LYNH0BD/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYNH0BD&linkId=5bc2d865f754465a48d14318e26748b0>
-
-)
-
-[dji mavic](https://images.wondershare.com/filmora/article-images/dji-mavic.jpg) ](https://www.amazon.com/gp/product/B01LYNH0BD/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYNH0BD&linkId=5bc2d865f754465a48d14318e26748b0
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01LYNH0BD/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LYNH0BD&linkId=5bc2d865f754465a48d14318e26748b0
-)
-
- Here is your compact and powerful drone unit that serves all typical user needs. It has small size and can be used for aerial photography needs. Users love its foldable, sleek body that is capable enough to keep gimbals and camera safe during travelling.
-
-[DJI MAVIC PRO Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
- **Key Features:**
-
-* It offers 4K recording.
-* Can allow users to enjoy 26 minutes in air.
-* Maximum control range goes up to 7 Km.
-
-#### 9. [ Wingsland S6 Foldable Pocket Selfie Drone: ($550)](<https://www.amazon.com/gp/product/B01MU4ND0Z/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU4ND0Z&linkId=0cf31fc2afdcdceba4838c11fa155f16>
-
-)
-
-[wingsland s6 foldable pocket selfie drone](https://images.wondershare.com/filmora/article-images/wingsland-s6-foldable-pocket-selfie-drone.jpg) ](https://www.amazon.com/gp/product/B01MU4ND0Z/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU4ND0Z&linkId=0cf31fc2afdcdceba4838c11fa155f16
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01MU4ND0Z/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU4ND0Z&linkId=0cf31fc2afdcdceba4838c11fa155f16
-)
-
- This mini drone unit is designed with ultra slim body so that users can easily carry it in their pocket. With such a small size, it can serve amazing results for aerial photography. Few additional features include: customizable flight path settings, auto following, time lapse, slow motion and panning etc.
-
- **Key Features:**
-
-* It serves with 4K resolution for videos whereas stills are captured with 13MP abilities.
-* Maximum supported flight time is only 10 minutes.
-* Control range goes up to 120 meters.
-
-#### 10. Hover's Passport: ($599)
-
-![hover's passport](https://images.wondershare.com/filmora/article-images/hover-s-passport.jpg)
-
- This durable and powerful drone is designed with ultra lightweight technology and its compact design is powered up with Qualcomm Snapdragon Flight Platform. You can always ensure smooth and clear footage with this device.
-
- **Key Features:**
-
-* You can enjoy 4K resolution for videos and 13MP stills.
-* Maximum flight time is 10 minutes only.
-* It serves with 20 meter control range.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Quadcopters or Drones are best choice to take footage from hidden or unreachable positions, but they are also very efficient tool for taking selfie. The advanced follow-me drones are capable enough to focus on specific subject and they can provide crazy results for your action photography needs as well as for adventurous trips or sports events. No need to carry a selfie stick on tour, a GPS based drone can capture your video or photos from air with ease.
-
-**Updated:** Now, DJI offers you another choice - [DJI Spark](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Top 10 GPS Drones that Follow You
-
- Click the name of drone to locate the detailed introduction
-
-| Product                                            | Price   | Video Resolution                        | Flight time | Control range |
-| -------------------------------------------------- | ------- | --------------------------------------- | ----------- | ------------- |
-| [DJI Phantom 3 Standard](#tab1)                   | $496    | 2.7k                                    | 25min       | 1km           |
-| [DJI Phantom 4](#tab2)                            | $961    | 4K Video                                | 28 min      | 3km           |
-| [3DR SOLO](#tab3)                                 | $260    | No. Designed for use with GoPro Cameras | 20 min      | 500m          |
-| [Hubsan H501S](#tab4)                              | $242.18 | 1080P HD Camera                         | 19 min      | 200m          |
-| [AirDog](#tab5)                                   | $650    | No. Designed for use with GoPro Cameras | 18 min      | 250m          |
-| [Hexo+](#tab6)                                    | $999    | No. Designed for use with GoPro Cameras | 15min       | 300m          |
-| [Yuneec H](#tab7)                                 | $1,299  | 4k                                      | 23min       | 1km           |
-| [DJI Mavic](#tab8)                                 | $999    | 4k                                      | 26min       | 7km           |
-| [Wingsland S6 Foldable Pocket Selfie Drone](#tab9) | $550    | 4k                                      | 10min       | 120m          |
-| [Hover's Passport](#tab10)                         | $599    | 4k                                      | 10min       | 20m           |
-
-#### 1. [ DJI Phantom 3 Standard: ($496)](<https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833>
-
-)
-
-[dji phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg) ](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
-)
-
- This drone unit has created new wonders in the world of drones with impressive quality and low price range. It has wide range of specifications and follows impressive technical characteristics whereas advanced GPS system makes it perfect to enjoy Follow Me mode.
-
-[Complete Review for DJI Phantom 3 Standard >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
- **Key Features:**
-
-* It offers maximum descent speed of about 3 meters/second and maximum ascent speed goes up to 5 meters/ second.
-* Phantom 3 Standard offers maximum flight speed of 16 meters/ second.
-* You can enjoy flights up to 25 minute even with its single battery unit.
-* It offers advanced GPS based tracking and return to home function.
-* Users will be able to record videos up to 2.7K resolution and maximum supported stills of 12MP.
-
-#### 2. [ DJI Phantom 4: ($961)](<https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df>
-
-)
-
-[dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phantom-4.jpg) ](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df
-)
-
- This recently launched Phantom model able to stay in air up to 28 minutes so it becomes best choice of many professionals. The advanced obstacle avoidance system makes its flights safer and crash free, especially when you are enjoying with it Follow Me mode.
-
-[DJI Phantom 4 Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
- **Key Features:**
-
-* It offers video recording with 4K Ultra HD resolution level with 30fps frame rate whereas photos can be of 12MP.
-* Phantom 4 comes with advanced obstacle avoidance system to make it safe during flights.
-* The live feed HD with FPV capability is great addition.
-* It offers gimbal stabilization for 3 axis.
-
-#### 3. [ 3DR Solo: ($260)](<https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f>
-
-)
-
-[3dr solo](https://images.wondershare.com/filmora/article-images/3dr-solo.jpg)](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f
-)
-
- Here is one more advanced copter unit with smart technology that is powered with twin computers and offer more intelligent performance. You will be glad to work with its incredibly intuitive controls that make flight controls much easier for beginners. But the sad part is that it does not come with camera.
-
-[Review for 3DR Solo >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
- **Key Features:**
-
-* Gimbals are available with GoPro Hero compatibility that you need to buy additionally.
-* Maximum offered flight time is 20 to 25 minutes only.
-* The maximum control range goes up to 500 meters and the maximum supported payload goes up to 420 grams.
-* Its battery takes about 1.5 hours for full charging.
-
-#### 4. [ Hubsan H501S: ($242.18)](<https://www.amazon.com/gp/product/B01GO1CWZO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01GO1CWZO&linkId=9b7f51dd8005d28e190aea46a7586d74>
-
-)
-
-[hubsan h501s](https://images.wondershare.com/filmora/article-images/hubsan-h501s.jpg) ](https://www.amazon.com/gp/product/B01GO1CWZO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01GO1CWZO&linkId=9b7f51dd8005d28e190aea46a7586d74
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01GO1CWZO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01GO1CWZO&linkId=9b7f51dd8005d28e190aea46a7586d74
-)
-
- This GPS enabled drone unit is designed to serve the basic needs of beginners with addition of Follow Me mode. This drone is comes under affordable list and its six axis type gyro technology make it more suitable for tough flights. You will love to enjoy long hour flights with its transmitter - quadcopter synchronization that is supported by six satellites.
-
-[Hubsan H501S X4 FPV Quadcopter Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
- **Key Features:**
-
-* It can record videos with 1080P resolution level.
-* Maximum flight time goes up to 20 minutes with flight control distance of about 300 meters.
-* Battery unit takes 150 minutes for full charging.
-* It supporst 5.8G wireless type video transmission feature.
-
-#### 5. [ AirDog: ($650)](<https://www.amazon.com/gp/product/B0182N945I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0182N945I&linkId=dee6179c3a782f1a7b08ccb5794b76ed>
-
-)
-
-[airdog](https://images.wondershare.com/filmora/article-images/airdog.jpg)](https://www.amazon.com/gp/product/B0182N945I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0182N945I&linkId=dee6179c3a782f1a7b08ccb5794b76ed
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B0182N945I/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0182N945I&linkId=dee6179c3a782f1a7b08ccb5794b76ed
-)
-
- It is designed with Follow Terrain feature so it becomes capable enough to follow you down and up in altitude. This facility is really useful for those who want their drone to capture adventurous activities during snowboarding and skiing. This drone unit does not include camera in package but is compatible with GoPro cameras.
-
- **Key Features:**
-
-* Maximum flight time goes up to 18 minutes.
-* It is foldable device that is suitable for travelling needs.
-* AirDog offers classic wind resistance feature for air currents that have speed of 14m/sec.
-* It has operational range of approximately 250 meters.
-
-#### 6. Hexo+: ($999)
-
-![hexo+](https://images.wondershare.com/filmora/article-images/hexo+.jpg)
-
- This drone unit does not have cameras inside package but it compatible with GoPro devices. Its compact design make it suitable for adventure sports needs but price range is more as compared to other drones offering great facilities.
-
- **Key Features:**
-
-* You need to buy your own GoPro camera as it does not come with camera.
-* Supports flight time of 15 minutes.
-* Maximum control range goes up to 300 meters.
-
-#### 7. Yuneec H: ($1299)
-
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![yuneec h](https://images.wondershare.com/filmora/article-images/yuneec-h.jpg)
 
  It's a powerful six motor type drone unit that is designed to serve for impressive videography and photography needs. It comes with many intelligent flight modes, integrated autonomous flight mode, Journey Mode, Point of Interest Mode, Orbit Me, All in One controller and Team Mode.
@@ -902,3 +936,47 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10plus-best-photo-to-cartoon-softwares/"><u>[New] 10+ Best Photo to Cartoon Softwares</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparing-the-best-of-gopro-cameras/"><u>[New] Comparing the Best of GoPro Cameras</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-insight-a-detailed-walkthrough-of-facetune-app/"><u>[New] Complete Insight  A Detailed Walkthrough of Facetune App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-syncing-platforms-for-video-upload/"><u>[New] In 2024, Syncing Platforms for Video Upload</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-dueling-masters-topping-10-royale-clashes/"><u>[Updated] 2024 Approved  Dueling Masters  Topping 10 Royale Clashes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-the-10-most-advanced-video-call-apps/"><u>[Updated] 2024 Approved  Ultimate Guide to the 10 Most Advanced Video Call Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-audio-mix-mastery-the-essence-of-crossfade/"><u>[Updated] Audio Mix Mastery  The Essence of Crossfade</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-6-affordable-high-definition-projectors/"><u>[Updated] Best 6 Affordable High-Definition Projectors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-beat-is-in-your-hands-for-free/"><u>[Updated] In 2024, The Beat Is in Your Hands for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ions-innovation-showcased-action-camera-review-of-pro-3-model/"><u>[Updated] ION's Innovation Showcased  Action Camera Review of Pro 3 Model</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adobes-path-to-perfection-the-premier-lut-list/"><u>2024 Approved  Adobe’s Path to Perfection  The Premier LUT List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-techniques-for-lut-use-in-premiere-pro/"><u>2024 Approved  Advanced Techniques for LUT Use in Premiere Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-an-insiders-guide-to-flawlessly-integrating-tracks-on-youtube/"><u>2024 Approved  An Insider's Guide to Flawlessly Integrating Tracks on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-camera-kings-collide-sj6-powerhouse-vs-yi-4k-masterpiece/"><u>2024 Approved  Camera Kings Collide  SJ6 Powerhouse Vs. Yi 4K Masterpiece</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevate-your-instagram-shots-with-strategic-borders/"><u>2024 Approved  Elevate Your Instagram Shots With Strategic Borders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-revolutionize-your-audio-pazera-free-extractor-insights/"><u>2024 Approved  Revolutionize Your Audio  Pazera Free Extractor Insights</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-approach-to-online-advertising-mastery-for-2024/"><u>A Comprehensive Approach to Online Advertising Mastery for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apple-excellence-iphones-best-no-cost-image-assemblers-and-layouts-for-2024/"><u>Apple Excellence – iPhone's Best No-Cost Image Assemblers & Layouts for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginners-pathway-to-grasping-hd-content-standards/"><u>Beginner’s Pathway to Grasping HD Content Standards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cut-the-stream-of-automatically-played-podcasts-in-spotify/"><u>Cut the Stream of Automatically Played Podcasts in Spotify</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/easily-edit-flv-videos-on-your-windows-8-pc-with-our-expert-editor/"><u>Easily Edit FLV Videos on Your Windows 8 PC with Our Expert Editor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exquisite-desktop-pcs-the-best-of-the-best/"><u>Exquisite Desktop PCs  The Best of the Best</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fb-share-strategies-for-your-youtube-content-for-2024/"><u>FB Share Strategies for Your YouTube Content for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-c67-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme C67 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-oppo-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Oppo</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-basic-approach-adjust-sea-creature-tones-in-windows-os/"><u>In 2024, Basic Approach  Adjust Sea Creature Tones in Windows OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>In 2024, Capturing Seconds at a Time  The Art of Phantom Slow Motion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inexpensive-aerial-aides-top-5-affordable-drones/"><u>Inexpensive Aerial Aides  Top 5 Affordable Drones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>IPhone Tips  Bringing Out the Best with HDR Photography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leaders-of-head-worn-digital-realms/"><u>Leaders of Head-Worn Digital Realms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lighten-up-your-digital-presence-kapwing-maker-for-2024/"><u>Lighten Up Your Digital Presence - Kapwing Maker for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterful-methods-to-add-a-secure-link-to-your-tiktok-profile/"><u>Masterful Methods to Add a Secure Link to Your TikTok Profile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-photoshop-alternatives-on-android/"><u>Mastering Photoshop Alternatives on Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sky-high-security-for-your-photos-explore-free-and-paid-options/"><u>Sky-High Security for Your Photos  Explore Free and Paid Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-app-dev-editors-top-15-selection/"><u>Superior App Dev Editors  Top 15 Selection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tricks-to-acquire-dry-stock-photography/"><u>Tricks to Acquire Dry Stock Photography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-virtual-reality-the-ultimate-iphone-experience/"><u>Unleashing Virtual Reality  The Ultimate IPhone Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-identity-simplified-personalized-branding-using-no-cost-templates/"><u>Visual Identity Simplified  Personalized Branding Using No-Cost Templates</u></a></li>
+</ul></div>

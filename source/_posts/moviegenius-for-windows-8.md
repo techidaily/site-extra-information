@@ -1,7 +1,7 @@
 ---
 title: "MovieGenius for Windows 8"
-date: 2024-05-24T11:24:23.709Z
-updated: 2024-05-25T11:24:23.709Z
+date: 2024-07-27T02:45:10.349Z
+updated: 2024-07-28T02:45:10.349Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes MovieGenius for Windows 8"
 excerpt: "This Article Describes MovieGenius for Windows 8"
 keywords: "Win8 MovieGuide,MoviesWin8,WindowsFilmReview,FilmWindows8,WatchWin8Cinema,CinemaOSWin8,FilmGenius8PC"
-thumbnail: https://www.lifewire.com/thmb/WRIh1ZlJssVUKoRPwYSH5qo9eB0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1158697466-60e5f09c462547c48c9788376ed6248d.jpg
+thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b6a687457517f15534dc6b13.jpg
 ---
 
 ## MovieGenius for Windows 8
@@ -30,6 +30,10 @@ Previously, we can still use Windows Movie Maker in Windows 8 and Windows 7, but
 
 Nowadays more and more people taking photos in an exceptional manner and creating eye-catching video movies to get the lifelong reminiscences. While in this article, I’ll share you two video movie makers for Windows 8, Filmora video editor (an easy-to-use movie maker) and the DVD slideshow builder (photo slideshow maker). With the exceptional **video movie maker for windows 8-**[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can quickly and easily make your own video movie. The specific features of this **video movie maker for windows** include user-friendly interface, choice to add wide varieties of photos and styles, filter, effects and elements, and multiple output options etc.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Recommended Movie Maker for Windows 8
 
 Filmora is compatible for Windows 7/8/8.1/10 64-bit PC and Mac OSX 10.11 or above Mac computer, and you can edit the same video project on both Mac or PC computer. In you haven’t heard about Filmora, check the video below and download it for free to check its magic.
@@ -38,10 +42,16 @@ Filmora is compatible for Windows 7/8/8.1/10 64-bit PC and Mac OSX 10.11 or abov
 
 We have written so many articles about [how to edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora on Windows, to keep the content clean, you can check our guide about How to Edit videos. But if you have any questions about editing videos in Filmora, leave a comment below and I’ll reply the comment soon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## How to use DVD slideshow Builder on Windows 8
 
 The content below will tell you how to make a video movie using [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 #### 1.Install video movie software and import files
@@ -62,6 +72,9 @@ You can also add some adorable elements to make your movie video more funny and 
 
 #### 3.Save your own video movie or share online
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DVD Slideshow Create](https://images.wondershare.com/filmora/article-images/dvd-slideshow-create.jpg)
 
 Now hit "Create", and preview your video movie. Then choose a way to output. Here are some options for you:
@@ -73,12 +86,103 @@ Now hit "Create", and preview your video movie. Then choose a way to output. Her
 
 Ok, that's done. You see, with this **video movie maker for windows 8**, making a video movie is very easy. Just download and get started!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![video movie maker for windows 8](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 Interested in Filmora video editor? Check the YouTube tutorial about Filmora from tutvide and download it to try.
 
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Previously, we can still use Windows Movie Maker in Windows 8 and Windows 7, but it seems that Microsoft are pushing people away from this easy to use movie maker since Windows 8.1 and Windows 10\. We have done some research and picked some of the best free movie makers for Windows8, Windows 10, as well as other platform users, you can check the list about[36 Best Video Editing Software for All Different Platforms.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Nowadays more and more people taking photos in an exceptional manner and creating eye-catching video movies to get the lifelong reminiscences. While in this article, I’ll share you two video movie makers for Windows 8, Filmora video editor (an easy-to-use movie maker) and the DVD slideshow builder (photo slideshow maker). With the exceptional **video movie maker for windows 8-**[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can quickly and easily make your own video movie. The specific features of this **video movie maker for windows** include user-friendly interface, choice to add wide varieties of photos and styles, filter, effects and elements, and multiple output options etc.
+
+## Recommended Movie Maker for Windows 8
+
+Filmora is compatible for Windows 7/8/8.1/10 64-bit PC and Mac OSX 10.11 or above Mac computer, and you can edit the same video project on both Mac or PC computer. In you haven’t heard about Filmora, check the video below and download it for free to check its magic.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+We have written so many articles about [how to edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora on Windows, to keep the content clean, you can check our guide about How to Edit videos. But if you have any questions about editing videos in Filmora, leave a comment below and I’ll reply the comment soon.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to use DVD slideshow Builder on Windows 8
+
+The content below will tell you how to make a video movie using [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/).
+
+[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
+
+#### 1.Install video movie software and import files
+
+Download and install [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/), in "Organize" tab, drag and drop your digital photos to the storyboard (you can also add videos from computer or camera as you like).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![video movie maker](https://images.wondershare.com/images/multimedia/dvd-slideshow-builder/dvd-slideshow-organize.jpg)
+
+Then add background music in "Personalize" tab. You can click "Music" button to add or just drag the music to the background track. You can add sounds or your own record by clicking "Voice Over".
+
+#### 2.Personalize the video movie
+
+This **video movie maker** provides you with 480+ Hollywood-like movie styles to turn your photos to impressive video movies like magic. In "Personalize" tab, just choose your favorite styles and apply it to your video movie. [Explore more movie styles.](https://www.wondershare.com/slideshow/free-movie-styles.html)
+
+You can also add some adorable elements to make your movie video more funny and lively in this tab. For example, you can personalize text caption with different text effects or add an Intro or Credit to your video according to the theme. All your choice!
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![DVD Slideshow Personalize](https://images.wondershare.com/filmora/article-images/dvd-slideshow-personalize.jpg)
+
+#### 3.Save your own video movie or share online
+
+![DVD Slideshow Create](https://images.wondershare.com/filmora/article-images/dvd-slideshow-create.jpg)
+
+Now hit "Create", and preview your video movie. Then choose a way to output. Here are some options for you:
+
+* Burn to DVD: click and immediately burn to DVD for preservation.
+* Save as local files: choose "Save to Computer" or "Save as HD" to keep the high quality of your original files.
+* Save to fit your mobile device: click "Save to Mobile Device" or "Save to Apple Device", and choose a output format.
+* Publish on YouTube: click "Share to YouTube", then enter your YouTube account information to publish.
+
+Ok, that's done. You see, with this **video movie maker for windows 8**, making a video movie is very easy. Just download and get started!
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![video movie maker for windows 8](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
+
+[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
+
+Interested in Filmora video editor? Check the YouTube tutorial about Filmora from tutvide and download it to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -101,6 +205,9 @@ Nowadays more and more people taking photos in an exceptional manner and creatin
 
 Filmora is compatible for Windows 7/8/8.1/10 64-bit PC and Mac OSX 10.11 or above Mac computer, and you can edit the same video project on both Mac or PC computer. In you haven’t heard about Filmora, check the video below and download it for free to check its magic.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 We have written so many articles about [how to edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora on Windows, to keep the content clean, you can check our guide about How to Edit videos. But if you have any questions about editing videos in Filmora, leave a comment below and I’ll reply the comment soon.
@@ -125,10 +232,16 @@ This **video movie maker** provides you with 480+ Hollywood-like movie styles to
 
 You can also add some adorable elements to make your movie video more funny and lively in this tab. For example, you can personalize text caption with different text effects or add an Intro or Credit to your video according to the theme. All your choice!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DVD Slideshow Personalize](https://images.wondershare.com/filmora/article-images/dvd-slideshow-personalize.jpg)
 
 #### 3.Save your own video movie or share online
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DVD Slideshow Create](https://images.wondershare.com/filmora/article-images/dvd-slideshow-create.jpg)
 
 Now hit "Create", and preview your video movie. Then choose a way to output. Here are some options for you:
@@ -140,6 +253,9 @@ Now hit "Create", and preview your video movie. Then choose a way to output. Her
 
 Ok, that's done. You see, with this **video movie maker for windows 8**, making a video movie is very easy. Just download and get started!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![video movie maker for windows 8](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
@@ -148,6 +264,9 @@ Interested in Filmora video editor? Check the YouTube tutorial about Filmora fro
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -168,6 +287,9 @@ Nowadays more and more people taking photos in an exceptional manner and creatin
 
 Filmora is compatible for Windows 7/8/8.1/10 64-bit PC and Mac OSX 10.11 or above Mac computer, and you can edit the same video project on both Mac or PC computer. In you haven’t heard about Filmora, check the video below and download it for free to check its magic.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 We have written so many articles about [how to edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora on Windows, to keep the content clean, you can check our guide about How to Edit videos. But if you have any questions about editing videos in Filmora, leave a comment below and I’ll reply the comment soon.
@@ -176,12 +298,24 @@ We have written so many articles about [how to edit videos](https://tools.techid
 
 The content below will tell you how to make a video movie using [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 #### 1.Install video movie software and import files
 
 Download and install [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/), in "Organize" tab, drag and drop your digital photos to the storyboard (you can also add videos from computer or camera as you like).
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![video movie maker](https://images.wondershare.com/images/multimedia/dvd-slideshow-builder/dvd-slideshow-organize.jpg)
 
 Then add background music in "Personalize" tab. You can click "Music" button to add or just drag the music to the background track. You can add sounds or your own record by clicking "Voice Over".
@@ -215,73 +349,9 @@ Interested in Filmora video editor? Check the YouTube tutorial about Filmora fro
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Previously, we can still use Windows Movie Maker in Windows 8 and Windows 7, but it seems that Microsoft are pushing people away from this easy to use movie maker since Windows 8.1 and Windows 10\. We have done some research and picked some of the best free movie makers for Windows8, Windows 10, as well as other platform users, you can check the list about[36 Best Video Editing Software for All Different Platforms.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Nowadays more and more people taking photos in an exceptional manner and creating eye-catching video movies to get the lifelong reminiscences. While in this article, I’ll share you two video movie makers for Windows 8, Filmora video editor (an easy-to-use movie maker) and the DVD slideshow builder (photo slideshow maker). With the exceptional **video movie maker for windows 8-**[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you can quickly and easily make your own video movie. The specific features of this **video movie maker for windows** include user-friendly interface, choice to add wide varieties of photos and styles, filter, effects and elements, and multiple output options etc.
-
-## Recommended Movie Maker for Windows 8
-
-Filmora is compatible for Windows 7/8/8.1/10 64-bit PC and Mac OSX 10.11 or above Mac computer, and you can edit the same video project on both Mac or PC computer. In you haven’t heard about Filmora, check the video below and download it for free to check its magic.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-We have written so many articles about [how to edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora on Windows, to keep the content clean, you can check our guide about How to Edit videos. But if you have any questions about editing videos in Filmora, leave a comment below and I’ll reply the comment soon.
-
-## How to use DVD slideshow Builder on Windows 8
-
-The content below will tell you how to make a video movie using [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/).
-
-[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
-
-#### 1.Install video movie software and import files
-
-Download and install [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/), in "Organize" tab, drag and drop your digital photos to the storyboard (you can also add videos from computer or camera as you like).
-
-![video movie maker](https://images.wondershare.com/images/multimedia/dvd-slideshow-builder/dvd-slideshow-organize.jpg)
-
-Then add background music in "Personalize" tab. You can click "Music" button to add or just drag the music to the background track. You can add sounds or your own record by clicking "Voice Over".
-
-#### 2.Personalize the video movie
-
-This **video movie maker** provides you with 480+ Hollywood-like movie styles to turn your photos to impressive video movies like magic. In "Personalize" tab, just choose your favorite styles and apply it to your video movie. [Explore more movie styles.](https://www.wondershare.com/slideshow/free-movie-styles.html)
-
-You can also add some adorable elements to make your movie video more funny and lively in this tab. For example, you can personalize text caption with different text effects or add an Intro or Credit to your video according to the theme. All your choice!
-
-![DVD Slideshow Personalize](https://images.wondershare.com/filmora/article-images/dvd-slideshow-personalize.jpg)
-
-#### 3.Save your own video movie or share online
-
-![DVD Slideshow Create](https://images.wondershare.com/filmora/article-images/dvd-slideshow-create.jpg)
-
-Now hit "Create", and preview your video movie. Then choose a way to output. Here are some options for you:
-
-* Burn to DVD: click and immediately burn to DVD for preservation.
-* Save as local files: choose "Save to Computer" or "Save as HD" to keep the high quality of your original files.
-* Save to fit your mobile device: click "Save to Mobile Device" or "Save to Apple Device", and choose a output format.
-* Publish on YouTube: click "Share to YouTube", then enter your YouTube account information to publish.
-
-Ok, that's done. You see, with this **video movie maker for windows 8**, making a video movie is very easy. Just download and get started!
-
-![video movie maker for windows 8](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
-
-[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
-
-Interested in Filmora video editor? Check the YouTube tutorial about Filmora from tutvide and download it to try.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -314,3 +384,49 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-effortless-broadcast-blending-a-guide-to-obspluszoom/"><u>[New] 2024 Approved  Effortless Broadcast Blending  A Guide to OBS+Zoom</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tiktok-sensation-challenge/"><u>[New] 2024 Approved  TikTok Sensation Challenge</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturing-discords-magic-3-steps-for-ensuring-your-live-stream-stays-alive-for-2024/"><u>[New] Capturing Discord's Magic  3 Steps for Ensuring Your Live Stream Stays Alive for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-dividing-footage-top-splitcams-worth-in-review/"><u>[New] In 2024, Dividing Footage  Top SplitCam's Worth in Review?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-igtv-hash-tagging-boosting-your-fan-base/"><u>[New] In 2024, Mastering IGTV Hash Tagging  Boosting Your Fan Base</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-temporary-pause-image-save-guide-for-2024/"><u>[New] Temporary Pause Image Save Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-advanced-graphics-tuning-for-windows-11/"><u>[Resolved] Advanced Graphics Tuning for Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-amplify-activity-levels-top-20-exercise-friendly-hits-list/"><u>[Updated] Amplify Activity Levels  Top 20 Exercise-Friendly Hits List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-captivation-craftsman-for-posters/"><u>[Updated] Captivation Craftsman for Posters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-guide-to-curved-image-design/"><u>2024 Approved  A Step-by-Step Guide to Curved Image Design</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-afternoons-examination-alternative-perspectives/"><u>2024 Approved  Afternoon's Examination  Alternative Perspectives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-effortlessly-preserve-linkedin-videos-top-6-tools-here/"><u>2024 Approved  How to Effortlessly Preserve LinkedIn Videos - Top 6 Tools Here</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-synching-melodies-to-photos-virtually/"><u>2024 Approved  Synching Melodies to Photos Virtually</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-visual-extravaganza-detailed-examination-of-lg-ud88-uhd-tv-for-2024/"><u>A Visual Extravaganza  Detailed Examination of LG UD88-UHD TV for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerating-or-decelerating-mastering-snapchats-timeline-controls-for-2024/"><u>Accelerating or Decelerating  Mastering Snapchat's Timeline Controls for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/choosing-the-best-footage-editor-hero-vs-polaroid-edition/"><u>Choosing the Best Footage Editor  Hero Vs. Polaroid Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-apples-m1-pro-and-m1-max-key-distinctions-for-2024/"><u>Comparing Apple's M1 Pro and M1 Max  Key Distinctions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/counterview-commentary-review/"><u>CounterView Commentary Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-depth-with-zooms-in-meeting-focus-features/"><u>Discovering Depth with Zoom's In-Meeting Focus Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/effortless-solutions-for-instagram-video-archiving/"><u>Effortless Solutions for Instagram Video Archiving</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expected-daily-video-consumption-gb-calculation/"><u>Expected Daily Video Consumption  GB Calculation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-insights-on-yis-4k-action-video-camera/"><u>Expert Insights on YI’s 4K Action Video Camera</u></a></li>
+<li><a href="https://extra-information.techidaily.com/experts-choice-gimbals-top-ranked-for-4k-cameras/"><u>Expert's Choice  Gimbals Top-Ranked For 4K Cameras</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-start-to-finish-seamless-editing-with-kinemaster/"><u>From Start to Finish  Seamless Editing with Kinemaster</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-still-life-to-motion-picture-a-complete-guide-on-pixiz-videos/"><u>From Still Life to Motion Picture  A Complete Guide on Pixiz Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/guide-to-streamlining-console-game-recording-for-2024/"><u>Guide to Streamlining Console Game Recording for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-narzo-60-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme Narzo 60 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Camon 20 Premier 5G Phone?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audio-alchemy-selecting-melodies-that-enhance-boxings/"><u>In 2024, Audio Alchemy  Selecting Melodies that Enhance Boxings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-video-resolution-converter-for-windowsmaconline/"><u>In 2024, Best Video Resolution Converter [for Windows/Mac/Online]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-compendium-classification-of-camera-types-for-videos/"><u>In 2024, Compendium  Classification of Camera Types for Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-clear-stickers-in-video/"><u>In 2024, Comprehensive Guide to Clear Stickers in Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>In 2024, Conquering Peaks  Comparing GoPro Hero5 Black and Session</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instantaneously-upgraded-images-masterful-mac-based-video-scaling/"><u>In 2024, Instantaneously Upgraded Images  Masterful Mac-Based Video Scaling</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/leading-spots-for-stunning-3d-metallic-type-creations-for-2024/"><u>Leading Spots for Stunning 3D Metallic Type Creations for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-alternatives-to-virtualdub-best-video-processing-software/"><u>New In 2024, Alternatives to VirtualDub Best Video Processing Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-picks-the-ultimate-8-tripods-for-4k-photography/"><u>Premier Picks  The Ultimate 8 Tripods for 4K Photography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quickening-speed-of-slide-show-media-playback/"><u>Quickening Speed of Slide Show Media Playback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sculpting-softness-a-guide-to-quieter-mixes-with-fl-studio/"><u>Sculpting Softness  A Guide to Quieter Mixes with FL Studio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/slide-show-software-selection-from-ix-ios13/"><u>Slide Show Software Selection From IX-IOS13</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-places-for-discovering-premium-soundtracks-from-instagram-and-designing-exceptional-ringtone-alerts/"><u>Top Places for Discovering Premium Soundtracks From Instagram & Designing Exceptional Ringtone Alerts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-filmora-savings-hacks-4-tips-to-get-you-started/"><u>Updated 2024 Approved Filmora Savings Hacks 4 Tips to Get You Started</u></a></li>
+</ul></div>

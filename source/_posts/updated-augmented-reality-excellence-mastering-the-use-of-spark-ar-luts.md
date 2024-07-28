@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Augmented Reality Excellence  Mastering the Use of Spark AR LUTs\""
-date: 2024-05-24T11:28:20.028Z
-updated: 2024-05-25T11:28:20.028Z
+date: 2024-07-27T02:52:11.178Z
+updated: 2024-07-28T02:52:11.178Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes [Updated] Augmented Reality Excellence: Mastering the Use of Spark AR LUTs\""
 excerpt: "\"This Article Describes [Updated] Augmented Reality Excellence: Mastering the Use of Spark AR LUTs\""
 keywords: "AugLUTAR,ARExcellence,SparkARLUT,LUTARMastery,AREnhancedVisuals,SparkARTech,ARRealityTech"
-thumbnail: https://www.lifewire.com/thmb/vZc3RPCQzWVRbsQkMBaC5ezxdJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/YouTube-TV-vs-Hulu-Live-TV-7015172e4e17425c910e83e3a5b30dd1.jpg
+thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38c3a471ddf15f2d24d24baec.jpg
 ---
 
 ## Augmented Reality Excellence: Mastering the Use of Spark AR LUTs
 
 Color LUTs (Lookup Textures) are tables of RGB color values. In Spark AR, you can use color LUTs to quickly create color gradation effects throughout the scene. Go through the article and create your color LUT effect.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. What are Luts in Spark AR used for?
 
 To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-studio/), you need a color LUT in Spark AR.
@@ -52,6 +55,9 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 The patch graph that renders the color gradation effect looks like this:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
 **To create the effect:**
@@ -60,6 +66,9 @@ The patch graph that renders the color gradation effect looks like this:
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
@@ -68,6 +77,9 @@ Here are the best free LUTs resources for Spark AR:
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 ### 2\. Fur
@@ -81,6 +93,14 @@ Here are the key building principles.
 * Height is generated from a single grayscale channel.
 * No fur is generated in the black areas of the height texture.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 ### 3\. Shockwave
@@ -93,18 +113,32 @@ Even while using large image sequences is frequently discouraged, you can still 
 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
 ### Closing Thoughts
@@ -141,3 +175,42 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[New] 2024 Approved  Step Into a TikTok Realm  A Guide for Joining Lives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beyond-the-screen-vr-movie-innovation/"><u>[New] Beyond the Screen  VR Movie Innovation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cameras-collide-in-motorsport-showdown-gopro-vs-drift-ghost-s/"><u>[New] Cameras Collide in Motorsport Showdown! GoPro Vs. Drift Ghost-S</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-critical-acclaim-top-9-web-recording-microphones-of-the-year-23/"><u>[New] Critical Acclaim  Top 9 Web Recording Microphones of the Year ('23)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-copyright-quest-for-content-creators-tiktok-edition/"><u>[New] In 2024, Copyright Quest for Content Creators (TikTok Edition)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mending-a-singular-audio-unit/"><u>[New] Mending a Singular Audio Unit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bring-your-hauls-to-life-the-ultimate-editing-tips/"><u>[Updated] Bring Your Hauls to Life  The Ultimate Editing Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-fun-car-games-for-kids/"><u>[Updated] In 2024, Best Fun Car Games for Kids</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[Updated] In 2024, Quality Overload  Top 10 HD Video Apps for Your Android</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-principles-of-clear-and-persuasive-messaging-for-social-media-ads/"><u>[Updated] Principles of Clear & Persuasive Messaging for Social Media Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-align-video-elements-in-your-playback-directory/"><u>2024 Approved  Align Video Elements in Your Playback Directory</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-tutorial-for-srt-filters-in-social-space/"><u>A Comprehensive Tutorial for SRT Filters in Social Space</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-cinematography-the-leading-lenses-for-4k-production-for-2024/"><u>Advanced Cinematography  The Leading Lenses for 4K Production for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>Behind-the-Scenes  Top Storytelling Channels on YT, 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/casino-confidential-communiques-for-2024/"><u>CASINO CONFIDENTIAL COMMUNIQUES for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chucklecreators-sign-up-for-fun-filmmaking/"><u>ChuckleCreators  Sign Up for Fun Filmmaking</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-sound-saturated-instagram-visuals/"><u>Crafting Sound-Saturated Instagram Visuals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-ghost-line-effects-from-laptop-displays-quickly/"><u>Eliminate Ghost Line Effects From Laptop Displays Quickly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-frame-sequencer-pro-package/"><u>Elite Frame Sequencer Pro Package</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-drones-techniques-in-video-post-production/"><u>Enhancing Drones  Techniques in Video Post-Production</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-idea-to-installment-making-custom-instagram-notifications/"><u>From Idea to Installment  Making Custom Instagram Notifications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-lite-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor 90 Lite Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-redmi-note-13-proplus-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Redmi Note 13 Pro+ 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-access-unparalleled-image-clarity-for-no-charge/"><u>In 2024, Access Unparalleled Image Clarity for No Charge</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y36i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y36i to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photoshop-lightroom-alternative-insights/"><u>Photoshop Lightroom Alternative Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picture-perfect-software-and-websites-to-amp-up-your-photos/"><u>Picture Perfect  Software and Websites to Amp Up Your Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quintessential-cinematic-language/"><u>Quintessential Cinematic Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-arcade-with-expansive-front-ends/"><u>Revolutionize Your Arcade with Expansive Front Ends!</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-vivo-y78plus-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Vivo Y78+</u></a></li>
+<li><a href="https://extra-information.techidaily.com/snapchat-highlight-101-usage-techniques/"><u>Snapchat Highlight 101  Usage Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-easy-way-to-snap-spectacular-slow-mo-on-android/"><u>The Easy Way to Snap Spectacular Slow Mo on Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y27-4g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y27 4G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-6-video-editing-apps-for-macos-big-sur-11/"><u>Top 6 Video Editing Apps for macOS Big Sur 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-potential-key-tips-for-hospitals-fb-ad-reach/"><u>Unleashing Potential  Key Tips for Hospitals' FB Ad Reach</u></a></li>
+</ul></div>

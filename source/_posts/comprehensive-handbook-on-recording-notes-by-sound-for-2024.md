@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Handbook on Recording Notes by Sound for 2024"
-date: 2024-05-24T10:47:30.709Z
-updated: 2024-05-25T10:47:30.709Z
+date: 2024-07-27T01:39:49.537Z
+updated: 2024-07-28T01:39:49.537Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Comprehensive Handbook on Recording Notes by Sound for 2024"
 excerpt: "This Article Describes Comprehensive Handbook on Recording Notes by Sound for 2024"
 keywords: "\"Note-Taking Tips,Sound Recording Guide,Audio Note Booking,Effective Sound Notes,Notetaker's Handbook,Sound Capture Manual,Recording Notes Method\""
-thumbnail: https://www.lifewire.com/thmb/ctnLKKlVn8yU9jv1NBNnMDuUirI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-aol-mail-down-or-is-it-just-you-2-b2f02a2b3819433a9f2bd047a1a9b572.jpg
+thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ceecc558739dbb36535dbfcf9.jpg
 ---
 
 ## Comprehensive Handbook on Recording Notes by Sound
@@ -39,17 +39,29 @@ If you want to hear the previously recorded Voice Memos, please follow these ste
 3. If selecting the options tab, you'll get the option to change playback speed and skip silence.
 4. Drag playback to turtle means slow, and to rabbit means fast. When you turn on **Skip Silence** feature, Voice Memos app will not play the silent parts of the audio file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![play the voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to edit and save Voice Memos on iPhone and iPad?
 
 How should you proceed if you find several voice clips that you want to remove? You can carry out some basic editing as follow:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Rename the Voice Memos
 
 1. To rename your Voice Memos, select it and tap the more options button.
 2. Now choose the edit option and tap the title to rename it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the edit option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-3.jpg)
 
 ### Duplicate a Voice Memos
@@ -57,6 +69,9 @@ How should you proceed if you find several voice clips that you want to remove? 
 1. Select the recording to make a duplicate.
 2. Click the more options button and then choose the duplicate option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![more options button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-4.jpg)
 
 ### Trim Voice Memos
@@ -66,6 +81,9 @@ How should you proceed if you find several voice clips that you want to remove? 
 3. You can drag the slider to choose the part you need to keep or remove.
 4. Once the part is selected, tap trim to keep this and delete the rest. Or delete to remove this and keep the rest other.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-5.jpg)
 
 ### Replace Voice Memos
@@ -84,16 +102,26 @@ How should you proceed if you find several voice clips that you want to remove? 
 
 ![select the destination folder and move](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. How to record a Voice Memos on Mac?
 
 It's simple to use Voice Memos app on Mac:
 
 1. Open Voice Memos app and tap the start recording button (red circle).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![tap the start recording button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-8.jpg)
 
 1. Once you've done recording, click the pause button and tap the done option to save it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![click the pause button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-9.jpg)
 
 1. There are also options to edit or share your Voice Memos.
@@ -102,6 +130,9 @@ It's simple to use Voice Memos app on Mac:
 
 If you're using a Mac and don't want to use Voice Memos to record your computer's internal or external sound, we've provided 2 additional productive ways for you to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Way 1\. Use QuickTime Player
 
 QuickTime is another excellent software to help you easily record audio on Mac. Here are steps you can follow to use it:
@@ -118,6 +149,9 @@ You can also use the [Wondershare Filmora](https://tools.techidaily.com/wondersh
 
 1. After opening Filmora, tap the recording option in front of the screen and choose voiceover.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap the recording option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-12.jpg)
 
 1. In the new tab, select your options and then tap the start recording button (red circle).
@@ -125,6 +159,9 @@ You can also use the [Wondershare Filmora](https://tools.techidaily.com/wondersh
 
 ![tap ok](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. How to transcribe Voice Memos to text?
 
 Do you still type to organize meeting minutes or song lyrics after you have recorded them using Voice Memos? This requires a lot of effort and takes a lot of time. Being able to directly convert voice to text will significantly increase your productivity. Here we have introduced useful methods on 3 platforms to transcribe voice to text.
@@ -183,8 +220,14 @@ Rev is also available to transcribe audio into text online. Visit the Rev Websit
 
 Otranscribe is one of the best online tools to transcribe Voice Memos into text. It stands out because it's free to use, unlike other websites offering trial and purchase. It is entirely free to use and user-friendly.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Can Voice Memos record phone calls?
 
 However, there is no exact feature available in the iPhone Voice Memos to do it, but one trick that can help you in this regard is that you start the call and turn on the speaker. Now pick up another iPhone and begin recording a Voice Memos on it. You can record your call using a Voice Memos in this way.
@@ -223,3 +266,62 @@ Voice Memos is a helpful tool for iOS and Mac users. You can easily record audio
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-advice-yt-clip-sharing-using-your-google-id/"><u>[New] 2024 Approved  Expert Advice  YT Clip Sharing Using Your Google ID</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-inside-look-fundamentals-of-asmr-videos/"><u>[New] 2024 Approved  Inside Look  Fundamentals of ASMR Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-9-fixes-for-firefox-videos-on-facebook-live/"><u>[New] 9 Fixes for Firefox Videos on Facebook Live</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-filmmakers-approach-to-classroom-instructional-videos/"><u>[New] A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-practices-to-speed-up-or-slow-down-music-in-spotify-for-2024/"><u>[New] Best Practices to Speed Up or Slow Down Music in Spotify for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-steadicams-for-dslr/"><u>[New] Best Steadicams for DSLR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-ways-to-get-background-stock-images-for-photos-and-videos/"><u>[New] Best Ways to Get Background Stock Images for Photos and Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-a-captivating-voice-the-art-of-writing-film-dialogues/"><u>[Updated] Crafting a Captivating Voice  The Art of Writing Film Dialogues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-framefinder-pro-a-treasure-trove-for-every-twitterscape-enthusiast/"><u>[Updated] FrameFinder Pro  A Treasure Trove for Every Twitterscape Enthusiast</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-establishing-a-twitter-presence/"><u>[Updated] In 2024, The Ultimate Guide to Establishing a Twitter Presence</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unraveling-the-economic-power-of-mr-beast/"><u>[Updated] In 2024, Unraveling the Economic Power of Mr. Beast</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-mysteries-behind-youtube-wealth-ajey-nagar-edition-for-2024/"><u>[Updated] Unlocking the Mysteries Behind YouTube Wealth - Ajey Nagar Edition for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a18-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A18</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/13-incredible-minecraft-architectural-plans-for-2024/"><u>13 Incredible Minecraft Architectural Plans for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-c-span-video-hack-a-controocentric-viewpoint/"><u>2024 Approved  C-Span Video Hack  A Controocentric Viewpoint</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-elevate-your-tiktok-skills-with-voiceover/"><u>2024 Approved  Elevate Your TikTok Skills with Voiceover</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quick-and-easy-how-to-record-your-iphone-7-display/"><u>2024 Approved  Quick & Easy  How to Record Your iPhone 7 Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-pc-workaround-for-console-gaming-recordings/"><u>2024 Approved  The Ultimate PC Workaround for Console Gaming Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-studio-quality-with-audacity-for-2024/"><u>Achieving Studio Quality with Audacity for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-online-fun-girl-games-for-kids-for-2024/"><u>Best Online Fun Girl Games for Kids for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-vector-illustration-software-a-must-have-list-for-artists/"><u>Best Vector Illustration Software  A Must-Have List for Artists</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brighten-your-night-photos-on-iphone-quickly/"><u>Brighten Your Night Photos on Iphone Quickly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convert-srt-free-top-10-web-subtitle-services/"><u>Convert SRT Free  Top 10 Web Subtitle Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-guide-streamlining-your-gopro-studio-workflow/"><u>Cutting-Edge Guide  Streamlining Your GoPro Studio Workflow</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-top-10-iosandroid-vr-games/"><u>Discover the Top 10 iOS/Android VR Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-video-influencers-for-2024/"><u>Elite Video Influencers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-video-performance-in-instagram-reels-mobile/"><u>Enhancing Video Performance in Instagram Reels (Mobile)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-xr-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone XR When You Forget the Passcode?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-lava-storm-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Lava Storm 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone SE Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/humor-hub-creator/"><u>Humor Hub Creator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-assemble-unique-meme-creations-with-ease/"><u>In 2024, Assemble Unique Meme Creations with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-best-practices-for-exporting-youtube-videos-to-facebook/"><u>In 2024, Best Practices for Exporting YouTube Videos to Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>In 2024, Chuckle-Inducing Snaps  Applying the Cartoon Face Effect on Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-review-of-vivavideo-app/"><u>In 2024, Comprehensive Review of VivaVideo App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-xs-max-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone XS Max online without SIM Card?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scrutinizing-dji-drone-goggle-specifications/"><u>In 2024, Scrutinizing DJI Drone Goggle Specifications</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/launchpad-for-twitter-beginners-for-2024/"><u>Launchpad for Twitter Beginners for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818169837-lightning-fast-enhancement-the-newest-intel-drivers-on-windows-10/"><u>Lightning-Fast Enhancement: The Newest Intel Drivers on Windows 10!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/meme-maniacs-your-comprerans-quick-start-guide-for-9gag/"><u>Meme Maniacs  Your Compreran's Quick-Start Guide for 9GAG</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-13-ultra-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi 13 Ultra Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photo-perfection-top-6-iphone-utilities-to-exclude-unwanted-elements/"><u>Photo Perfection  Top 6 iPhone Utilities to Exclude Unwanted Elements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-cinematic-experiences-with-vr-tech/"><u>Pioneering Cinematic Experiences with VR Tech</u></a></li>
+<li><a href="https://extra-information.techidaily.com/standout-80s-aesthetics-for-video-editing-pros/"><u>Standout '80S Aesthetics for Video Editing Pros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>Streamlining Your Figma Project  Eliminate the Unwanted Background</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-slow-motion-spectrum-top-cams-reviewed-by-experts/"><u>The Slow-Motion Spectrum  Top Cams Reviewed by Experts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-asus-rog-phone-7-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Asus ROG Phone 7 for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-30-mobile-video-edits-using-dji-technology/"><u>Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tranquil-twilight-tales-in-video-form/"><u>Tranquil Twilight Tales in Video Form</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turn-your-image-brightness-upside-down-a-tutorial/"><u>Turn Your Image Brightness Upside Down  A Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-premium-soundtracks-in-your-mp4-files-the-2024-guide/"><u>Unleashing Premium Soundtracks in Your MP4 Files – The 2024 Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unraveling-the-mystery-of-apples-new-ios-camera/"><u>Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-beginners-guide-to-earning-success-for-2024/"><u>YouTube Beginners' Guide to Earning Success for 2024</u></a></li>
+</ul></div>
