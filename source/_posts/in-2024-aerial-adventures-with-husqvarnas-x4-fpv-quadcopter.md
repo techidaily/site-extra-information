@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Aerial Adventures with Husqvarna's X4 FPV Quadcopter"
-date: 2024-09-10T00:32:06.668Z
-updated: 2024-09-11T00:32:06.668Z
+date: 2024-09-11T05:44:12.130Z
+updated: 2024-09-16T20:36:44.446Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -39,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 [![hubsan h501S x4](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4.jpg) ](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
@@ -120,36 +108,18 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
 
 #### Conclusion
@@ -158,87 +128,11 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/new-ai-powered-text-conversion-for-effective-presentations/"><u>[New] AI-Powered Text Conversion for Effective Presentations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-appreciation-showcase-easy-access-to-otus/"><u>[New] Appreciation Showcase  Easy Access to OTUs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-asmr-a-gateway-to-enhanced-self-care/"><u>[New] ASMR  A Gateway to Enhanced Self-Care</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-battle-of-titans-thieye-t5-or-sjcam-s6-legend/"><u>[New] Battle of Titans  Thieye T5 or SJCAM S6 Legend?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-bluetooth-remotes-and-controllers-for-easy-shooting/"><u>[New] Bluetooth Remotes and Controllers for Easy Shooting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-chuckle-cache-timed-humor-categorized-by-occasion/"><u>[New] Chuckle Cache  Timed Humor Categorized by Occasion</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-exclusive-mac-hd-scribing-plus-auditory-logging-solution/"><u>[New] Exclusive Mac HD Scribing + Auditory Logging Solution</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-expert-tips-for-ios-downloading-podcasts-on-iphone-for-2024/"><u>[New] Expert Tips for iOS  Downloading Podcasts on iPhone for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-practices-for-boosting-views-on-freefire-gaming-channels/"><u>[New] In 2024, Best Practices for Boosting Views on FreeFire Gaming Channels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-clearing-process-for-youtubes-pending-video-list/"><u>[New] In 2024, Clearing Process for YouTube's Pending Video List</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>[Updated] 2024 Approved  Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-complete-introduction-to-advanced-features-in-final-cut-pro/"><u>[Updated] A Complete Introduction to Advanced Features in Final Cut Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-audio-harmony-mastering-the-cut-and-switch/"><u>[Updated] Audio Harmony  Mastering the Cut and Switch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avoiding-pitfalls-common-mistakes-in-instagram-filmmaking/"><u>[Updated] Avoiding Pitfalls  Common Mistakes in Instagram Filmmaking</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-blades-vivid-palette-now-in-stunning-4k-clarity/"><u>[Updated] Blade's Vivid Palette, Now in Stunning 4K Clarity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>[Updated] Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-click-attractor-the-title-crafting-kit/"><u>[Updated] Click Attractor  The Title Crafting Kit</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-masterclass-youtube-music-arrangement/"><u>[Updated] Masterclass  YouTube Music Arrangement</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-true-value-proposition-of-subscribing-to-youtube-premium/"><u>[Updated] The True Value Proposition of Subscribing to YouTube Premium</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-hp-deskjet-3702-printer-drivers/"><u>Download and Install the Latest HP DeskJet 3702 Printer Drivers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dynamic-typography-adding-layers-to-your-illustration/"><u>Dynamic Typography  Adding Layers to Your Illustration</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earning-strategies-with-youtubes-adsense-payout-per-k-viewers/"><u>Earning Strategies with Youtube's AdSense  Payout per K Viewers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/efficient-zoom-functionality-for-chromebooks/"><u>Efficient Zoom Functionality for ChromeBooks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts/"><u>Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-mindset-audio-selection/"><u>Free Mindset Audio Selection</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/free-skype-mp3-logger-101-guide/"><u>Free Skype Mp3 Logger 101 Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-srt-tools-the-leading-eight-uncovered-for-2024/"><u>Free SRT Tools  The Leading Eight Uncovered for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-improve-video-quality-in-zoom-meetings/"><u>How to Improve Video Quality in Zoom Meetings?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6 Without Passcode?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>In 2024, 5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-spark-10c-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Spark 10C FRP Bypass</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-attracting-watchers-discover-the-top-6-video-types/"><u>In 2024, Attracting Watchers  Discover the Top 6 Video Types</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-authentic-praise-amplified-branding/"><u>In 2024, Authentic Praise, Amplified Branding</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-rated-wedding-timekeepers-a-comprehensive-android-and-ios-app-review/"><u>In 2024, Best-Rated Wedding Timekeepers  A Comprehensive Android & iOS App Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-the-blue-depths-pro-tips-for-gopro-water-filming/"><u>In 2024, Capture the Blue Depths  Pro Tips for GoPro Water Filming</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-prime-web-picks-for-stylish-3d-sparkling-text/"><u>In 2024, Prime Web Picks for Stylish 3D Sparkling Text</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-depth-guide-to-enhanced-video-clarity-on-google-meet/"><u>In-Depth Guide to Enhanced Video Clarity on Google Meet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instant-transformation-gifs-becoming-stickers-across-discord-whatsapp-and-more/"><u>Instant Transformation  Gifs Becoming Stickers Across Discord, WhatsApp & More</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-laserjet-m5ebdprinter-get-the-new-drivers-here/"><u>Latest HP LaserJet M5ebdprinter, Get the New Drivers Here!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-microsoft-edge-malfunctions-step-by-step-repair-guide/"><u>Mastering Microsoft Edge Malfunctions: Step-by-Step Repair Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastery-of-podcast-rss-feeds-a-step-by-step-tutorial/"><u>Mastery of Podcast RSS Feeds  A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-world-of-vivacut-video-editing-insights/"><u>Navigating the World of VivaCut Video Editing - Insights</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/one-click-coordination-sync-your-zoom-calls-across-devices/"><u>One-Click Coordination  Sync Your Zoom Calls Across Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/perfect-timekeeping-a-guide-to-adding-timestamps-in-youtube-links-for-2024/"><u>Perfect Timekeeping  A Guide to Adding Timestamps in YouTube Links for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/professional-evaluation-of-the-xp-pen-artist-16-pro-sketchpad/"><u>Professional Evaluation of the XP-Pen Artist 16 Pro Sketchpad</u></a></li>
-<li><a href="https://extra-information.techidaily.com/splendid-scenery-crafting-visuals-with-strategic-lighting/"><u>Splendid Scenery  Crafting Visuals with Strategic Lighting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/spotlight-on-windows-11-innovations-for-2024/"><u>Spotlight on Windows 11 Innovations for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-10-key-steps-for-optimal-stream-service-picks/"><u>The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-professional-photo-coloring/"><u>The Ultimate Guide to Professional Photo Coloring</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-your-videos-comprehensive-guide-to-video-enhancer-22/"><u>Transform Your Videos  Comprehensive Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-guide-top-8k-tvs-and-in-depth-comparisons/"><u>Ultimate Guide  Top 8K TVs & In-Depth Comparisons</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-lg-27-4k-uhd-display-a-detailed-overview/"><u>Ultimate LG 27 4K UHD Display - A Detailed Overview</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-steps-for-turning-pin-videos-into-music-files/"><u>Ultimate Steps for Turning Pin Videos Into Music Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-creativity-a-comprehensive-guide-to-movie-maker-on-windows-11/"><u>Unleash Creativity  A Comprehensive Guide to Movie Maker on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleashing-your-gopro-potential-must-have-additions/"><u>Unleashing Your GoPro Potential - Must-Have Additions</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -246,3 +140,28 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-apk-gaming-revolution-welcome-funimate-pro-android-edition/"><u>[Updated] APK Gaming Revolution Welcome Funimate Pro Android Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-evolution-of-live-streaming-with-periscope/"><u>2024 Approved The Evolution of Live Streaming with Periscope</u></a></li>
+<li><a href="https://extra-information.techidaily.com/five-exceptional-sierra-dvd-editors-unveiled/"><u>Five Exceptional Sierra DVD Editors Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gas-station-tycoon-simulator-pc-issues-how-to-fix-continuous-crashes/"><u>Gas Station Tycoon Simulator - PC Issues: How to Fix Continuous Crashes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improving-audiovideo-sync-with-apple-media/"><u>Improving Audio/Video Sync with Apple Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-free-online-tools-for-precise-srt-translation/"><u>In 2024, Best FREE Online Tools for Precise SRT Translation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-130-music-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia 130 Music</u></a></li>
+<li><a href="https://extra-information.techidaily.com/monumental-movies-and-more-a-comprehensive-look-at-the-lg-31mu97-b-model/"><u>Monumental Movies and More A Comprehensive Look at the LG 31MU97-B Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pairing-techniques-integrating-a-mobile-device-with-the-oculus-quest-nquiry/"><u>Pairing Techniques: Integrating a Mobile Device With the Oculus Quest Nquiry</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-edits-navigating-psxs-eraser-feature/"><u>Perfect Edits Navigating PSX's Eraser Feature</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tcls-affordable-gem-the-50s425-50-led-4k-smart-tv-powered-by-roku-a-comprehensive-review-of-the-201amodel/"><u>TCL's Affordable Gem - The 50S425 50 LED 4K Smart TV Powered by Roku: A Comprehensive Review of the 201Amodel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-for-streamlining-iphone-video-content/"><u>The Ultimate Guide for Streamlining iPhone Video Content</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-get-a-new-look-free-online-face-generators-for-everyone-for-2024/"><u>Updated Get a New Look Free Online Face Generators for Everyone for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

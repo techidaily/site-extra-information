@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Does My Nox Player Keep Freezing and How to Resolve It?"
-date: 2024-08-26T18:08:48.249Z
-updated: 2024-08-27T18:08:48.249Z
+date: 2024-09-12T08:17:34.811Z
+updated: 2024-09-17T06:49:39.628Z
 tags:
   - win11
   - win10
@@ -55,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
@@ -80,9 +77,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -93,14 +87,25 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -112,17 +117,33 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -134,9 +155,6 @@ iv. Restart your PC.
 
 See if this issue reappears. If not, you have fixed this issue!
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus tip: How to fix Discord connection errors?
 
  It’s very frustrating to run into the voice connection issue when playing the game. But don’t worry, most voice connection errors can be fixed by configuring a VPN connection.
@@ -155,21 +173,10 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -183,8 +190,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,35 +199,16 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-breaking-down-asus-pa32u-a-4k-professional-review/"><u>[New] Breaking Down ASUS PA32U  A 4K Professional Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-meme-magic-crafting-topical-laughs-for-every-scenario/"><u>[New] Meme Magic  Crafting Topical Laughs for Every Scenario</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-top-8-best-selfie-sticks-for-iphone-2024-review/"><u>[New] Top 8 Best Selfie Sticks for iPhone 2024 Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-activate-windows-11s-automatic-high-dynamic-range-auto-hdr/"><u>[Updated] 2024 Approved  Activate Windows 11'S Automatic High Dynamic Range (Auto HDR)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-look-at-uploading-images-to-youtube/"><u>[Updated] A Comprehensive Look at Uploading Images to YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-speech-to-text-your-all-inclusive-gdoc-training-guide/"><u>2024 Approved  From Speech to Text  Your All-Inclusive GDoc Training Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ai-revolution-gigabytes-top-tier-workstation-boards-with-ai-branding-and-comprehensive-hardware-lineup-including-amdintel-gpus/"><u>AI Revolution: Gigabyte's Top-Tier Workstation Boards with AI Branding & Comprehensive Hardware Lineup Including AMD/Intel GPUs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/amd-cybertruck-inspired-xyber-xpc-high-performance-mini-pc-with-1tb-ssd-and-up-to-grooming-of-droppings/"><u>AMD Cybertruck-Inspired Xyber XPC: High Performance Mini-PC with 1TB SSD & Up To Grooming of Droppings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/creative-captioning-masterful-techniques-for-text-in-windowsmac-pics-for-2024/"><u>Creative Captioning  Masterful Techniques for Text in Windows/Mac Pics for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/efficient-ways-to-integrate-movies-into-your-youtube-catalog/"><u>Efficient Ways to Integrate Movies Into Your YouTube Catalog</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-inherent-modules-of-chatgpt-functionality-and-applications/"><u>Exploring the Inherent Modules of ChatGPT: Functionality and Applications</u></a></li>
-<li><a href="https://extra-information.techidaily.com/future-filmmaking-favorites-2024s-best-cameras/"><u>Future Filmmaking Favorites  2024'S Best Cameras</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hasty-heists-of-history-recovering-deleted-reddit-posts/"><u>Hasty Heists of History  Recovering Deleted Reddit Posts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hone-your-iphone-skills-with-shortened-and-customized-vids/"><u>Hone Your iPhone Skills with Shortened & Customized Vids</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-c12-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia C12 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-asus-rog-phone-8-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adobes-art-of-amusement-and-jest/"><u>In 2024, Adobe's Art of Amusement and Jest</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>In 2024, Capturing Adventures  A Close Look at Panasonic's HX-A1</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instagrams-vertical-vortex-sideways-media-mystery/"><u>Instagram's Vertical Vortex  Sideways Media Mystery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/love-in-song-ultimate-listening-guide-to-proposals-for-2024/"><u>Love in Song  Ultimate Listening Guide to Proposals for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-world-of-digital-sound-capture-a-deep-dive/"><u>Navigating the World of Digital Sound Capture  A Deep Dive</u></a></li>
-<li><a href="https://extra-support.techidaily.com/piceditorpro-assessment-complete-review-for-2024/"><u>PicEditorPro Assessment – Complete Review for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-video-editors-for-windows-10-must-have-tools-list/"><u>Prime Video Editors for Windows 10  Must-Have Tools List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revisiting-video-broadcast-choices-post-wirecast/"><u>Revisiting Video Broadcast Choices Post-Wirecast</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reviving-the-gone-retrieving-former-reddit-discussions/"><u>Reviving the Gone  Retrieving Former Reddit Discussions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862717271-score-a-sizzling-deal-on-asuss-rog-zephyrus-g16-intel-ultra-9-chipset-and-nvidia-rtx-at-massive-savings/"><u>Score a Sizzling Deal on ASUS's RoG Zephyrus G16 - Intel Ultra 9 Chipset & NVIDIA RTX at Massive Savings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sonic-streamline-the-playlist-conveyor-belt-trick/"><u>Sonic Streamline  The Playlist Conveyor Belt Trick</u></a></li>
-<li><a href="https://extra-information.techidaily.com/supreme-sync-audio-player-android-flair/"><u>Supreme Sync Audio Player, Android Flair</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-5-iphone-x-compatible-backdrop-change-tools/"><u>Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-tech-comforts-with-luxury-desktops/"><u>Ultimate Tech Comforts with Luxury Desktops</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-words-full-potential-with-easy-speech-to-text-features/"><u>Unlock Word's Full Potential with Easy Speech-to-Text Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-comprehensive-update-best-android-apps-for-downloading-facebook-videos/"><u>[New] In 2024, Comprehensive Update Best Android Apps for Downloading Facebook Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>[New] Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimizing-remote-team-meetings-with-skype-screen-sharing/"><u>2024 Approved Optimizing Remote Team Meetings with Skype Screen Sharing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adobe-memefixer-a-humorous-journey/"><u>In 2024, Adobe Memefixer A Humorous Journey</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-16-best-free-video-players-for-pc/"><u>In 2024, Top 16 Best Free Video Players for PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-listings-where-to-download-snappy-tones-directly/"><u>Premium Listings Where to Download Snappy Tones Directly</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tier-visual-vaulting-services/"><u>Top-Tier Visual Vaulting Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
 </ul></div>
+

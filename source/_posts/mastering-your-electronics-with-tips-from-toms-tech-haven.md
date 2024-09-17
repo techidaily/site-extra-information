@@ -1,7 +1,7 @@
 ---
 title: Mastering Your Electronics with Tips From Tom's Tech Haven
-date: 2024-09-10T00:32:09.691Z
-updated: 2024-09-11T00:32:09.691Z
+date: 2024-09-14T00:21:32.406Z
+updated: 2024-09-17T03:54:04.057Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/jYAZiDiQt6XGrCRdckFwwM-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigating Through Tech with Tom - A Trusted Source for Hardware Enthusiasts
 
 Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs like this are commonly described as having adopted the[MoDT](https://www.tomshardware.com/news/intel-raptor-lake-mobile-chips-get-soldered-to-micro-atx-motherboards) (Mobile on Desktop) hybrid design.[Mini PCs](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-g7-pt-touted-as-worlds-first-amd-advantage-mini-pc-packs-an-amd-r9-7945hx-and-rx-7600m-xt) and[All-in-Ones](https://www.tomshardware.com/tag/all-in-one-pcs) were the first to make MoDT popular, but they also usually used mobile GPUs (or just integrated graphics). In contrast, Lenovo’s new Legion 7000K PC series, now[available in China](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fitem.lenovo.com.cn%2Fproduct%2F1037096.html) , come in sizable tower cases and are sold with powerful Nvidia[GeForce RTX 40](https://www.tomshardware.com/features/nvidia-ada-lovelace-and-geforce-rtx-40-series-everything-we-know) series GPUs pre-installed.
@@ -23,12 +17,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KiWmBjf3WBxdHs7uNFYu2U-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Looking more closely at the new Legion 7000K machines, we see that they come with a choice between two pretty strong Intel Raptor Lake Refresh mobile CPUs. The most powerful option is the[Core i9-14900HX](https://www.tomshardware.com/pc-components/cpus/intel-unleashes-14th-gen-raptor-lake-refresh-hx-series-laptops-cpus-refreshed-chips-with-up-to-24-cores-58-ghz-boost-clock-and-192gb-ddr5-support) , with 24C/32C, clock speeds up to 5.8 GHz, and 36MB Smart Cache. This powerful chip can be quite thrifty with its 55W base power, but also has a max turbo power of a laptop-melting 157W. In[Geekbench](https://browser.geekbench.com/processor-benchmarks) nT rankings, for example, the performance of this CPU sits snugly between the Core i9-13900 and the Ryzen 9 PRO 7945 desktop chips – so it isn’t a lightweight.
@@ -41,30 +29,12 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KHmtZBvJU6LcChAReYSDBU-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Another spec of the Legion 7000K gaming desktop that users will have to decide upon is what GPU to choose. The product page allows the choice of RTX 4060 / Ti, RTX 4070 Ti / Super. As with a traditional desktop PC, users can upgrade at any time later.
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -83,8 +53,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,55 +62,20 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-step-into-the-rhythm-of-social-video-editing-with-music/"><u>[New] 2024 Approved  Step Into the Rhythm of Social Video Editing with Music</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-walkthrough-wmp-caption-addition/"><u>[New] A Comprehensive Walkthrough  WMP Caption Addition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-action-camera-showdown-unmatched-seventh-lineup-wetproof/"><u>[New] Action Camera Showdown  Unmatched Seventh Lineup Wetproof</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-astonishing-assessment-and-alternative-choices/"><u>[New] Astonishing Assessment & Alternative Choices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-free-video-viewing-software-guide-top-16/"><u>[New] Best Free Video Viewing Software Guide - Top 16</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>[New] Crafting Audio Identity  The Art of Adding Your Own Tones to Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-next-level-splitting-tools-beyond-xsplit/"><u>[New] Next-Level Splitting Tools Beyond Xsplit</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-10-top-value-hd-cameras-for-extreme-sports/"><u>[Updated] 10 Top Value HD Cameras for Extreme Sports</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-detailed-guide-youtubes-most-engaging-storytellers-in-23/"><u>[Updated] A Detailed Guide  YouTube's Most Engaging Storytellers in '23</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency/"><u>[Updated] Accelerate Image Enhancement  Top 15 Pixlr Tips for Speed and Efficiency</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-accurate-ranking-of-top-tools-for-free-srt-transformations/"><u>[Updated] Accurate Ranking of Top Tools for FREE Srt Transformations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-complete-picture-a-close-look-at-the-google-podcasts-app/"><u>[Updated] Complete Picture  A Close Look at the Google Podcasts App</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-verified-posts-do-they-matter/"><u>[Updated] Instagram Verified Posts - Do They Matter?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-key-insights-fifa-content-on-youtube-charted/"><u>[Updated] Key Insights  FIFA Content on YouTube Charted</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-s23plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy S23+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-revolution-adapting-software-development-processes-for-tomorrows-tech/"><u>AI Revolution: Adapting Software Development Processes for Tomorrow’s Tech</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-motorola-moto-g84-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Motorola Moto G84 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-list-premier-free-video-player-choices-for-pctabletsmartphone-users/"><u>Essential List  Premier Free Video Player Choices for PC/Tablet/Smartphone Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exclusive-offer-20-free-luts-just-for-dji-mini-and-air-users/"><u>Exclusive Offer  20 FREE LUTS Just for DJI Mini & Air Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-analysis-of-powerdirector-2024-full-review-and-tutorial/"><u>Expert Analysis of PowerDirector 2024 - Full Review & Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-form-funny-meme-tools-on-a-shoestring-budget/"><u>Free-Form Funny  Meme Tools on a Shoestring Budget</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-concept-to-click-an-in-depth-look-at-gif-memes/"><u>From Concept to Click  An In-Depth Look at GIF Memes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-hype-to-highlighted-the-art-of-editing-hauls/"><u>From Hype to Highlighted  The Art of Editing Hauls</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-choice-the-finest-keyboards-gaming/"><u>Gamers' Choice: The Finest Keyboards Gaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-fix-stardew-valley-wont-launch-essential-steps-for-a-seamless-gaming-experience/"><u>How to Fix 'Stardew Valley Won't Launch': Essential Steps for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-flawlessly-merge-streamlabs-and-obs-on-mac/"><u>How to Flawlessly Merge Streamlabs & OBS on Mac</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-glimpse-into-the-digital-frontier-todays-vr/"><u>In 2024, A Glimpse Into the Digital Frontier  Today's VR</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-amplify-your-voice-on-twitter-top-video-uploading-solutions/"><u>In 2024, Amplify Your Voice on Twitter  Top Video Uploading Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-15-gear-to-secure-your-gopro-on-movement/"><u>In 2024, Best 15 Gear to Secure Your GoPro on Movement</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-budget-friendly-4k-imaging-sources/"><u>In 2024, Budget-Friendly 4K Imaging Sources</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-subtitle-mastery-made-easy-10-free-online-tools/"><u>In 2024, Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-mix-fold-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Mix Fold 3 FRP Bypass</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-guide-to-unrestricted-digital-vaults/"><u>Master Guide to Unrestricted Digital Vaults</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-the-art-of-steadiness-in-imaging/"><u>Master the Art of Steadiness in Imaging</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-your-photos-the-prime-selection-of-no-cost-editors/"><u>Master Your Photos  The Prime Selection of No-Cost Editors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/proart-pa-329q-examining-a-premium-4k-monitor-for-professionals/"><u>ProArt PA 329Q  Examining a Premium 4K Monitor for Professionals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sharpening-vision-in-depth-hdr-techniques-in-photoshop/"><u>Sharpening Vision  In-Depth HDR Techniques in PhotoShop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/smart-spending-on-action-cams-find-your-bargains-under-100/"><u>Smart Spending on ACTION Cams  Find Your Bargains Under $100</u></a></li>
-<li><a href="https://extra-information.techidaily.com/speak-with-elegance-on-chrome-top-picks-for-web-based-voice-transformers/"><u>Speak with Elegance on Chrome  Top Picks for Web-Based Voice Transformers</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategic-liking-a-guide-for-the-discreet-user/"><u>Strategic Liking: A Guide for the Discreet User</u></a></li>
-<li><a href="https://extra-information.techidaily.com/taking-solo-shots-from-videos-in-windows-10-photos-interface/"><u>Taking Solo Shots From Videos in Windows 10 Photos Interface</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-complete-haul-video-manual-from-shopping-to-screen-time/"><u>The Complete Haul Video Manual  From Shopping to Screen Time</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973206358-the-final-art-piece-must-have-an-interactive-element-that-allows-viewers-to-change-lighting-conditions-representing-fluctuating-energy-input/"><u>The Final Art Piece Must Have an Interactive Element that Allows Viewers to Change Lighting Conditions, Representing Fluctuating Energy Input.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-path-to-polished-projects-utilizing-fades-effectively/"><u>The Path to Polished Projects  Utilizing Fades Effectively</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-extension-mat-for-your-pc/"><u>Top-Rated Extension Mat for Your PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/total-byte-requirement-for-a-days-movie-watching/"><u>Total Byte Requirement for a Day's Movie Watching</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-undertaking-decoding-digital-picture-resolutions/"><u>Ultimate Undertaking  Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unboxing-t5s-capability-as-a-sports-recorder/"><u>Unboxing T5's Capability as a Sports Recorder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/upcoming-appraisal-innovative-opinions/"><u>Upcoming Appraisal  Innovative Opinions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-step-by-step-approach-to-discard-youtube-watch-later-items/"><u>[New] A Step-by-Step Approach to Discard YouTube Watch Later Items</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-jaunt-vr-immersion/"><u>[New] The Ultimate Guide to Jaunt VR Immersion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-completing-the-process-of-disabling-your-linkedin-profile/"><u>[Updated] Completing the Process of Disabling Your LinkedIn Profile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-internet-speed-on-mac-the-ultimate-guide-to-flushing-dns-cache/"><u>Boost Internet Speed on Mac: The Ultimate Guide to Flushing DNS Cache</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-compreenas-guide-to-designing-a-compelling-rss-feed/"><u>In 2024, A Compreenas Guide to Designing a Compelling RSS Feed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-x90s-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo X90S</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-time-saving-tricks-for-powerpoint-projections/"><u>In 2024, Time-Saving Tricks for PowerPoint Projections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/silent-symphonies-tranquil-audio-transitioning-tools/"><u>Silent Symphonies Tranquil Audio Transitioning Tools</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

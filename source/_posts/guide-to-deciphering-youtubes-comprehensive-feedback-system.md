@@ -1,7 +1,7 @@
 ---
 title: "Guide to Deciphering YouTube's Comprehensive Feedback System"
-date: 2024-09-10T00:32:06.111Z
-updated: 2024-09-11T00:32:06.111Z
+date: 2024-09-15T10:49:15.273Z
+updated: 2024-09-17T07:35:22.216Z
 tags: 
   - screen-recording
   - ai video
@@ -24,18 +24,6 @@ If you are a content creator who makes product reviews, the comment section is a
 
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
@@ -56,12 +44,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -74,12 +56,6 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -98,12 +74,6 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
@@ -114,28 +84,10 @@ Step4 On the right side under the “Manage all history” section, click on “
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -161,6 +113,26 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -198,54 +170,15 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-apple-music-and-video-harmony-explained/"><u>[New] Apple Music and Video Harmony Explained</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-bridging-social-platforms-a-guide-for-linktree-on-tiktok-profiles/"><u>[New] Bridging Social Platforms  A Guide for Linktree on TikTok Profiles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-capture-natural-motion-blur-for-pics/"><u>[New] Capture Natural Motion Blur for Pics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-convenience-at-your-fingertips-enable-autoplay-of-youtube-videos-on-fb-for-2024/"><u>[New] Convenience at Your Fingertips  Enable Autoplay of YouTube Videos on FB for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-relaxation-reigns-top-pc-titles/"><u>[New] In 2024, Relaxation Reigns  Top PC Titles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-guide-for-selecting-tiktok-wallpapers/"><u>[New] Master Guide for Selecting TikTok Wallpapers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-top-5-best-tv-for-ps5-and-xbox-series-x/"><u>[New] Top 5 Best TV for Ps5 and Xbox Series X</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-guide-to-mastering-gopro-hero5-time-lapse/"><u>[Updated] A Comprehensive Guide to Mastering GoPro Hero5 Time-Lapse</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>[Updated] Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-benq-sw320-monitor-reveal-a-spectacle-in-4k-technology/"><u>[Updated] BenQ SW320 Monitor Reveal  A Spectacle in 4K Technology</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-bargains-on-stunning-5k-displays-8-selection/"><u>[Updated] Best Bargains on Stunning 5K Displays - #8 Selection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-practices-when-basking-in-the-podcast-glow/"><u>[Updated] Best Practices When Basking in the Podcast Glow</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boosting-dj-game-free-easy-online-beat-detectors-revealed/"><u>[Updated] Boosting DJ Game  Free, Easy Online Beat Detectors Revealed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-budget-friendly-chinese-innovations-in-vr/"><u>[Updated] Budget-Friendly Chinese Innovations in VR</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-essential-tips-for-effective-instagram-video-conversations-for-2024/"><u>[Updated] Essential Tips for Effective Instagram Video Conversations for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>[Updated] In 2024, The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-on-capturing-facetime-calls-for-2024/"><u>[Updated] Step-by-Step on Capturing FaceTime Calls for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-5-screen-selections-for-ps5-enthusiasts/"><u>[Updated] Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-infuse-ingenuity-and-fun-make-memes-with-kapwing/"><u>2024 Approved  Infuse Ingenuity & Fun – Make Memes with Kapwing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screenshot-expert-evaluator/"><u>2024 Approved  ScreenShot Expert Evaluator</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unpacking-the-features-and-shortcomings-of-samsung-image-editor/"><u>2024 Approved  Unpacking the Features and Shortcomings of Samsung Image Editor</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/blueprint-for-broadcasting-logging-roblox-games-via-your-mac-hardware-for-2024/"><u>Blueprint for Broadcasting  Logging Roblox Games via Your Mac Hardware for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dynamic-timelines-constructing-animated-narratives-in-movie-maker/"><u>Dynamic Timelines  Constructing Animated Narratives in Movie Maker</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-4-techniques-for-sharpening-iphone-hdr-videos-on-premiere/"><u>Essential 4 Techniques for Sharpening iPhone HDR Videos on Premiere</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expertly-elevating-images-premier-frame-apps-in-2e-24/"><u>Expertly Elevating Images  Premier Frame Apps in 2E '24</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-and-easy-explore-the-top-webm-video-tools/"><u>Free and Easy  Explore the Top WebM Video Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-high-quality-the-best-srt-translation-tools-ranked/"><u>Free, High-Quality  The Best SRT Translation Tools Ranked</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-recover-and-reset-itunes-when-its-not-working/"><u>How to Recover and Reset iTunes When It's Not Working</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-complete-introduction-to-snapchats-new-feature/"><u>In 2024, A Complete Introduction to Snapchat's New Feature</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-webcam-tripods-and-stands/"><u>In 2024, Best Webcam Tripods and Stands</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-handsonguide-to-yourwebcamrecord/"><u>In 2024, HandsOnGuide to YourWebcamRecord</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-tecno-camon-20-premier-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Tecno Camon 20 Premier 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/incredible-method-unlock-mac-using-apple-watch/"><u>Incredible Method  Unlock Mac Using Apple Watch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lead-the-way-in-the-metaverse-your-tech-checklist/"><u>Lead the Way in the Metaverse  Your Tech Checklist</u></a></li>
-<li><a href="https://extra-information.techidaily.com/make-a-stir-in-the-app-ingenious-bio-strategies-to-captivate-swipes/"><u>Make a Stir in the App - Ingenious Bio Strategies to Captivate Swipes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-and-components-a-journey-through-toms-hardware/"><u>Mastering Gadgets & Components - A Journey Through Tom's Hardware</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-the-digital-realm-in-depth-reviews-by-tom-on-modern-hardware/"><u>Mastering the Digital Realm: In-Depth Reviews by Tom on Modern Hardware</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-steady-your-shot-the-best-free-online-video-stabilizers/"><u>New In 2024, Steady Your Shot The Best Free Online Video Stabilizers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-patches-backgrounds-for-online-streaming-for-2024/"><u>Perfect Patches  Backgrounds for Online Streaming for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/screen-spectaculor-the-premier-6-hdmi-21-models-reviewed/"><u>Screen Spectaculor  The Premier 6 HDMI 2.1 Models Reviewed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cket-views-with-these-essential-youtube-seo-hacks/"><u>Skyrocket Views with These Essential YouTube SEO Hacks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/solitary-voice-collective-applause-a-podcast-journey/"><u>Solitary Voice, Collective Applause  A Podcast Journey</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlining-media-with-apple-music-and-video-mixes/"><u>Streamlining Media with Apple Music & Video Mixes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-and-science-of-periscope-streaming/"><u>The Art and Science of Periscope Streaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-video-journey-choosing-the-seven-best/"><u>The Ultimate Video Journey  Choosing the Seven Best</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unravel-complex-video-editing-a-complete-android-guide/"><u>Unravel Complex Video Editing  A Complete Android Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-four-essential-steps-for-streamlined-sound-standardization/"><u>Updated Four Essential Steps for Streamlined Sound Standardization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-accelerating-learning-on-tiktok-changing-your-profile-number/"><u>[New] Accelerating Learning on TikTok Changing Your Profile Number</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-for-secure-youtube-mp4-conversion-for-2024/"><u>[New] Best Practices for Secure YouTube MP4 Conversion for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-caption-crusaders-top-10-writing-tools-for-image-capture-iosandroid/"><u>[New] Caption Crusaders Top 10 Writing Tools for Image Capture (iOS/Android)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-color-reversal-making-blacks-from-whites/"><u>[Updated] Color Reversal Making Blacks From Whites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-kinemaster-a-comprehensive-guide-and-top-online-platforms/"><u>[Updated] Mastering KineMaster A Comprehensive Guide & Top Online Platforms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/awaken-your-pc-to-god-like-powers-with-windows-11/"><u>Awaken Your PC to God-Like Powers with Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-6-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 6</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-animate-your-world-8-must-try-video-animation-apps-for-mobile-for-2024/"><u>New Animate Your World 8 Must-Try Video Animation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-scansnap-device-drivers-with-ease/"><u>Step-by-Step Guide: Updating Your ScanSnap Device Drivers with Ease</u></a></li>
 </ul></div>
+

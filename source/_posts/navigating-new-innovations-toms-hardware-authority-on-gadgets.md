@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Innovations: Tom's Hardware Authority on Gadgets"
-date: 2024-09-10T00:32:09.375Z
-updated: 2024-09-11T00:32:09.375Z
+date: 2024-09-09T18:58:36.129Z
+updated: 2024-09-16T17:18:44.687Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad7205eab6f350d2eff8745d04c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ayaneo's AM01 – Your Gateway to the Iconic Classic Macintosh Charm in a Cutting-Edge AMD Mini PC
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -52,12 +46,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -66,12 +54,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -80,14 +62,11 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,55 +77,27 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/hardware-setup-cant-get-hp-d1360-to-work-windows-versions-involved/"><u>[Hardware Setup] Can't Get HP D1360 to Work: Windows Versions Involved</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-14-ways-to-make-irresistible-gourmet-vids/"><u>[New] 14 Ways to Make Irresistible Gourmet Vids</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-5-key-strategies-to-correct-iphone-hdri-premiere-pro-edition/"><u>[New] 5 Key Strategies to Correct iPhone HDRI  Premiere Pro Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-guide-to-perfect-voice-recording/"><u>[New] A Step-by-Step Guide to Perfect Voice Recording</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-offline-audio-conversion-software/"><u>[New] Best Offline Audio Conversion Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-choose-right-gopro-hero5-vs-garmin-virb-updated-22/"><u>[New] Choose Right  GoPro Hero5 Vs. Garmin VIRB (Updated '22)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-optimize-twitter-vids-the-full-hd-method/"><u>[New] In 2024, Optimize Twitter Vids  The Full HD Method</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-visual-snippet-retriever-for-2024/"><u>[New] Visual Snippet Retriever for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-book-trailers-reviewed-top-5-picks-revealed/"><u>[Updated] Book Trailers Reviewed  Top 5 Picks Revealed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bringing-still-images-to-life-a-step-by-step-guide-for-slow-motion-videos-with-photos/"><u>[Updated] Bringing Still Images to Life  A Step-by-Step Guide for Slow-Motion Videos with Photos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-captivating-collections-frames-and-organizers-of-the-future/"><u>[Updated] Captivating Collections  Frames & Organizers of the Future</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-life-best-cameras-for-excellent-videography-2024-edition/"><u>[Updated] Capturing Life  Best Cameras for Excellent Videography, 2024 Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-craft-superior-canon-chrono-series/"><u>[Updated] Craft Superior Canon Chrono Series</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-premiere-pro-fs-view-techniques/"><u>[Updated] In-Depth Premiere Pro FS View Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mobile-panorama-tips-for-skyward-shots/"><u>2024 Approved  Mobile Panorama Tips for Skyward Shots</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-rising-tide-of-infographics-for-social-insights/"><u>2024 Approved  The Rising Tide of Infographics for Social Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blunder-effective-strategies-to-repair-your-steam-connection-errors-today/"><u>Beat the Blunder: Effective Strategies to Repair Your Steam Connection Errors Today!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/drone-photography-showdown-dji-spark-vs-hero6-black/"><u>Drone Photography Showdown  DJI Spark Vs Hero6 Black</u></a></li>
-<li><a href="https://extra-information.techidaily.com/1722994128874-effortless-fix-for-the-division-2-performance-hiccups-expert-tips-inside/"><u>Effortless Fix for The Division 2 Performance Hiccups – Expert Tips Inside!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>From Storyboards to Shortcuts  Instra-to-TikSync Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gopros-top-tier-face-off-hero5-b-and-sessions/"><u>GoPro's Top Tier Face-Off  Hero5 B & Sessions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/high-fidelity-footage-face-off-hero5-black-vs-hero4-silver/"><u>High Fidelity Footage Face-Off  Hero5 Black vs Hero4 Silver</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-become-an-instagram-influencer-easily/"><u>How to Become an Instagram Influencer Easily</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-get-snapchat-on-mac/"><u>How to Get Snapchat on Mac?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-the-process-of-livestreaming-online/"><u>In 2024, Breaking Down the Process of Livestreaming Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-tweets-as-mp3-audios-via-downloads/"><u>In 2024, Capture Tweets as MP3 Audios via Downloads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-steps-for-perfect-audio-transition-in-adobe-audition/"><u>In 2024, Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphone-and-samsung-faces-examining-their-biometric-security/"><u>IPhone & Samsung Faces  Examining Their Biometric Security</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leading-vr-accessories-the-top-10-countdown/"><u>Leading VR Accessories  The Top 10 Countdown</u></a></li>
-<li><a href="https://extra-information.techidaily.com/masterclass-in-tv-streaming-the-ultimate-guide/"><u>Masterclass in TV Streaming  The Ultimate Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-technology-insights-from-toms-resource/"><u>Mastering Technology Insights From Tom's Resource</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-the-art-creating-high-quality-gopro-vlogs/"><u>Mastering The Art  Creating High-Quality Gopro Vlogs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-kinemaster-usage-plus-best-online-platforms-for-editors/"><u>Mastering the Art of KineMaster Usage + Best Online Platforms for Editors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/organizing-your-iphones-picture-collection-from-sorting-to-icloud-backing-up/"><u>Organizing Your iPhone's Picture Collection  From Sorting to iCloud Backing Up</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-startup-troubles-in-wow-for-windows-users/"><u>Overcoming Startup Troubles in WoW for Windows Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pixels-into-panoramas-cutting-edge-edits-for-exceptional-results/"><u>Pixels Into Panoramas  Cutting-Edge Edits for Exceptional Results</u></a></li>
-<li><a href="https://extra-information.techidaily.com/precision-capture-with-videoleaps-zoom-feature/"><u>Precision Capture with Videoleap's Zoom Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-failure-error-0x8024800c/"><u>Resolving Windows Update Failure (Error 0X8024800C)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sculpted-smiles-and-eyes-introducing-facial-movement-with-motion-blur-in-picsart/"><u>Sculpted Smiles and Eyes  Introducing Facial Movement with Motion Blur in Picsart</u></a></li>
-<li><a href="https://extra-information.techidaily.com/spectral-perfection-program/"><u>Spectral Perfection Program</u></a></li>
-<li><a href="https://extra-information.techidaily.com/swift-action-on-slow-footage-with-best-apps/"><u>Swift Action on Slow Footage with Best Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-conveying-content-mastering-onestream-livestreams/"><u>The Art of Conveying Content  Mastering OneStream Livestreams</u></a></li>
-<li><a href="https://extra-information.techidaily.com/total-budget-for-making-a-music-video/"><u>Total Budget for Making a Music Video</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-format-fluidity-convert-srt-quickly/"><u>Unlocking Format Fluidity  Convert SRT Quickly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unraveling-the-excellence-a-guide-to-choosing-best-titling-talents-online/"><u>Unraveling the Excellence  A Guide To Choosing Best Titling Talents Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/virtual-jogging-meets-reality-treadmill-evaluations/"><u>Virtual Jogging Meets Reality  Treadmill Evaluations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-storytelling-support-center/"><u>Visual Storytelling Support Center</u></a></li>
-<li><a href="https://extra-information.techidaily.com/what-are-the-best-sites-to-download-google-pixel-ringtones/"><u>What Are the Best Sites to Download Google Pixel Ringtones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audiovisual-harmony-perfecting-voiceover-in-videos/"><u>[New] Audiovisual Harmony Perfecting Voiceover in Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-video-titling-solutions-online-now/"><u>[New] Best Video Titling Solutions Online Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-engaging-dialogue-in-screenplays/"><u>[New] Crafting Engaging Dialogue in Screenplays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expressing-thanks-top-outro-templates-collection/"><u>[Updated] Expressing Thanks Top Outro Templates Collection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-pova-5-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Pova 5 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-winning-sponsorship-proposal-for-youtube-creators/"><u>In 2024, Crafting a Winning Sponsorship Proposal for Youtube Creators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-cutting-through-limitations-with-top-video-editor-alternatives/"><u>In 2024, Cutting Through Limitations with Top Video Editor Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-drone-racing-all-you-need-to-know-and-5-best-fpv-racing-drones/"><u>In 2024, Drone Racing All You Need to Know and 5 Best FPV Racing Drones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-headquarters-of-virtual-reality-entertainment/"><u>In 2024, Headquarters of Virtual Reality Entertainment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-smm-landscape-key-steps-to-success/"><u>Navigating the SMM Landscape Key Steps to Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionary-entry-points-for-zooids/"><u>Revolutionary Entry Points for Zooids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-essence-of-luts-mastering-photo-color-dynamics/"><u>The Essence of LUTs Mastering Photo Color Dynamics</u></a></li>
+<li><a href="https://facebook.techidaily.com/visionaries-earning-vistas-creators-journey-with-metrics-and-money-through-reels/"><u>Visionaries Earning Vistas: Creators' Journey with Metrics & Money Through Reels</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-camon-20-pro-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Camon 20 Pro 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
