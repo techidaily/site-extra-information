@@ -1,7 +1,7 @@
 ---
 title: "How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo"
-date: 2024-09-11T20:02:16.687Z
-updated: 2024-09-16T18:28:02.221Z
+date: 2024-09-20T09:52:41.313Z
+updated: 2024-09-23T04:43:45.833Z
 tags: 
   - screen-recording
   - ai video
@@ -36,9 +36,23 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
@@ -55,6 +69,13 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -86,10 +107,10 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -116,13 +137,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -140,6 +154,19 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -191,18 +218,14 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-assessing-64gb-for-video-file-storing-power/"><u>[New] Assessing 64GB for Video File Storing Power</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-audio-preservation-for-academics-on-apple-systems-for-2024/"><u>[New] Audio Preservation for Academics on Apple Systems for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-craft-compelling-youtube-titles-faster-than-ever/"><u>[New] Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/tep-by-step-embedding-youtube-content-in-slideshows-for-2024/"><u>[New] Step-by-Step Embedding YouTube Content in Slideshows for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>2024 Approved Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expertise-unlocked-converting-text-formats-to-voice-ready-srt/"><u>Expertise Unlocked Converting Text Formats to Voice-Ready SRT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-achieving-professional-level-audio-crossfades-in-audacity/"><u>[New] Achieving Professional-Level Audio Crossfades in Audacity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-celebrating-creators-top-notch-otu-designs/"><u>[New] Celebrating Creators Top-Notch OTU Designs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cg318-4k-unveiled-eizos-high-res-monitor-review/"><u>[New] CG318-4K Unveiled EIZO's High-Res Monitor Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-solutions-for-remote-team-interaction/"><u>[Updated] Premium Solutions for Remote Team Interaction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-trail-the-echoes-of-de-follows-in-instagram-land/"><u>2024 Approved Trail the Echoes of De-Follows in Instagram Land</u></a></li>
 <li><a href="https://extra-information.techidaily.com/funnybox-simple-setup-for-content-creators/"><u>FunnyBox Simple Setup for Content Creators</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-c110-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia C110 Phone that is Locked?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-strategies-for-effective-use-of-zoom-on-win11/"><u>In 2024, Transformative Strategies for Effective Use of Zoom on Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-storytelling-with-inshots-transition-features/"><u>Streamline Storytelling with Inshot's Transition Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/threefold-mastery-in-dialogue-unleashing-power-with-chatgpt-and-wolfram-alpha/"><u>Threefold Mastery in Dialogue: Unleashing Power with ChatGPT & Wolfram Alpha</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-windows-11-microphone-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Microphone Issues</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unmatched-video-quality-leading-windows-phones-apps/"><u>Unmatched Video Quality Leading Windows Phones Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-11-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 11 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-precise-time-indicators-in-youtubes/"><u>In 2024, Crafting Precise Time Indicators in YouTubes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006704830-quick-fix-for-dayz-fps-issues-speed-up-your-game-now/"><u>Quick Fix for DayZ FPS Issues - Speed Up Your Game Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"The Essence of Depth  Crafting 3D Text Art\""
-date: 2024-09-10T16:01:29.655Z
-updated: 2024-09-16T23:52:20.345Z
+date: 2024-09-17T10:36:48.717Z
+updated: 2024-09-22T16:17:32.967Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ Step3 Now, look at the bottom-right corner of the program. Find the **Font** set
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
@@ -76,6 +83,13 @@ You might not believe it, but there's an even more accessible and less expensive
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -86,20 +100,27 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -110,16 +131,10 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
@@ -136,16 +151,16 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -175,15 +190,21 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-social-media-presence-insta-videography/"><u>[Updated] Elevate Your Social Media Presence Insta-Videography</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 14 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-nine-pinnacle-filmora-features-videographers-adore/"><u>In 2024, Nine Pinnacle Filmora Features Videographers Adore</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-seamless-audio-edits-with-garageband-features/"><u>In 2024, Seamless Audio Edits with GarageBand Features</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-transitions-for-professional-videos/"><u>Innovative Transitions for Professional Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/m1-marvel-a-new-wave-of-smooth-and-efficient-editing/"><u>M1 Marvel A New Wave of Smooth and Efficient Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/save-big-on-acronis-true-image-get-20-off-with-exclusive-promo-code/"><u>Save Big on Acronis True Image: Get 20% Off with Exclusive Promo Code!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unconventional-methods-how-to-remove-hidden-applications-on-windows/"><u>Unconventional Methods: How To Remove Hidden Applications on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
-<li><a href="https://extra-information.techidaily.com/watermarking-for-professionals-software-analysis/"><u>Watermarking for Professionals - Software Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-become-a-pro-with-2023s-free-templates/"><u>[New] Become a Pro with 2023'S FREE Templates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-resolved-mystery-of-absentee-shorts/"><u>[Updated] 2024 Approved Resolved Mystery of Absentee Shorts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-iphone-markers-choosing-the-best-image-watermarks/"><u>[Updated] 2024 Approved Top iPhone Markers Choosing the Best Image Watermarks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-pinpointing-the-leading-10-secret-story-supporters/"><u>2024 Approved Pinpointing the Leading 10 Secret Story Supporters</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-rexing-v1-a-budget-friendly-yet-dependable-road-companion/"><u>Exploring the Rexing V1: A Budget-Friendly Yet Dependable Road Companion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/feast-on-a-gallery-ios-top-10-free-stunning-photo-collage-apps/"><u>Feast on a Gallery IOS’ Top 10 FREE, Stunning Photo Collage Apps</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y100i?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphones-quintet-of-premier-podcast-tools/"><u>IPhone's Quintet of Premier Podcast Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-u23-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on U23 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/nostalgia-on-screen-step-by-step-for-image-to-video-conversion/"><u>Nostalgia on Screen Step-by-Step for Image to Video Conversion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-up-to-photo-editing-excellence-with-these-must-know-pixlr-techniques/"><u>Step Up to Photo Editing Excellence with These Must-Know Pixlr Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sweet-slumber-scenes-video-critique/"><u>Sweet Slumber Scenes Video Critique</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-sony-fdr-x1000v-recording-analysis/"><u>Ultimate Sony FDR-X1000V Recording Analysis</u></a></li>
 </ul></div>
 

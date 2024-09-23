@@ -1,7 +1,7 @@
 ---
 title: "\"The Basics  What Makes a VR Device Special?\""
-date: 2024-09-11T01:43:12.366Z
-updated: 2024-09-16T21:55:23.654Z
+date: 2024-09-15T19:34:44.224Z
+updated: 2024-09-23T05:12:13.238Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  Below is a list of the various VR headsets currently available to purchase:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [HTC Vive]( https://www.vive.com/ )
 
 ![ghtc-vive-vr](https://images.wondershare.com/filmora/article-images/htc-vive.png)
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
@@ -74,24 +81,24 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
 
 ![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Not to be left behind, Google also has a cardboard virtual reality headset. With this headset, it sounds like popping your smartphone in a cardboard container and putting it over your head for a virtual reality experience. Sounds like a joke, but you will be pleasantly surprised to learn that it works like charm and it is also low cost. If anything, the smartphone you have already has all the gyroscopic sensors as well as the positioning devices needed to track your head movements.
 
@@ -114,20 +121,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-digital-delights-8-most-watched-movies/"><u>[New] 2024 Approved Digital Delights 8 Most Watched Movies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-beat-infused-imagery-mobile-video-making-on-iphone/"><u>[New] Beat-Infused Imagery Mobile Video Making on iPhone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-to-proficient-gaming-recordings-for-2024/"><u>[New] Secrets to Proficient Gaming Recordings for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-a-review-of-youtubes-integration-with-iphone-and-android-devices/"><u>[Updated] A Review of YouTube's Integration with iPhone & Android Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-boosted-audio-visual-experience-choose-av1-on-youtube/"><u>[Updated] In 2024, Boosted Audio-Visual Experience Choose AV1 on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-free-replacements-for-windows-media-center-in-windows-11-top-3-picks/"><u>Best Free Replacements for Windows Media Center in Windows 11: Top 3 Picks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/engaging-lessons-video-editing-skills-for-teachers/"><u>Engaging Lessons Video Editing Skills for Teachers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhanced-ai-driven-frame-generation-increase-frames-per-second-and-ensure-seamless-motion/"><u>Enhanced AI-Driven Frame Generation - Increase Frames Per Second and Ensure Seamless Motion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boost-cinematic-excellence-with-final-cuts-best-10-plugins/"><u>In 2024, Boost Cinematic Excellence with Final Cut’s Best 10 Plugins</u></a></li>
-<li><a href="https://extra-information.techidaily.com/low-budget-camera-buys-roundup/"><u>Low-Budget Camera Buys Roundup</u></a></li>
-<li><a href="https://extra-information.techidaily.com/memetic-masterpieces-behind-the-scenes/"><u>Memetic Masterpieces Behind the Scenes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-7-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 7 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/smart-navigation-ais-emergence-on-digital-landscapes/"><u>Smart Navigation: AI's Emergence on Digital Landscapes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-digital-deluge-examining-this-years-most-shared-videos-for-2024/"><u>The Digital Deluge Examining This Year's Most Shared Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/what-sets-360-and-vr-media-apart/"><u>What Sets 360° and VR Media Apart?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-a-step-by-step-approach-to-mastering-free-youtube-video-transcription/"><u>[New] In 2024, A Step-by-Step Approach to Mastering Free YouTube Video Transcription</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-essential-quick-tutorial-for-chat-for-2024/"><u>[New] Instagram's Essential Quick Tutorial for Chat for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-practices-for-dynamic-and-dramatic-ae-titles/"><u>[Updated] Best Practices for Dynamic and Dramatic AE Titles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ch340usb-ftdi-driver-update-guide-for-users-on-microsofts-latest-os/"><u>CH340USB FTDI Driver Update Guide for Users on Microsoft's Latest OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-soundstage-shows/"><u>Exclusive Soundstage Shows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flash-frame-filmmaking-script/"><u>Flash Frame Filmmaking Script</u></a></li>
+<li><a href="https://extra-information.techidaily.com/framing-the-world-from-a-phone-angle/"><u>Framing the World From a Phone Angle</u></a></li>
+<li><a href="https://win11.techidaily.com/fundamental-concepts-in-windows-display-idleness/"><u>Fundamental Concepts in Windows Display Idleness</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-the-vanguard-not-initialized-error-in-valorant/"><u>How to Address the 'Vanguard Not Initialized' Error in Valorant</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-advertising-budgets-on-youtube/"><u>In 2024, Breaking Down Advertising Budgets on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/olympic-freeze-frame-figure-skating-best-of-2022/"><u>Olympic Freeze-Frame Figure Skating Best of 2022</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-unveiled-facebook-twitter-instagram-and-youtube-breakdown/"><u>Social Media Giants Unveiled: Facebook, Twitter, Instagram and YouTube Breakdown</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speak-up-enhancing-interactions-with-youtube-viewers-for-2024/"><u>Speak Up Enhancing Interactions with YouTube Viewers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-2022-winter-games-zenith-of-snowboard-cross/"><u>The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-altering-photographic-contrast/"><u>The Art of Altering Photographic Contrast</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-unparalleled-creativity-craft-your-own-tailored-gpt-powered-chatbots-with-the-new-upgrade/"><u>Unleash Unparalleled Creativity: Craft Your Own Tailored GPT-Powered Chatbots with the New Upgrade</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visionary-logo-designs-that-define-your-podcast-brand/"><u>Visionary Logo Designs that Define Your Podcast Brand</u></a></li>
 </ul></div>
 

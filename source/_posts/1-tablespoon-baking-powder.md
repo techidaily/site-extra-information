@@ -1,7 +1,7 @@
 ---
 title: 1 Tablespoon Baking Powder
-date: 2024-09-14T16:05:01.122Z
-updated: 2024-09-17T04:04:36.455Z
+date: 2024-09-20T22:19:33.167Z
+updated: 2024-09-23T10:39:57.156Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
@@ -53,13 +67,20 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -73,19 +94,6 @@ Check your region and language settings on your computer:
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -111,18 +119,18 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
@@ -134,16 +142,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -169,12 +177,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-androids-leading-video-tiles-ranked-8-freepaid-collage-creators/"><u>[Updated] Android's Leading Video Tiles Ranked #8-Free/Paid Collage Creators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-capturing-moments-essential-cameras-reviewed-for-2024/"><u>[Updated] Capturing Moments Essential Cameras Reviewed for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-social-media-stardom-nine-tracks-to-insta-success/"><u>In 2024, The Art of Social Media Stardom Nine Tracks to Insta Success</u></a></li>
-<li><a href="https://fox-that.techidaily.com/six-ways-to-resolve-non-functioning-aol-emails-on-your-iphone/"><u>Six Ways to Resolve Non-Functioning AOL Emails on Your iPhone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/superior-engine-picks-elevating-your-quadcopters-capabilities/"><u>Superior Engine Picks Elevating Your Quadcopter's Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-route-for-finding-visual-gold-on-pexels/"><u>The Essential Route for Finding Visual Gold on Pexels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tops-in-audio-modification-software-echos-successor/"><u>Tops in Audio Modification Software Echo's Successor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-compiling-ultimate-list-of-virtual-controls/"><u>[Updated] Compiling Ultimate List of Virtual Controls</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-zoom-on-a-chromebook-key-techniques/"><u>2024 Approved Mastering Zoom on a Chromebook Key Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-path-to-perfect-presence-on-zoom-platforms/"><u>2024 Approved The Path to Perfect Presence on Zoom Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-subtitle-converters-no-cost-for-srt-files/"><u>2024 Approved Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://article-posts.techidaily.com/core-principles-of-crafting-convincing-video-endorsements/"><u>Core Principles of Crafting Convincing Video Endorsements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/efficient-tools-and-tips-for-webp-to-jpeg-transformation/"><u>Efficient Tools and Tips for WebP to JPEG Transformation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-8-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-drones-that-enhance-your-gopro-cinematic-experience/"><u>In 2024, Best Drones That Enhance Your GoPro Cinematic Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-brief-blotter-for-film-blueprint/"><u>In 2024, Brief Blotter for Film Blueprint</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-content-creators-preferences-vimeo-or-youtube/"><u>In 2024, Content Creators' Preferences Vimeo or YouTube?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-choices-in-gamer-mousepads/"><u>Prime Choices in Gamer Mousepads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-video-cutting-edge-tools-devices/"><u>Superior Video Cutting-Edge Tools (Devices)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-strategy-for-selecting-a-premium-stream-service/"><u>The Ultimate Strategy for Selecting a Premium Stream Service</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-spark-20-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Spark 20</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-true-tints-and-shades-in-photos/"><u>Unlocking True Tints and Shades in Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-picsart-a-thorough-2024-walkthrough/"><u>Unveiling PicsArt A Thorough 2024 Walkthrough</u></a></li>
 </ul></div>
 

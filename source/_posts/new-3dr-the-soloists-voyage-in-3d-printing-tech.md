@@ -1,7 +1,7 @@
 ---
 title: "\"[New] '3DR'  The Soloist’s Voyage in 3D Printing Tech\""
-date: 2024-09-13T19:45:07.181Z
-updated: 2024-09-16T20:30:51.476Z
+date: 2024-09-21T21:40:55.196Z
+updated: 2024-09-22T16:27:02.294Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -83,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -96,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 **You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -112,25 +140,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-7-key-strategies-for-perfect-macro-video-shooting/"><u>[New] 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-viewer-response-crafting-engaging-ig-story-qandas/"><u>[New] Elevate Viewer Response Crafting Engaging IG Story Q&As</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-viral-ventures-from-likes-to-lore-in-the-facebook-landscape/"><u>[New] In 2024, Viral Ventures From Likes to Lore in the Facebook Landscape</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mastering-video-trailers-on-youtube-via-filmora-tools/"><u>[New] Mastering Video Trailers on YouTube via Filmora Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-acid-pro-a-deep-dive-and-competitive-matchups/"><u>[Updated] ACID Pro A Deep Dive & Competitive Matchups</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-androids-premier-music-video-experience-6-picks/"><u>[Updated] Android's Premier Music Video Experience 6 Picks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-av1-compression-a-beginners-overview/"><u>[Updated] AV1 Compression A Beginner's Overview</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-blueprint-for-a-thriving-portfolio-in-graphics/"><u>[Updated] Blueprint for a Thriving Portfolio in Graphics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expertise-in-cutting-edge-encoders-for-live-media/"><u>Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gratitude-freepaid-outro-template-selections/"><u>Gratitude Free/Paid Outro Template Selections</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/instant-tips-resolving-issues-with-unresponsive-soundtracks-in-premier-editing-software/"><u>Instant Tips: Resolving Issues with Unresponsive Soundtracks in Premier Editing Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-tech-secrets-a-deep-dive-into-computer-systems-by-tom/"><u>Unveiling Tech Secrets: A Deep Dive Into Computer Systems by Tom</u></a></li>
-<li><a href="https://extra-information.techidaily.com/vidfx-tricks-top-10-text-transformations/"><u>VidFX Tricks Top 10 Text Transformations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweeting-visual-stories-from-vids-to-interactive-gifs/"><u>[New] 2024 Approved Tweeting Visual Stories From Vids to Interactive GIFs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cash-up-fast-a-newbies-guide-to-the-13-best-reddit-money-hacks/"><u>[New] Cash Up Fast A Newbie's Guide to the 13 Best Reddit Money Hacks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-and-record-a-2023-look-at-camstudios-capabilities/"><u>[Updated] Capture and Record A 2023 Look at CamStudio's Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-circular-engine-kit/"><u>[Updated] Circular Engine Kit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-8-safe-video-communication-programs-for-smbs-for-2024/"><u>[Updated] Premier 8 Safe Video Communication Programs for SMBs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/evaluating-new-tech-in-lg-360-cameras-for-a-fresh-perspective/"><u>Evaluating New Tech in LG 360 Cameras for a Fresh Perspective</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/full-inventory-of-ps-vr-games-unveiled-a-deep-dive-into-announced-selections/"><u>Full Inventory of PS VR² Games Unveiled: A Deep Dive Into Announced Selections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-defy-2-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Defy 2 Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/keeping-it-secretive-watching-instagram-live-undetected/"><u>Keeping It Secretive Watching Instagram Live Undetected</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photo-perfection-for-newbies-the-lunapic-way/"><u>Photo Perfection for Newbies The LunaPic Way</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stay-ahead-in-the-metaverse-with-this-list-of-must-haves/"><u>Stay Ahead in the Metaverse with This List of Must-Haves</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-fixing-modern-warfare-launch-issues/"><u>Troubleshooting Tips: Fixing 'Modern Warfare Launch Issues'</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unexpected-video-pitch-flipped-images-on-instagram/"><u>Unexpected Video Pitch Flipped Images on Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-the-most-essential-ai-tools-for-business-leaders/"><u>Unlocking Potential: The Most Essential AI Tools for Business Leaders</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

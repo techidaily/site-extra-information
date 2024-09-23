@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Chromatic Symphony  The Filmmaker's Toolkit\""
-date: 2024-09-10T16:34:22.189Z
-updated: 2024-09-17T11:15:29.937Z
+date: 2024-09-21T09:41:51.947Z
+updated: 2024-09-23T06:42:59.146Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,19 @@ Then select the New Project to create a new project file and click Import to fin
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
@@ -73,6 +86,13 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
@@ -92,6 +112,13 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Select the specific video portion
 
 #####
@@ -99,6 +126,13 @@ Here, there are two options to select: The Color correction. It offers different
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
@@ -200,26 +234,22 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>[New] 2024 Approved Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-compre-written-by-jane-doe-phd-in-cognitive-psychology-and-behavioral-science/"><u>[New] The Compre Written By Jane Doe, PhD in Cognitive Psychology and Behavioral Science</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-guide-to-embedding-on-screen-text-on-youtube-clips/"><u>[Updated] In 2024, Guide to Embedding On-Screen Text on YouTube Clips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/brief-guide-to-obscured-faces-on-piscart-platforms/"><u>Brief Guide to Obscured Faces on PiscArt Platforms</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/feast-on-a-gallery-ios-top-10-free-stunning-photo-collage-apps/"><u>Feast on a Gallery IOS’ Top 10 FREE, Stunning Photo Collage Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-magic-6-lite-messages-recovery-recover-deleted-messages-from-honor-magic-6-lite-by-fonelab-android-recover-messages/"><u>Honor Magic 6 Lite Messages Recovery - Recover Deleted Messages from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capture-gameplay-prowess-on-android-screens/"><u>In 2024, Capture Gameplay Prowess on Android Screens</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-developing-intriguing-video-segments-for-channels/"><u>In 2024, Developing Intriguing Video Segments for Channels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphones-quintet-of-premier-podcast-tools/"><u>IPhone's Quintet of Premier Podcast Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c51-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C51 Phone FRP Lock</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-up-to-photo-editing-excellence-with-these-must-know-pixlr-techniques/"><u>Step Up to Photo Editing Excellence with These Must-Know Pixlr Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sweet-slumber-scenes-video-critique/"><u>Sweet Slumber Scenes Video Critique</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-sony-fdr-x1000v-recording-analysis/"><u>Ultimate Sony FDR-X1000V Recording Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-canvas-mastery-streamlining-edges-and-enhancing-visuals/"><u>[New] Canvas Mastery Streamlining Edges and Enhancing Visuals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-charting-your-path-to-higher-youtube-spotlight-for-2024/"><u>[New] Charting Your Path to Higher YouTube Spotlight for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-daily-video-size-summation-total-gb-cost/"><u>[New] In 2024, Daily Video Size Summation Total GB Cost</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-screen-capture-in-macos/"><u>[Updated] 2024 Approved The Ultimate Guide to Screen Capture in macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-stories-the-best-cinematographic-techniques/"><u>[Updated] Capturing Stories The Best Cinematographic Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-create-compelling-images-on-iphone-with-these-10-principles/"><u>[Updated] Create Compelling Images on iPhone with These 10 Principles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-grow-your-channelnode-through-joint-videography-endeavors/"><u>2024 Approved Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enthralling-aesthetics-logo-techniques-for-podcasts/"><u>Enthralling Aesthetics Logo Techniques for Podcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-escapes-androidioss-favorite-ar-games/"><u>Immersive Escapes Android/iOS's Favorite AR Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-system-performance-by-curbing-browser-activity/"><u>Improving System Performance by Curbing Browser Activity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-with-manycam-top-notch-virtual-camera-tools/"><u>Live Streaming Mastery with ManyCam: Top-Notch Virtual Camera Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-engine-picks-elevating-your-quadcopters-capabilities/"><u>Superior Engine Picks Elevating Your Quadcopter's Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-route-for-finding-visual-gold-on-pexels/"><u>The Essential Route for Finding Visual Gold on Pexels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tops-in-audio-modification-software-echos-successor/"><u>Tops in Audio Modification Software Echo's Successor</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unveiling-the-update-to-sonys-premium-blu-ray-player-for-2024/"><u>Unveiling the Update to Sony’s Premium Blu-Ray Player for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

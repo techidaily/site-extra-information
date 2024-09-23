@@ -1,7 +1,7 @@
 ---
 title: "Framing the World From a Phone Angle"
-date: 2024-09-16T01:29:19.376Z
-updated: 2024-09-16T17:51:27.029Z
+date: 2024-09-21T20:42:40.110Z
+updated: 2024-09-23T05:31:16.144Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Make sure to hold the device horizontally and hit the camera button.
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -62,18 +76,18 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
 
@@ -85,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -106,18 +120,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-engagement-how-to-pick-perfect-youtube-collaborators/"><u>[Updated] Maximizing Engagement How to Pick Perfect YouTube Collaborators</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unveiling-simple-smooth-gaming-video-editors-for-starters-for-2024/"><u>[Updated] Unveiling Simple, Smooth Gaming Video Editors for Starters for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-snips-tool/"><u>[Updated] Visual Snips Tool</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>2024 Approved Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/editing-excellence-archive-your-qanda/"><u>Editing Excellence Archive Your Q&A</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-high-precision-with-hp-envy-27-monitor/"><u>Exploring High Precision with HP Envy 27 Monitor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-brother-hl-l2340dw-printer-drivers-on-windows-pcs/"><u>How to Obtain and Install Brother HL-L2340DW Printer Drivers on Windows PCs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-become-a-skilled-concealer-of-in-game-voices-compre-points-on-altering-sounds-in-free-fire/"><u>In 2024, Become a Skilled Concealer of In-Game Voices Compre Points on Altering Sounds in Free Fire</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-drone-selections-for-young-pilots-and-rookie-flyers/"><u>In 2024, Best Drone Selections for Young Pilots and Rookie Flyers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-catalog-films-for-streamlined-playback/"><u>In 2024, Catalog Films for Streamlined Playback</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-find-x6-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Find X6 Pro Face Lock?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oneplus-11-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On OnePlus 11 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/vlc-mastery-essential-tips-and-secret-features/"><u>VLC Mastery Essential Tips and Secret Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximizing-your-youtube-potential-with-content-partnerships/"><u>[New] 2024 Approved Maximizing Your YouTube Potential with Content Partnerships</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>[New] Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cinematic-vibes-photos-with-a-soundtrack-twist/"><u>[New] In 2024, Cinematic Vibes Photos with a Soundtrack Twist</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-leading-mac-graphics-recorder/"><u>[Updated] Leading Mac Graphics Recorder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-linksys-ac1900-mammoth-ideal-choice-for-home-and-office-networks/"><u>Comprehensive Guide to the Linksys AC1900 Mammoth: Ideal Choice for Home and Office Networks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/decoding-the-audience-who-viewed-your-insta-post-for-2024/"><u>Decoding the Audience Who Viewed Your Insta Post for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-3-and-windows-10-compatibility-how-to-avoid-game-lockups/"><u>Fallout 3 and Windows 10 Compatibility: How to Avoid Game Lockups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/figure-skatings-top-talent-review-of-22-moments/"><u>Figure Skating's Top Talent Review of '22 Moments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-quality-drones-that-accommodate-gopro-cameras/"><u>High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-starter-accessories-to-elevate-your-gopro-capture/"><u>In 2024, The Best Starter Accessories to Elevate Your GoPro Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-asuss-proart-pa-329q-a-full-review-of-a-top-tier-workstation-monitor/"><u>Inside Asus’s ProArt PA 329Q A Full Review of a Top-Tier Workstation Monitor</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-chipset-graphics-drivers-free-downloads-and-step-by-step-install-guide-for-windows-1011/"><u>Latest Intel Chipset Graphics Drivers: Free Downloads and Step-by-Step Install Guide for Windows 10/11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-selections-versatile-and-affordable-macpc-bd-decoders/"><u>Premier Selections Versatile and Affordable Mac/PC BD Decoders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reasons-for-unexpected-cut-off-in-imovie/"><u>Reasons for Unexpected Cut-Off in iMovie</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-evolution-of-camera-features-for-dynamic-range-mastery/"><u>The Evolution of Camera Features for Dynamic Range Mastery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-clips-into-content-from-premiere-to-youtube-for-2024/"><u>Transform Clips Into Content From Premiere to YouTube for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
 </ul></div>
 

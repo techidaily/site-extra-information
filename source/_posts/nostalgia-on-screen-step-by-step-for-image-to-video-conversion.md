@@ -1,7 +1,7 @@
 ---
 title: "\"Nostalgia on Screen  Step-by-Step for Image to Video Conversion\""
-date: 2024-09-16T04:05:56.159Z
-updated: 2024-09-16T23:48:20.729Z
+date: 2024-09-20T08:00:42.535Z
+updated: 2024-09-23T06:03:54.501Z
 tags: 
   - screen-recording
   - ai video
@@ -86,6 +86,19 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
@@ -105,6 +118,13 @@ The edit option will present tons of additional features that you can implement 
 As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
@@ -150,9 +170,23 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -169,24 +203,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-10-tips-for-remotely-recording-your-podcasts/"><u>[Updated] 2024 Approved Top 10 Tips for Remotely Recording Your Podcasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>[Updated] Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-video-subtitles-for-instagram-saga-the-ultimate-walkthrough/"><u>DIY Video Subtitles for Instagram Saga- The Ultimate Walkthrough</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dynamic-14-visual-expressions-with-text-animation/"><u>Dynamic 14 Visual Expressions with Text Animation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harmonizing-iphone-with-the-world-of-podcasts/"><u>Harmonizing iPhone with the World of Podcasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-your-voice-to-direct-chatgpt-a-5-step-guide/"><u>Harness the Power of Your Voice to Direct ChatGPT: A 5-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-budget-friendly-obs-optimization-techniques/"><u>In 2024, Budget-Friendly OBS Optimization Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-note-30-vip-racing-edition-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Note 30 VIP Racing Edition to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/neueste-erweiterung-fur-die-3m-360-encompass-software-abbyy-text-recognition-von-kunftig-ausgerustet/"><u>Neueste Erweiterung Für Die 3M 360 Encompass Software - ABBYY Text Recognition Von Künftig Ausgerüstet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-venues-for-vr-entertainment/"><u>Prime Venues for VR Entertainment</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-tier-autonomous-cleaner-in-depth-look-at-the-dreame-bot-l10-pro-with-lidar-technology/"><u>Top-Tier Autonomous Cleaner - In-Depth Look at the Dreame Bot L10 Pro with LiDAR Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-android-tips-creating-stunning-slow-motion-videos/"><u>[New] Android Tips Creating Stunning Slow Motion Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-aural-alchemy-transforming-sound-tracks-in-logic-pro-x/"><u>[New] Aural Alchemy Transforming Sound Tracks In Logic Pro X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-breaking-down-snapchats-new-highlight-functionality/"><u>[New] Breaking Down Snapchat's New Highlight Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-breaking-the-boundaries-vr-film-production-essentials-top-9/"><u>[New] Breaking the Boundaries VR Film Production Essentials (Top 9)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-youtube-studio-where-ideas-become-engaging-content/"><u>[New] In 2024, Discovering YouTube Studio Where Ideas Become Engaging Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-text-animations-unleashed-try-these-14-dynamic-showcases-for-2024/"><u>[New] Text Animations Unleashed Try These 14 Dynamic Showcases for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-10-extensions-for-maxed-out-terria/"><u>[Updated] 2024 Approved Top 10 Extensions for Maxed-Out Terria</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-shield-from-ai-crafted-youtube-video-selections/"><u>[Updated] Shield From AI-Crafted YouTube Video Selections</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-your-understanding-of-copyright-on-instagram/"><u>2024 Approved Unlocking Your Understanding of Copyright on Instagram</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-usb-bt500-bluetooth-drivers-download-compatible-with-win-11108/"><u>Asus USB-BT500 Bluetooth Drivers: Download Compatible with Win 11/10/8</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-online-presence-editing-expertise-for-haul-vlogs/"><u>Elevate Your Online Presence Editing Expertise for Haul Vlogs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-endurance-are-electric-vehicles-on-par-with-gasoline-powered-counterparts-in-terms-of-lifespan/"><u>Exploring the Endurance: Are Electric Vehicles on Par with Gasoline-Powered Counterparts in Terms of Lifespan?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964586529-get-the-latest-m-audio-fast-track-driver-software-for-multiple-windows-versions-free-of-cost/"><u>Get the Latest M-Audio Fast Track Driver Software for Multiple Windows Versions Free of Cost</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chortle-circle-spooky-androids-with-a-twist/"><u>In 2024, Chortle Circle Spooky Androids with a Twist</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>In 2024, Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-steps-for-applying-fades-in-digital-audio-editing/"><u>Key Steps for Applying Fades in Digital Audio Editing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/live-radio-at-your-fingertips-an-easy-recording-guide/"><u>Live Radio at Your Fingertips An Easy Recording Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-method-acquire-free-secure-version-of-vlc-on-mac-for-2024/"><u>Streamlined Method Acquire Free, Secure Version of VLC on MAC for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tech-revelations-best-4k-displays-for-mac-users/"><u>Top Tech Revelations Best 4K Displays for Mac Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

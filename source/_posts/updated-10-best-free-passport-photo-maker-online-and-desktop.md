@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 10 Best Free Passport Photo Maker Online and Desktop"
-date: 2024-09-11T10:07:12.547Z
-updated: 2024-09-17T06:49:05.738Z
+date: 2024-09-20T04:50:03.642Z
+updated: 2024-09-23T02:07:02.290Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,20 @@ You can take a photo of yourselves on the spot or even provide this passport siz
 
 ![ persofoto online passport photo tool](https://images.wondershare.com/filmora/article-images/2022/free-passport-photo-maker-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. [Make Passport Photo.com](https://makepassportphoto.com/services.php)
 
 Looking into the variety of online passport photo tools, Make Passport Photo.com has an incredibly unique system for setting up passport photos for its users. This passport size photo maker allows users to select their respective country before setting up the photo. How is this convenient? After selecting your country, you can automatically set up the passport size photo according to your country's rules.
@@ -59,10 +73,10 @@ Quality has never been compromised across 123PassportPhoto. With 600 dpi printin
 ![123passportphoto online tool](https://images.wondershare.com/filmora/article-images/2022/free-passport-photo-maker-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. [IDPhotoDIY.com](https://www.idphotodiy.com/)
@@ -74,16 +88,17 @@ Aligning its services to more than 70 countries, IDPhotoDIY.com sets a high stan
 ![idphotodiy passport photo maker](https://images.wondershare.com/filmora/article-images/2022/free-passport-photo-maker-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: 5 Free Passport Photo Maker for Desktop Users
@@ -99,16 +114,17 @@ Under a controlled environment, you can make significant changes across your pas
 ![photomatic edit tool](https://images.wondershare.com/filmora/article-images/2022/free-passport-photo-maker-6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. [ID Photo by Codenia](https://www.microsoft.com/en-us/p/id-photo/9nblggh43n9m?activetab=pivot:overviewtab)
@@ -119,13 +135,6 @@ ID Photo makes the process easier with its multi-touch gestures in the interface
 
 ![id photo by codenia](https://images.wondershare.com/filmora/article-images/2022/free-passport-photo-maker-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [Passport Photo Maker 9.15](https://ams-photo-software.com/passport-photo-maker/)
 
 Moving into professional choices, this passport photo editor features an improved and advanced set of tools for its users. While offering all the basic passport-sized photo tools, this maker allows you to manage the background and clothes within the photo.
@@ -134,6 +143,13 @@ Unlike other passport size photo editor, Passport Photo Maker 9.15 is quite diff
 
 ![passport photo maker interface](https://images.wondershare.com/filmora/article-images/2022/free-passport-photo-maker-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. [PhotoScape](http://www.photoscape.org/ps/main/index.php)
 
 PhotoScape is an answer to simpler and easier photo editing tools across the desktop. A fun tool to use, this passport photo editor provides a wider set of features than the online tools in the market. Multiple edits are possible across this platform without compromising the quality of the image.
@@ -141,13 +157,6 @@ PhotoScape is an answer to simpler and easier photo editing tools across the des
 The variety in image editing makes it one excellent choice for a passport-sized photo maker. Make the best out of this tool!
 
 ![photoscape passport maker](https://images.wondershare.com/filmora/article-images/2022/free-passport-photo-maker-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. [ID Photo Creator](https://id-photo-creator.en.softonic.com/)
 
@@ -185,20 +194,19 @@ The discussion has revolved around the best passport size photo maker tools in t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-best-youtube-video-reverser-online/"><u>[New] 2024 Approved Best YouTube Video Reverser Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-how-to-download-twitter-videos-to-your-android-phone/"><u>2024 Approved How to Download Twitter Videos to Your Android Phone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-upgraded-audio-methods-for-video-enhancement-the-current-state-of-practice/"><u>2024 Approved Upgraded Audio Methods for Video Enhancement The Current State of Practice</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oneplus-12r-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of OnePlus 12R? Try These Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-grow-youtube-subscriber-for-2024/"><u>How to Grow Youtube Subscriber for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-accessing-zoom-directly-from-google-mail-interface/"><u>In 2024, Accessing Zoom Directly From Google Mail Interface</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>In 2024, Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722888990859-inside-sonys-state-of-play-new-gadgets-games-and-industry-forecasts-revealed/"><u>Inside Sony's State of Play : New Gadgets, Games, and Industry Forecasts Revealed</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/is-the-xbox-live-service-currently-operational/"><u>Is the Xbox Live Service Currently Operational?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimizing-your-chromebooks-zoom-capabilities/"><u>Optimizing Your Chromebook's Zoom Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionary-modifications-elevate-your-computer-experience/"><u>Revolutionary Modifications Elevate Your Computer Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-green-screen-expertise-with-kinemaster-for-2024/"><u>The Ultimate Guide to Green Screen Expertise with Kinemaster for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-mobile-vr-headsets/"><u>Top 10 Mobile VR Headsets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-5-best-monitors-for-ps5/"><u>Top 5 Best Monitors for Ps5</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-5-budget-friendly-pinterest-video-grabs/"><u>Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-revealing-hidden-group-media-on-messenger-app/"><u>[Updated] Revealing Hidden Group Media on Messenger App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-fixing-common-issues-how-to-resolve-dvd-playback-problems-in-vlc-across-pc-mac-and-linux-systems/"><u>1. Fixing Common Issues: How to Resolve DVD Playback Problems in VLC Across PC, Mac & Linux Systems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-building-a-stylish-tiktok-closing-credits-bar/"><u>2024 Approved Building A Stylish TikTok Closing Credits Bar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-reactivate-a-frozen-chatgpt-on-iphones/"><u>How to Reactivate a Frozen ChatGPT on iPhones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-engaging-podcast-summaries-techniques-and-examples/"><u>In 2024, Crafting Engaging Podcast Summaries Techniques & Examples</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 11 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphones-quintet-of-premier-podcast-tools/"><u>IPhone's Quintet of Premier Podcast Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-windows-instant-image-viewer/"><u>Pinnacle Window's Instant Image Viewer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proven-techniques-to-swarm-thousands-of-videos-from-tiktok/"><u>Proven Techniques to Swarm Thousands of Videos From TikTok</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sony-xbr65x850f-65-inch-4k-tv-quality-and-price-that-wont-break-the-bank/"><u>Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sweet-slumber-scenes-video-critique/"><u>Sweet Slumber Scenes Video Critique</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-sony-fdr-x1000v-recording-analysis/"><u>Ultimate Sony FDR-X1000V Recording Analysis</u></a></li>
 </ul></div>
 

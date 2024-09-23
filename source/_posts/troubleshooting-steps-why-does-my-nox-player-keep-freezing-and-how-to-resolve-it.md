@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Does My Nox Player Keep Freezing and How to Resolve It?"
-date: 2024-09-12T08:17:34.811Z
-updated: 2024-09-17T06:49:39.628Z
+date: 2024-09-18T09:40:25.712Z
+updated: 2024-09-22T20:28:08.694Z
 tags:
   - win11
   - win10
@@ -55,9 +55,23 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -88,10 +102,16 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
@@ -101,10 +121,16 @@ See if this issue reappears. If not, you have fixed this issue.
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
@@ -122,28 +148,15 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -177,6 +190,13 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -199,16 +219,24 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-comprehensive-update-best-android-apps-for-downloading-facebook-videos/"><u>[New] In 2024, Comprehensive Update Best Android Apps for Downloading Facebook Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>[New] Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimizing-remote-team-meetings-with-skype-screen-sharing/"><u>2024 Approved Optimizing Remote Team Meetings with Skype Screen Sharing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adobe-memefixer-a-humorous-journey/"><u>In 2024, Adobe Memefixer A Humorous Journey</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-top-16-best-free-video-players-for-pc/"><u>In 2024, Top 16 Best Free Video Players for PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-listings-where-to-download-snappy-tones-directly/"><u>Premium Listings Where to Download Snappy Tones Directly</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-tier-visual-vaulting-services/"><u>Top-Tier Visual Vaulting Services</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-optimal-methods-to-source-stock-photography-and-visuals/"><u>[New] 2024 Approved Optimal Methods to Source Stock Photography and Visuals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-video-growth-booster-top-seo-tools-uncovered/"><u>[New] 2024 Approved Video Growth Booster – Top SEO Tools Uncovered</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-vivid-vistas-in-video-a-closer-look-at-lgs-monitor-31mu97-b/"><u>[New] 2024 Approved Vivid Vistas in Video A Closer Look at LG's Monitor, 31MU97-B</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-achieving-perfect-fisheye-sphere-shots/"><u>[Updated] Achieving Perfect Fisheye Sphere Shots</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-cinematic-content-with-video-enhance-v22/"><u>[Updated] Crafting Cinematic Content with Video Enhance V2.2</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-swiftly-craft-custom-thumbnails-for-youtube-shorts-with-these-hacks/"><u>[Updated] Swiftly Craft Custom Thumbnails for YouTube Shorts with These Hacks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-diving-into-the-world-of-instagrams-reels-and-stories/"><u>2024 Approved Diving Into the World of Instagram's Reels & Stories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-lg-24lh4830-led-television-great-value-without-compromise/"><u>Affordable LG 24LH4830 LED Television - Great Value Without Compromise</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amd-elevates-revenue-outlook-for-instinct-mi130-series-to-4-billion-dollars-how-it-measures-against-nvidias-whopping-40-billion-forecast/"><u>AMD Elevates Revenue Outlook for Instinct MI130# Series to 4 Billion Dollars: How It Measures Against Nvidia's Whopping $40 Billion Forecast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-how-to-access-c-span-archives/"><u>Decoding How to Access C-Span Archives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/41272535-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>Get Your Hand on the Latest 50 YouTube Promo Banners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-e-commerce-advancements/"><u>Immersive E-Commerce Advancements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-illusions-how-vr-transforms-media-consumption/"><u>Immersive Illusions How VR Transforms Media Consumption</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-7-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 7 Plus Without a Passcode</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-aiseesofts-capture-tech-screen-recording-basics-for-2024/"><u>Mastering Aiseesoft's Capture Tech Screen Recording Basics for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-pfr-rate-for-easy-going-footage/"><u>Premium PFR Rate for Easy-Going Footage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shades-and-tints-in-action-practical-application/"><u>Shades & Tints in Action Practical Application</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-htc-u23-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to HTC U23 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/what-makes-vegaspro-2019-stand-out-an-examination/"><u>What Makes VegasPro 2019 Stand Out? An Examination</u></a></li>
 </ul></div>
 

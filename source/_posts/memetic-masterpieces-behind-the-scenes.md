@@ -1,7 +1,7 @@
 ---
 title: "\"Memetic Masterpieces  Behind the Scenes\""
-date: 2024-09-09T18:06:04.703Z
-updated: 2024-09-16T23:41:56.948Z
+date: 2024-09-18T19:54:35.845Z
+updated: 2024-09-23T08:56:15.572Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,13 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
@@ -66,7 +73,21 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part3: I Bet He's Thinking About Other Women
 
@@ -92,24 +113,25 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
-Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
-
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
@@ -119,19 +141,19 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
 
 * Others use the meme as a reaction to when your relatives visit. The captions indicate your parent informing you that your uncle and aunt are visiting and they have brought presents.
 * A Reddit post by Poonswoggle from April 2020 received 36,500 points within three months. In this version, the user references his struggle with sleeping because of repressed memories.
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part5: FAQs
 
@@ -140,13 +162,6 @@ The photo is available on most stock photo websites, such as Adobe and Tumblr. F
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Does copyright law protect memes?
 
@@ -188,21 +203,16 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-your-videos-final-impression/"><u>[New] In 2024, Enhancing Your Video's Final Impression</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-whatsapp-calls-on-your-phone-for-2024/"><u>[New] The Ultimate Guide to WhatsApp Calls on Your Phone for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-endless-entertainment-loop-youtube-content-on-tv/"><u>[Updated] 2024 Approved Endless Entertainment Loop YouTube Content on TV</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-brief-cinematic-story-outline/"><u>[Updated] Brief Cinematic Story Outline</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premier-nintendo-switch-fighting-apps-list-max-156/"><u>[Updated] In 2024, Premier Nintendo Switch Fighting Apps List (Max 156)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-through-historical-twitter-data/"><u>2024 Approved Navigating Through Historical Twitter Data</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-huawei-p60-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Huawei P60 FRP</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-deep-dive-into-metaverse-gear-top-8-recommendations/"><u>In 2024, A Deep Dive Into Metaverse Gear Top 8 Recommendations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-quick-fixes-top-5-no-download-online-gif-to-video-convertors/"><u>In 2024, Best Quick Fixes Top 5 No-Download, Online GIF to Video Convertors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-android-a-guide-to-navigating-your-devices-quick-settings/"><u>Mastering Android: A Guide to Navigating Your Device's Quick Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-macos-a-comprehensive-walkthrough-to-refresh-your-wifi-and-bluetooth/"><u>Mastering macOS: A Comprehensive Walkthrough to Refresh Your WiFi & Bluetooth 🏆💻</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-decreasing-decibents-a-guide-to-fading-out-sounds/"><u>Mastering the Art of Decreasing Decibents A Guide to Fading Out Sounds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/maximize-video-excellence-easily-with-winxvideo-ai-discover-how-now/"><u>Maximize Video Excellence Easily with Winxvideo AI - Discover How Now!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/precision-and-efficiency-incorporating-luts-in-after-effects/"><u>Precision and Efficiency Incorporating LUTs in After Effects</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sound-on-a-shoestring-unpacking-the-oneplus-buds/"><u>Sound on a Shoestring - Unpacking the OnePlus Buds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/try-these-free-online-tempo-trackers-today/"><u>Try These FREE Online Tempo Trackers Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-seamless-creation-with-xp-movie-maker-features-for-2024/"><u>[New] Seamless Creation with XP Movie Maker Features for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapperview-4-review-synopsis-for-2024/"><u>[New] SnapperView 4 Review Synopsis for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-sound-solution-for-twitters-video-content/"><u>[New] The Sound Solution for Twitter's Video Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-apk-gaming-revolution-welcome-funimate-pro-android-edition/"><u>[Updated] APK Gaming Revolution Welcome Funimate Pro Android Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-trick-automated-audiences-into-authentic-engagement-for-2024/"><u>[Updated] Trick Automated Audiences Into Authentic Engagement for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/1726223030613-aiffm4a-movavi/"><u>「無償で簡単なAIFFからM4Aへのオンラインフォーマット変換 - Movavi」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lg-bp550s-breakthrough-the-2023-technology-sprint/"><u>LG BP550's Breakthrough The 2023 Technology Sprint</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-edits-navigating-psxs-eraser-feature/"><u>Perfect Edits Navigating PSX's Eraser Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-p3s-pc-game-crashes-no-more/"><u>Resolved: P3S PC Game Crashes No More</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-journey-of-drones-from-current-uses-to-future-applications/"><u>The Journey of Drones From Current Uses to Future Applications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-google-pixel-7a-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Google Pixel 7a Device</u></a></li>
 </ul></div>
 
