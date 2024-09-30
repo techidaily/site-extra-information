@@ -131,63 +131,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-step-by-step-igtv-translation-guide/"><u>[New] In 2024, A Step-By-Step IGTV Translation Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smart-techniques-to-curve-and-sculpt-pixels/"><u>[New] Smart Techniques to Curve and Sculpt Pixels</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-xbox-fanatics-manual-perfect-your-screenshot-skills/"><u>[New] Xbox Fanatics' Manual  Perfect Your Screenshot Skills</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-portable-balance-enhancer-for-shooting-blurs/"><u>[Updated] 2024 Approved  Portable Balance Enhancer for Shooting Blurs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-5-groundbreaking-advice-points-from-successful-marketers-online/"><u>[Updated] 5 Groundbreaking Advice Points From Successful Marketers Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-5-prized-mac-compatible-live-streamers/"><u>[Updated] 5 Prized Mac-Compatible Live Streamers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-8-hit-virtual-reality-titles-for-oculus-enthusiasts/"><u>[Updated] 8 Hit Virtual Reality Titles for Oculus Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-achieving-professional-editing-without-the-price-tag/"><u>[Updated] Achieving Professional Editing Without the Price Tag</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-balancing-frameworks-for-engaging-visual-media/"><u>[Updated] Balancing Frameworks for Engaging Visual Media</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-complete-critique-unmasking-the-bublcam-360-experience/"><u>[Updated] Complete Critique  Unmasking the Bublcam 360 Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-sierras-icloud-drives-the-full-experience/"><u>[Updated] Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>[Updated] Fast-Forward Freedom in Snapchat  A Noob’s Handbook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-live-webcam-broadcast-the-power-of-vlc-technology-for-2024/"><u>[Updated] Live Webcam Broadcast  The Power of VLC Technology for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximize-inshot-usage-import-feature-walkthrough/"><u>[Updated] Maximize InShot Usage  Import Feature Walkthrough</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-hashtag-performance-on-facebook-ads-for-2024/"><u>[Updated] Optimizing Hashtag Performance on Facebook Ads for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tricks-for-non-engagement-with-edgenuity-video-content/"><u>[Updated] Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-simple-android-recording-without-rooting-steps/"><u>2024 Approved  Simple Android Recording Without Rooting Steps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/androids-enhanced-vr-video-viewing-in-the-modern-age-for-2024/"><u>Android's Enhanced VR Video Viewing in the Modern Age for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-5-rapid-setup-techniques-for-home-cinematography/"><u>Best 5 Rapid Setup Techniques for Home Cinematography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-8-streamers-pick-high-end-cameras-reviewed-for-2024/"><u>Best 8 Streamer's Pick  High-End Cameras Reviewed for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/brilliance-on-screen-an-examination-of-hps-4k-z32x/"><u>Brilliance on Screen  An Examination of HP’s 4K Z32X</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dji-spark-review-best-mini-drone-with-gesture-control-for-taking-selfie/"><u>DJI Spark Review  Best Mini Drone with Gesture Control for Taking Selfie</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enthralling-thesis-fabricator/"><u>Enthralling Thesis Fabricator</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-stop-motion-movies-you-cant-miss/"><u>Essential Stop-Motion Movies You Can't Miss</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harmonizing-sights-with-itunes-acoustics/"><u>Harmonizing Sights with iTunes Acoustics</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-edge-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Motorola Edge 2023 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-12-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 12 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-unlock-full-potential-with-iphone-hdr/"><u>How to Unlock Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-watch-instagram-live-anonymously/"><u>How to Watch Instagram Live Anonymously</u></a></li>
-<li><a href="https://extra-information.techidaily.com/implementing-exact-timestamp-features-for-youtube/"><u>Implementing Exact Timestamp Features for YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-of-breed-pages-for-sparkling-3d-text/"><u>In 2024, Best of Breed Pages for Sparkling 3D Text</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-budget-drone-selection-the-ultimate-list-for-(100/"><u>In 2024, Budget Drone Selection  The Ultimate List for <$100</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-how-to-create-and-merge-stunning-hdr-images-in-lightroom/"><u>In 2024, How to Create and Merge Stunning HDR Images in Lightroom</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-professional-video-grabber-for-win10-pcs/"><u>In 2024, Professional Video Grabber for Win10 PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lace-footage-with-music-using-premiere-pro/"><u>Lace Footage with Music Using Premiere Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-faces-incorporating-motion-blur-in-photos-with-picsart/"><u>Mastering Faces  Incorporating Motion Blur in Photos with Picsart</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-video-capture-the-premier-18-cameras-for-professionals/"><u>Mastering Video Capture  The Premier 18 Cameras for Professionals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-audio-imports-with-the-inshot-app/"><u>Navigating Audio Imports with the InShot App</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-complexities-of-gesture-recognition/"><u>Navigating the Complexities of Gesture Recognition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/preserving-your-periscope-content-a-detailed-process/"><u>Preserving Your Periscope Content  A Detailed Process</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/quickscreen-freeze-methods-manual/"><u>QuickScreen Freeze Methods Manual</u></a></li>
-<li><a href="https://extra-information.techidaily.com/shattering-limits-of-visuals-standard-definition-to-hdr-revolution/"><u>Shattering Limits of Visuals  Standard Definition to HDR Revolution</u></a></li>
-<li><a href="https://extra-information.techidaily.com/standout-moments-of-snowspeedcross-22/"><u>Standout Moments of Snowspeedcross '22</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-breakthrough-of-intova-x-in-action-camera-tech/"><u>The Breakthrough of Intova X in Action Camera Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-editors-arsenal-advanced-techniques-in-chromatic-tuning/"><u>The Editor's Arsenal  Advanced Techniques in Chromatic Tuning</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-blueprint-for-configuring-a-zoom-space/"><u>The Essential Blueprint for Configuring a Zoom Space</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-pinnacle-of-tablet-drawing-best-8-for-ipados/"><u>The Pinnacle of Tablet Drawing  Best 8 for iPadOS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-15-tips-for-accessing-nba-games-online/"><u>Top 15 Tips for Accessing NBA Games Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-5-sites-to-download-text-effects/"><u>Top 5 Sites to Download Text Effects</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-digital-depositories-customized-alert-sounds/"><u>Top Digital Depositories  Customized Alert Sounds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-idevice-video-recording-guide/"><u>Ultimate iDevice Video Recording Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Tecno Spark 10 4G? | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
