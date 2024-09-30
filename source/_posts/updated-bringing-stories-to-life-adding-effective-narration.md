@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Bringing Stories to Life  Adding Effective Narration\""
-date: 2024-09-19T22:52:53.935Z
-updated: 2024-09-23T08:25:03.784Z
+date: 2024-09-27T19:12:04.880Z
+updated: 2024-09-29T23:37:00.604Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ So the easiest way to add narration is directly to a project. The benefit of thi
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
@@ -64,10 +64,10 @@ You put the playhead where you want to start recording and hit the microphone ic
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -95,10 +95,10 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Always use a good mic
@@ -110,10 +110,10 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
@@ -152,5 +152,22 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-apples-pride-ios-10-best-no-cost-collages-and-photo-edits/"><u>[New] Apple's Pride IOS' 10 Best No-Cost Collages & Photo Edits</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>[New] In 2024, SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-dell-p2715q-4k-monitor-review/"><u>[Updated] Dell P2715Q 4K Monitor Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-numbers-youtube-earnings-and-cpm-insights/"><u>[Updated] Navigating the Numbers YouTube Earnings & CPM Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-professionals-primer-to-perfecting-picture-colors/"><u>2024 Approved A Professional's Primer to Perfecting Picture Colors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-tactic-fusing-gopro-footage-into-a-unified-360-video-experience/"><u>2024 Approved Ideal Tactic Fusing GoPro Footage Into a Unified 360 Video Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-video-editing-mystery-imovies-automatic-cropping-puzzle/"><u>2024 Approved Video Editing Mystery IMovie's Automatic Cropping Puzzle</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/m4rogg-movavi/"><u>快速在線M4R/OGG間轉換，網路上免費服務 - Movavi音頻變更器</u></a></li>
+<li><a href="https://win-dash.techidaily.com/anime-downloads-made-easy-top-3-methods-to-save-episodes-from-watchcartoononline/"><u>Anime Downloads Made Easy: Top 3 Methods to Save Episodes From WatchCartoonOnline</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-top-sd-cards-with-gopro-hero-cameras-for-2024/"><u>Comprehensive Guide to Top SD Cards with GoPro HERO Cameras for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-your-own-story-10-best-cost-free-ios-photo-collage-tools-for-2024/"><u>Craft Your Own Story 10 Best, Cost-Free iOS Photo Collage Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-photos-with-effective-blurs/"><u>Elevate Your Photos with Effective Blurs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-truth-behind-aurora-hdr-image-clarity/"><u>The Truth Behind Aurora HDR Image Clarity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-differences-samsungs-newest-beast-vs-its-predecessor-the-s21-ultra/"><u>Unveiling the Differences: Samsung's Newest Beast Vs. Its Predecessor, The S21 Ultra</u></a></li>
+</ul></div>
 
