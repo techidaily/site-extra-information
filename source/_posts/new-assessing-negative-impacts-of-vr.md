@@ -1,7 +1,7 @@
 ---
 title: "[New] Assessing Negative Impacts of VR"
-date: 2024-08-20T02:46:03.218Z
-updated: 2024-08-21T02:46:03.218Z
+date: 2024-09-29T08:30:54.262Z
+updated: 2024-10-05T02:31:53.274Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
  Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Low resoultion content, large file size
 
  The new goggles or headsets that are coming out offer best available high resolution displays. But gaming experience is coming on at low resolution, leaving you with a low resolution experience. Below is a greatly condensed technical discussion explaining why VR is still so profoundly mediocre.
@@ -57,27 +64,37 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -85,3 +102,19 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-smartphone-cinematography-crafting-perfect-youtube-thumbnails/"><u>[New] 2024 Approved Smartphone Cinematography Crafting Perfect YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastery-in-minimalism-essential-thumbnail-font-selection/"><u>[New] In 2024, Mastery in Minimalism Essential Thumbnail Font Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-best-practices-navigating-through-top-9-free-logo-creators/"><u>[Updated] 2024 Approved Decoding Best Practices Navigating Through Top 9 Free Logo Creators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-quick-diy-moviemaking-secrets-unveiled/"><u>10 Quick DIY Moviemaking Secrets Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-slug-lines-a-step-by-step-approach-for-2024/"><u>Crafting Compelling Slug Lines A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experience-gptclone-at-home-for-free-on-windows/"><u>Experience GPTClone at Home for FREE on Windows!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breakdown-of-essential-features-in-movie-maker-for-windows-8/"><u>In 2024, Breakdown of Essential Features in Movie Maker for Windows 8</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-enriched-minecraft-experience-via-ram-expansion/"><u>In 2024, Enriched Minecraft Experience via RAM Expansion</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-pairing-airpods-to-windows-devices/"><u>Step-by-Step: Pairing AirPods to Windows Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-resource-compilation-for-media-imagery/"><u>Ultimate Resource Compilation for Media Imagery</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-ways-to-weed-out-windows-11s-waits-and-delays/"><u>Winning Ways to Weed Out Windows 11'S Waits and Delays</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Inside Hand Tracking  Techniques & Varieties\""
-date: 2024-09-29T01:44:55.347Z
-updated: 2024-09-29T20:40:57.832Z
+date: 2024-10-03T19:13:51.728Z
+updated: 2024-10-04T22:48:23.970Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
@@ -106,22 +113,15 @@ Click the **“New Project”** option and select **“Create”** on the next W
 
 ![install and launch the pycharm app on your pc](https://images.wondershare.com/filmora/article-images/2022/07/install-and-launch-the-pycharm-app-on-your-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
 ![copy and paste command to install opencv](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now, to install **MediaPipe**, copy and paste the following command:
@@ -152,6 +152,13 @@ Now, create a class for tracking and for the hands function to work, key in the 
 
 ![working with both hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Creating Method For Tracking Hands In Input Image
 
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
@@ -172,13 +179,6 @@ Now, write the below dummy code to showcase what the module can do, i.e., identi
 
 ![](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step7 Main Method Execution
 
 To execute the main method, copy and paste the following code lines:
@@ -188,13 +188,6 @@ To execute the main method, copy and paste the following code lines:
 ##### Step8 Result
 
 The module and output of the program will be the same, and when they are complete without any errors, you will get your output, i.e., the module will track and identify your hand movements without any glitches.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Use Filmora to demonstarte your Hand Tracking skill
 
@@ -207,13 +200,6 @@ Learn more about Filmora:
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -238,23 +224,9 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tracking With Interface
 
@@ -274,18 +246,18 @@ Optical motion capture systems emit infrared light from the camera. The markers 
 
 The more cameras used, the more accurate the results. While this technology is very precise, it can be limited by factors such as body position and movement.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tracking Without Interface
 
 Also known as Markerless Hand Tracking, this type of Hand Tracking allows users to track their hand movements without the need for any external markers or data gloves, meaning more spontaneous interaction and freedom of movement. This could hugely impact everything from gaming to virtual reality to human-computer interaction.
 
 Right now, markerless Hand Tracking is still in its early stages, with a few limitations. However, as this technology continues to develop, we will likely see more and more applications for it in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Using Python, OpenCV, And MediaPipe To Create A Hand Tracking
 
@@ -307,6 +279,13 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 2. **Hand Landmarks Identification**: In the second stage, the framework works with the cropped image of the hand to find 21 hand landmarks.
 
 ![20 hand landmarks for identifiction – hand tracking](https://images.wondershare.com/filmora/article-images/2022/07/20-hand-landmarks-for-identifiction-hand-tracking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Guidance With Steps
 
@@ -342,6 +321,13 @@ Copy and paste the following line of code to take the image input from your PC w
 
 ![capturing and processing an image input](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The image is converted to RGB from BGR because MediaPipe works with this type of image. The RBG image is then processed to track the hand.
 
 ##### Step3 Working With Both Hands
@@ -370,6 +356,13 @@ Now, write the below dummy code to showcase what the module can do, i.e., identi
 
 ![](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step7 Main Method Execution
 
 To execute the main method, copy and paste the following code lines:
@@ -391,6 +384,19 @@ Learn more about Filmora:
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -422,18 +428,19 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-5-strategies-for-avoiding-vr-nausea/"><u>[New] 5 Strategies for Avoiding VR Nausea</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-perfect-lines-in-digital-imagery/"><u>[New] Crafting Perfect Lines in Digital Imagery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-blocking-of-pop-ups-on-chrome-firefox-and-edge-a-step-by-step-guide/"><u>Effortless Blocking of Pop-Ups on Chrome, Firefox & Edge: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guida-rapida-per-la-conversione-avchd-m2ts-a-mp4-senza-compromettere-la-qualita-i-top-5-metodi/"><u>Guida Rapida per La Conversione AVCHD M2TS a MP4 Senza Compromettere La Qualità: I Top 5 Metodi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-the-thrill-choosing-superior-cam-accessories/"><u>In 2024, Capture the Thrill Choosing Superior Cam Accessories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-holistic-motion-analysis-2023/"><u>In 2024, Holistic Motion Analysis 2023</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-itel-a70-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Itel A70 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/jumpstart-connections-winning-tinder-bios-at-a-glance/"><u>Jumpstart Connections Winning Tinder Bios at a Glance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-immersive-video-expert-techniques-to-enhance-your-360-edits-in-premierepro-for-2024/"><u>Mastering Immersive Video Expert Techniques to Enhance Your 360° Edits in PremierePro for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-fcp-freebies/"><u>The Ultimate Guide to FCP Freebies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-choosing-the-best-m4a-file-players-on-desktops-and-mobile-devices/"><u>Ultimate Guide: Choosing the Best M4A File Players on Desktops & Mobile Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/vive-review-step-into-the-next-dimension/"><u>Vive Review Step Into the Next Dimension</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-8-premium-open-source-videoconferencing-platforms/"><u>[New] Exploring 8 Premium Open-Source Videoconferencing Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-online-shopping-picks-for-one-of-a-kind-box-packaging/"><u>[New] Perfect Online Shopping Picks for One-of-a-Kind Box Packaging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-anonymity-in-action-insta-stories-guide/"><u>[Updated] 2024 Approved Anonymity in Action Insta Stories Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-real-time-viewership-counter-systems/"><u>[Updated] Real-Time Viewership Counter Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-beginning-your-blog-journey-for-financial-gain/"><u>2024 Approved Beginning Your Blog Journey for Financial Gain</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-detailed-look-at-chatgpt-vs-huggingchat-who-wins-in-natural-language-processing/"><u>A Detailed Look at ChatGPT Vs. HuggingChat - Who Wins in Natural Language Processing?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-samsung-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Samsung Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-nord-n30-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus Nord N30 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-your-memories-online-diverse-cost-effective-cloud-storage-choices/"><u>Master Your Memories Online Diverse, Cost-Effective Cloud Storage Choices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-video-enhancement-from-sdr-basics-to-hdr-excellence/"><u>Mastering the Art of Video Enhancement From SDR Basics to HDR Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/recipe-reels-reimagined-the-top-7-edible-videography-secrets/"><u>Recipe Reels Reimagined The Top 7 Edible Videography Secrets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/setting-and-changing-personalized-iphone-tones/"><u>Setting & Changing Personalized iPhone Tones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-complete-ipad-faceoff-detailed-specs-and-value-assessment/"><u>The Complete iPad Faceoff: Detailed Specs and Value Assessment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-future-of-audio-srt-in-mp4-video-files/"><u>The Future of Audio SRT in MP4 Video Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone & Samsung Faces  Examining Their Biometric Security\""
-date: 2024-08-20T02:44:28.313Z
-updated: 2024-08-21T02:44:28.313Z
+date: 2024-09-28T11:08:57.658Z
+updated: 2024-10-05T11:00:06.630Z
 tags: 
   - screen-recording
   - ai video
@@ -56,8 +56,19 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -69,12 +80,12 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -85,32 +96,34 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,3 +131,24 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-time-rewind-mastery-in-media-refreshes/"><u>[New] 2024 Approved YouTube Time Rewind Mastery in Media Refreshes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-navigating-the-nuances-of-twitters-video-policies/"><u>[Updated] Navigating the Nuances of Twitter's Video Policies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-restore-missing-watch-artwork-for-2024/"><u>[Updated] Restore Missing Watch Artwork for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audience-grade-sound-recording-with-audacity/"><u>2024 Approved Audience-Grade Sound Recording with Audacity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-your-ride-top-5-action-camera-headsets-reviewed-for-23-motorcyclists-for-2024/"><u>Capture Your Ride – Top 5 Action Camera Headsets Reviewed for '23 Motorcyclists for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-and-explore-top-wins11-apps-and-games-guide/"><u>Elevate and Explore Top Wins11 Apps & Games Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-achieve-premium-picture-standards-without-paying/"><u>How to Achieve Premium Picture Standards Without Paying</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-shun-crossplay-in-apex-legends-your-guide-to-platform-choices/"><u>How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adjusting-settings-stop-automatic-additions-of-podcast-listings/"><u>In 2024, Adjusting Settings Stop Automatic Additions of Podcast Listings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-video-titling-solutions-online-now/"><u>In 2024, Best Video Titling Solutions Online Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/industrys-heavyweight-champions-drones-of-the-year/"><u>Industry's Heavyweight Champions - Drones of the Year</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/instagrams-picture-perfect-upload-techniques-unveiled/"><u>Instagram's Picture Perfect Upload Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/overclocking-and-modding-guide-enhancing-intel-core-i7-7700k-with-a-de-lidded-design/"><u>Overclocking & Modding Guide: Enhancing Intel Core I7-7700K with a De-Lidded Design</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-photo-edits-a-newcomers-guide-to-lunapic/"><u>The Art of Photo Edits A Newcomer’s Guide to LunaPic</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-13-pro-max-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 13 Pro Max Activation Lock</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unveiling-the-brydge-sp-max-plus-a-rugged-durable-case-and-keyboard-set-for-your-surface-pro-8-expert-evaluation-by-zdnet/"><u>Unveiling the Brydge SP Max Plus: A Rugged, Durable Case and Keyboard Set for Your Surface Pro 8 – Expert Evaluation by ZDNET</u></a></li>
+</ul></div>
+

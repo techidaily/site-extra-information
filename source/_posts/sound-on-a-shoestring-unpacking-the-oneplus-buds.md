@@ -1,7 +1,7 @@
 ---
 title: Sound on a Shoestring - Unpacking the OnePlus Buds
-date: 2024-08-26T18:05:06.364Z
-updated: 2024-08-27T18:05:06.364Z
+date: 2024-10-04T13:39:39.155Z
+updated: 2024-10-05T08:55:18.015Z
 categories:
   - BestProducts
 description: This Article Describes Sound on a Shoestring - Unpacking the OnePlus Buds
@@ -40,9 +40,23 @@ Alice Newcome-Beill / Lifewire
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iBuypower Custom Gaming PC
 
 ![iBUYPOWER Custom Gaming Computer](https://www.lifewire.com/thmb/zGBwMEee1S55WR87btZ_tU8wl7c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gygabyte_GEFORCE_RTX_HeroHoriz-db8d12900c4449e9b8aab6999b42372c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Alice Newcome-Beill / Lifewire
 
@@ -91,9 +105,6 @@ Alice Newcome-Beill / Lifewire
 
 ![iBUYPOWER Custom Gaming Computer](https://www.lifewire.com/thmb/a_jBkcPEBjyyGVwoIDCwmSWQgdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gygabyte_GEFORCE_RTX_03-efdbffee4fd8432e9bec6bbbb704b7b0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Alice Newcome-Beill / Lifewire
 
  Using the iBuypower Discord technical support channel, I mentioned that our display wouldn't turn on (the display cable was plugged into the wrong outlet). Thankfully, their support ran us through a quick troubleshoot of our problem and were able to resolve the issue quickly without the need to return our system. Being able to quickly discern simple problems pay real dividends when purchasing these systems for anyone that doesn't necessarily have a technical aptitude for PCs.
@@ -102,11 +113,15 @@ Alice Newcome-Beill / Lifewire
 
 ![iBUYPOWER Custom Gaming Computer](https://www.lifewire.com/thmb/OjE0wWcluyf52Y5uf0S9JXM3qFM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gygabyte_GEFORCE_RTX_04-c215a663f64e420293eec8c248103a70.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Alice Newcome-Beill / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Design: More bounce for the ounce
 
  The matte black metallic case from NZXT is about as simple as they come, but what it lacks in aesthetics, it more than makes up for in usability. It features cable routing channels throughout the back panel, complete with Velcro straps and loops for tying down bundles of cables. The system builder put those to good use as there was very little in the way of loose cables when I opened the back panel.
@@ -121,10 +136,20 @@ Alice Newcome-Beill / Lifewire
 
 ![iBUYPOWER Custom Gaming Computer](https://www.lifewire.com/thmb/-qQXXO0Uc5XYVpt1sO3ttNAdVJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gygabyte_GEFORCE_RTX_04-fd15f80f7470451ab0d982aa7cb271c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Alice Newcome-Beill / Lifewire
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance: UFOs and Big Rigs
 
@@ -185,8 +210,12 @@ Alice Newcome-Beill / Lifewire
 ![iBUYPOWER Custom Gaming Computer](https://www.lifewire.com/thmb/ZNgdquPbxQTjbSdNS2MbGVdghT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gygabyte_GEFORCE_RTX_05-9982bf92d93746189e3b4fe68526bea0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Alice Newcome-Beill / Lifewire
 
  Using iBuypower for your next PC build is an excellent value. While it isn't the most efficient way to shop for parts from a perspective of cost, it is at present the only way to get a tailor-made PC with higher-end components like AMD Zen 3 CPUs and Nvidia 30-series graphics cards. The value becomes even more apparent if you happen to lack the technical knowledge to build or service a gaming PC yourself.
@@ -195,15 +224,8 @@ Alice Newcome-Beill / Lifewire
 
 ![iBUYPOWER Custom Gaming Computer](https://www.lifewire.com/thmb/XsZgaXVB9SDRHMcbxxsp6J7gXf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gygabyte_GEFORCE_RTX_06-9155c02250094bd1b2655f035149ab8e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Alice Newcome-Beill / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## iBuypower vs. Dell Alienware Aurora R11
 
  For comparison, I’m stacking this build up against one of our top picks for gaming PCs, the Dell Alienware R11\. The R11, costs about $1,000 less, and you likely won't need several weeks of lead time to have your system shipped, and you can typically buy multiple models right off the shelf. Perhaps more importantly, Alienware has updated the GPUs on all its current configurations to include Nvidia 30-series GPUs. So if that's all you're after, an Alienware R11 configuration likely represents a smarter investment.
@@ -238,14 +260,11 @@ Alice Newcome-Beill / Lifewire
 * Video Card Memory  24GB
 * WiFi  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -254,4 +273,17 @@ Alice Newcome-Beill / Lifewire
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unlocking-vrecorders-potential-quick-download-and-install/"><u>[New] 2024 Approved Unlocking VRecorder's Potential Quick Download & Install</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-power-up-revenue-choose-the-best-15-facebook-insights-for-sale-boosting/"><u>[Updated] 2024 Approved Power Up Revenue Choose the Best 15 Facebook Insights for Sale Boosting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cinematic-clarity-hub-query-responses/"><u>[Updated] Cinematic Clarity Hub Query Responses</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-editors-for-diy-dji-film-production-at-home/"><u>2024 Approved Best Editors for DIY DJi Film Production at Home</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginners-guide-to-av1-codec-for-2024/"><u>Beginner's Guide to AV1 Codec for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decreasing-cpu-impact-from-ntoskrnlexe/"><u>Decreasing CPU Impact From Ntoskrnl.exe</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-chimes-discover-the-top-tone-websites/"><u>Digital Chimes Discover the Top Tone Websites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-cut-off-youtube-shorts-link-for-2024/"><u>Step-by-Step Guide Cut Off YouTube Shorts Link for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/watch-over-instagrams-friendship-shifts/"><u>Watch Over Instagram's Friendship Shifts</u></a></li>
+</ul></div>
 

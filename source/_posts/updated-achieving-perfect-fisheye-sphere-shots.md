@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Achieving Perfect Fisheye Sphere Shots"
-date: 2024-08-26T18:06:47.732Z
-updated: 2024-08-27T18:06:47.732Z
+date: 2024-10-04T08:45:03.414Z
+updated: 2024-10-04T18:25:06.117Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1. The equipment and setup
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
@@ -37,20 +50,25 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -71,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -85,9 +99,6 @@ The ultimate burning program for all your needs!</a>
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
@@ -95,15 +106,17 @@ The ultimate burning program for all your needs!</a>
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +124,21 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-identifying-high-impact-keywords-for-effective-youtube-marketing/"><u>[New] 2024 Approved Identifying High-Impact Keywords for Effective YouTube Marketing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-conquer-online-video-platforms-zooming-into-youtube-and-fb-lives/"><u>[New] Conquer Online Video Platforms Zooming Into YouTube & FB Lives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-compelling-podcast-imagery-fundamental-tips/"><u>[New] Crafting Compelling Podcast Imagery Fundamental Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-capturing-motion-canon-camera-time-lapse-basics/"><u>[Updated] In 2024, Capturing Motion Canon Camera Time-Lapse Basics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-top-ranked-no-cost-image-format-switchers-jpg-to-gif/"><u>10 Top-Ranked No-Cost Image Format Switchers (JPG to GIF)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-must-know-iphone-x-tricks-to-enhance-usage/"><u>2024 Approved 10 Must-Know iPhone X Tricks to Enhance Usage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-for-identifying-premier-free-srt-translation-services/"><u>Best Practices for Identifying Premier Free SRT Translation Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-dac-do-you-really-need-it/"><u>Demystifying DAC - Do You Really Need It?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-the-tech-behind-dji-phantom-3-professional/"><u>Discovering the Tech Behind DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/izing-content-visibility-premier-tracking-applications-for-youtubers-for-2024/"><u>Optimizing Content Visibility - Premier Tracking Applications for YouTubers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pexels-101-finding-the-picture-of-your-dreams/"><u>Pexels 101 Finding the Picture of Your Dreams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-dynamics-of-dialing-up-digital-devotees-for-2024/"><u>The Dynamics of Dialing Up Digital Devotees for 2024</u></a></li>
+</ul></div>
+

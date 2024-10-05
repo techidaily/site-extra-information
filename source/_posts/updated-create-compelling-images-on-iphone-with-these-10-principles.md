@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Create Compelling Images on iPhone with These 10 Principles"
-date: 2024-08-26T18:05:16.551Z
-updated: 2024-08-27T18:05:16.551Z
+date: 2024-10-01T16:42:50.691Z
+updated: 2024-10-05T13:11:13.220Z
 tags: 
   - screen-recording
   - ai video
@@ -40,9 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/VTUexka6iIHG1I1NxsbgjEnJGAg=/400x300/fi
 
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Symmetry
 
  For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
@@ -56,8 +53,12 @@ thumbnail: https://www.lifewire.com/thmb/VTUexka6iIHG1I1NxsbgjEnJGAg=/400x300/fi
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Diagonals
 
  Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
@@ -65,8 +66,19 @@ thumbnail: https://www.lifewire.com/thmb/VTUexka6iIHG1I1NxsbgjEnJGAg=/400x300/fi
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Shape
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
@@ -74,9 +86,12 @@ thumbnail: https://www.lifewire.com/thmb/VTUexka6iIHG1I1NxsbgjEnJGAg=/400x300/fi
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Leave Empty Space
 
  You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
@@ -84,8 +99,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Direction of Subject
 
  Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
@@ -99,11 +118,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
+
 ## Break the Rules
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
@@ -111,22 +131,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclsion
 
  Next time you are out to shoot something with your iPhone, try these photo composition rules and click mind blowing pictures. Though, these rules help you to get amazing iPhone pictures, learning to find the right subject and clicking with the right photo composition helps you more. With or without the rules, you have to keep a steady hand and a sharp eye for detail with patience if you want to click beautiful photographs with your iPhone.
@@ -135,16 +145,11 @@ Key features:
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -152,3 +157,23 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-15-best-ideas-to-post-on-snapchat/"><u>[New] 2024 Approved 15 Best Ideas To Post On Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-3-simple-methods-to-brighten-a-video-on-iphone/"><u>[New] 3 Simple Methods to Brighten a Video on iPhone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-champion-steadicams-for-uav-filmmaking-excellence/"><u>[New] Champion Steadicams for UAV Filmmaking Excellence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-android-advantage-5-unique-playlist-downloaders-reviewed/"><u>[Updated] Android Advantage 5 Unique Playlist Downloaders Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-demystifying-the-world-of-youtube-and-its-keywords-for-2024/"><u>[Updated] Demystifying the World of YouTube and Its Keywords for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-effortless-fusion-of-youtube-videos-with-flv-format/"><u>[Updated] Effortless Fusion of YouTube Videos with FlV Format</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-aeropixel-remastering-toolkit-windowsmac/"><u>2024 Approved AeroPixel Remastering Toolkit (Windows/Mac)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-infusing-emotion-into-documentary-narratives/"><u>2024 Approved Infusing Emotion Into Documentary Narratives</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-waht-is-ai-pixel-art-generator-wondershare-virbo-glossary/"><u>2024 Approved Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-technical-dive-into-gesture-and-movement-sensors/"><u>A Technical Dive Into Gesture and Movement Sensors</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-improved-storage-solutions-and-google-photos-in-latest-roku-os-125-update/"><u>Discover Improved Storage Solutions and Google Photos in Latest Roku OS 12.5 Update</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-power-of-luts-color-grading-made-easy-in-pro/"><u>Exploring the Power of LUTs Color Grading Made Easy in Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/films-best-shot-techniques-top-5-essentials/"><u>Film's Best Shot Techniques Top 5 Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-novices-vision-on-vectors-categories-explored-and-apps/"><u>In 2024, A Novice's Vision on Vectors Categories Explored and Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>
+

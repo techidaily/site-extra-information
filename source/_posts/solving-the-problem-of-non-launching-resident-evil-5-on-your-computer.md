@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem of Non-Launching Resident Evil 5 on Your Computer
-date: 2024-09-22T18:06:27.668Z
-updated: 2024-09-30T00:56:12.510Z
+date: 2024-09-29T00:47:51.922Z
+updated: 2024-10-04T23:00:19.830Z
 tags:
   - win11
   - win10
@@ -44,16 +44,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 8. **[Disable Discord In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Repair your game
@@ -71,18 +65,18 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/My-game-library.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click your**Star Wars: Battlefront 2** .
 
  3) Select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/repair-game.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Wait for the process to complete.
 
@@ -103,6 +97,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 4) Wait for the process to complete.
 
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -126,13 +127,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **OR**
 
  Click**Update All** to update all of your drivers automatically (feel free to try the **[Pro version](https://tools.techidaily.com/drivereasy/download/) ,** which comes with**Full Support** and a**30-day Money-Back Guarantee** . You will be prompted to upgrade when you click Update All).
@@ -141,6 +135,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 4) Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reset Battlefront 2
 
@@ -153,13 +154,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 3) Play Battlefront 2 again to test the issue.
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Revert back to DX11
 
@@ -175,13 +169,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 **Note:** If you find reverting to DX11 makes your game laggy, you can edit**BootOptions.ini** again to enable DX12.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Run as administrator
 
  When the game keeps crashing, you can always run both your game launcher and game.exe file as administrator. To make sure your game runs smoothly, you can run your game as an administrator permanently.
@@ -192,11 +179,25 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/compatibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Apply** \>**OK** .
 
  4) Go to your game installation folder and run your game exe file as administrator too.
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable antivirus software temporarily
 
@@ -218,10 +219,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 If the game keeps crashing, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
@@ -233,13 +234,6 @@ If the game keeps crashing, you can try the next fix.
  2) Type **msconfig** and press **Enter** to open **System Configuration** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
@@ -315,17 +309,20 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-a-palettes-journey-learning-the-science-of-colors/"><u>[Updated] A Palette's Journey Learning the Science of Colors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gaming-gain-graph-finns-financial-flux/"><u>[Updated] Gaming Gain Graph Finn's Financial Flux</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-extracting-youtube-videos-simplified/"><u>[Updated] In 2024, Extracting YouTube Videos Simplified</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-online-audio-video-fusion-platform/"><u>2024 Approved Online Audio Video Fusion Platform</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/5-best-igtv-editor-apps-for-improved-layouts-for-2024/"><u>5 Best IGTV Editor Apps for Improved Layouts for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/color-depth-from-rgb-to-srgb/"><u>Color Depth From Rgb to Srgb</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-audio-experience-on-your-iphone-device/"><u>Enhance Audio Experience on Your iPhone Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-make-360-videos-with-iphone/"><u>How to Make 360 Videos with iPhone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-choices-for-screen-recorders-that-dont-tie-you-down/"><u>In 2024, Top Choices for Screen Recorders That Don't Tie You Down</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a14-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A14 5G FRP Bypass</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pair-audio-with-video-webspace-hub/"><u>[New] 2024 Approved Pair Audio with Video Webspace Hub</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-tips-for-3d-color-grading/"><u>[New] Advanced Tips for 3D Color Grading</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-visual-storytelling-for-instagram-mastering-fcpx-edits/"><u>[New] In 2024, Visual Storytelling for Instagram Mastering FCPX Edits</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-efficiently-achieving-color-background-separation-for-2024/"><u>[Updated] Efficiently Achieving Color Background Separation for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-innovative-volume-dissipation-methods-within-audacity-tools/"><u>2024 Approved Innovative Volume Dissipation Methods Within Audacity Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-microsoft-azure-transcription-service-for-2024/"><u>Comprehensive Guide to Microsoft Azure Transcription Service for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/cultivating-excellence-the-top-7-stardew-mods-ranked-7-14-for-2024/"><u>Cultivating Excellence - The Top 7 Stardew Mods (Ranked #7-14) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-cut-to-connect-advanced-editing-with-kinemaster/"><u>From Cut to Connect Advanced Editing with Kinemaster</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-the-disabled-intel-rst-service-on-your-windows-11-pc/"><u>How to Reactivate the Disabled Intel RST Service on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cardboard-contrast-google-to-samsung-gear-headset/"><u>In 2024, Cardboard Contrast Google to Samsung Gear Headset</u></a></li>
+<li><a href="https://driver-download.techidaily.com/maximize-your-pcs-potential-with-the-newest-rtx-80-super-driver-update-windows-compatibility/"><u>Maximize Your PC's Potential with the Newest RTX #80 Super Driver Update - Windows Compatibility</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-motorola-g54-5g-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Motorola G54 5G.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-polaroid-camplus-for-action-enthusiasts/"><u>The Ultimate Guide to Polaroid Cam+ for Action Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncover-5-powerful-speech-recognition-tools-for-your-mac/"><u>Uncover 5 Powerful Speech Recognition Tools for Your Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Bringing Still Images to Life  A Step-by-Step Guide for Slow-Motion Videos with Photos\""
-date: 2024-08-20T02:45:08.952Z
-updated: 2024-08-21T02:45:08.952Z
+date: 2024-10-01T07:03:59.161Z
+updated: 2024-10-05T11:02:48.354Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,13 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
 You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
@@ -59,16 +66,23 @@ You can even create multiple versions of the file with the slow motion effect ap
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [EZGif](https://ezgif.com/video-speed)
 
 **Step 1: Select Video**
@@ -82,36 +96,29 @@ Click on the “upload video” button so that it can be added into the database
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,3 +126,24 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-typography-animation-suites/"><u>[Updated] Advanced Typography Animation Suites</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-analyzing-the-impact-of-reduced-photo-jiggles-in-adobe/"><u>[Updated] Analyzing the Impact of Reduced Photo Jiggles in Adobe</u></a></li>
+<li><a href="https://extra-information.techidaily.com/20plus-free-business-slideshow-templates-makers-and-ideas/"><u>20+ Free Business Slideshow Templates, Makers, and Ideas</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-drone-footage-battlegrounds-djis-pro-vs-gopro-hero3/"><u>2024 Approved Drone Footage Battlegrounds DJI's Pro VS GoPro HERO3</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-key-strategies-for-impactful-titles-today-for-2024/"><u>5 Key Strategies for Impactful Titles Today for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissolve-ongoing-bluetooth-link-issue-in-windows/"><u>Dissolve Ongoing Bluetooth Link Issue in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enthralling-audienrances-the-most-captivating-6-videos/"><u>Enthralling Audienrances The Most Captivating 6 Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-resolving-escape-from-tarkovs-slow-frame-rate-issues/"><u>Expert Advice on Resolving Escape From Tarkov's Slow Frame Rate Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frosty-flourishes-at-the-winter-games/"><u>Frosty Flourishes at the Winter Games</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-controlling-installer-service-in-windows/"><u>Guide to Controlling Installer Service in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-list-mobile-camera-utilities-for-iphone/"><u>In 2024, A-List Mobile Camera Utilities for iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-insta-engagement-with-these-507-winning-captions-in-2e-24/"><u>Master the Art of Insta Engagement with These 507 Winning Captions in 2E-24</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-capture-device-your-ally-in-youtube-ventures-for-2024/"><u>Prime Capture Device Your Ally in YouTube Ventures for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-x100-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo X100 FRP</u></a></li>
+</ul></div>
+

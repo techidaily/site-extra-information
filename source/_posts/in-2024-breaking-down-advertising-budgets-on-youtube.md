@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Breaking Down Advertising Budgets on YouTube"
-date: 2024-09-23T23:15:12.374Z
-updated: 2024-09-29T19:10:42.735Z
+date: 2024-09-30T00:08:48.990Z
+updated: 2024-10-04T17:20:45.455Z
 tags: 
   - screen-recording
   - ai video
@@ -56,28 +56,29 @@ A product demo video shows users how they will go through the process using the 
 
 ![product demo promotion video](https://images.wondershare.com/filmora/article-images/2022/07/product-demo-promotion-video.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Event videos
 
 Promoting an event on social media is a great way to gain fans and followers. An event video brings the fun of the occasion to those who couldn’t make it and is reposted by the ones who make it to your event.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explainer videos
 
 It’s especially useful if you offer a product or service that isn’t immediately understood.
 
 The explainer video is a short video that business use to quickly introduce themselves, explain what they do, and tell how they do and tell how they help solve their customer’s problems. It’s a very quick, memorable way to make an impact on your audience and help provide the viewer with the important information they need to make a decision.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Product Review video
 
@@ -91,6 +92,13 @@ A customer testimonial video features a happy and satisfied customer who tells t
 
 Customer testimonial videos are more in depth than written reviews. They include real-life customers that other consumers can actually see, hear and trust. Videos are high quality, scripted and edited versus a written review that may be misspelled or completely out of your control.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does it cost to make a promo video
 
 The cost of YouTube ads depends on few factors, including watch time, audience targeting, and campaign objective. on average, though, YouTube advertising costs are $0.10 to $0.30 per view or action, with an average daily budget of $10\. that means every time someone views your ad or engages with your ad, like by clicking on call-t-action, you pay around $0.10 to $0.30\. This range is quite large, but the high-end accounts for sophisticated professional equipment meant for video veterans and full production teams.
@@ -98,13 +106,6 @@ The cost of YouTube ads depends on few factors, including watch time, audience t
 That may have been a requirement in the past. however, today you don’t need a fancy video production team that makes you wait weeks while paying thousands of dollars.
 
 Another way of promotion is that there are company asking content creator to include a video ads on their vlogs. As to my experience, cost and fee for the promotional video, depend on what you have been discuss with the company. Sometimes the company itself offers the price, but of course that also depends on the status of you channel. The company also doesn’t want to spent on promotion if it doesn’t get any positive output or good sales.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How long should a promotional video be?
 
@@ -137,10 +138,10 @@ Add animated titles to bring your words to life.
 Add transition to make the story flow to make the story united and working together effectively
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -169,13 +170,6 @@ Compared to text-based flyers, articles or posters, promotional videos allow you
 
 When it comes to the kinds of promo videos you can create, you have a world of options.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Product demo videos
 
 A product demo video shows users how they will go through the process using the entire product or some of its core features. it gives your potential customers an opportunity to see your product used in everyday life, which ultimately leads to conversion. But it’s just a short video and you only put the important details.
@@ -183,22 +177,15 @@ A product demo video shows users how they will go through the process using the 
 ![product demo promotion video](https://images.wondershare.com/filmora/article-images/2022/07/product-demo-promotion-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Event videos
 
 Promoting an event on social media is a great way to gain fans and followers. An event video brings the fun of the occasion to those who couldn’t make it and is reposted by the ones who make it to your event.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Explainer videos
 
@@ -219,10 +206,16 @@ A customer testimonial video features a happy and satisfied customer who tells t
 Customer testimonial videos are more in depth than written reviews. They include real-life customers that other consumers can actually see, hear and trust. Videos are high quality, scripted and edited versus a written review that may be misspelled or completely out of your control.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much does it cost to make a promo video
@@ -233,18 +226,18 @@ That may have been a requirement in the past. however, today you don’t need a 
 
 Another way of promotion is that there are company asking content creator to include a video ads on their vlogs. As to my experience, cost and fee for the promotional video, depend on what you have been discuss with the company. Sometimes the company itself offers the price, but of course that also depends on the status of you channel. The company also doesn’t want to spent on promotion if it doesn’t get any positive output or good sales.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How long should a promotional video be?
 
 Try to keep it under 2-minutes and make sure you’re hitting the important information and should also be true here. that said, promo videos do tend to go a little deeper than your typical video ad so take the opportunity to showcase your brand and really convey valuable information to audience.
 
 As for video ads, advice is to stick to 15 to 20 seconds if you’re using pre-roll ads or six seconds for what are known as bumper ads, which are intended for brand awareness.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You’re going to need video editing tools to
 
@@ -269,6 +262,13 @@ Add animated titles to bring your words to life.
 ![add animate words promotional video](https://images.wondershare.com/filmora/article-images/2022/07/add-animated-words-promotional-video.jpg)
 
 Add transition to make the story flow to make the story united and working together effectively
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -300,22 +300,24 @@ That’s been a quick guide on promotional videos. If you find it too hard to cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-media-mastery-embedding-twitch-streams-on-fb/"><u>[New] 2024 Approved Social Media Mastery Embedding Twitch Streams on FB</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-confronting-cameras-the-face-id-face-unlock-duel/"><u>[New] Confronting Cameras The Face ID-Face Unlock Duel</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-annual-compilation-of-premium-free-lut-choices/"><u>[Updated] Annual Compilation of Premium Free LUT Choices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-comprehensive-guide-to-exceptional-screen-recording-on-the-go-with-mobizen/"><u>[Updated] In 2024, Comprehensive Guide to Exceptional Screen Recording on the Go with Mobizen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-of-both-worlds-free-paid-film-apps-for-iphones/"><u>2024 Approved Best of Both Worlds Free, Paid Film Apps for iPhones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-boundaries-with-eizos-spectaculous-cg318-4k/"><u>2024 Approved Breaking Boundaries with EIZO's Spectaculous CG318-4K</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/androids-gaming-revolution-experience-the-power-of-kinemaster-app/"><u>Android's Gaming Revolution Experience the Power of KineMaster App</u></a></li>
-<li><a href="https://extra-information.techidaily.com/final-cut-pro-unlocked-how-to-edit-for-free/"><u>Final Cut Pro Unlocked How to Edit for Free</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos-for-2024/"><u>Harmonic Hits How to Choose the Perfect Song for IG Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-7-best-budget-mirrorless-4k-cameras-under-1000/"><u>In 2024, 7 Best Budget Mirrorless 4K Cameras Under $1000</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-bandicam-demystified-a-clearer-understanding-of-2023-functionality/"><u>In 2024, Bandicam Demystified A Clearer Understanding of 2023 Functionality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-every-moment-in-motion-with-polaroids-new-release/"><u>In 2024, Capturing Every Moment in Motion with Polaroid's New Release</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-enhance-your-content-strategy-discover-the-power-of-social-blade-and-youtube-data/"><u>In 2024, Enhance Your Content Strategy - Discover the Power of Social Blade and YouTube Data</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/las-mejores-aplicaciones-sin-coste-para-clonar-dvd-top-6-recomendadas/"><u>Las Mejores Aplicaciones Sin Coste Para Clonar DVD: Top 6 Recomendadas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/surfez-sur-la-vague-de-changement-limpact-accelerateur-des-crises-sur-les-relations-bancaires/"><u>Surfez Sur La Vague De Changement - L'Impact Accélérateur Des Crises Sur Les Relations Bancaires</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-in-gaming-6-methods-for-using-chatgpt-as-your-co-writer/"><u>Unleashing Creativity in Gaming: 6 Methods for Using ChatGPT as Your Co-Writer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/xsplit-index-download-and-evaluation-guide/"><u>XSplit Index Download & Evaluation Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-complete-course-on-managing-and-editing-srt-on-mac/"><u>[New] A Complete Course on Managing and Editing SRT on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>[Updated] Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-analyzing-androids-best-editor-is-pickup-at-the-peak-of-performance/"><u>2024 Approved Analyzing Android's Best Editor Is PickUp at the Peak of Performance?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beatboxing-basics-add-audio-to-windows-11-projects-with-ease/"><u>2024 Approved Beatboxing Basics Add Audio to Windows 11 Projects with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>2024 Approved Capturing Seconds at a Time The Art of Phantom Slow Motion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ark-ii-on-pc-crashes-discover-these-9-fixes-for-a-smooth-gaming-experience/"><u>ARK II on PC Crashes? Discover These 9 Fixes for a Smooth Gaming Experience!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-drivers-optimization-in-windows-10-system/"><u>Audio Drivers Optimization in Windows 10 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-freshest-canon-mg2900-printing-driver-updates-and-downloads/"><u>Easy Instructions: Freshest Canon MG2900 Printing Driver Updates & Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-iphones-podcast-tools-ranked-5/"><u>Essential iPhones Podcast Tools Ranked #5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-top-tier-gopro-cameras-max-vs-hero-11/"><u>Exploring Top-Tier GoPro Cameras Max Vs. Hero 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/flattening-lines-easy-curve-transformation/"><u>Flattening Lines Easy Curve Transformation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-set-up-zoom-for-video-meeting/"><u>How to Set up Zoom for Video Meeting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pioneering-techniques-for-smooth-recording-in-virtual-sessions/"><u>Pioneering Techniques for Smooth Recording in Virtual Sessions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stream-free-how-to-view-roku-shows-on-alternative-platforms/"><u>Stream Free! How to View Roku Shows on Alternative Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-color-composers-toolkit-3-innovative-methods-for-photo-enhancement/"><u>The Color Composer's Toolkit 3 Innovative Methods for Photo Enhancement</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-free-online-havens-for-3d-text-psdfiles/"><u>Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-low-memory-issues-in-roblox-for-ios-devices/"><u>Troubleshooting Low Memory Issues in Roblox for iOS Devices</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-easily-use-korean-to-english-video-translators/"><u>Updated 2024 Approved How To Easily Use Korean to English Video Translators</u></a></li>
 </ul></div>
 

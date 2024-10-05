@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Annotation  Text Overlaying on Images & Videos Using Windows Photos\""
-date: 2024-09-22T17:43:21.346Z
-updated: 2024-09-29T20:07:22.982Z
+date: 2024-09-29T00:28:34.250Z
+updated: 2024-10-05T06:15:12.374Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,16 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -76,10 +82,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -87,19 +93,19 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -123,20 +129,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crack-the-code-of-tinders-elite-profiles-with-these-tricks/"><u>[New] Crack the Code of Tinder's Elite Profiles with These Tricks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-essence-of-time-stretching-detailed-review-of-slomo-2e1924/"><u>[Updated] In 2024, The Essence of Time Stretching Detailed Review of SloMo, 2E1924</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tactics-for-handling-youtubes-copyright-strikes-effectively/"><u>[Updated] Tactics for Handling YouTube's Copyright Strikes Effectively</u></a></li>
-<li><a href="https://extra-information.techidaily.com/androids-leading-photographic-enhancers/"><u>Android's Leading Photographic Enhancers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/building-brands-through-innovative-design-work-for-2024/"><u>Building Brands Through Innovative Design Work for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/deciphering-the-code-of-conduct-your-practical-guide-to-filing-reports-in-online-spaces-like-discord/"><u>Deciphering the Code of Conduct Your Practical Guide to Filing Reports in Online Spaces Like Discord</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-value-hd-cams-for-adventurous-pursuits/"><u>In 2024, Best Value HD Cams for Adventurous Pursuits</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-convert-tweets-into-audible-format-with-ease/"><u>In 2024, Convert Tweets Into Audible Format with Ease</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-compelling-podcast-imagery-fundamental-tips/"><u>In 2024, Crafting Compelling Podcast Imagery Fundamental Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-lava-yuva-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Lava Yuva 2 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-how-to-stream-your-podcast-with-a-click/"><u>In 2024, How to Stream Your Podcast with a Click</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions/"><u>In 2024, Sky's the Limit for Your Shots Blend Free Space and Premium Subscriptions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-hidden-paths-to-pristine-stock-photography/"><u>The Hidden Paths to Pristine Stock Photography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-christian-ringtone-guide-selection-tips/"><u>[New] Christian Ringtone Guide – Selection Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chuckle-clips-for-iphone/"><u>[New] Chuckle Clips for iPhone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-explore-free-youtube-pic-themes/"><u>[Updated] Explore Free YouTube Pic Themes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-comprehensible-approach-to-adding-dates-on-youtube-videos/"><u>2024 Approved A Comprehensible Approach to Adding Dates on YouTube Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-photo-to-cartoon-software-for-windows-and-mac/"><u>2024 Approved Best Photo to Cartoon Software for Windows & Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-hdr-an-in-depth-examination/"><u>2024 Approved Simplified HDR An In-Depth Examination</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-the-secrets-of-saving-hulu-episodes-on-various-devices/"><u>In 2024, Unlocking the Secrets of Saving Hulu Episodes on Various Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gamers-rejoice-fixing-multiversus-failure-to-boot-problems-easily/"><u>PC Gamers Rejoice! Fixing MultiVersus Failure to Boot Problems Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-your-logitech-g933s-sound-problem-step-by-step-instructions/"><u>Quick Fix for Your Logitech G933's Sound Problem - Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-planning-for-effective-virtual-meetings-on-win11/"><u>Strategic Planning for Effective Virtual Meetings on Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-infamous-google-chrome-black-screen-tips-and-solutions/"><u>Troubleshooting the Infamous Google Chrome Black Screen: Tips & Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-future-fb-ad-mastery-the-trends-of-24/"><u>Unlocking Future FB Ad Mastery – The Trends of '24</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-why-it-departments-must-step-up-for-superior-customer-interactions/"><u>ZDNet Exclusive: Why IT Departments Must Step Up for Superior Customer Interactions</u></a></li>
 </ul></div>
 

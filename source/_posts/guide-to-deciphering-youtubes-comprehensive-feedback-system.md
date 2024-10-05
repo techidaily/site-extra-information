@@ -1,7 +1,7 @@
 ---
 title: "Guide to Deciphering YouTube's Comprehensive Feedback System"
-date: 2024-09-25T21:24:13.784Z
-updated: 2024-09-30T00:21:12.775Z
+date: 2024-09-30T19:29:17.851Z
+updated: 2024-10-04T20:59:56.573Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,13 @@ YouTube comments are an opportunity for the site's 1.7 million unique monthly vi
 Not only does it show your fans followers that you care about what they have to say, engaging with comments has they have to say, engaging with comments has the added benefit of boosting you in the YouTube algorithm. Videos with lots of likes, replies and moderation tend to show up higher in search results.
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Advantage of YouTube comments
 
@@ -74,6 +81,19 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
@@ -85,10 +105,10 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
@@ -96,10 +116,10 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
@@ -109,13 +129,6 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -134,13 +147,6 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -178,24 +184,20 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-bridging-the-gap-between-human-perception-and-photographic-capture/"><u>[New] Bridging the Gap Between Human Perception and Photographic Capture</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-comparative-income-freelance-vs-full-time-podcaster/"><u>[New] Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-a-new-identity-the-complete-tiktok-username-transformation/"><u>[Updated] 2024 Approved Mastering a New Identity The Complete TikTok Username Transformation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-access-your-fb-links-easily-download-8-best-online-utilities-for-2024/"><u>[Updated] Access Your FB Links Easily Download 8 Best Online Utilities for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-100-working-method-for-adding-link-to-tiktok-bio/"><u>2024 Approved 100% Working Method for Adding Link to TikTok Bio</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-analyzing-face-editing-tools-polaroid-cube-vs-gopro-hero-series/"><u>2024 Approved Analyzing Face-Editing Tools Polaroid Cube Vs. GoPro Hero Series</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-manipulating-photography-captions/"><u>2024 Approved Manipulating Photography Captions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensible-appraisal-gopro-slr4-silver-feature-report/"><u>Comprehensible Appraisal GoPro SLR4 Silver Feature Report</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-driven-solutions-enhancing-your-sites-analytics-and-personalization/"><u>Cookiebot-Driven Solutions: Enhancing Your Site's Analytics and Personalization</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/expanded-pdf-handling-in-latest-abbyys-finereader-version-14-for-improved-document-processing/"><u>Expanded PDF Handling in Latest ABBYY's FineReader Version 14 for Improved Document Processing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-lava-yuva-2-by-drfone-android/"><u>How to Bypass FRP from Lava Yuva 2?</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-14ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 14/iPad/iPod</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-photo-distortion-techniques-in-ps/"><u>Mastering Photo Distortion Techniques in PS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/propel-your-productivity-mastering-marketing-in-the-telegram-world/"><u>Propel Your Productivity Mastering Marketing in the Telegram World</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-io-scanner-insiders-handbook-for-2024/"><u>The Ultimate IO Scanner Insider's Handbook for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-heavy-lift-drones-you-should-know/"><u>Top 10 Heavy Lift Drones You Should Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-voyage-from-realistic-images-to-animated-marvels-on-pcmac/"><u>Visual Voyage From Realistic Images to Animated Marvels on PC/Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigating-the-backup-of-phones-camera-roll-for-snapchat-users/"><u>[New] 2024 Approved Navigating the Backup of Phone's Camera Roll for Snapchat Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-essential-blueprint-for-crafting-compelling-reddit-posts/"><u>[New] 2024 Approved The Essential Blueprint for Crafting Compelling Reddit Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtubes-defense-confronting-critics/"><u>[New] Mastering YouTube's Defense Confronting Critics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-androidmac-method-for-saving-snaps/"><u>[Updated] In 2024, Android/Mac Method for Saving Snaps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-free-passport-photo-maker-for-desktop-and-online/"><u>10 Free Passport Photo Maker for Desktop and Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>Behind the Curtain Top 10 Hidden Features of VLC Player</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-8-premium-zero-cost-3d-vids-plugins/"><u>Discover 8 Premium Zero-Cost 3D Vids Plugins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-novice-to-pro-with-kinemaster-essentials-techniques-and-top-digital-counterparts/"><u>From Novice to Pro with KineMaster Essentials, Techniques & Top Digital Counterparts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-5-reviews-of-zooms-powerful-affordable-transcription-software/"><u>In 2024, Top 5 Reviews of Zoom's Powerful, Affordable Transcription Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-google-nest-audio-versus-apple-homepod-experience/"><u>In-Depth Review: Google Nest Audio Versus Apple HomePod Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-virtual-reality-goggles-makers/"><u>Leading Virtual Reality Goggles Makers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/learning-on-film-school-vid-editing-best-practices/"><u>Learning on Film School Vid Editing Best Practices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/secure-your-system-5-tips-for-protecting-windows-computers/"><u>Secure Your System: 5 Tips for Protecting Windows Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-truth-about-the-asus-rt-ac88u-a-detailed-review-to-test-its-gaming-prowess/"><u>The Truth About the Asus RT-AC88U: A Detailed Review to Test Its Gaming Prowess</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-portable-audio-choices-decoded/"><u>Top Portable Audio Choices Decoded</u></a></li>
 </ul></div>
 

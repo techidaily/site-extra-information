@@ -1,7 +1,7 @@
 ---
 title: "\"Hues in Harmony  Applying Color Principles\""
-date: 2024-08-26T18:04:38.680Z
-updated: 2024-08-27T18:04:38.680Z
+date: 2024-10-01T20:16:39.876Z
+updated: 2024-10-04T23:44:51.720Z
 tags: 
   - screen-recording
   - ai video
@@ -34,11 +34,15 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
@@ -46,8 +50,12 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
 These colors always work as they create contrast and stability.
@@ -56,18 +64,12 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
@@ -75,13 +77,21 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -114,4 +124,18 @@ By including this into your thought process when creating videos with [Filmora](
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-a-time-capsule-transformation-step-by-step-guide-to-digitalize-old-printed-photographs/"><u>[Updated] A Time-Capsule Transformation Step-By-Step Guide to Digitalize Old Printed Photographs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-convert-youtube-music-seamlessly-for-mac-users-2023-edition/"><u>[Updated] Convert YouTube Music Seamlessly for Mac Users, 2023 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beginners-guide-to-periscope-live-streaming/"><u>2024 Approved Beginner's Guide to Periscope Live Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-boundaries-vrs-educational-potential/"><u>2024 Approved Beyond Boundaries VR's Educational Potential</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-in-media-text-curve-concepts/"><u>2024 Approved Pushing Boundaries in Media Text Curve Concepts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-5-fpv-hmds-for-high-speed-aerial-sports/"><u>Elite 5 FPV HMDs for High-Speed Aerial Sports</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-narzo-60-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme Narzo 60 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigate-effortlessly-inshots-role-in-video-crafting-on-devices/"><u>Navigate Effortlessly Inshot's Role in Video Crafting on Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-problems-when-using-the-logitech-g935-mic-on-windows-systems/"><u>Resolving Problems When Using the Logitech G935 Mic on Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplifying-the-update-process-for-wacom-drivers-in-win-oss/"><u>Simplifying the Update Process for Wacom Drivers in WIN OSs</u></a></li>
+</ul></div>
 

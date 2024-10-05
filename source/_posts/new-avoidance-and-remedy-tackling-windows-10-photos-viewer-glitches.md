@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Avoidance and Remedy  Tackling Windows 10 Photos Viewer Glitches\""
-date: 2024-08-26T18:06:14.968Z
-updated: 2024-08-27T18:06:14.968Z
+date: 2024-10-03T13:22:48.287Z
+updated: 2024-10-05T09:06:46.688Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -53,12 +60,16 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -70,9 +81,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 ### Solution 3: Reset it
@@ -85,18 +93,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -108,9 +104,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -123,8 +116,12 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -132,8 +129,12 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -142,11 +143,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unlock-professional-broadcasting-on-youtube-and-twitch-with-obs/"><u>[New] 2024 Approved Unlock Professional Broadcasting on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fixing-freeze-problems-in-fb-livestreams/"><u>[New] In 2024, Fixing Freeze Problems in FB Livestreams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-storing-your-musical-memories-a-threefold-approach-for-2024/"><u>[New] Storing Your Musical Memories A Threefold Approach for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860265927-updated-capture-your-screen-on-chromebook-methods-4-you/"><u>[Updated] Capture Your Screen on Chromebook Methods 4 You!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-new-look-samsungs-k850-ultrablade-review-2023/"><u>[Updated] New Look Samsung's K850 UltraBlade Review 2023</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>2024 Approved Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-excellent-canon-time-lapse-visuals/"><u>2024 Approved Crafting Excellent Canon Time-Lapse Visuals</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-when-order-falls-premium-lineup-of-best-zombie-games/"><u>2024 Approved When Order Falls Premium Lineup of Best Zombie Games</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/1725286476270-winxvideo/"><u>官方WinxVideo人工智能技術介紹:最新影像調製規格詳解</u></a></li>
+<li><a href="https://extra-information.techidaily.com/arcade-adventurers-approaches-for-2024/"><u>ARCADE ADVENTURERS' APPROACHES for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-zoom-quality-best-practices-for-google-meet/"><u>Elevating Zoom Quality Best Practices for Google Meet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essentials-of-drafting-engaging-vlogger-speeches/"><u>Essentials of Drafting Engaging Vlogger Speeches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-asus-proart-329q-4k-monitor-capabilities/"><u>Exploring the Asus ProArt 329Q 4K Monitor Capabilities</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-v30-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme V30</u></a></li>
+<li><a href="https://extra-information.techidaily.com/podcast-vs-youtube-the-ideal-medium-explored/"><u>Podcast vs YouTube The Ideal Medium Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revamp-srt-to-subc-3-effective-techniques-unpacked/"><u>Revamp SRT to SUBC 3 Effective Techniques Unpacked</u></a></li>
+</ul></div>
+
