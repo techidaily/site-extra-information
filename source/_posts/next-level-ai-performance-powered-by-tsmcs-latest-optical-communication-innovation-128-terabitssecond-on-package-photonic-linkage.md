@@ -1,7 +1,7 @@
 ---
 title: Next Level AI Performance Powered by TSMC's Latest Optical Communication Innovation - 12.8 Terabits/Second On-Package Photonic Linkage
-date: 2024-08-20T02:42:43.591Z
-updated: 2024-08-21T02:42:43.591Z
+date: 2024-10-05T18:49:27.313Z
+updated: 2024-10-10T20:16:47.859Z
 tags:
   - desktop
 categories:
@@ -55,14 +55,11 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
  We’d love to get on this mini-PC Cybertruck and run it at its pace. Some expect it to perform similarly to other handhelds powered by the AMD Z1 Extreme, like the ROG Ally and Lenovo Legion Go, but we will only know once we make the Xyber XPC go through our[benchmarks](https://www.tomshardware.com/tag/benchmark) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +68,33 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>[New] Budget-Conscious Skydrive Keepers Mass File Basket Savings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-captivating-conversations-opening-lines-in-audios/"><u>[New] Captivating Conversations Opening Lines in Audios</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>[New] The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-15-camcorders-transforming-vlogger-content-creation/"><u>[Updated] 2024 Approved Top 15 Camcorders Transforming Vlogger Content Creation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-10-digital-landscape-replacers-for-videos/"><u>[Updated] Best 10 Digital Landscape Replacers for Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-celebrating-stop-motion-excellence-top-15-films/"><u>[Updated] Celebrating Stop-Motion Excellence Top 15 Films</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-dissecting-the-income-from-a-million-on-youtube-for-2024/"><u>[Updated] Dissecting the Income From a Million on YouTube for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apex-newcomer-catalogue-panzoid-edition-for-2024/"><u>Apex Newcomer Catalogue Panzoid Edition for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-the-cloudline-in-your-backyard-the-revolutionary-dji-spark-unveiled-for-2024/"><u>Capturing the Cloudline in Your Backyard The Revolutionary DJI Spark Unveiled for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-best-smartphone-arvr-adventures/"><u>Discover the Best Smartphone AR/VR Adventures</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-unsuccessful-deployment-of-windows-10s-version-1903-upgrade/"><u>Effective Solutions for the Unsuccessful Deployment of Windows 10'S Version 1903 Upgrade</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/paced-artistry-expert-valorant-thumbnails-in-a-blink-for-2024/"><u>Fast-Paced Artistry Expert Valorant Thumbnails in a Blink for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-gif-to-swf-convertisseur-en-ligne-une-utilite-de-movavi/"><u>Gratuit GIF-to-SWF Convertisseur en Ligne: Une Utilité De Movavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/harness-facebook-videos-on-devices-with-new-tool/"><u>Harness Facebook Videos on Devices with New Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improved-gameplay-speed-addressing-the-previously-reported-lags-in-the-elder-scrolls-onlines-blackwood-zone/"><u>Improved Gameplay Speed - Addressing the Previously Reported Lags in The Elder Scrolls Online's Blackwood Zone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphone-hdr-masterclass-from-basics-to-brilliance/"><u>IPhone HDR Masterclass From Basics to Brilliance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swap-periscope-leading-video-apps-for-iphoneandroid-devices/"><u>Swap Periscope Leading Video Apps for iPhone/Android Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-fixing-directdraw-errors-in-win1011-systems/"><u>Unraveling and Fixing DirectDraw Errors in WIN10/11 Systems</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

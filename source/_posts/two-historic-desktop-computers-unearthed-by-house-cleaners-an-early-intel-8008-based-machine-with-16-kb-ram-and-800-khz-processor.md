@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-10-04T06:31:02.739Z
-updated: 2024-10-04T22:48:48.224Z
+date: 2024-10-06T20:18:57.922Z
+updated: 2024-10-10T19:57:16.940Z
 tags:
   - desktop
 categories:
@@ -46,28 +46,29 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-irecorder-unpacked-what-you-need-to-know/"><u>[Updated] In 2024, IRecorder Unpacked What You Need to Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-a-visual-narrative-with-iphone-images/"><u>2024 Approved Crafting a Visual Narrative with iPhone Images</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-your-roblox-experience-close-up-techniques/"><u>Enhancing Your Roblox Experience Close-Up Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-unparalleled-audio-with-g-pro-x/"><u>Experience Unparalleled Audio with G Pro X</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-online-conversion-transforming-3gpp-files-into-avi-format-with-ease/"><u>Free Online Conversion: Transforming 3GPP Files Into AVI Format with Ease</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-google-pixel-fold-by-fonelab-android-recover-music/"><u>How to recover old music from your Google Pixel Fold</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-se-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone SE?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-benq-bl2711u-review-the-zenith-of-high-definition-professional-monitors/"><u>In 2024, BenQ BL2711U Review The Zenith of High-Definition Professional Monitors</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-poco-x5-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Poco X5 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-mobile-photos-with-best-iphone-cameras-x-7plus/"><u>Mastering Mobile Photos with Best iPhone Cameras (X, 7+)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-marvelous-evaluation-and-replacement-insight/"><u>[New] In 2024, Marvelous Evaluation & Replacement Insight</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-instagram-hidden-tips-and-tricks/"><u>[Updated] In 2024, Top Instagram Hidden Tips and Tricks</u></a></li>
+<li><a href="https://solve-help.techidaily.com/44cm44ov44kh44oz44gm5qw944gx44kb44kl44ki44gg44gr44cb55sf5lit57az6yyy55s744ks44kk44oj5ywl6zaa44cn/"><u>「ファンが楽しめるように、生中継録画ガイド入門」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gagmaster-start-crafting-fun-videos-today/"><u>2024 Approved GagMaster Start Crafting Fun Videos Today</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breakneck-speed-photo-display-on-your-pc-for-2024/"><u>Breakneck Speed Photo Display on Your PC for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-tricks-for-fixing-face-mislabels-within-the-apple-photos-app/"><u>Easy Tricks for Fixing Face Mislabels Within the Apple Photos App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-facebook-game-the-ultimate-guide-to-using-it-more-efficiently/"><u>Elevate Your Facebook Game: The Ultimate Guide to Using It More Efficiently</u></a></li>
+<li><a href="https://extra-information.techidaily.com/eliminating-shadows-a-guide-for-iphone-video/"><u>Eliminating Shadows A Guide for Iphone Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/heaviest-heroes-in-the-air-drone-power-list/"><u>Heaviest Heroes in the Air Drone Power List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-create-your-own-virtual-reality-gear-with-google-cards/"><u>How to Create Your Own Virtual Reality Gear with Google Cards</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-burn-video-to-dvd-on-mac-2-ways/"><u>In 2024, Burn Video to DVD on Mac [2 Ways]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-insights-streamlined-iphone-podcast-downloads/"><u>In 2024, Comprehensive Insights Streamlined iPhone Podcast Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-edge-stabilized-gimbals-iphoneandroidprofessional-rankings-1-10/"><u>Leading-Edge Stabilized Gimbals IPhone/Android/Professional Rankings #1-#10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-video-editing-basics-on-windows-8-movie-maker/"><u>Mastering Video Editing Basics on Windows 8 Movie Maker</u></a></li>
+<li><a href="https://extra-information.techidaily.com/preserving-sound-integrity-with-ffmpeg-extract/"><u>Preserving Sound Integrity with FFmpeg Extract</u></a></li>
+<li><a href="https://win11.techidaily.com/w11s-moment-update-a-glimpse-at-the-next-gen-features/"><u>W11's Moment Update: A Glimpse at the Next-Gen Features</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

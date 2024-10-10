@@ -1,7 +1,7 @@
 ---
 title: 1 Tablespoon Baking Powder
-date: 2024-09-28T03:57:24.295Z
-updated: 2024-10-04T20:36:10.296Z
+date: 2024-10-07T16:37:07.303Z
+updated: 2024-10-10T18:27:15.817Z
 tags:
   - win11
   - win10
@@ -29,15 +29,22 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
@@ -48,16 +55,16 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -68,10 +75,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
@@ -84,13 +91,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -98,13 +98,6 @@ Check your region and language settings on your computer:
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -126,6 +119,13 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -133,6 +133,13 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -145,13 +152,6 @@ Or click  **Update All** to automatically download and install the correct versi
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -177,14 +177,18 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-duplicate-your-instagram-posts/"><u>[New] 2024 Approved How to Duplicate Your Instagram Posts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-capture-clarity-comprehensive-free-pcmac-recording-apps/"><u>[New] Capture Clarity Comprehensive Free PC/Mac Recording Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-correcting-time-jumps-fixing-obs-studio-problems/"><u>[Updated] 2024 Approved Correcting Time Jumps Fixing OBS Studio Problems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-elite-cameras-for-face-recording-facing-screen-included-for-2024/"><u>[Updated] Elite Cameras for Face Recording Facing Screen Included for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-depths-of-photo-manipulation/"><u>Exploring the Depths of Photo Manipulation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-must-have-luxury-car-accessories-for-sj4000-aficionados/"><u>In 2024, 10 Must-Have Luxury Car Accessories for SJ4000 Aficionados</u></a></li>
-<li><a href="https://extra-information.techidaily.com/launch-your-filmmaking-dreams-xp-edition-preparation/"><u>Launch Your Filmmaking Dreams XP Edition Preparation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide/"><u>Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/why-are-my-instagram-videos-playing-sideways-troubleshoot/"><u>Why Are My Instagram Videos Playing Sideways? Troubleshoot</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-add-titlestext-to-video-on-photos-app-in-windows-10/"><u>[New] 2024 Approved How to Add Titles/Text to Video on Photos App in Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-key-tactics-for-testimonial-videos/"><u>[New] 2024 Approved Key Tactics for Testimonial Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-discover-the-best-offline-ios-games-your-ultimate-guide/"><u>[New] Discover the Best Offline iOS Games – Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-affordable-action-cam-top-picks/"><u>[Updated] Affordable Action Cam Top Picks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-at-the-helm-of-augmented-perception-tools/"><u>[Updated] At the Helm of Augmented Perception Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-ig-success-with-expert-insights-on-loop-videos/"><u>[Updated] Unlock IG Success with Expert Insights on Loop Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-approach-to-mastering-the-background-eraser-tool/"><u>2024 Approved A Step-by-Step Approach to Mastering the Background Eraser Tool</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-instagram-videos-for-global-engagement/"><u>2024 Approved How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/coded-chronicles-top-10-roguelike-journeys-for-2024/"><u>Coded Chronicles Top 10 Roguelike Journeys for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-compatibility-score-which-phones-work-with-gear-vr/"><u>In 2024, Compatibility Score Which Phones Work with Gear VR?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-raising-the-bar-youtubes-live-streaming-excellence/"><u>In 2024, Raising the Bar YouTube's Live Streaming Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ranking-the-best-ios-videography-tech/"><u>Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/syncing-emails-the-ultimate-tutorial-for-gmail-on-apple-watch/"><u>Syncing Emails: The Ultimate Tutorial for Gmail on Apple Watch</u></a></li>
 </ul></div>
 

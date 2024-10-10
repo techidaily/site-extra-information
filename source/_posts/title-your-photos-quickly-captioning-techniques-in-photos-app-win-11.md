@@ -1,7 +1,7 @@
 ---
 title: "\"Title Your Photos Quickly  Captioning Techniques in Photos App Win 11\""
-date: 2024-08-20T02:39:45.966Z
-updated: 2024-08-21T02:39:45.966Z
+date: 2024-10-09T16:48:18.113Z
+updated: 2024-10-10T18:10:17.457Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -61,6 +68,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
@@ -75,8 +89,12 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -84,15 +102,17 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +120,25 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-easy-to-follow-setting-up-snapchat-on-a-mac/"><u>[New] 2024 Approved Easy to Follow Setting up Snapchat on a Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-discover-the-best-11-waterproof-cams-ideal-for-young-vloggers/"><u>[New] Discover The Best 11 Waterproof Cams Ideal for Young Vloggers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-spark-interest-with-animated-text-a-guide-for-instagram-storytellers/"><u>[New] In 2024, Spark Interest with Animated Text A Guide for Instagram Storytellers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-15-sites-offering-premium-free-vectr-and-illustration-tools-and-services/"><u>[Updated] 15 Sites Offering Premium-Free Vectr and Illustration Tools & Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023s-top-free-premiere-pro-masterpieces-for-2024/"><u>2023'S Top Free Premiere Pro Masterpieces for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerating-videos-an-easy-start-with-snapchat-for-2024/"><u>Accelerating Videos An Easy Start with Snapchat for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/arctic-athleticism-revealed-the-top-of-the-line-in-olympic-snowboard-cross-for-2024/"><u>Arctic Athleticism Revealed The Top of the Line in Olympic Snowboard Cross for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-driver-collection-intel-iris-xe-graphics-enhancer-for-windows-11-pcs/"><u>Comprehensive Driver Collection: Intel Iris Xe Graphics Enhancer for Windows 11 PCs</u></a></li>
+<li><a href="https://techidaily.com/connecting-your-playstation-4-controller-a-comprehensive-tutorial/"><u>Connecting Your PlayStation 4 Controller - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-software-stacks-for-animation-models/"><u>Elite Software Stacks for Animation Models</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-content-delivery-assessment/"><u>Exclusive Content Delivery Assessment</u></a></li>
+<li><a href="https://fox-info.techidaily.com/foremost-apps-to-upgrade-your-gopro-creations-on-smartphones-for-2024/"><u>Foremost Apps to Upgrade Your GoPro Creations on Smartphones for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-ultimate-guide-to-hyperlapse-storytelling/"><u>In 2024, The Ultimate Guide to Hyperlapse Storytelling</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-5-crucial-considerations-for-buying-a-new-console/"><u>Navigating the Market: 5 Crucial Considerations for Buying a New Console</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-webcam-options-tailored-for-efficient-zoom-meetings/"><u>Premium Webcam Options Tailored for Efficient Zoom Meetings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unmatched-8-vr-equipment-companion-guide/"><u>Unmatched 8 VR Equipment Companion Guide</u></a></li>
+</ul></div>
+
