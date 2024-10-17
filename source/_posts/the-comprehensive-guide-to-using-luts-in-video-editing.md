@@ -1,7 +1,7 @@
 ---
 title: "The Comprehensive Guide to Using LUTs in Video Editing"
-date: 2024-08-20T02:31:08.111Z
-updated: 2024-08-21T02:31:08.111Z
+date: 2024-10-15T16:23:15.560Z
+updated: 2024-10-16T19:17:35.388Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,19 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -42,9 +55,6 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -55,9 +65,6 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 4\. Can you adjust the strength of the LUT?
 
 There are no such modifications that can be made in a certain LUT or Look, and there is no reason to adjust them because there is no need to. However, you may change its strength, which is essentially the same thing as the opacity of the LUT that was applied, and there are still choices to color grade the entire movie after the LUT has been applied.
@@ -67,8 +74,12 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Export LUTs
 
 An awesome feature of Premiere Pro enables you store and reuse your color modifications in multiple projects or programs. You have the option of exporting color grading information as either a.look file or a .cube LUT file, which may then be used in Adobe Premiere Pro or another application. Here's how you export them:
@@ -82,8 +93,12 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -98,8 +113,12 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Urban Dark Creative LUTs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Additionally, check to see if you have inadvertently downloaded any viruses. There is a strong temptation to simply conduct a search for cinematic LUTs on Google, then download all free files that we come across.
@@ -134,4 +153,20 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-how-to-remove-background-in-picsart/"><u>[New] Behind the Scenes How to Remove Background in Picsart</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-subtlety-in-volume-the-ableton-way/"><u>[New] Subtlety in Volume The Ableton Way</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-achieving-flawless-aerial-shots-the-best-gimbals-for-drones/"><u>[Updated] Achieving Flawless Aerial Shots The Best Gimbals for Drones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-directing-content-destination-from-imovie-files-to-youtube-platform/"><u>[Updated] In 2024, Directing Content Destination From iMovie Files To YouTube Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-engagement-with-free-intro-templates/"><u>2024 Approved Boost Engagement with Free Intro Templates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-changing-video-pace-on-your-instagram-feed/"><u>2024 Approved Changing Video Pace on Your Instagram Feed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-compact-jumpstarters-2024-edition/"><u>Best Compact Jumpstarters 2024 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-tool-for-managing-stress-a-comprehensive-guide/"><u>ChatGPT as a Tool for Managing Stress: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fuel-ambition-with-these-10-movie-masterpieces/"><u>Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-5-best-capture-cards-for-nintendo-switch/"><u>In 2024, Top 5 Best Capture Cards for Nintendo Switch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-cd-manipulation-with-wmp/"><u>Streamlining Cd Manipulation with WMP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-worlds-in-virtual-reality-tours/"><u>Unveiling Worlds in Virtual Reality Tours</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-data-recovery-recover-lost-data-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-data/"><u>Xiaomi Data Recovery – recover lost data from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+</ul></div>
 

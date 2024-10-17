@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Annotation  Text Overlaying on Images & Videos Using Windows Photos\""
-date: 2024-10-09T19:12:08.791Z
-updated: 2024-10-10T17:23:21.400Z
+date: 2024-10-15T23:21:28.998Z
+updated: 2024-10-16T21:03:20.748Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -70,10 +70,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -83,10 +83,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -96,10 +96,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -123,19 +123,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-5-video-conference-recorders-for-seamless-captures/"><u>[New] 2024 Approved Leading 5 Video Conference Recorders for Seamless Captures</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-augment-pixel-tiles-with-concentric-blur-magic-ps/"><u>[New] Augment Pixel Tiles with Concentric Blur Magic PS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ipad-users-create-professional-time-lapse-videos/"><u>[New] In 2024, IPad Users Create Professional Time-Lapse Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-asmr-magic-made-simple-high-performance-at-economic-prices/"><u>[Updated] ASMR Magic Made Simple High Performance at Economic Prices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-blissful-onboarding-guide-for-new-users/"><u>[Updated] Blissful Onboarding Guide for New Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-key-pillars-top-6-social-platforms-benefiting-businesses/"><u>[Updated] Key Pillars Top 6 Social Platforms Benefiting Businesses</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-seamless-and-secure-downloading-instagram-videos-from-your-computermacos-for-2024/"><u>[Updated] Seamless & Secure Downloading Instagram Videos From Your Computer/MacOS for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-5-pro-photoshop-tricks-that-newbies-must-know/"><u>2024 Approved 5 Pro Photoshop Tricks That Newbies Must Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-wi-fi-mesh-systems-a-smart-choice/"><u>Are Wi-Fi Mesh Systems a Smart Choice?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enabling-and-disabling-network-discovery-on-your-windows-10-pc-a-comprehensive-guide/"><u>Enabling and Disabling Network Discovery on Your Windows 10 PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-secure-the-best-gaming-performance-with-new-razer-drivers-compatible-across-win11-win8-win7-xp-and-vista/"><u>How to Secure the Best Gaming Performance with New Razer Drivers - Compatible Across Win11, Win8, Win7, XP and Vista</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>In 2024, A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-displaying-screens-in-google-meet/"><u>In 2024, The Ultimate Guide to Displaying Screens in Google Meet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leading-edits-top-17-software-for-photo-framing-cutout/"><u>Leading Edits Top 17 Software for Photo Framing Cutout</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-sony-s6500-revisited-fresh-take-on-media-playback/"><u>[New] 2024 Approved Sony S6500 Revisited Fresh Take on Media Playback</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-best-free-voice-changer-for-valorant-you-should-have-a-try/"><u>[New] Best Free Voice Changer for Valorant You Should Have a Try</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-vivavideo-app-analysis-in-depth-insights/"><u>[New] VivaVideo App Analysis In-Depth Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-wipe-out-facebook-story-desktopmobile-tips-for-2024/"><u>[New] Wipe Out Facebook Story Desktop/Mobile Tips for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asymmetric-soothing-sound-the-best-asmr-gear-without-a-heavy-price-tag-for-2024/"><u>Asymmetric Soothing Sound The Best ASMR Gear Without a Heavy Price Tag for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-friendly-sky-vault-optimal-large-file-haven-for-2024/"><u>Budget-Friendly Sky Vault Optimal Large File Haven for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-androids-finest-podcast-apps-top-6/"><u>Discovering Android's Finest Podcast Apps (Top 6)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-free-asus-atk0110-acpi-drivers-to-upgrade-and-secure-your-system/"><u>Get the Latest Free ASUS ATK0110 ACPI Drivers to Upgrade and Secure Your System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-elevate-audio-experience-by-boosting-your-pcs-volume-windows-10/"><u>How To Elevate Audio Experience by Boosting Your PC's Volume (Windows 10)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-how-to-budget-for-video-popularity-on-youtube/"><u>In 2024, How to Budget for Video Popularity on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-prime-video-editors-for-youtube-enthusiasts/"><u>In 2024, Prime Video Editors for YouTube Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/insightful-cloud-costs-price-comparison-and-recommendations/"><u>Insightful Cloud Costs Price, Comparison & Recommendations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-audio-integration-in-adobe-premiere-pro/"><u>Mastering Audio Integration in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picart-skills-erasing-unwanted-image-backdrops/"><u>PicArt Skills Erasing Unwanted Image Backdrops</u></a></li>
 </ul></div>
 

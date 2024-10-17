@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-10-06T20:18:57.922Z
-updated: 2024-10-10T19:57:16.940Z
+date: 2024-10-12T16:11:26.228Z
+updated: 2024-10-16T18:55:27.925Z
 tags:
   - desktop
 categories:
@@ -46,29 +46,33 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-marvelous-evaluation-and-replacement-insight/"><u>[New] In 2024, Marvelous Evaluation & Replacement Insight</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-instagram-hidden-tips-and-tricks/"><u>[Updated] In 2024, Top Instagram Hidden Tips and Tricks</u></a></li>
-<li><a href="https://solve-help.techidaily.com/44cm44ov44kh44oz44gm5qw944gx44kb44kl44ki44gg44gr44cb55sf5lit57az6yyy55s744ks44kk44oj5ywl6zaa44cn/"><u>「ファンが楽しめるように、生中継録画ガイド入門」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gagmaster-start-crafting-fun-videos-today/"><u>2024 Approved GagMaster Start Crafting Fun Videos Today</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breakneck-speed-photo-display-on-your-pc-for-2024/"><u>Breakneck Speed Photo Display on Your PC for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-tricks-for-fixing-face-mislabels-within-the-apple-photos-app/"><u>Easy Tricks for Fixing Face Mislabels Within the Apple Photos App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-facebook-game-the-ultimate-guide-to-using-it-more-efficiently/"><u>Elevate Your Facebook Game: The Ultimate Guide to Using It More Efficiently</u></a></li>
-<li><a href="https://extra-information.techidaily.com/eliminating-shadows-a-guide-for-iphone-video/"><u>Eliminating Shadows A Guide for Iphone Video</u></a></li>
-<li><a href="https://extra-information.techidaily.com/heaviest-heroes-in-the-air-drone-power-list/"><u>Heaviest Heroes in the Air Drone Power List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-create-your-own-virtual-reality-gear-with-google-cards/"><u>How to Create Your Own Virtual Reality Gear with Google Cards</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-burn-video-to-dvd-on-mac-2-ways/"><u>In 2024, Burn Video to DVD on Mac [2 Ways]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-insights-streamlined-iphone-podcast-downloads/"><u>In 2024, Comprehensive Insights Streamlined iPhone Podcast Downloads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leading-edge-stabilized-gimbals-iphoneandroidprofessional-rankings-1-10/"><u>Leading-Edge Stabilized Gimbals IPhone/Android/Professional Rankings #1-#10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-video-editing-basics-on-windows-8-movie-maker/"><u>Mastering Video Editing Basics on Windows 8 Movie Maker</u></a></li>
-<li><a href="https://extra-information.techidaily.com/preserving-sound-integrity-with-ffmpeg-extract/"><u>Preserving Sound Integrity with FFmpeg Extract</u></a></li>
-<li><a href="https://win11.techidaily.com/w11s-moment-update-a-glimpse-at-the-next-gen-features/"><u>W11's Moment Update: A Glimpse at the Next-Gen Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-limitless-design-gratuitous-premiere-pro-templates-for-2024/"><u>[New] Limitless Design Gratuitous Premiere Pro Templates for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-supreme-mac-video-encoder/"><u>[New] Supreme Mac Video Encoder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-3dr-the-path-taken-by-a-lone-printer-explorer/"><u>[Updated] '3DR' The Path Taken by a Lone Printer Explorer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chill-challenge-highlighting-the-speed-and-skill-of-winter-olympics-x-c-skiers/"><u>[Updated] Chill Challenge Highlighting the Speed and Skill of Winter Olympics X-C Skiers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[Updated] Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/12-essential-metaverse-prototypes-demystifying-vr-for-2024/"><u>12 Essential Metaverse Prototypes Demystifying VR for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-alternatives-to-game-bar-for-screenshots-and-recordings/"><u>2024 Approved Top 10 Alternatives to Game Bar for Screenshots & Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ace-your-iphones-advanced-tactics-for-downloading-podcasts-for-2024/"><u>Ace Your iPhones Advanced Tactics for Downloading Podcasts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-s18-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo S18 Pro?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-screen-vr-movie-innovation/"><u>In 2024, Beyond the Screen VR Movie Innovation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flash-video-insights-guide/"><u>In 2024, Flash Video Insights Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/moko-universal-foldable-bluetooth-keyboard/"><u>MoKo Universal Foldable Bluetooth Keyboard</u></a></li>
+<li><a href="https://extra-information.techidaily.com/no-more-queasiness-in-vr-worlds/"><u>No More Queasiness in VR Worlds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-infinix-note-30-vip-racing-edition-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Infinix Note 30 VIP Racing Edition Android SIM Unlock APK</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

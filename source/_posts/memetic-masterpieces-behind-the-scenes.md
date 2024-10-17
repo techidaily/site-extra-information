@@ -1,7 +1,7 @@
 ---
 title: "\"Memetic Masterpieces  Behind the Scenes\""
-date: 2024-10-03T17:22:25.235Z
-updated: 2024-10-10T16:50:22.490Z
+date: 2024-10-10T16:18:31.593Z
+updated: 2024-10-17T02:43:31.480Z
 tags: 
   - screen-recording
   - ai video
@@ -43,13 +43,6 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -61,16 +54,10 @@ The original photo is the work of Antonio Guillem, who uploaded it on iStock in 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -92,13 +79,6 @@ In addition, Antonio Guillem also has a stock image meme where the roles are rev
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
@@ -112,10 +92,16 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -132,6 +118,13 @@ Twitter user @chocos posts the image with Spanish captions, with the woman sure 
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
 Since then, internet users have continued to use the Bonjour Bear meme to reference their reactions to different scenarios. Typically, you will find the stock photo meme representing some surprise attacks. Below are some of the most popular versions of the meme:
@@ -147,13 +140,20 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part5: FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Can you use stock photos for memes?
@@ -162,16 +162,22 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Can you use watermarked stock photos to create memes?
 
@@ -209,22 +215,22 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-behind-the-lens-detailed-evaluation-of-sj-cam-s6/"><u>[New] Behind the Lens Detailed Evaluation of SJ-CAM S6</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-exploring-the-pro-3-the-latest-in-action-cameras-from-ion/"><u>[New] Exploring the Pro 3 - The Latest in Action Cameras From ION</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-quick-quirks-lasting-impact-fast-track-to-fame-with-9gag-memes/"><u>[New] Quick Quirks, Lasting Impact Fast Track to Fame with 9GAG Memes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-lifes-moments-with-the-virb-ultra-30-an-in-depth-guide/"><u>2024 Approved Capturing Life's Moments with the VIRB Ultra 30 – An In-Depth Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-ice-cream-viewer-tech-overview/"><u>2024 Approved Ultimate Ice Cream Viewer Tech Overview</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/4k-monitor-buying-guide-how-to-choose-the-right-monitor-for-2024/"><u>4K Monitor Buying Guide How to Choose the Right Monitor for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-headsets-ultimate-vr-gear-guide-for-2024/"><u>Beyond Headsets Ultimate VR Gear Guide for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-audio-verification-master-the-art-of-microphone-tests/"><u>Effortless Audio Verification: Master the Art of Microphone Tests!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ideal-sites-to-discover-3d-golden-tinted-typography/"><u>Ideal Sites to Discover 3D Golden Tinted Typography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-buying-smart-key-accessories-for-dynamic-cinematography/"><u>In 2024, Buying Smart Key Accessories for Dynamic Cinematography</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-captivating-periscope-livestream/"><u>In 2024, Crafting a Captivating Periscope Livestream</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-depth-fund-allocation-setting-up-a-podcast-stage/"><u>In-Depth Fund Allocation Setting Up a Podcast Stage</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/solving-iphone-xs-identity-crisis-fixing-face-id-failures/"><u>Solving iPhone X's Identity Crisis Fixing Face ID Failures</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlining-image-purity-via-photopea-methods/"><u>Streamlining Image Purity via Photopea Methods</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopros-improved-action-session-series/"><u>[New] GoPro's Improved Action Session Series</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-androidios-essentials-cutting-edge-video-montage-software/"><u>[Updated] Android/iOS Essentials Cutting-Edge Video Montage Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on/"><u>[Updated] Best-Kept Secrets Elite Mac Speech Apps You're Missing Out On</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-beginners-blueprint-progressive-sound-intensity-rise/"><u>[Updated] In 2024, Beginner’s Blueprint Progressive Sound Intensity Rise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unpacking-the-power-of-engaging-titles-for-youtube-shorts/"><u>[Updated] Unpacking the Power of Engaging Titles for YouTube Shorts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utube-havens-for-entrepreneurs-and-business-gurus-for-2024/"><u>10 YouTube Havens for Entrepreneurs & Business Gurus for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/become-a-pro-editor-in-seconds-canvas-essential-secrets-for-2024/"><u>Become a Pro Editor in Seconds Canva's Essential Secrets for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-matches-ultimate-websites-for-acquiring-snapchat-ringtones-for-2024/"><u>Best Matches Ultimate Websites for Acquiring Snapchat Ringtones for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/cut-the-excess-enhancing-your-feed-focus/"><u>Cut the Excess: Enhancing Your Feed Focus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-apps-to-transform-vtuber-speech-patterns/"><u>Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-clarity-editing-insights-for-professional-results/"><u>In 2024, Capture Clarity Editing Insights for Professional Results</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-deep-windows-11-know-how-importing-media-like-a-pro/"><u>In 2024, Deep Windows 11 Know-How Importing Media Like a Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rank-higher-on-youtube-essential-seo-tips-unveiled-for-2024/"><u>Rank Higher on YouTube Essential SEO Tips Unveiled for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/superior-satire-and-smile-mixer-for-2024/"><u>Superior Satire & Smile Mixer for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-6-ios-slide-show-tools-for-latest-iphones/"><u>Top 6 iOS Slide Show Tools for Latest iPhones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-full-potential-using-polarrs-image-tools/"><u>Unlock Full Potential Using Polarr's Image Tools</u></a></li>
 </ul></div>
 

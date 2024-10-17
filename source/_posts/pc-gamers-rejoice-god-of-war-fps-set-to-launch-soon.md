@@ -1,7 +1,7 @@
 ---
 title: "PC Gamers Rejoice: God of War FPS Set to Launch Soon!"
-date: 2024-08-20T02:29:59.722Z
-updated: 2024-08-21T02:29:59.722Z
+date: 2024-10-09T19:45:03.957Z
+updated: 2024-10-16T17:48:05.157Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
  After confirming that your PC is good enough to run the game, go ahead with the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Fix 2: Verify the integrity of game files
 
  The game not launching issue can be caused by corruption in your extracted game files. To see if that’s the case, you can scan and repair game files through Steam. Here’s how:
@@ -72,11 +65,16 @@ No advertising on the website.
 2. Right-click**Age of Empires IV** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 Once the process is completed, try launching the game again.
 
@@ -105,8 +103,12 @@ If the issue persists, move on to the next fix.
  If you’re still having trouble launching the game, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  If you’re not running DirectX 12 on your device, you’re likely to encounter the Age of Empires IV not launching issue. To fix it, you need to install all pending Windows updates. Here’s how:
@@ -114,30 +116,19 @@ If the issue persists, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If the problem remains, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Update Visual C++ Redistributables
 
  Visual C++ Redistributables are software packages required by many applications to function properly. If there are any missing or corrupted redistributables files, your game may not launch. So make sure you have all the necessary files to run Age of Empires IV. You can find the latest visual studio files[here](https://support.microsoft.com/en-in/help/2977003/the-latest-supported-visual-c-downloads) .
@@ -162,16 +153,18 @@ If this fix doesn’t work for you, proceed to the next one.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**RelicCardinal.exe** from the list of apps. If not listed, click**Change settings** \>**Allow another app…** , then locate**RelicCardinal.exe** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 5. Click**OK** .
 
 #### Windows Security
@@ -179,25 +172,24 @@ If this fix doesn’t work for you, proceed to the next one.
 1. In the search box on the taskbar, type**Windows Security** , then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/windows-security.jpg)
 2. Click the gear icon to open**Settings** , then click**Protection History** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/settings-protection-history.jpg)
 3. Select**RelicCardinal.exe** , then click**Actions** \>**Allow** .
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Windows Controlled Folder Access
 
 1. In the search box on the taskbar, type**Controlled folder access** , then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Controlled-Folder-Access.jpg)
 2. Select**Allow an app through Controlled folder access** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
 3. Click**Add an allowed app** \>**Recently blocked apps** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/add-an-allowed-app.jpg)
 4. Select**RelicCardinal.exe** .
 
@@ -208,6 +200,13 @@ If this fix doesn’t work for you, proceed to the next one.
  If the game is on the allow-list for your antivirus programs, check to see if temporarily disabling the program allows the game to launch.
 
 If it doesn’t, try the last fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -220,11 +219,24 @@ If it doesn’t, try the last fix below.
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA** and **Intel** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
 
@@ -246,8 +258,6 @@ Restart your PC to apply the changes after enabling each service.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,4 +265,22 @@ Restart your PC to apply the changes after enabling each service.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-detailed-guide-to-minecraft-capturing-techniques-on-mac/"><u>[New] Detailed Guide to Minecraft Capturing Techniques on Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-the-power-of-videos-to-drive-fb-traffic/"><u>[New] Unlocking the Power of Videos to Drive FB Traffic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chuckling-chronicles-your-essential-meme-tools-list/"><u>[Updated] Chuckling Chronicles Your Essential Meme Tools List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-check-who-unfollowed-me-on-instagram/"><u>[Updated] In 2024, How to Check Who Unfollowed Me on Instagram?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-quick-and-reliable-image-captures-pcs-top-5-apps/"><u>[Updated] In 2024, Quick and Reliable Image Captures PC's Top 5 Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver/"><u>2024 Approved Comparing the Crème De La Crème GoPro Hero5 Black to Hero4 Silver</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-closer-look-ffmpeg-for-pristine-audio-extraction-for-2024/"><u>A Closer Look FFmpeg for Pristine Audio Extraction for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976294784-download-updated-drivers-for-your-eveo-bluetooth-adapter-today/"><u>Download Updated Drivers for Your Eveo Bluetooth Adapter Today</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellence-visuals-appraisal-pinnacle-studio-current-year/"><u>Excellence Visuals Appraisal Pinnacle Studio, Current Year</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-14-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on 14?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-build-funny-images-kapwings-meme-studio/"><u>In 2024, Build Funny Images Kapwing’s Meme Studio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-budget-friendly-high-fidelity-webm-players/"><u>The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-picks-for-personalizing-mbp-screens-with-skins/"><u>Top Picks for Personalizing MBP Screens with Skins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-your-browsing-with-ms-edges-pip/"><u>Transform Your Browsing with MS Edge's PIP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tweaking-playback-velocity-on-netflix-devices/"><u>Tweaking Playback Velocity on Netflix Devices</u></a></li>
+</ul></div>
 

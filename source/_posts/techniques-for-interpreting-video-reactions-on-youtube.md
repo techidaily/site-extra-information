@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Interpreting Video Reactions on YouTube"
-date: 2024-08-20T02:37:03.226Z
-updated: 2024-08-21T02:37:03.226Z
+date: 2024-10-12T01:03:24.427Z
+updated: 2024-10-17T03:23:47.402Z
 tags: 
   - screen-recording
   - ai video
@@ -45,8 +45,12 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -59,9 +63,6 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -81,15 +82,16 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
@@ -100,9 +102,6 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 
 Step6 Make the necessary edits and choose “Save”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -130,8 +129,19 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -166,4 +176,20 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-impassioned-orator-review-revision-hexadecimal-eight/"><u>[Updated] In 2024, Impassioned Orator Review - Revision Hexadecimal Eight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-speed-instant-signature-background-cleanup/"><u>2024 Approved Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/sn55er-ssd/"><u>復元されたSN55er SSD - 頑丈なハードウェアを維持しながらの交換手順とヒント</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-out-clarity-in-low-light-iphone-recordings-for-2024/"><u>Bring Out Clarity in Low-Light iPhone Recordings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-breakdown-hero4-black-functionality-for-2024/"><u>Complete Breakdown Hero4 Black Functionality for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquer-the-webcam-world-with-ease/"><u>Conquer the Webcam World with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dreaming-in-color-the-revolutionary-hp-monitor-z32x/"><u>Dreaming in Color The Revolutionary HP Monitor, Z32X</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-reviving-a-dead-phone-battery-proven-methods-to-bring-your-device-back-to-life/"><u>Expert Tips for Reviving a Dead Phone Battery: Proven Methods to Bring Your Device Back to Life</u></a></li>
+<li><a href="https://extra-information.techidaily.com/groundhopping-goals-watch-record-and-cut-games-without-spending/"><u>Groundhopping Goals Watch, Record & Cut Games Without Spending</u></a></li>
+<li><a href="https://fox-within.techidaily.com/key-characteristics-and-capabilities-in-language-translation-software/"><u>Key Characteristics and Capabilities in Language Translation Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-hardware-choices-for-uhd-editors/"><u>Premium Hardware Choices for UHD Editors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722876080285-sneak-peek-at-the-newly-rumored-features-and-cost-for-the-samsung-galaxy-z-fold-release-date-clues-included/"><u>Sneak Peek at the Newly Rumored Features and Cost for the Samsung Galaxy Z Fold – Release Date Clues Included</u></a></li>
+</ul></div>
 

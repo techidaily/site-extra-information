@@ -1,7 +1,7 @@
 ---
 title: The Mystery Behind Alan Wake 2'S Absence – Understanding and Repairing the Halt
-date: 2024-10-06T16:23:07.631Z
-updated: 2024-10-10T21:00:13.104Z
+date: 2024-10-14T20:30:46.879Z
+updated: 2024-10-17T00:39:48.347Z
 tags:
   - win11
   - win10
@@ -46,28 +46,8 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-1.png)
 2. Select the**Paradox Interactive** folder here and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-2.png)
 3. Scroll down a bit to find the**Programs** folder, and**delete** the**Paradox Interactive** folder in it as well.  
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-3.png)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time. Copy and paste**%appdata%** and hit**Enter** .  
@@ -77,34 +57,40 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-4.png)
 6. Then press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 7. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 8. Click **Paradox Launcher v2** , then **Uninstall** .  
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-5.png)
 9. Restart your computer afterward.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 10. Then **[download Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)**  again.
 
  Run Steam and try to play the game via Paradox Launcher again to see if it launches well. If not, please continue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Disable conflicting processes in the background
 
@@ -131,29 +117,48 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try to play your game via Paradox Launcher again to see if it can launch. If the problem remains, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Modify your antivirus program settings
 
  Windows Defender, or a third-party antivirus program, could mistake your Paradox Launcher as a threat, as it usually consumes a lot of memory and CPU usage when a game is running. To make sure that your antivirus program is not the culprit to the Paradox Launcher not working problem, here are two things that you can do:
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4.1 Add Steam and the game to the antivirus exception list
 
@@ -174,28 +179,22 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 2. Select**Virus & Threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-9.png)
 3. Under**Current threats** , select**Protection history** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Repair damaged system files
 
@@ -207,6 +206,14 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -214,6 +221,13 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
  Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Bypass Paradox Launcher
 
@@ -242,15 +256,24 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-brush-up-your-skills-and-inspire-creativity-top-10-freeware-for-mac/"><u>[Updated] Brush Up Your Skills & Inspire Creativity - Top 10 Freeware for Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-chortlechaos-dive-deep-into-meme-genesis/"><u>[Updated] ChortleChaos Dive Deep Into Meme Genesis</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-adventure-companion-unveiling-panasonic-hx-a1-actioncam/"><u>2024 Approved The Adventure Companion Unveiling Panasonic HX-A1 ActionCam</u></a></li>
-<li><a href="https://extra-information.techidaily.com/calculating-storage-total-gb-for-a-days-long-film-for-2024/"><u>Calculating Storage Total GB for a Day's Long Film for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-home-entertainment-with-hitachis-stunning-4k-ultra-hd-televisions-and-integrated-roku-streaming-services/"><u>Elevate Your Home Entertainment with Hitachi's Stunning 4K Ultra HD Televisions and Integrated Roku Streaming Services</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-go-2023-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark Go (2023) to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-low-cost-film-production-software-top-picks-for-beginners-for-2024/"><u>New Low-Cost Film Production Software Top Picks for Beginners for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-lava-blaze-2-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lava Blaze 2 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premiere-cinematic-glimpses-series/"><u>Premiere Cinematic Glimpses Series</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nokia-c110-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nokia C110 Phone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-parable-pioneers-guild-premier-peak/"><u>[New] 2024 Approved Parable Pioneers Guild – Premier Peak</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-money-on-youtube-understanding-required-number-of-views/"><u>[New] In 2024, Gain Money on YouTube Understanding Required Number of Views</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-piece-by-piece-crafting-the-mosaic-photo-collage-way/"><u>[New] Piece-by-Piece Crafting The Mosaic Photo Collage Way</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlock-slow-momentum-a-filmmakers-tale-on-instagram/"><u>[New] Unlock Slow Momentum A Filmmaker’s Tale on Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>[Updated] Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-a-filmmakers-essential-guide-to-free-royalty-free-audiosites/"><u>[Updated] In 2024, A Filmmaker's Essential Guide to Free Royalty-Free Audiosites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaspace-contrasted-with-cosmic-universe/"><u>2024 Approved Metaspace Contrasted with Cosmic Universe</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acoustic-architects-leading-sites-to-buy-skype-tones/"><u>Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androidiphone-photo-overlay-wonders-top-10-free-tools-ranked-for-2024/"><u>Android/iPhone Photo Overlay Wonders – Top 10 Free Tools Ranked for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-assortment-professional-webcam-supports/"><u>Best Assortment Professional Webcam Supports</u></a></li>
+<li><a href="https://fox-links.techidaily.com/comparing-multimedia-software-vlcs-stand-against-mx-for-2024/"><u>Comparing Multimedia Software VLC's Stand Against MX for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-affordable-high-quality-asmr-recording-devices-revealed/"><u>In 2024, Affordable, High-Quality ASMR Recording Devices Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-engagement-in-stories-tips-for-adding-smoothly-animated-text/"><u>In 2024, Boost Engagement in Stories Tips for Adding Smoothly Animated Text</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6s-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6s to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pushing-boundaries-with-yuneecs-typhoon-h-drone/"><u>Pushing Boundaries with Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spark-creativity-get-to-know-windows-11s-movie-maker-app/"><u>Spark Creativity Get to Know Windows 11'S Movie Maker App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-titles-for-live-game-broadcasting/"><u>Superior Titles for Live Game Broadcasting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-incorporating-b-roll-in-video-production/"><u>The Art of Incorporating B Roll in Video Production</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turn-your-twitter-videos-into-listenable-mp3s/"><u>Turn Your Twitter Videos Into Listenable MP3s</u></a></li>
 </ul></div>
 

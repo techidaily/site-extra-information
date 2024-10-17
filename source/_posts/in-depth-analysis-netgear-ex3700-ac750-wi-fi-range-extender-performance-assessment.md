@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: Netgear EX3700 AC750 Wi-Fi Range Extender Performance Assessment"
-date: 2024-08-20T02:31:26.451Z
-updated: 2024-08-21T02:31:26.451Z
+date: 2024-10-14T18:08:18.655Z
+updated: 2024-10-16T16:44:21.936Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis: Netgear EX3700 AC750 Wi-Fi Range Extender Performance Assessment"
@@ -43,6 +43,13 @@ Lifewire / Erika Rawes
 
 ![Amplifi HD](https://www.lifewire.com/thmb/Njd1HQu0FsmaveVCH4FDT0Spa6c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_HeroSquare-fdb67079a06b415b98467919ec8e34a6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Walmart $426](https://www.walmart.com/ip/976428400) [View On Staples $449](https://www.staples.com/Ubiquiti-Amplifi-AFIHD-High-Density-Router-with-2-Mesh-Point-1750-Mbps/product%5F2620679?cid=AFF%3A2620679&slfpid=3) [View On Quill.com $455](https://www.quill.com/ubiquiti-amplifi-home-wi-fi-system-afi-hd-ac1750-dual-band-wireless-ethernet-router-white-afi-hd/cbs/55340637.html?effort%5Fcode=550&cm%5Fmmc=AFF%5F55340637&slfpid=3)
@@ -65,6 +72,13 @@ Lifewire / Erika Rawes
 
  The Amplifi HD is a[Mesh Wi-Fi System](https://www.lifewire.com/best-mesh-wi-fi-network-systems-4139748) with a main router and separate mesh points that serve as satellite routers. The Amplifi system is supposed to extend Wi-Fi range, reduce dead zones, and provide better coverage. To see how Ubiquiti’s mesh system holds up to the demands of a household with multiple devices, I connected the Amplifi HD in my test home that contains roughly 50 Wi-Fi connected devices.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: A beautiful router with mismatched mesh points**
 
  The Amplifi HD Mesh System comes with a[long-range router](https://www.lifewire.com/best-long-range-routers-4122554) and two satellite mesh points. The router has a unique design. It’s small, cube-shaped, and it looks more like an alarm clock or smart display than a router. It doesn’t have antennas protruding from it as you see on most routers.
@@ -76,22 +90,20 @@ Lifewire / Erika Rawes
 ![Amplifi HD](https://www.lifewire.com/thmb/s87ZCkRIGWmpbjF2kUOXJRQtOl4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_02-1a111a806ad7495ba9f36d51121fe5b0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup: Couldn’t get any easier**
 
  The setup for the Amplifi HD system is probably the easiest setup process I’ve encountered. The app walks you through the process step-by-step, with pictures to guide you on each instruction. The most difficult part was deciding where to place the two mesh points in my test home. I placed one in the far bedroom and one in my office, two rooms that notoriously experience drop-offs.
 
  By default, the app creates a dual (2.4 and 5Ghz) network, which directs traffic based on the most efficient pathways. You can create separate 2.4 and 5Ghz networks, or make other adjustments as you see fit though. You can change the band on the mesh points (from 2.4 to 5Ghz), create additional SSIDs, and more. For the purpose of testing, I used the default combined network and allowed the system to direct network traffic between bands.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Connectivity: Lags when you add too many devices**
 
  The Amplifi HD system is not Wi-Fi 6 capable.[It has 802.11ac](https://www.lifewire.com/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553) , and it's backwards compatible. On the back of the router sit four gigabit LAN ports in addition to the WAN connection. There’s no multigig port, but the four ports were a welcome addition.
@@ -100,9 +112,6 @@ Lifewire / Erika Rawes
 
  In my test home, speeds from my ISP max out at 500 Mbps. In the same room as the main router, Ookla measured the speed at 131 Mbps. The speed remained consistent throughout the home, even in rooms that typically experience drop offs with other routers. However, outside in the backyard, the speed reduced to 111 Mbps.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Key Features: A display screen**
 
  The touchscreen on the front of the main router can display the time, total GB, WAN and Router IP addresses, internet speeds, and port statuses. You touch the screen to cycle through the different screen options. The power cable connects via[USB-C](https://www.lifewire.com/usb-c-4149490) , and there’s a USB 2.0 port as well, but it doesn’t allow you to connect an external hard drive (the port is reserved for future use).
@@ -111,9 +120,6 @@ Lifewire / Erika Rawes
 
  The app creates a dual (2.4 and 5Ghz) network, which directs traffic based on the most efficient pathways.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Amplifi App**
 
  In the Amplifi App, you can set up a guest network, manage devices, pause the internet, check the health of the system, and check your speeds on your entire network and on individual devices. You can optimize the priority level for each of your devices between normal, streaming, or gaming.
@@ -123,6 +129,13 @@ Lifewire / Erika Rawes
 ![Amplifi HD](https://www.lifewire.com/thmb/2X1DxWPlS1VXqnwsUCG5qviJXwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_03-56584e48b76942519745c71443c2e8d5.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: A little steep**
 
@@ -138,9 +151,6 @@ Lifewire / Erika Rawes
 
  The Amplifi HD mesh system is attractive and does provide coverage for a huge area, but it doesn’t deliver lightning-fast speeds in a home with dozens of connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Amplifi HD Mesh Wi-Fi System
@@ -159,14 +169,11 @@ Lifewire / Erika Rawes
 * Remote connect  Yes
 * What’s included  Amplifi HD Router, two mesh points, power and Ethernet cables, guides
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +182,22 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-virtual-vice-versa-10-alternative-action-games-for-2024/"><u>[New] Virtual Vice-Versa 10 Alternative Action Games for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-watch-what-you-liked-no-more-unveiling-yt-deletions-online/"><u>[New] Watch What You Liked No More Unveiling YT Deletions Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-scaling-youtube-influence-a-comprerancial-guide-to-creator-studios-potential/"><u>[Updated] 2024 Approved Scaling YouTube Influence A Comprerancial Guide to Creator Studio's Potential</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-deep-dive-into-cutting-edge-vr-technology/"><u>[Updated] A Deep Dive Into Cutting-Edge VR Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-techniques-for-saving-lol-games/"><u>[Updated] In 2024, Essential Techniques for Saving LOL Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-investigating-the-underreported-drawbacks-of-vr/"><u>[Updated] Investigating the Underreported Drawbacks of VR</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-joy-junction-for-tiny-gamers-for-2024/"><u>[Updated] The Joy Junction for Tiny Gamers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easily-manage-your-stream-time-and-speed-on-netflix/"><u>Easily Manage Your Stream Time and Speed on Netflix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-muffled-to-clear-the-initial-use-of-fade-in-audition/"><u>From Muffled to Clear The Initial Use of Fade in Audition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-step-by-step-approach-to-professional-chromatic-control/"><u>In 2024, A Step by Step Approach to Professional Chromatic Control</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro/"><u>In 2024, Beneath the Surface Secrets to Professional Underwater Videos with GoPro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-chroma-shift-4k-vistas-unveiled-by-blade-technology/"><u>The Chroma Shift 4K Vistas Unveiled by Blade Technology</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-ultimate-gamers-crossroads-oculus-or-playstation-vr-for-2024/"><u>The Ultimate Gamer’s Crossroads Oculus or PlayStation VR for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tiktok-tricks-for-striking-visual-results/"><u>TikTok Tricks for Striking Visual Results</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-notch-tricks-to-nail-every-green-screen-shot/"><u>Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+</ul></div>
 

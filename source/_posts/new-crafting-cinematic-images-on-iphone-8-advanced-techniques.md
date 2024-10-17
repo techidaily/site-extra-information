@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Cinematic Images on iPhone  8 Advanced Techniques\""
-date: 2024-08-20T02:35:49.827Z
-updated: 2024-08-21T02:35:49.827Z
+date: 2024-10-11T21:19:12.021Z
+updated: 2024-10-17T02:03:27.680Z
 tags: 
   - screen-recording
   - ai video
@@ -43,13 +43,31 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![light](https://images.wondershare.com/set-light-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Avoid Using the Digital Zoom
 
  It can be very tempting to try and use the zoom function on your camera to see people better, but this ultimately doesn’t work. You will end up with a grainy video of uncertain quality, rather than one which allows you to see everything in close up. Just move towards the point you are attempting to film – the quality of the video will be better, and you will not have to fiddle with controls and menus while making the video.
 
 ![zoom](https://images.wondershare.com/Zoom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use the Grid
 
@@ -57,12 +75,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use the Exposure Lock
 
  When taking a video or a picture, you will have noticed that it can change the colour and the exposure while trying to get a lock and fix on what it is going to be recording. While it is good that it tries to find the best way to accommodate the light and sound in the room, having your video change exposure throughout will be at best annoying and at worst an outright distraction. Lock your exposure down on the iPhone once you have found the optimum conditions for the video, and it will not change.
@@ -70,8 +82,12 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Use Slow Motion\\Time Lapse Mode
 
  One way to make videos more interesting is to use either slow motion or time lapse features. The well-known use of time lapse video is if the video is extremely long, and it needs to be shortened – we are all aware of the use of montages in films, after all – and it can be very effective when used correctly. Slow motion is different - it can be used for the same reasons as in films, but it can also be used for when you need to follow instructions, or for when you want to follow what is being done in absolute detail.
@@ -86,18 +102,19 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Edit your Video with Filmora
 
  Films go through extensive editing processes before being released to the general public, so why shouldn’t you edit your videos? Things go wrong in the process of making a video – somebody appears where they shouldn’t, a phone rings, people have conversations, the tripod falls down, the camera ends up pointed the wrong way….a lot can happen. Editing your video means that you can take all these problems out, and also means that you can tighten up the video generally, improve the sound quality, and make sure that everything is as it should be before you show it off.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
@@ -105,15 +122,17 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -121,3 +140,23 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-finding-the-facebook-in-niche-driven-instagram-realms/"><u>[New] 2024 Approved Finding the Face(book) in Niche-Driven Instagram Realms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-dji-inspire-1-review-insights/"><u>[New] Complete DJI Inspire 1 Review Insights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-innovating-with-ideas-constructing-your-unique-tiktok-sequence/"><u>[New] In 2024, Innovating with Ideas Constructing Your Unique TikTok Sequence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-stream-side-stacking-pewdiepies-payday-portion/"><u>[New] Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-online-content-delivery-to-key-social-media-channels/"><u>[Updated] Optimizing Online Content Delivery to Key Social Media Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-spectacular-time-lapses-with-gopro-hero5-black/"><u>2024 Approved Crafting Spectacular Time-Lapses with GoPro Hero5 Black</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anycubic-kobra-3-reviewed-setting-new-standards-in-multicolored-3d-printing-innovation/"><u>Anycubic Kobra 3 Reviewed: Setting New Standards in Multicolored 3D Printing Innovation</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-your-excel-pace-on-a-windows-system/"><u>Boosting Your Excel Pace on a Windows System</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-an-in-depth-study-on-ffmpegs-excellence-in-original-audio-extraction/"><u>In 2024, An In-Depth Study on FFmpeg's Excellence in Original Audio Extraction</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cinematic-transformation-best-15-gopro-color-correction-look-ups-explored/"><u>In 2024, Cinematic Transformation Best 15 GoPro Color Correction Look-Ups Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-content-delivery-network-examination/"><u>In 2024, Content Delivery Network Examination</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>Perfecting Video Calls Merging ZOOM and SKYPE Expertise</u></a></li>
+<li><a href="https://extra-information.techidaily.com/playing-halted-a6400-video-viewing-woes/"><u>Playing Halted A6400 Video Viewing Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-creating-convenient-shortcuts-for-web-pages-on-windows-10-taskbar-and-start-menu/"><u>Step-by-Step Tutorial: Creating Convenient Shortcuts for Web Pages on Windows 10 Taskbar & Start Menu</u></a></li>
+</ul></div>
+

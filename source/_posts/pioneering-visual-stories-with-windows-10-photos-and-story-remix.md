@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Visual Stories with Window's 10 Photos & Story Remix"
-date: 2024-08-13T07:19:28.229Z
-updated: 2024-08-14T07:19:28.229Z
+date: 2024-10-11T23:39:27.983Z
+updated: 2024-10-17T02:10:08.675Z
 tags: 
   - screen-recording
   - ai video
@@ -50,17 +50,7 @@ Downloading Photos App will add Story Remix to your system for brilliant video e
 Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to create Story Remix automatically and randomly
 
 In this part of the article, we would elaborate creation of Story Remix in different ways. The content is auto-generated or you can manually create it from scratch. The automatic method has themes, transitions, and soundtracks within.
@@ -72,9 +62,6 @@ How to create a Story Remix project automatically –
    3. Give a name and tap on **OK**.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
    2. You can rearrange the content by tapping **Remix it for me** button.
@@ -90,14 +77,12 @@ Here is the guide –
    3. Tap on the **Add** button and give a name.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Hit on **Create video** afterwards.
@@ -109,9 +94,6 @@ Story Remix has 3 major sections namely, media bin consists of files already inc
 
 In the following sections, we have segregated each editing feature of Story Mix for you to explore –
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Adding a new theme
 
 A theme is a built-in feature in Photos, just like music, filters, and text styles. Adding a theme does everything on the go.
@@ -120,9 +102,6 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding image duration
 
@@ -131,13 +110,14 @@ While adding media to the timeline in Story Mix, you will see that there is a de
 Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Adding custom text
 
 1. Choose card from timeline, click ‘Text’ and feed the custom text in the box located at right side. You can simply use animated text styles too.
@@ -145,9 +125,6 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 3. Hit ‘Done’ after that.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding motion
 
@@ -155,14 +132,32 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 2. Preview the changes and click ‘Done’.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to add 3D effects to a Story Remix project
 
@@ -173,6 +168,20 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: How to export a Story Remix video
 
@@ -189,9 +198,6 @@ Now, pick the app or contact and send the video.
 
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
@@ -210,11 +216,33 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-auditory-storytelling-at-a-high-level/"><u>[New] Auditory Storytelling at a High Level</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-long-term-snappiness-keeping-streaks-uninterrupted/"><u>[Updated] 2024 Approved Long-Term Snappiness Keeping Streaks Uninterrupted</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-a-compreenasional-approach-to-earning-through-vimeos-revenue-systems-for-2024/"><u>[Updated] A Compreenasional Approach to Earning Through Vimeo's Revenue Systems for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-dualview-photography-analysis/"><u>[Updated] In 2024, DualView Photography Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pro-editor-tips-cropping-and-export-your-videos-for-instagram-success/"><u>[Updated] In 2024, Pro Editor Tips Cropping & Export Your Videos for Instagram Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-stardews-successors-top-10-farming-sim-picks/"><u>[Updated] In 2024, Stardew's Successors Top 10 Farming Sim Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>2024 Approved Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acoustic-architects-leading-sites-to-buy-skype-tones-for-2024/"><u>Acoustic Architects Leading Sites to Buy Skype Tones for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-art-manipulating-photos-creatively/"><u>Digital Art Manipulating Photos Creatively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/groundbreaking-14-animated-text-techniques/"><u>Groundbreaking 14 Animated Text Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-edge-ai-translate-into-practical-application/"><u>How Does Edge AI Translate Into Practical Application?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-tips-for-enhancing-photo-colors-effortlessly/"><u>In 2024, 5 Tips for Enhancing Photo Colors Effortlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevating-your-content-choosing-right-youtube-duosgroups/"><u>In 2024, Elevating Your Content Choosing Right YouTube Duos/Groups</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-monetary-milestones-a-look-at-pewdiepies-yearly-income/"><u>In 2024, Monetary Milestones A Look at PewDiePie's Yearly Income</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-vivid-visuals-brush-up-your-youtube-beauty-videos/"><u>In 2024, Vivid Visuals Brush up Your YouTube Beauty Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
+<li><a href="https://extra-information.techidaily.com/secrets-revealed-streamlined-importation-on-windows-10-os/"><u>Secrets Revealed Streamlined Importation on Windows 10 OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/soundscapes-for-phones-how-to-curate-tamil-ringtone-tracks/"><u>Soundscapes for Phones How to Curate Tamil Ringtone Tracks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-full-potential-of-zoom-with-youtube-live/"><u>Unlocking the Full Potential of Zoom with YouTube Live</u></a></li>
+</ul></div>
+

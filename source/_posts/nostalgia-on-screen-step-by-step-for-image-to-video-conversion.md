@@ -1,7 +1,7 @@
 ---
 title: "\"Nostalgia on Screen  Step-by-Step for Image to Video Conversion\""
-date: 2024-10-08T17:03:28.752Z
-updated: 2024-10-10T16:27:46.633Z
+date: 2024-10-11T19:20:04.694Z
+updated: 2024-10-17T02:24:34.629Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,13 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -78,6 +85,13 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -87,10 +101,10 @@ To start with, you can just launch Filmora on your system and import your photos
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Create a timeline for your photos
@@ -105,13 +119,6 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -124,22 +131,15 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 5\. Export your video
@@ -197,21 +197,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-customize-confidently-express-optimizing-your-voice-on-snapchat/"><u>[New] Customize, Confidently Express Optimizing Your Voice on Snapchat</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-mastering-minecraft-ultimate-recording-techniques-for-2024/"><u>[New] Mastering Minecraft Ultimate Recording Techniques for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-top-10-best-4k-gaming-laptops/"><u>[New] TOP 10 Best 4K Gaming Laptops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-front-seat-escapades-beyond-athletic-viewing/"><u>2024 Approved Front Seat Escapades Beyond Athletic Viewing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-nokia-71-exceptional-display-and-photography-at-a-bargain/"><u>Affordable Nokia 7.1: Exceptional Display & Photography at a Bargain</u></a></li>
-<li><a href="https://extra-information.techidaily.com/android-guide-for-backward-video-display/"><u>Android Guide for Backward Video Display</u></a></li>
-<li><a href="https://extra-information.techidaily.com/combining-images-for-an-engaging-picture-panorama/"><u>Combining Images for an Engaging Picture Panorama</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/effortless-drm-elimination-for-itunes-and-streaming-videos-get-our-no-cost-software-now/"><u>Effortless DRM Elimination for iTunes & Streaming Videos - Get Our No-Cost Software Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-interaction-with-these-nine-convincing-factors-to-opt-for-chatgpt-plus/"><u>Elevate Your AI Interaction with These Nine Convincing Factors to Opt for ChatGPT Plus</u></a></li>
-<li><a href="https://extra-information.techidaily.com/flipped-frames-understanding-instagram-video-orientation/"><u>Flipped Frames Understanding Instagram Video Orientation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-long-is-too-long-for-a-chatgpt-answer/"><u>How Long Is Too Long for a ChatGPT Answer?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a79-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A79 5G FRP Without Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-adobe-shockwave-flash-disruptions-in-google-chrome-expert-solutions/"><u>Overcoming Adobe Shockwave Flash Disruptions in Google Chrome: Expert Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-dialogue-draft-directory/"><u>Prime Dialogue Draft Directory</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-blueprint-to-rip-and-burn-cds-with-windows-media-player/"><u>The Ultimate Blueprint to Rip & Burn Cds with Windows Media Player</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-swift-google-collage-compilation/"><u>The Ultimate Guide to Swift Google Collage Compilation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/90s-chuckles-dissecting-the-vhs-of-the-goofies-for-2024/"><u>'90S Chuckles Dissecting the VHS of The Goofies for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-success-the-premier-list-of-ai-namesmiths/"><u>[New] Crafting Success The Premier List of AI Namesmiths</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-maximizing-virtual-reality-potential/"><u>[Updated] Maximizing Virtual Reality Potential</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-the-legality-of-facebooks-immediate-video-takedowns/"><u>2024 Approved Navigating the Legality of Facebook's Immediate Video Takedowns</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-10-collage-apps-for-android-top-picks/"><u>Best 10 Collage Apps for Android ​ (Top Picks)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-14-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 14 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frosty-frontiers-winter-games-apex-moments/"><u>Frosty Frontiers Winter Games Apex Moments</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-video-upload-bridging-twitter-tumblr-guide/"><u>In 2024, Video Upload Bridging Twitter-Tumblr Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722698470071-is-the-samsung-cf591-a-top-contender-in-gaming-displays-our-in-depth-review/"><u>Is the Samsung CF591 a Top Contender in Gaming Displays? Our In-Depth Review!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-ditch-the-limits-installing-linux-on-your-chromebook-updated-2023/"><u>New In 2024, Ditch the Limits Installing Linux on Your Chromebook (Updated 2023)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-inshot-editors-handbook-to-smoothness/"><u>The Complete Inshot Editor's Handbook to Smoothness</u></a></li>
 </ul></div>
 

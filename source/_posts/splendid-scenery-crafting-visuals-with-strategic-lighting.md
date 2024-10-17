@@ -1,7 +1,7 @@
 ---
 title: "\"Splendid Scenery  Crafting Visuals with Strategic Lighting\""
-date: 2024-08-20T02:32:59.905Z
-updated: 2024-08-21T02:32:59.905Z
+date: 2024-10-13T21:08:41.361Z
+updated: 2024-10-17T01:07:13.161Z
 tags: 
   - screen-recording
   - ai video
@@ -92,6 +92,19 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -124,8 +137,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-closer-look-at-luminance-and-its-hdr-achievements/"><u>[New] A Closer Look at Luminance and Its HDR Achievements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beginners-top-8-camera-options-35mm-to-pands/"><u>[New] Beginner’s Top 8 Camera Options (35Mm to P&S)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-copyright-free-online-collections-for-games/"><u>[New] Copyright-Free Online Collections for Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-best-10-video-editing-apps-to-edit-and-make-instagram-reels/"><u>[Updated] 2024 Approved Best 10 Video Editing Apps to Edit and Make Instagram Reels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-perfect-speech-interpretation-googles-innovative-solution/"><u>[Updated] 2024 Approved Perfect Speech Interpretation Google's Innovative Solution</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-combining-rotating-and-fine-tuning-videos-with-android-tools/"><u>[Updated] Combining, Rotating & Fine-Tuning Videos with Android Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram-for-2024/"><u>[Updated] Mastering Multimedia Posts Multiphotograph & Video Uploads on Instagram for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-inter-app-playlist-exchange-made-simple/"><u>2024 Approved Inter-App Playlist Exchange Made Simple</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aesthetic-fusion-studio-ultimate-photo-alchemy-for-2024/"><u>Aesthetic Fusion Studio Ultimate Photo Alchemy for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-protected-email-solutions-to-keep-your-inbox-safe/"><u>Best Protected Email Solutions to Keep Your Inbox Safe</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-windows-10-imports-a-deep-dive-into-file-transfer/"><u>Decoding Windows 10 Imports A Deep Dive Into File Transfer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/echoes-of-the-northmen-essential-sites-to-grab-got-audio-calls/"><u>Echoes of the Northmen Essential Sites to Grab GoT Audio Calls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>Immersive Tech Triumphs Upcoming Top 5 PlayStation VR Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-pova-5-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Pova 5 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-10-solutions-for-seamless-video-background-swapping-for-2024/"><u>Innovative 10 Solutions for Seamless Video Background Swapping for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-quick-conversions-best-free-tools-transforming-gif-for-2024/"><u>Seamless, Quick Conversions Best Free Tools Transforming GIF for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-drone-racers-and-top-5-fpv-drones/"><u>Ultimate Guide to Drone Racers & Top 5 FPV Drones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-top-10-free-and-paid-android-video-editing-apps/"><u>Updated From Zero to Hero Top 10 Free and Paid Android Video Editing Apps</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
