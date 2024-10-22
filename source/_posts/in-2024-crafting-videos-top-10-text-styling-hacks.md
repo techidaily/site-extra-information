@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Crafting Videos  Top 10 Text Styling Hacks\""
-date: 2024-10-14T20:55:40.303Z
-updated: 2024-10-17T01:58:10.181Z
+date: 2024-10-15T20:48:12.132Z
+updated: 2024-10-22T16:25:38.971Z
 tags: 
   - screen-recording
   - ai video
@@ -39,13 +39,6 @@ There is no doubt that After Effects is considered to be a great editor to apply
 
 There are certain text effects that you generally come across whether you are watching movies, web series, and videos on social media or video streaming platforms. We have compiled a list of the most popular text effects that are extremely relevant in the current times in videography.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Underwater Text Effect
 
 Opening a video with the view of a beach and blue water is definitely stunning. But when you add an underwater text effect to display any title, it instantly grabs the attention of the viewers. In the underwater text effect, your text seems to be fixated or floating under the water. The text generally has a darker shade of blue over the light bluish water.
@@ -92,13 +85,6 @@ Blurry fade on is such a pleasing effect for the human eye especially when it is
 
 ![blurry fade on text effect](https://images.wondershare.com/filmora/article-images/2022/09/blurry-fade-on-text-effect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In fact, the text effect is used to highlight a few characters in a word while the others remain blurred. You can also use the effect when you are making transitions between different texts and titles. It is more like an add-on to the usual fade on effect as it adds a blurring effect. It is important to get the attention of the viewers to specific texts.
 
 ### 7\. Type on Text Effect
@@ -107,14 +93,14 @@ The type on text effect is also referred to as the typewriter effect. In this ef
 
 ![type on text effect](https://images.wondershare.com/filmora/article-images/2022/09/type-on-text-effect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 It breaks the monotony of showing an entire paragraph at once. Sometimes, a modified version of the type on text effect is used whereby some characters are shown and they are deleted backward and re-typed. This helps in getting the immediate attention of the viewers and they focus on the re-typed characters or words.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Animate Along a Path
 
@@ -131,6 +117,13 @@ If you have watched any informational video, you must have seen small notes slid
 ![slide text effect](https://images.wondershare.com/filmora/article-images/2022/09/slide-text-effect.jpg)
 
 Generally, the slide effect for text is accompanied by a highlighted background so that the text is legible. It is suitable for showing important notes in a few sentences such as showing some facts about a place. The effect is widely used in videos related to news or videos where there are more photos and texts and less voice narration.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Stripe Text Effect
 
@@ -159,13 +152,6 @@ Step2 Import your video clip under Project Media folder to which you want to add
 Step3 Select a text effect template of your liking and drop it on the timeline. Adjust its place on the timeline to make it appear exactly where required. You can also reposition the text from the view. Double-click on the text layer and edit the text.
 
 ![customize text title video filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-title-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Thereafter, you can edit the style of the text as well as modify other settings. Moreover, you can go to Advanced section to edit out the text effect and animation easily.
 
@@ -177,11 +163,25 @@ Part 1\. Popular Text Effects
 
 There are certain text effects that you generally come across whether you are watching movies, web series, and videos on social media or video streaming platforms. We have compiled a list of the most popular text effects that are extremely relevant in the current times in videography.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Underwater Text Effect
 
 Opening a video with the view of a beach and blue water is definitely stunning. But when you add an underwater text effect to display any title, it instantly grabs the attention of the viewers. In the underwater text effect, your text seems to be fixated or floating under the water. The text generally has a darker shade of blue over the light bluish water.
 
 ![under water text effect](https://images.wondershare.com/filmora/article-images/2022/09/under-water-text-effect.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The text also has some distortion effect due to the waves in the water body so that it looks more realistic. There are different variations of that underwater text effect such as the text emerging out of water when there is a side view of the water body is taken. Another example of the variation is that text is floating over the water and having a watery gel or bubbly texture.
 
@@ -201,13 +201,6 @@ Glitch text effect is an extremely popular effect in modern times where retro vi
 
 Glitch text effect is more prominent when it is applied to a large text having a light color against a dark background. The use of shadow and blur effect to get the desired glitch effect is common. More often than not, some short straight lines like strokes are placed around the text to enhance the glitch effect. Some creators prefer glitch text effect on 3D texts for a better visual appeal.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. 3D Text Effect
 
 3D text effect has been popular ever since its inception and its popularity has been steady in the videography world even today. Of course, with time, the effect has changed a lot to match the different niches of videos, and hence, you will come across a wide variety of 3D text effects. Starting from full screen texts and titles to adverts and promotional texts, 3D text effects find a place everywhere.
@@ -215,10 +208,10 @@ Glitch text effect is more prominent when it is applied to a large text having a
 ![3d text video effect](https://images.wondershare.com/filmora/article-images/2022/09/3d-text-video-effect.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Starting from 3D texts coming out of the background wall to 3D hologram text effect with retro look, you can apply any 3D effect to the texts and titles of your video as per relevancy. Most importantly, there is a wide scope for customization and personalization to captivate the viewers and get the message across clearly. You can go through 3D text After Effects tutorial and embed 3D texts in your video easily.
@@ -239,6 +232,13 @@ Blurry fade on is such a pleasing effect for the human eye especially when it is
 
 In fact, the text effect is used to highlight a few characters in a word while the others remain blurred. You can also use the effect when you are making transitions between different texts and titles. It is more like an add-on to the usual fade on effect as it adds a blurring effect. It is important to get the attention of the viewers to specific texts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Type on Text Effect
 
 The type on text effect is also referred to as the typewriter effect. In this effect, the characters in the text appear one by one as if someone is typing it in real-time with a typewriter. A blinking cursor is placed at the end for the characters for a more realistic look. The text effect is useful for both one-liners as well as paragraphs.
@@ -247,20 +247,27 @@ The type on text effect is also referred to as the typewriter effect. In this ef
 
 It breaks the monotony of showing an entire paragraph at once. Sometimes, a modified version of the type on text effect is used whereby some characters are shown and they are deleted backward and re-typed. This helps in getting the immediate attention of the viewers and they focus on the re-typed characters or words.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Animate Along a Path
 
 If you are looking for a customized animation for the texts in your video, you should opt for animate along a path effect. The text will move in the pre-defined path while moving along the path, there can be additional animation for the words and characters. The text is widely used for showing one-liner that comes out of nowhere and moves out of the frame following its path.
 
 ![animate along a path text effect](https://images.wondershare.com/filmora/article-images/2022/09/animate-along-a-path-text-effect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can use the effect to show certain lines that are common throughout the video. Besides, you can use it while making transition from one scene to another. Some video creators use them for opening and editing credits so that it can keep the audiences hooked instead of the usual opening and ending credits.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. Slide Text Effect
 
@@ -299,13 +306,6 @@ Step3 Select a text effect template of your liking and drop it on the timeline. 
 ![customize text title video filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-title-video-filmora.jpg)
 
 Thereafter, you can edit the style of the text as well as modify other settings. Moreover, you can go to Advanced section to edit out the text effect and animation easily.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -335,20 +335,24 @@ We have listed the most popular text effects that are widely used in today’s v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-master-the-art-of-live-streaming-snapchat-videos-for-2024/"><u>[New] Master the Art of Live Streaming Snapchat Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-achieve-more-engagement-on-youtube-learn-the-best-thumbnail-size/"><u>[Updated] Achieve More Engagement on YouTube Learn the Best Thumbnail Size</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-charting-the-course-to-trending-youtubers/"><u>[Updated] Charting the Course to Trending YouTubers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-craft-a-one-of-a-kind-digital-gag-now/"><u>[Updated] Craft a One-of-a-Kind Digital Gag Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-engaging-storytelling-podcasts-with-applee-devices/"><u>[Updated] Crafting Engaging Storytelling Podcasts with Apple'e Devices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-premium-selection-the-ultimate-15-video-devices/"><u>[Updated] Premium Selection The Ultimate 15 Video Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-professionelle-dvd-software-von-winxdvd-dvd-ripper-videoqualitatsverbesserer-und-konverter-fur-ios/"><u>1. Professionelle DVD-Software Von WinXDVD: DVD-Ripper, Videoqualitätsverbesserer Und Konverter Für iOS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/advanced-8-visual-boosts-for-online-broadcasts/"><u>Advanced 8 Visual Boosts for Online Broadcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-resolving-microsoft-print-to-pdf-problems-across-windows-1011-systems/"><u>Expert Tips: Resolving Microsoft Print to PDF Problems Across Windows 10/11 Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-amateur-to-pro-elevating-your-hdr-portrait-skills/"><u>From Amateur to Pro Elevating Your HDR Portrait Skills</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-11-innovative-metaverse-projects-for-insightful-analysis/"><u>In 2024, 11 Innovative Metaverse Projects for Insightful Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breaking-boundaries-with-eizos-spectaculous-cg318-4k/"><u>In 2024, Breaking Boundaries with EIZO's Spectaculous CG318-4K</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-the-problem-when-modern-warfare-chat-feature-stops-working/"><u>Resolving the Problem When Modern Warfare Chat Feature Stops Working</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-five-excellent-cameras-for-high-fidelity-movies/"><u>Top Five Excellent Cameras for High Fidelity Movies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-core-principles-of-crafting-convincing-video-endorsements/"><u>[New] Core Principles of Crafting Convincing Video Endorsements</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-does-the-law-apply-to-video-sharing-on-facebook-for-2024/"><u>[New] How Does the Law Apply to Video Sharing on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>[New] Overcoming Sync Issues Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-actionable-solutions-for-converting-xml-ssa-ttml-etc-to-srt/"><u>[Updated] Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-closing-credits-collection-free-to-subscription-choices/"><u>[Updated] Closing Credits Collection Free to Subscription Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-icy-immortals-top-athletes-from-the-freeze/"><u>[Updated] Icy Immortals Top Athletes From the Freeze</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-frameworks-for-dynamic-fb-video-marketing/"><u>2024 Approved Frameworks for Dynamic FB Video Marketing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elaborate-assessment-of-simplified-hdr-processing/"><u>Elaborate Assessment of Simplified HDR Processing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-quickly-fix-d-link-driver-issues-with-fresh-windows-downloads/"><u>How to Quickly Fix D-Link Driver Issues with Fresh Windows Downloads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oppo-f25-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Oppo F25 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ize-youtube-traction-affordable-audience-expansion/"><u>Maximize YouTube Traction Affordable Audience Expansion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-video-editor-essentials-top-5-macos-sierra-software/"><u>Professional Video Editor Essentials Top 5 macOS Sierra Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-connection-how-to-link-your-airpods-with-the-htc-quest-6-pro-without-disturbing-others-techradar/"><u>Seamless Connection: How to Link Your AirPods with the HTC Quest 6 Pro Without Disturbing Others | TechRadar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-file-fundamentals-from-basics-to-advanced-techniques/"><u>SRT File Fundamentals From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-gear-reviews-and-analysis/"><u>Tom's Tech Insights: Expert Gear Reviews and Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-commercial-data-custodians/"><u>Top 10 Commercial Data Custodians</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-language-barriers-select-top-8-free-srt-tools/"><u>Unlocking Language Barriers Select Top 8 Free SRT Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vivid-visionary-views-premium-4k-screen-choices/"><u>Vivid Visionary Views Premium 4K Screen Choices</u></a></li>
 </ul></div>
 

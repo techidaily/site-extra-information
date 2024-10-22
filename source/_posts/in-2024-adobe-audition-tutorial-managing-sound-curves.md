@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Adobe Audition Tutorial  Managing Sound Curves\""
-date: 2024-10-13T19:28:02.959Z
-updated: 2024-10-16T20:52:07.613Z
+date: 2024-10-21T18:06:03.151Z
+updated: 2024-10-22T19:02:35.149Z
 tags: 
   - screen-recording
   - ai video
@@ -56,10 +56,16 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 * Now exactly, in the same way, you can go in and begin to make adjustments. Now, when you make a selection here, Audition compresses your adjustments into that selected region. You will need to be a little careful about that when working with these effects. So, you can add fades very easily at any time by clicking on the handles at the top right and left of Waveform Display, or you can use dedicated effects for the purpose.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Audition Alternative to Fade Audio
@@ -72,6 +78,13 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -79,16 +92,16 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs
 
@@ -104,6 +117,13 @@ Select the option of amplifying the effects i.e., amplitude and compression. Do 
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Adobe Audition has always been a powerful platform for audio editing. But as every coin has its two faces so is the case with this also. Due to the expensive price of a monthly subscription, not everyone will be able to use this and get the benefits from using this. Though if you want to excel in audio editing, you should go for a subscription. If you are doing podcasting or video editing and looking for a complementary product for your projects, Audition is a perfect match. This is particularly if you have already worked with other best-leading Adobe software like Photoshop or Premiere.
@@ -113,13 +133,6 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
@@ -134,22 +147,15 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 ## Part 3\. Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
@@ -192,17 +198,22 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-10-free-web-conferencing-software-for-online-meeting-with-screen-sharing/"><u>[New] 10 Free Web Conferencing Software for Online Meeting (with Screen Sharing)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-acid-pro-in-focus-investigating-replacements-and-comparisons/"><u>[Updated] ACID Pro in Focus Investigating Replacements and Comparisons</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728479155299-5/"><u>「失去電腦文件，無需惶恐：這5大手段自助回復！深度分析指南」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-kinetic-insight-study/"><u>2024 Approved Comprehensive Kinetic Insight Study</u></a></li>
-<li><a href="https://extra-information.techidaily.com/assessing-hdr-standards-luminances-role/"><u>Assessing HDR Standards Luminance's Role</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-reality-jaunt-vr-breakdown-for-2024/"><u>Beyond Reality Jaunt VR Breakdown for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/harnessing-external-light-for-cozy-interior-spaces-for-2024/"><u>Harnessing External Light for Cozy Interior Spaces for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-pursuit-of-detail-zoom-tactics-for-videoleap-enthusiasts/"><u>In Pursuit of Detail Zoom Tactics for VideoLeap Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/precision-content-marketing-for-soaring-social-media-ranks/"><u>Precision Content Marketing for Soaring Social Media Ranks</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-into-yesteryear-classic-pc-gaming-via-dosbox-x/"><u>Step Into Yesteryear: Classic PC Gaming via DOSBox-X</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-nokia-c22-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Nokia C22 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mobile-editing-hacks-select-top-10-short-form-apps/"><u>[New] Mobile Editing Hacks Select Top 10 Short Form Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-creating-memorable-beginnings-imovie-tips-for-youtube-videos/"><u>[Updated] 2024 Approved Creating Memorable Beginnings IMovie Tips for YouTube Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cinematic-expertise-top-15-innovative-gopro-action-cam-look-ups/"><u>[Updated] Cinematic Expertise Top 15 Innovative GoPro Action Cam Look-Ups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comical-creations-no-cost-memes-available/"><u>[Updated] Comical Creations No Cost Memes Available</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-integrating-facebook-video-into-home-screen-apps/"><u>[Updated] Integrating Facebook Video Into Home Screen Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-virtual-care-innovations-in-medicine/"><u>2024 Approved Virtual Care Innovations in Medicine</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-reno-8t-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Reno 8T? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exposing-the-invisible-voices-of-yt-community/"><u>Exposing the Invisible Voices of YT Community</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stabilize-an-unstable-printer-on-windows/"><u>How to Stabilize an Unstable Printer on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-honor-100-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Honor 100 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-maximizing-creativity-with-picsart/"><u>In 2024, In-Depth Guide to Maximizing Creativity with PicsArt</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-dialogue-composers-circle/"><u>Leading Dialogue Composer's Circle</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-gopro-timelapse-a-step-by-step-guide/"><u>Mastering GoPro Timelapse A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-for-epochal-transition-scenes/"><u>Techniques for Epochal Transition Scenes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-complete-guide-to-structuring-effective-audio-xml/"><u>The Complete Guide to Structuring Effective Audio XML</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-leaderboard-of-gps-drones-with-steady-followers/"><u>The Leaderboard of GPS Drones with Steady Followers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zooming-into-the-details-with-team-meetings/"><u>Zooming Into the Details with Team Meetings</u></a></li>
 </ul></div>
 

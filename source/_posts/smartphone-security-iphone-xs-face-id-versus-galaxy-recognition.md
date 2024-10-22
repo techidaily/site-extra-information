@@ -1,7 +1,7 @@
 ---
 title: "\"Smartphone Security  IPhone X’s Face ID Versus Galaxy Recognition\""
-date: 2024-08-13T07:18:59.571Z
-updated: 2024-08-14T07:18:59.571Z
+date: 2024-10-19T18:36:01.036Z
+updated: 2024-10-22T17:04:49.547Z
 tags: 
   - screen-recording
   - ai video
@@ -48,25 +48,27 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
  Samsung also uses almost identical operation and involves two components which are IR LED and Iris camera. The former can be said as similar to the flood illuminator of the newest iPhone. IR LED works same as flood illuminator. It however shows difference only by focusing the infrared light on the eyes unlike flood illuminator which focus on the entire face. The Iris camera is nothing but infrared camera whose job is to take the picture of your iris. The process begins with IR LED which assists Iris camera by illuminating the eyes so that the camera gets the opportunity to capture the iris pattern properly. Samsung has the option to choose between both iris scanning or just one.
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -76,17 +78,12 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
  Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Safety Issue
@@ -103,14 +100,18 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -118,11 +119,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-cartoonify-photos-wirelessly-on-pcs-macs-and-more/"><u>[New] Cartoonify Photos Wirelessly on PCs, Macs, and More</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-larger-video-posts-in-instagram-for-2024/"><u>[New] Mastering the Art of Larger Video Posts in Instagram for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audience-favorites-screenplays-of-varied-genres/"><u>2024 Approved Audience Favorites Screenplays of Varied Genres</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-zoom-champion-in-minutes/"><u>2024 Approved Become a Zoom Champion in Minutes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-linkedin-live-clarity-ending-the-partially-muted-frustration/"><u>2024 Approved LinkedIn Live Clarity - Ending the Partially Muted Frustration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tools-for-creatives-comprehensively-evaluating-ae-plugins/"><u>2024 Approved Pro Tools for Creatives Comprehensively Evaluating AE Plugins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/biometrics-battle-comparing-faces-of-iphone-x-and-galaxy-phones/"><u>Biometrics Battle Comparing Faces of iPhone X & Galaxy Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-transformation-best-15-gopro-color-correction-look-ups-explored/"><u>Cinematic Transformation Best 15 GoPro Color Correction Look-Ups Explored</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g-stylus-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto G Stylus (2023) has native HEVC support?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/foundations-of-mixing-adobe-auditions-fade-in-technique/"><u>Foundations of Mixing Adobe Audition’s Fade In Technique</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frenemies-forever-friends-favorite-vrs/"><u>Frenemies Forever Friends' Favorite VRs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-samsung-galaxy-f15-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy F15 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-videography-stabilizers-enhancing-mobile-and-dslr-shots/"><u>Premier Videography Stabilizers Enhancing Mobile & DSLR Shots</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconciliation-of-drive-malfunction-52/"><u>Reconciliation of Drive Malfunction #52</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/slowing-down-reality-crafting-slow-motion-videos-from-still-images-online/"><u>Slowing Down Reality Crafting Slow Motion Videos From Still Images Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-connectivity-fix-for-windows-11/"><u>Steam Connectivity Fix for Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-12-pro-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 12 Pro Activation Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-igfxem-module-failure-cases/"><u>Troubleshooting Steps for iGFXem Module Failure Cases</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-live-band-webcasts/"><u>Ultimate Live Band Webcasts</u></a></li>
+</ul></div>
+

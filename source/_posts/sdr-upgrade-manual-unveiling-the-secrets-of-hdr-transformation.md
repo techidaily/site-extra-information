@@ -1,7 +1,7 @@
 ---
 title: "\"SDR Upgrade Manual  Unveiling the Secrets of HDR Transformation\""
-date: 2024-10-16T03:17:29.808Z
-updated: 2024-10-16T22:06:13.300Z
+date: 2024-10-16T20:34:39.092Z
+updated: 2024-10-22T19:33:15.052Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ Videos with a high dynamic range have enhanced depth perception. So, the surface
 
 HDR video comes with the availability of a wider color gamut that is not supported under SDR. With HDR, it is possible to expand the luminance and contrast levels, and color gradients are more prominent. To note, SDR monitors run with the Rec.709 colorspace spectrum, while HDR supports a wider Rec.2020 colorspace with more color variations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Up-mapping SDR Archive Content to HDR
 
 It is possible to **convert SDR to HDR** after the legacy video-based content is mastered or recorded in SDR quality. Here, one can upconvert the content quality to HDR using the inverse tone mapping procedure. There are three content types that fall under the SDR Archive Content version:
@@ -74,13 +81,6 @@ Step3Access “Click here to import media” > Insert the SDR-quality video file
 
 ![insert sdr video file](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4Drag the video to the editing timeline below.
 
 Step5Make edits like audio ducking, keyframing, chroma key background removal, adding filters, etc.
@@ -88,6 +88,13 @@ Step5Make edits like audio ducking, keyframing, chroma key background removal, a
 Step6Open Effects > BorisFX > Download.
 
 ![open borisfx](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step7Choose among the newer options like BCC Optical Diffusion, BCC Warp, and BCC Grads and Tints to upconvert to HDR quality.
 
@@ -148,10 +155,10 @@ Step7Set them as follows for the Output-related color space sections to make the
 ![output related color space](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step8Then, go to the taskbar again and press Signal. Enable Colors and HDR10 Metadata.
@@ -162,14 +169,14 @@ Step9Change the elements for Colors Matrix, Transfer, and Primaries to the setti
 
 ![change the elements](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step10Click Preview to check and Start to convert.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -215,13 +222,6 @@ Step10Click on the Settings button for pre-set changes, and choose encoder, reso
 
 Step11Hit Export, then you get your high dynamic range video.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Upscale SDR video to HDR with a content provider
 
 The content providers are useful for enabling multi-format video playout functions suitable for legacy equipment. These solutions do so when they save different content versions at varying resolutions and are compatible with broadcasting and server/on-prem cloud systems.
@@ -246,38 +246,31 @@ Step3Set video codec to HVEC. Change CRF value to 17.
 
 ![change crf value to 17](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4Click on Profiling and change settings to Main 10 and Unlimited Level. Set bit depth to 10-bit.
 
 ![set bit depth to 10 bit](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5Click VapourSynth tab > Colors.
 
 ![click vapoursynth tab colors](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step6Enable the “Color Space Converter” option. Change Input Matrix, Transfer, and Primaries as per the “Video Info” details on the right.
 
 ![color space converter](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If any color space details are missing in the video information, set that element to “BT470bg”.
 
@@ -289,18 +282,25 @@ Step8Then, go to the taskbar again and press Signal. Enable Colors and HDR10 Met
 
 ![hdr10 metadata](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step9Change the elements for Colors Matrix, Transfer, and Primaries to the settings given in the picture.
 
 ![change the elements](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step10Click Preview to check and Start to convert.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -334,16 +334,20 @@ You can choose a proper way, like a video editor or encoder to convert the SDR v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-selecting-the-perfect-drone-stabilizer-a-guide/"><u>[New] 2024 Approved Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-abletons-art-of-softening-soundscapes/"><u>[New] Ableton's Art of Softening Soundscapes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-craft-engaging-titlescaptions-with-microsofts-photos-app-win-11/"><u>[New] Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-window-capture-suite-pro-xp-for-2024/"><u>[New] Window Capture Suite Pro XP for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-preventing-sudden-deletion-of-personal-videos-from-fb/"><u>[Updated] In 2024, Preventing Sudden Deletion of Personal Videos From FB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262267890-elevate-your-amd-ryzen-9-the-ultimate-overclock-guide-skyrocket-performance-by-plus250mhz-and-dominate-with-27-better-scores-on-geekbench/"><u>Elevate Your AMD Ryzen 9 - The Ultimate Overclock Guide: Skyrocket Performance by +250MHz & Dominate with 27% Better Scores on Geekbench!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/eternal-memory-keepsake-blend-free-cloud-services-with-elite-charged-spaces/"><u>Eternal Memory Keepsake Blend Free Cloud Services with Elite Charged Spaces</u></a></li>
-<li><a href="https://extra-information.techidaily.com/first-timers-and-children-choose-these-drone-models/"><u>First-Timers & Children Choose These Drone Models</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-attention-grabber-composer/"><u>Top Attention Grabber Composer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-ace-2-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus Ace 2 Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/versions-of-windows-cuttingediting-programs-for-2024/"><u>Versions of Windows Cutting/Editing Programs for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-from-recording-to-revealing-uploading-high-quality-vr-on-fb/"><u>[New] 2024 Approved From Recording to Revealing Uploading High-Quality VR on FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-the-interface-key-win11-tricks/"><u>[Updated] 2024 Approved Mastering the Interface Key Win11 Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-aural-enhancement-for-your-inshot-clips/"><u>[Updated] Aural Enhancement for Your Inshot Clips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-cinematographic-capabilities-essential-iphone-gear/"><u>[Updated] Boost Cinematographic Capabilities Essential iPhone Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-guide-to-ringtones-for-snapchat-users/"><u>[Updated] Comprehensive Guide to Ringtones for Snapchat Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-echo-generator-blueprint/"><u>[Updated] In 2024, Echo Generator Blueprint</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unleashing-vrecorders-capabilities-download-and-setup-guide/"><u>[Updated] In 2024, Unleashing VRecorder's Capabilities – Download & Setup Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-selective-choice-top-cards-for-4k-videos/"><u>[Updated] Selective Choice Top Cards for 4K Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-essential-meme-blueprint-building-impactful-gifs/"><u>[Updated] The Essential Meme Blueprint Building Impactful GIFs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expand-your-laptop-editing-horizons/"><u>Expand Your Laptop Editing Horizons</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/free-imovie-windows-version-download-edit-your-videos-on-pc-without-cost/"><u>Free iMovie Windows Version Download: Edit Your Videos on PC without Cost</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y36i-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y36i Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/snapshot-secrets-iphones-techniques-for-clear-reflections/"><u>Snapshot Secrets IPhone's Techniques for Clear Reflections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-7-action-and-sports-cameras-under-200/"><u>Top 7 Action and Sports Cameras Under $200</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728491072639-windows10/"><u>Windows10基础设置重置手册：一步到位的系统回复流程</u></a></li>
 </ul></div>
 

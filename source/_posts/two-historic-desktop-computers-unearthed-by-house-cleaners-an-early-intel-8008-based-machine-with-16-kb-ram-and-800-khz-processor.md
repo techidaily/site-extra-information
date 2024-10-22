@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-10-12T16:11:26.228Z
-updated: 2024-10-16T18:55:27.925Z
+date: 2024-10-21T18:13:59.197Z
+updated: 2024-10-22T21:34:13.154Z
 tags:
   - desktop
 categories:
@@ -46,33 +46,27 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-limitless-design-gratuitous-premiere-pro-templates-for-2024/"><u>[New] Limitless Design Gratuitous Premiere Pro Templates for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-supreme-mac-video-encoder/"><u>[New] Supreme Mac Video Encoder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-3dr-the-path-taken-by-a-lone-printer-explorer/"><u>[Updated] '3DR' The Path Taken by a Lone Printer Explorer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-chill-challenge-highlighting-the-speed-and-skill-of-winter-olympics-x-c-skiers/"><u>[Updated] Chill Challenge Highlighting the Speed and Skill of Winter Olympics X-C Skiers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[Updated] Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/12-essential-metaverse-prototypes-demystifying-vr-for-2024/"><u>12 Essential Metaverse Prototypes Demystifying VR for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-alternatives-to-game-bar-for-screenshots-and-recordings/"><u>2024 Approved Top 10 Alternatives to Game Bar for Screenshots & Recordings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ace-your-iphones-advanced-tactics-for-downloading-podcasts-for-2024/"><u>Ace Your iPhones Advanced Tactics for Downloading Podcasts for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-s18-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo S18 Pro?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-screen-vr-movie-innovation/"><u>In 2024, Beyond the Screen VR Movie Innovation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-flash-video-insights-guide/"><u>In 2024, Flash Video Insights Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/moko-universal-foldable-bluetooth-keyboard/"><u>MoKo Universal Foldable Bluetooth Keyboard</u></a></li>
-<li><a href="https://extra-information.techidaily.com/no-more-queasiness-in-vr-worlds/"><u>No More Queasiness in VR Worlds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-infinix-note-30-vip-racing-edition-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Infinix Note 30 VIP Racing Edition Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-2024s-most-economical-cloud-stores-revealed/"><u>[New] 2024'S Most Economical Cloud Stores Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-auditory-evolution-at-your-fingertips-the-leading-5-chrome-extension-apps/"><u>[New] Auditory Evolution at Your Fingertips The Leading 5 Chrome Extension Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>[Updated] 2024 Approved Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia-for-2024/"><u>[Updated] Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dimensions-and-edits-the-imovie-crop-enigma/"><u>Dimensions and Edits The iMovie Crop Enigma</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002150352-fix-apex-legends-wont-launch-fast-and-simple-solutions/"><u>Fix Apex Legends Won't Launch: Fast & Simple Solutions!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-7-plus-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 7 Plus to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-real-time-stage-performances/"><u>In 2024, Best Real-Time Stage Performances</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile/"><u>In 2024, Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile)</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-solutions-for-swift-league-of-legends-game-stability/"><u>Instant Solutions for Swift League of Legends Game Stability</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/interactive-content-the-key-to-boosted-facebook-pages/"><u>Interactive Content The Key to Boosted Facebook Pages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-technology-essentials-through-toms-hardware-experts/"><u>Mastering Technology Essentials Through Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/recirculate-artists-bundle/"><u>Recirculate Artist's Bundle</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-dvd-to-mp4-conversion-with-winx-free-tool-for-easy-use-in-windows-10-environments/"><u>Seamless DVD-to-MP4 Conversion with WinX Free Tool for Easy Use in Windows 10 Environments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vida-a-comprehensive-look-at-our-editing-tool/"><u>Vida A Comprehensive Look at Our Editing Tool</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

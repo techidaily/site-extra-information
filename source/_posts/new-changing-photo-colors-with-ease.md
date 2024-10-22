@@ -1,7 +1,7 @@
 ---
 title: "[New] Changing Photo Colors with Ease"
-date: 2024-08-06T06:35:11.880Z
-updated: 2024-08-07T06:35:11.880Z
+date: 2024-10-16T17:53:32.413Z
+updated: 2024-10-22T16:55:35.794Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://www.lifewire.com/thmb/_Nmocy-ILKjQA7ubETFjEt-l0AE=/300x200/fi
 
 # How to Invert Colors in Digital Photos?
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,9 +28,6 @@ thumbnail: https://www.lifewire.com/thmb/_Nmocy-ILKjQA7ubETFjEt-l0AE=/300x200/fi
 
 During the age of analog photography, the image negative was one of the most important artifacts for photographers, because it enabled them to reproduce a picture as many times as they wanted. Years later photographers invert colors in photos for mostly aesthetical reasons since only a small number of photographers still take photos with analog cameras. Regardless of the type of camera you’re using, inverting colors in a photo is a straightforward process that doesn’t require too much effort. In this article, we are going to take you through some of the best options on Mac and PC computers, as well as Android phones and iPhones that let you invert colors in just a few easy steps. So, let’s dive in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How to Make Image Negative of a Digital Photo?
 
 The Invert option is commonly used to invert a scanned film negative to color, but this doesn’t’ mean that you can’t use this effect in very different contexts. However, the extensive and unselective use of this effect can ruin a perfect photo. Here’s how you can invert colors in your photos.
@@ -44,9 +38,6 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 
 **Compatibility:** Windows
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
 
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
@@ -61,16 +52,10 @@ If you are using Windows XP or an earlier version of the Windows OS, you can inv
 
 Besides creating image negatives, the Preview app lets you convert image files as well. Once you open a photo you’d like to invert with the Preview app, you should click on the **Tools** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
 
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
 
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
@@ -127,9 +112,6 @@ Creating a negative of photos you take with your phone can be fun, so why not us
 
 **Compatibility:** iOS
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Covert color](https://images.wondershare.com/filmora/article-images/negative-photo-effects-hd.jpg)
 
 Inverting the colors in a photo with Negative Photo Effect HD is easy since you just have to select a photo from the gallery or use the iPhone’s camera to snap a new one and apply the **negative photo effect**. You can highlight the area of the photo you’d like to invert with your finger or use some of the app’s photo editing tools to enhance the colors in the negative photo. You can save or share the photos you created, but if you use the free version of the app your photos will be watermarked unless you purchase the **Free Ads and Watermark package** for **$2.99.**
@@ -146,11 +128,32 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-all-about-srt-essential-information-made-easy/"><u>2024 Approved All About SRT Essential Information Made Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-free-c-span-footage-simple-legal-steps-explained/"><u>2024 Approved Get Free C-Span Footage - Simple, Legal Steps Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-5-web-based-titling-aces-identified-for-2024/"><u>Best 5 Web-Based Titling Aces Identified for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/champion-smartphones-top-picks-for-excellent-video-quality-for-2024/"><u>Champion Smartphones Top Picks for Excellent Video Quality for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-ways-to-share-xbox-gameplay-online/"><u>Discovering New Ways to Share Xbox Gameplay Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-play-40c-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Play 40C</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-techniques-for-sharing-srt-data-on-vimeo-and-linkedin/"><u>In 2024, Advanced Techniques for Sharing SRT Data on Vimeo and LinkedIn</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-zero-cost-image-booster-online-plus-mobile-app/"><u>In 2024, Best Zero-Cost Image Booster Online + Mobile App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-hp-stream-printer-drivers-get-them-fast/"><u>Quick Download: HP Stream Printer Drivers - Get Them Fast</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725285182598-winxvideo-ai/"><u>WinXVideo AIの最新リリースについて学ぶ: それぞれの特徴と利点</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/44ov44kh44kk44or44ks5o6i44gx5ye644gb44gq44geic0g6kmz57sw44gv44gt44gh44kj/"><u>ファイルを探し出せない - 詳細はこちら</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

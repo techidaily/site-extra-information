@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Breaking Down Advertising Budgets on YouTube"
-date: 2024-10-11T21:51:00.777Z
-updated: 2024-10-16T17:27:43.977Z
+date: 2024-10-21T16:53:14.102Z
+updated: 2024-10-22T21:22:14.389Z
 tags: 
   - screen-recording
   - ai video
@@ -72,13 +72,6 @@ A product review video features a reviewer, typically an influential person in y
 
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Testimonial videos
 
 A customer testimonial video features a happy and satisfied customer who tells the story of how your product or services solved their problem and helped them achieve their business goals.
@@ -114,35 +107,21 @@ Cut or trim your video to select the part that’s relevant.
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Add filters to enhance the video and set the desired mood
 
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Add animated titles to bring your words to life.
 
 ![add animate words promotional video](https://images.wondershare.com/filmora/article-images/2022/07/add-animated-words-promotional-video.jpg)
 
 Add transition to make the story flow to make the story united and working together effectively
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,9 +145,23 @@ Compared to text-based flyers, articles or posters, promotional videos allow you
 
 ![promotion video example](https://images.wondershare.com/filmora/article-images/2022/07/promotion-video-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Types of Promo Videos
 
 When it comes to the kinds of promo videos you can create, you have a world of options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Product demo videos
 
@@ -177,10 +170,10 @@ A product demo video shows users how they will go through the process using the 
 ![product demo promotion video](https://images.wondershare.com/filmora/article-images/2022/07/product-demo-promotion-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Event videos
@@ -200,10 +193,10 @@ A product review video features a reviewer, typically an influential person in y
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Testimonial videos
@@ -211,6 +204,13 @@ A product review video features a reviewer, typically an influential person in y
 A customer testimonial video features a happy and satisfied customer who tells the story of how your product or services solved their problem and helped them achieve their business goals.
 
 Customer testimonial videos are more in depth than written reviews. They include real-life customers that other consumers can actually see, hear and trust. Videos are high quality, scripted and edited versus a written review that may be misspelled or completely out of your control.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does it cost to make a promo video
 
@@ -220,18 +220,18 @@ That may have been a requirement in the past. however, today you don’t need a 
 
 Another way of promotion is that there are company asking content creator to include a video ads on their vlogs. As to my experience, cost and fee for the promotional video, depend on what you have been discuss with the company. Sometimes the company itself offers the price, but of course that also depends on the status of you channel. The company also doesn’t want to spent on promotion if it doesn’t get any positive output or good sales.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long should a promotional video be?
 
 Try to keep it under 2-minutes and make sure you’re hitting the important information and should also be true here. that said, promo videos do tend to go a little deeper than your typical video ad so take the opportunity to showcase your brand and really convey valuable information to audience.
 
 As for video ads, advice is to stick to 15 to 20 seconds if you’re using pre-roll ads or six seconds for what are known as bumper ads, which are intended for brand awareness.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## You’re going to need video editing tools to
 
@@ -251,16 +251,16 @@ Add filters to enhance the video and set the desired mood
 
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Add animated titles to bring your words to life.
 
 ![add animate words promotional video](https://images.wondershare.com/filmora/article-images/2022/07/add-animated-words-promotional-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Add transition to make the story flow to make the story united and working together effectively
 
@@ -294,24 +294,24 @@ That’s been a quick guide on promotional videos. If you find it too hard to cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-audiophiles-guide-to-the-renewed-lg-bp550/"><u>[New] Audiophile's Guide to the Renewed LG BP550</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-endless-viewing-loop-your-iphone-videos-today/"><u>[Updated] 2024 Approved Endless Viewing Loop Your iPhone Videos Today</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crack-open-your-marketing-potential-with-these-nine-tactics/"><u>[Updated] Crack Open Your Marketing Potential with These Nine Tactics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-virtual-gathering-film-cutter-for-2024/"><u>[Updated] Virtual Gathering Film Cutter for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-15-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 15 Plus Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cognitive-conclave-selective-general-knowledge-channels/"><u>Cognitive Conclave Selective General Knowledge Channels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-assessment-hero4-black-potential/"><u>Complete Assessment Hero4 Black Potential</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-freezing-issues-in-modern-warfare-for-pc-gamers/"><u>Fixing Freezing Issues in Modern Warfare for PC Gamers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-x50-gt-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor X50 GT</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-landscapes-with-mi-drone-4k-analysis/"><u>In 2024, Capturing Landscapes with MI Drone 4K Analysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-insta-facebook-connection-essentials/"><u>In 2024, Insta-Facebook Connection Essentials</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-the-truecaller-phone-software/"><u>In-Depth Evaluation of the Truecaller Phone Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/influencing-minds-with-music-selection-for-movie-previews/"><u>Influencing Minds with Music Selection for Movie Previews</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-plan-uniting-instagram-and-tiktok-platforms/"><u>Master Plan Uniting Instagram & TikTok Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/preparing-your-environment-zoom-room-configuration-tips-for-2024/"><u>Preparing Your Environment Zoom Room Configuration Tips for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tempo-treasure-hunters-dive-into-free-online-scanners/"><u>Tempo Treasure Hunters Dive Into FREE Online Scanners</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-selection-affordable-hd-cams-for-sports/"><u>Ultimate Selection Affordable HD Cams for Sports</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-daily-life-on-facebook-a-step-by-step-guide/"><u>[New] Navigating Daily Life on Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-embrace-the-art-of-timelapses-a-comprehensive-ipad-tutorial/"><u>[Updated] 2024 Approved Embrace the Art of Timelapses A Comprehensive iPad Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-upgrading-to-current-geforce-210-drivers-on-windows-10-computers/"><u>Best Practices: Upgrading to Current GeForce 210 Drivers on Windows 10 Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-how-to-make-use-of-the-picture-in-picture-functionality-in-netflix/"><u>Discover How To Make Use of The Picture-In-Picture Functionality in Netflix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-best-game-screens-for-xbox-and-playstation/"><u>Discover the Best Game Screens for Xbox & PlayStation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-best-of-photo-stickering-ios-and-android-leaders/"><u>Discover the Best of Photo Stickering IOS & Android Leaders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-cutest-10-video-compressors-available-on-google-play/"><u>Discover the Cutest 10 Video Compressors Available on Google Play</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discreetly-share-life-with-instagram-live/"><u>Discreetly Share Life with Instagram Live</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-samsungs-photo-enhancing-software-features/"><u>Dissecting Samsung's Photo Enhancing Software Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dive-into-the-world-of-luts-and-free-digital-tools/"><u>Dive Into the World of LUTs and Free Digital Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/diving-deep-into-quality-top-cameras-reviewed/"><u>Diving Deep Into Quality Top Cameras Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dji-aerial-vr-headset-quality-assessment/"><u>DJI Aerial VR Headset Quality Assessment</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-14-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi 14?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unblemished-visuals-buying-high-quality-images/"><u>In 2024, Unblemished Visuals Buying High-Quality Images</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-from-the-best-youtubes-top-green-screen-techniques-for-2024/"><u>Learn From The Best Youtube’s Top Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-advanced-automated-tracking-enhanced-user-experience/"><u>Optimized with Advanced Automated Tracking - Enhanced User Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/refined-clarity-in-a-click-win11-monitor-restoration-techniques/"><u>Refined Clarity in a Click: Win11 Monitor Restoration Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-speed-test-unveiling-the-netgear-nighthawk-rax1/"><u>Ultimate Speed Test: Unveiling the Netgear Nighthawk RAX1</u></a></li>
 </ul></div>
 

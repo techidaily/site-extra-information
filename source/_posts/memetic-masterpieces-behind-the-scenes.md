@@ -1,7 +1,7 @@
 ---
 title: "\"Memetic Masterpieces  Behind the Scenes\""
-date: 2024-10-10T16:18:31.593Z
-updated: 2024-10-17T02:43:31.480Z
+date: 2024-10-19T19:28:00.388Z
+updated: 2024-10-22T18:17:51.682Z
 tags: 
   - screen-recording
   - ai video
@@ -49,15 +49,22 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -85,24 +92,18 @@ However, subsequent memes feature satirical themes. Here are some of the most po
 
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
@@ -114,16 +115,16 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
@@ -133,6 +134,13 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
 
 * Others use the meme as a reaction to when your relatives visit. The captions indicate your parent informing you that your uncle and aunt are visiting and they have brought presents.
@@ -140,21 +148,7 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part5: FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Can you use stock photos for memes?
 
@@ -162,22 +156,16 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Can you use watermarked stock photos to create memes?
 
@@ -215,22 +203,16 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gopros-improved-action-session-series/"><u>[New] GoPro's Improved Action Session Series</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-androidios-essentials-cutting-edge-video-montage-software/"><u>[Updated] Android/iOS Essentials Cutting-Edge Video Montage Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on/"><u>[Updated] Best-Kept Secrets Elite Mac Speech Apps You're Missing Out On</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-beginners-blueprint-progressive-sound-intensity-rise/"><u>[Updated] In 2024, Beginner’s Blueprint Progressive Sound Intensity Rise</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unpacking-the-power-of-engaging-titles-for-youtube-shorts/"><u>[Updated] Unpacking the Power of Engaging Titles for YouTube Shorts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/utube-havens-for-entrepreneurs-and-business-gurus-for-2024/"><u>10 YouTube Havens for Entrepreneurs & Business Gurus for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/become-a-pro-editor-in-seconds-canvas-essential-secrets-for-2024/"><u>Become a Pro Editor in Seconds Canva's Essential Secrets for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-matches-ultimate-websites-for-acquiring-snapchat-ringtones-for-2024/"><u>Best Matches Ultimate Websites for Acquiring Snapchat Ringtones for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/cut-the-excess-enhancing-your-feed-focus/"><u>Cut the Excess: Enhancing Your Feed Focus</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ideal-apps-to-transform-vtuber-speech-patterns/"><u>Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-clarity-editing-insights-for-professional-results/"><u>In 2024, Capture Clarity Editing Insights for Professional Results</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-deep-windows-11-know-how-importing-media-like-a-pro/"><u>In 2024, Deep Windows 11 Know-How Importing Media Like a Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rank-higher-on-youtube-essential-seo-tips-unveiled-for-2024/"><u>Rank Higher on YouTube Essential SEO Tips Unveiled for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/superior-satire-and-smile-mixer-for-2024/"><u>Superior Satire & Smile Mixer for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-6-ios-slide-show-tools-for-latest-iphones/"><u>Top 6 iOS Slide Show Tools for Latest iPhones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-full-potential-using-polarrs-image-tools/"><u>Unlock Full Potential Using Polarr's Image Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-superior-non-zoom-virtual-meeting-options-for-pcs-and-smartphones/"><u>[New] In 2024, Superior Non-Zoom Virtual Meeting Options for PCs & Smartphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>[Updated] How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-analyzing-the-dji-phantom-4-vision-tech/"><u>2024 Approved Analyzing the DJI Phantom 4 Vision Tech</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-the-perfect-snap-on-pexels/"><u>2024 Approved Capturing the Perfect Snap on Pexels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-review-10-most-effective-methods-for-live-cricket-streaming-for-2024/"><u>A Review 10 Most Effective Methods for Live Cricket Streaming for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginner-to-pro-selecting-the-best-cinema-cameras/"><u>Beginner to Pro Selecting the Best Cinema Cameras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/empower-your-learning-10-favorite-apps-tailored-for-high-school-students/"><u>Empower Your Learning: 10 Favorite Apps Tailored for High-School Students</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-job-application-with-a-perfectly-written-cover-letter-using-chatgpt/"><u>Enhance Your Job Application with a Perfectly Written Cover Letter Using ChatGPT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-narzo-n53-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme Narzo N53 Phones with/without a PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-note-50-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme Note 50 Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/kinemaster-editors-unite-building-fluid-sequences-together/"><u>Kinemaster Editors Unite Building Fluid Sequences Together</u></a></li>
 </ul></div>
 

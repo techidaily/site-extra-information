@@ -1,7 +1,7 @@
 ---
 title: Fortnite Login Woes? Bypass the Frustration with Our Quick Fix Tips
-date: 2024-10-15T16:48:49.050Z
-updated: 2024-10-17T03:01:19.620Z
+date: 2024-10-18T16:23:51.327Z
+updated: 2024-10-22T16:37:21.559Z
 tags:
   - win11
   - win10
@@ -47,16 +47,16 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reboot your network
 
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Try launching Fortnite again.
 
@@ -100,6 +93,13 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Flush your DNS and Renew your IP
 
  Fortnite login failed issue is also probably caused by the DNS and IP issues. **Try flushing your DNS and renewing your IP** and maybe this issue will be resolved. Here is how to do it:
@@ -109,20 +109,15 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
-![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 #### To renew your IP
 
@@ -135,6 +130,13 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -164,6 +166,13 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 7: Avoid wireless interference
@@ -176,10 +185,10 @@ See if you can log in or not. if not, try the next fix, below.
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Disable the proxy server
@@ -189,13 +198,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
@@ -213,35 +215,36 @@ See if you can log in or not. if not, try the next fix, below.
 ![Win + R to open control panel](https://images.drivereasy.com/wp-content/uploads/2018/10/control.jpg)
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
 
 See if you can log in or not. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 10: Close bandwidth hogging applications
 
@@ -252,13 +255,6 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -283,24 +279,22 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-20plus-best-free-camera-apps-for-high-quality-slo-motion-videos/"><u>[New] 20+ Best Free Camera Apps for High-Quality Slo-Motion Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-ensuring-long-term-access-to-instagrams-video-gems/"><u>[New] 2024 Approved Ensuring Long-Term Access to Instagram's Video Gems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-storing-solution-for-sony-a7s-ii/"><u>[New] Best Storing Solution for Sony A7S II</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-underwater-photographys-leading-seven-cams/"><u>2024 Approved Underwater Photography's Leading Seven Cams</u></a></li>
-<li><a href="https://extra-information.techidaily.com/action-ammo-face-off-prodigy-cameras-compared-black-vs-session/"><u>Action Ammo Face-Off Prodigy Cameras Compared – Black vs Session</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-binary-boundaries-metaverse-vs-multiverse-for-2024/"><u>Beyond Binary Boundaries Metaverse V/S Multiverse for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-chromes-erroneous-virus-warning-on-pc/"><u>Clearing Chrome's Erroneous Virus Warning on PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/filmforge-editor8x/"><u>FilmForge Editor8X</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-video-to-verse-ranking-the-best-16-platforms-for-flawless-translation/"><u>From Video to Verse Ranking the Best 16 Platforms for Flawless Translation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-s23-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy S23 Ultra Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>Mastering Podcasts Incorporating Audio in PowerPoint Slides</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-creativity-with-chatgpts-advanced-image-recognition/"><u>Maximizing Creativity with ChatGPT's Advanced Image Recognition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/perfecting-the-art-of-printer-to-computer-scans-a-comprehensive-walkthrough/"><u>Perfecting the Art of Printer to Computer Scans - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-c210-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia C210 has been deleted.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/snapchat-ai-unraveling-its-multifaceted-value/"><u>Snapchat AI: Unraveling Its Multifaceted Value</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tips-labeling-footage-with-text-via-photos-app-win-11/"><u>Tips Labeling Footage with Text via Photos App (Win 11)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-approved-highlight-video-editors-for-desktop-and-mobile/"><u>Updated Expert-Approved Highlight Video Editors for Desktop and Mobile</u></a></li>
-<li><a href="https://extra-information.techidaily.com/zoom-in-navigating-the-nearby-landscapes-of-roblox/"><u>Zoom In Navigating the Nearby Landscapes of Roblox</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-audience-market-leaders-in-youtubes-short-clips-downloads/"><u>[New] 2024 Approved Audience’ Market Leaders in YouTube's Short Clips Downloads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-protect-your-privacy-top-webcam-shields-ranked/"><u>[New] 2024 Approved Protect Your Privacy - Top Webcam Shields Ranked</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-making-mp3s-from-your-facebook-videos-with-ease/"><u>[Updated] In 2024, Making MP3s From Your Facebook Videos with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-further-elite-video-editing-hacks-for-tiktok/"><u>2024 Approved A Step Further Elite Video Editing Hacks for TikTok</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/best-mac-recording-software-of-2024-a-selection-of-top-12-gratis-apps-to-capture-your-screens-movavi-insights/"><u>Best Mac Recording Software of 2024: A Selection of Top 12 Gratis Apps to Capture Your Screens - Movavi Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y17s-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y17s Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-the-top-8-photo-software-replacements-by-microsoft-ideal-for-image-viewing-and-video-edits/"><u>Discover the Top 8 Photo Software Replacements by Microsoft - Ideal for Image Viewing & Video Edits!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easy-guide-to-finding-free-and-secure-vlc-software-for-macos-users/"><u>Easy Guide to Finding Free & Secure VLC Software for macOS Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>In 2024, Becoming a Snapshot Wizard Top Positions for iPhone Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-selections-of-maximum-digital-safekeeping-for-2024/"><u>Prime Selections of Maximum Digital Safekeeping for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-email-management-how-to-automate-sorting-in-gmail-with-personalized-rules/"><u>Simplifying Email Management: How to Automate Sorting in Gmail With Personalized Rules</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-creating-impactful-ae-titles/"><u>The Art of Creating Impactful AE Titles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-list-best-for-android-pics/"><u>The Ultimate List Best for Android Pics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-trivia-collection-general-knowledge-2024/"><u>The Ultimate Trivia Collection - General Knowledge 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-sj-cam-s6-a-comprehensive-assessment/"><u>Unveiling SJ-CAM S6 A Comprehensive Assessment</u></a></li>
 </ul></div>
 

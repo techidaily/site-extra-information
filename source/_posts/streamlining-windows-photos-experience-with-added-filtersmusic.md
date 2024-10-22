@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Windows Photos Experience with Added Filters/Music"
-date: 2024-10-10T02:17:40.049Z
-updated: 2024-10-16T22:14:54.135Z
+date: 2024-10-20T21:18:56.949Z
+updated: 2024-10-22T16:20:11.921Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,10 +73,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -84,26 +84,32 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -120,14 +126,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-banishing-static-like-motion-in-aerial-videos/"><u>[New] Banishing Static-Like Motion in Aerial Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-premium-vr-headset-picks-for-uavs/"><u>[New] Premium VR Headset Picks for UAVs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-methods-for-swift-file-exchange-apples-ecosystem/"><u>2024 Approved Advanced Methods for Swift File Exchange Apple's Ecosystem</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-aurora-vs-standard-screens-a-detailed-comparison/"><u>2024 Approved Aurora vs Standard Screens A Detailed Comparison</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-inshot-essential-laptop-editing-tools/"><u>2024 Approved Beyond Inshot Essential Laptop Editing Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-photography-with-dynamic-mosaic-creations/"><u>2024 Approved Illuminating Photography with Dynamic Mosaic Creations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-5-twitch-broadcasting-techniques/"><u>2024 Approved Top 5 Twitch Broadcasting Techniques</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultra-hd-advantage-in-samsungs-galaxy-s8/"><u>The Ultra HD Advantage in Samsung’s Galaxy S8</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-unboxing-adventure-boosting-customer-delight-for-2024/"><u>[New] The Ultimate Unboxing Adventure Boosting Customer Delight for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ideal-6-economical-projector-brands-for-4k/"><u>[Updated] 2024 Approved Ideal 6 Economical Projector Brands for 4K</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-acclaimed-encoder-technology-in-broadcast-systems/"><u>2024 Approved Acclaimed Encoder Technology in Broadcast Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>2024 Approved Bringing Rhythm to Slides Including Tunes in PPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-collage-manual-tips-and-tricks/"><u>2024 Approved Complete Collage Manual Tips and Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-softer-beats-with-ableton/"><u>2024 Approved Crafting Softer Beats with Ableton</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-exporting-your-creativity-imovie-videos-for-youtube-audiences/"><u>2024 Approved Exporting Your Creativity IMovie Videos for YouTube Audiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asus-proart-pa-329q-reviewed-a-detailed-look-at-the-leading-4k-workstation-display-for-2024/"><u>Asus ProArt PA 329Q Reviewed A Detailed Look at the Leading 4K Workstation Display for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-productivity-with-zoom-and-a-chromebook/"><u>Boosting Productivity with Zoom and a Chromebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breath-of-ice-the-winter-olympics-in-china-2022/"><u>Breath of Ice The Winter Olympics in China 2022</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-gear-with-toms-hardware-reviews/"><u>Exploring Computing Gear with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-conversion-change-avi-files-to-mjpeg-format-with-ease/"><u>Free Online Conversion: Change AVI Files to MJPEG Format with Ease</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/putting-to-test-how-the-acer-xfa240-champions-usability-over-style/"><u>Putting to Test: How the Acer XFA240 Champions Usability Over Style</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-y28-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y28 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 
