@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Does My Nox Player Keep Freezing and How to Resolve It?"
-date: 2024-10-10T19:24:15.512Z
-updated: 2024-10-17T03:37:22.534Z
+date: 2024-10-27T16:20:22.352Z
+updated: 2024-10-28T16:22:09.981Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -48,24 +41,30 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
@@ -85,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -114,13 +120,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -131,27 +130,33 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -162,6 +167,13 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -207,20 +219,18 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[Updated] Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-8k-tvs-detailed-comparison/"><u>2024 Approved Best 8K TVs [Detailed Comparison ]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/becoming-an-exemplary-conductor-of-candidate-assessments/"><u>Becoming An Exemplary Conductor of Candidate Assessments</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boosting-your-youtube-views-a-strategy-guide/"><u>Boosting Your YouTube Views A Strategy Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-vlc-use-manual-for-mac-users-for-2024/"><u>Comprehensive VLC Use Manual for Mac Users for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-choices-17-tools-to-remove-picture-margins/"><u>Expert Choices 17 Tools to Remove Picture Margins</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-14-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi 14 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instantaneous-inspector-of-images-on-windows-for-2024/"><u>Instantaneous Inspector of Images on Windows for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-privacy-unveil-faces-less-clearly/"><u>Master Privacy Unveil Faces Less Clearly</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/ranking-top-10-budget-friendly-video-editing-apps-for-2024/"><u>Ranking Top 10 Budget-Friendly Video Editing Apps for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-windows-11-wallpaper-transformation-tactics/"><u>The Window's 11 Wallpaper Transformation Tactics</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-nord-3-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus Nord 3 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/transform-your-iphone-photos-of-texts-into-editable-files-with-scan-and-ocr-technology/"><u>Transform Your iPhone Photos of Texts Into Editable Files with Scan & OCR Technology</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-your-contents-potential-for-1m-views-on-youtube/"><u>Unleash Your Content's Potential for 1M Views on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-21-edition-breakdown-analyzing-the-revolution-in-vegas-pro-gaming/"><u>[New] '21 Edition Breakdown – Analyzing the Revolution in Vegas Pro Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-content-conversations-connecting-with-subscribers/"><u>[New] Crafting Content Conversations Connecting With Subscribers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nlock-high-viewership-selecting-the-best-trackers-for-your-videos/"><u>[New] Unlock High Viewership Selecting the Best Trackers for Your Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-making-an-informed-decision-on-itops-utility/"><u>[Updated] In 2024, Making an Informed Decision on ITop's Utility?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-your-guide-to-top-6-free-online-video-downloads/"><u>[Updated] In 2024, Your Guide to Top 6 Free, Online Video Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assemble-your-unique-google-cardboard-virtual-reality-for-2024/"><u>Assemble Your Unique Google Cardboard Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cultivating-a-brighter-home-with-outdoor-help/"><u>Cultivating a Brighter Home with Outdoor Help</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortlessly-transform-your-groove-playlists-into-mp3-format-a-step-by-step-guide/"><u>Effortlessly Transform Your Groove Playlists Into MP3 Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-visibility-groundbreaking-techniques-for-health-campaigns/"><u>Enhancing Visibility Groundbreaking Techniques for Health Campaigns</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/lernen-sie-wie-sie-ihr-iphone-backup-perfekt-mit-hilfe-von-alternativprogrammen-zum-herunterladen-auf-den-computer-ubertragen-erfolgreich-tun-mit-diesen-4-t145/"><u>Lernen Sie, Wie Sie Ihr iPhone Backup Perfekt Mit Hilfe Von Alternativprogrammen Zum Herunterladen Auf Den Computer Übertragen - Erfolgreich Tun Mit Diesen 4 Tipps!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-biggest-impactful-tech-personalities-sparking-debate/"><u>The Biggest Impactful Tech Personalities Sparking Debate</u></a></li>
+<li><a href="https://win-top.techidaily.com/the-ultimate-guide-to-canonical-tags-in-seo-clarifications-and-top-ranking-techniques/"><u>The Ultimate Guide to Canonical Tags in SEO: Clarifications & Top-Ranking Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-itel-p55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Itel P55 to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

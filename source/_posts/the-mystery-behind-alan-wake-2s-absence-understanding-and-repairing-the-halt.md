@@ -1,7 +1,7 @@
 ---
 title: The Mystery Behind Alan Wake 2'S Absence – Understanding and Repairing the Halt
-date: 2024-10-19T17:16:48.421Z
-updated: 2024-10-22T19:41:46.228Z
+date: 2024-10-22T16:03:27.001Z
+updated: 2024-10-28T16:08:38.943Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Reinstall Paradox Launcher
 
  If your Paradox Launcher refuses to launch, it’s possible that there are some damaged or corrupt program files. To fix this sort of problem, a clean reinstallation is almost the quickest and the easiest way. To make sure that the reinstallation is done correctly, here’s what you can do:
@@ -53,20 +46,35 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-1.png)
 2. Select the**Paradox Interactive** folder here and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-2.png)
 3. Scroll down a bit to find the**Programs** folder, and**delete** the**Paradox Interactive** folder in it as well.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-3.png)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time. Copy and paste**%appdata%** and hit**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image.png)
 5. Double-click the**Paradox Interactive** folder, and**delete** the**launcher-v2** folder in it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-4.png)
 6. Then press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
@@ -75,31 +83,17 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 7. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 8. Click **Paradox Launcher v2** , then **Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-5.png)
 9. Restart your computer afterward.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 10. Then **[download Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)**  again.
 
@@ -142,11 +136,31 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
  Windows Defender, or a third-party antivirus program, could mistake your Paradox Launcher as a threat, as it usually consumes a lot of memory and CPU usage when a game is running. To make sure that your antivirus program is not the culprit to the Paradox Launcher not working problem, here are two things that you can do:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4.1 Add Steam and the game to the antivirus exception list
 
  Third-party antivirus applications hook very deep into your system, so it may interfere with Steam and Paradox Launcher. To avoid this problem, you can try   **adding both Steam and Paradox Launcher as exceptions to your third-party antivirus application** .
 
  If you’re not sure how to do it, please consult your antivirus documentation for further instructions.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4.2 Make sure bootstrapper-v2.exe is not flagged as a virus
 
@@ -159,27 +173,21 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 1. On your keyboard, press the**Windows** key and type**windows security** . Then select**Windows Security** from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-7.png)
 2. Select**Virus & Threat protection** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-9.png)
 3. Under**Current threats** , select**Protection history** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
 
@@ -198,18 +206,24 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Bypass Paradox Launcher
 
@@ -238,17 +252,15 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-8-key-metaverse-ventures-unveiling-core-concepts/"><u>[Updated] 8 Key Metaverse Ventures Unveiling Core Concepts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-elevate-your-edits-pro-level-photo-color-techniques/"><u>[Updated] In 2024, Elevate Your Edits Pro-Level Photo Color Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/borative-video-workflows-for-content-growth/"><u>Collaborative Video Workflows for Content Growth</u></a></li>
-<li><a href="https://extra-information.techidaily.com/excellent-websites-for-3d-metallic-type-imagery/"><u>Excellent Websites for 3D Metallic Type Imagery</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fast-access-to-razer-mamba-drivers-for-immediate-setup/"><u>Fast Access to Razer Mamba Drivers for Immediate Setup</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-directx-error-cod-modern-warfare-2/"><u>How to Fix DirectX Error COD Modern Warfare 2</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-close-up-conferencing-secrets-for-microsoft-teams-users/"><u>In 2024, Close-Up Conferencing Secrets for Microsoft Teams Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/interactive-imaging-archive/"><u>Interactive Imaging Archive</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-for-keeping-your-youtube-video-under-cc-accessible-for-2024/"><u>Strategies for Keeping Your YouTube Video Under CC Accessible for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-scenes-into-memorable-moments-your-comprehensive-guide-to-gopro-timelapses/"><u>Transform Scenes Into Memorable Moments Your Comprehensive Guide to GoPro Timelapses</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-budget-friendly-online-face-offs-for-2024/"><u>Ultimate Budget-Friendly Online Face-Offs for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-seeing-the-unseen-tracking-instagram-viewers-meticulously/"><u>[New] In 2024, Seeing the Unseen Tracking Instagram Viewers Meticulously</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-superior-internet-audio-devices-reviewed-and-ranked-2023-for-2024/"><u>[New] Superior Internet Audio Devices Reviewed & Ranked 2023 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-behind-the-scenes-music-insights-for-ig-for-2024/"><u>[Updated] Behind the Scenes Music Insights for IG for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-best-websites-for-copyright-free-gaming-music/"><u>2024 Approved 10 Best Websites for Copyright-Free Gaming Music</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-learn-the-art-of-live-screen-sharing-on-snapchat/"><u>2024 Approved Learn the Art of Live Screen Sharing on Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-spotify-campaigns-a-practical-guide-for-2024/"><u>Crafting Compelling Spotify Campaigns A Practical Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-optimal-9-free-mp3-seekers-android/"><u>Discover the Optimal 9 Free MP3 Seekers (Android)</u></a></li>
+<li><a href="https://win-special.techidaily.com/guia-paso-a-paso-para-la-utilizacion-de-clonezilla-con-windows/"><u>Guía Paso a Paso Para La Utilización De Clonezilla Con Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-v30-lite-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your V30 Lite 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-recording-in-windows-a-beginners-guide/"><u>In 2024, Advanced Recording in Windows A Beginner's Guide</u></a></li>
 </ul></div>
 

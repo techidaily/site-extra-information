@@ -1,7 +1,7 @@
 ---
 title: "\"Capture the Moment  IPhone X's Revolutionary Camera\""
-date: 2024-07-27T05:39:06.706Z
-updated: 2024-07-28T05:39:06.706Z
+date: 2024-10-26T16:08:24.255Z
+updated: 2024-10-28T16:04:47.251Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
 # New iPhone X Camera Features You Need to Know
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -41,8 +38,12 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
@@ -50,8 +51,12 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -68,19 +73,33 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 * Swipe or tap the cube icons above your shutter button to change the lighting effects if needed.
 * To take your photo, press the shutter button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -90,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144
 
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -102,12 +117,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-impact-how-to-broadcast-effectively-via-streams/"><u>[New] 2024 Approved Maximizing Impact How to Broadcast Effectively via Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>[New] Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-enrich-your-film-with-alternative-imagery/"><u>[Updated] How to Enrich Your Film with Alternative Imagery</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716070145669-updated-in-2024-unlocked-mac-capture-tool-no-cost/"><u>[Updated] In 2024, Unlocked Mac Capture Tool - No Cost!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-escaping-tiktoks-invisible-barriers/"><u>2024 Approved Escaping TikTok's Invisible Barriers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/figure-skatings-top-talent-review-of-22-moments/"><u>Figure Skating's Top Talent Review of '22 Moments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-quality-drones-that-accommodate-gopro-cameras/"><u>High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-x8b-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor X8b to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>In 2024, Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-asuss-proart-pa-329q-a-full-review-of-a-top-tier-workstation-monitor/"><u>Inside Asus’s ProArt PA 329Q A Full Review of a Top-Tier Workstation Monitor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-cmd-interface-across-windows-versions-a-step-by-step-guide/"><u>Mastering the CMD Interface Across Windows Versions – A Step-by-Step Guide!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-new-innovations-toms-hardware-authority-on-gadgets/"><u>Navigating New Innovations: Tom's Hardware Authority on Gadgets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reasons-for-unexpected-cut-off-in-imovie/"><u>Reasons for Unexpected Cut-Off in iMovie</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-evolution-of-camera-features-for-dynamic-range-mastery/"><u>The Evolution of Camera Features for Dynamic Range Mastery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-major-issues-you-should-know-about-openais-chatgpt/"><u>Top 8 Major Issues You Should Know About OpenAI's ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unsuccessful-repairs-on-specific-video-files/"><u>Unsuccessful Repairs on Specific Video Files.</u></a></li>
+</ul></div>
 

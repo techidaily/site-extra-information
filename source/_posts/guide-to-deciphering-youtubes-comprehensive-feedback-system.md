@@ -1,7 +1,7 @@
 ---
 title: "Guide to Deciphering YouTube's Comprehensive Feedback System"
-date: 2024-10-16T20:52:32.529Z
-updated: 2024-10-22T21:24:17.790Z
+date: 2024-10-21T16:24:20.030Z
+updated: 2024-10-28T16:29:44.398Z
 tags: 
   - screen-recording
   - ai video
@@ -44,13 +44,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -62,6 +55,13 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -85,13 +85,6 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
@@ -99,15 +92,22 @@ Step4 On the right side under the “Manage all history” section, click on “
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -136,10 +136,10 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,19 +178,24 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-apples-m1-max-attachments-a-detailed-guide/"><u>[New] Apple’s M1 Max Attachments A Detailed Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-free-top-10-best-drawing-software-for-mac/"><u>[New] FREE Top 10 Best Drawing Software for Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-clearing-up-your-video-quality-issues-for-2024/"><u>[Updated] Clearing Up Your Video Quality Issues for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-enhancing-your-discord-experience-with-recordings-for-2024/"><u>[Updated] Enhancing Your Discord Experience with Recordings for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-superior-5-web-video-capture-kits/"><u>2024 Approved Superior 5 Web Video Capture Kits</u></a></li>
-<li><a href="https://extra-information.techidaily.com/high-definition-videography-unveiled-by-yi/"><u>High Definition Videography Unveiled by Yi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-apex-equipment-prime-8k-cameras-unmatched/"><u>In 2024, Apex Equipment Prime 8K Cameras Unmatched</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-zero-30-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Zero 30 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-blh4100-blade-helicopter-a-top-choice-for-outdoor-enthusiasts/"><u>The Ultimate Guide to BLH4100 Blade Helicopter - A Top Choice for Outdoor Enthusiasts!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tomorrows-digital-playground-a-comparative-study-of-metaverse-and-omniverse/"><u>Tomorrow's Digital Playground A Comparative Study of Metaverse & Omniverse</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-apps-to-write-on-photos-for-ios-and-android/"><u>Top 10 Apps to Write on Photos for iOS and Android</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transforming-ordinary-recordings-into-pro-level-with-audacity/"><u>Transforming Ordinary Recordings Into Pro-Level With Audacity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-risks-in-mobile-gpt-downloads/"><u>Understanding Risks in Mobile GPT Downloads</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-essential-pop-music-playlists-for-perfect-audio-ambiance-in-videos-for-2024/"><u>Updated Essential Pop Music Playlists for Perfect Audio Ambiance in Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-engagement-creating-top-tier-fb-ad-videos-for-2024/"><u>[New] Enhancing Engagement Creating Top-Tier FB Ad Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-budget-analysis-spending-for-translating-tunes-into-videos/"><u>[Updated] Budget Analysis Spending for Translating Tunes Into Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audible-illusion-how-does-this-voice-change-application-work-alternatives-awaits/"><u>2024 Approved Audible Illusion How Does This Voice Change Application Work? Alternatives Awaits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/become-a-gif-artist-basic-steps/"><u>Become a GIF Artist Basic Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-nutritious-diet-plans-with-chatgpts-help-a-step-by-step-guide/"><u>Crafting Nutritious Diet Plans with ChatGPT's Help: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-slides-with-auditory-elements-powerpoint/"><u>Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-green-screen-fuzziness-on-youtube-videos/"><u>Eliminating Green Screen Fuzziness on YouTube Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-10-drone-powerhouses-for-industrial-use/"><u>Essential 10 Drone Powerhouses for Industrial Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gaming-setup-guide-utilizing-alternate-hard-drives-with-steam/"><u>Essential Gaming Setup Guide: Utilizing Alternate Hard Drives with Steam</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-11-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 11?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-best-hd-hunting-cameras-reviewed/"><u>In 2024, 5 Best HD Hunting Cameras Reviewed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels/"><u>In 2024, Blueprints for Breaking Ground in Edu-Video Production on YouTube Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-integrate-zoom-into-your-life-via-windows-10/"><u>In 2024, Seamlessly Integrate Zoom Into Your Life via Windows 10</u></a></li>
+<li><a href="https://solve-news.techidaily.com/simple-and-fast-convert-your-wmv-videos-into-popular-formats-like-mp4-and-mp3/"><u>Simple and Fast: Convert Your WMV Videos Into Popular Formats Like MP4 & MP3</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-video-editing-made-easy-with-top-iosdesktop-apps-8-for-2024/"><u>Swift Video Editing Made Easy with Top iOS/Desktop Apps #8 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-choice-for-iphoneandroid-facial-tweaks/"><u>Ultimate Choice for iPhone/Android Facial Tweaks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-editing-mastery-with-windows-movie-maker-the-windows-8-edition-explained/"><u>Video Editing Mastery with Windows Movie Maker - The Windows 8 Edition Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/xmlssattml-to-srt-actionable-insights-for-media-professionals/"><u>XML/SSA/TTML-to-SRT Actionable Insights for Media Professionals</u></a></li>
 </ul></div>
 

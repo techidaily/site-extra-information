@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Brief Blotter for Film Blueprint"
-date: 2024-10-17T18:48:04.187Z
-updated: 2024-10-22T19:01:06.259Z
+date: 2024-10-26T16:04:40.666Z
+updated: 2024-10-28T16:10:06.354Z
 tags: 
   - screen-recording
   - ai video
@@ -35,16 +35,10 @@ This is always, always, the number one problem for my screenwriting students. Th
 **_My Josephine_** was inspired by "an image of two people's legs hanging over a table in my head," according to Barry Jenkins. I saw them, young and intimate, working the night shift in a 24-hour laundry." Even with this small, simple, and significant image as a starting point for a short script, Barry struggled to find a story in six pages that he could tell well. He attempted to include the murder in the Laundromat at one point, which resulted in, yes, narrative cramming. Barry rewrote the script a year later and "made it as simple as I could as a writer," he told me. I was so moved by his transcript that I only wrote three words in the script – “Beautiful and gentle”. Just like his beautiful film.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Characterization
@@ -79,6 +73,13 @@ Scenes are the **"church of drama"**, as William Gibson also brilliantly says. S
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Ending
 
 The end of a script is often more important than the 90 pages that preceded it. Because of the magnitude of its importance, many writers struggle to close their scripts with the right resolution. But don't worry, we'll show you everything you need to know about how to end a storyboard with examples of basic storyboard formats from Star Wars: **_The Force Awakens_** and [**_The Big Short_**](https://www.imdb.com/title/tt1596363/). We will discuss the technical aspects of writing THE END into scripts. By the end, you'll have a good understanding of the formatting requirements for how to end the script.
@@ -88,10 +89,17 @@ The end of a script is often more important than the 90 pages that preceded it. 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to edit your short film?
@@ -101,13 +109,6 @@ Have you ever stored various videos and photos on a memory card or on a computer
 **Make a short film with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Easy Movie Maker**.
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Import your files and arrange the order
 
@@ -124,10 +125,16 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
@@ -160,6 +167,13 @@ It's also a useful way to think of the script as an energy system, as William Gi
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Conflict
 
 Conflict is every point of opposition between two forces (physical or intellectual), as well as the consequences of this opposition - all in full view of what can be seen on the screen, whether through cinema, television, or devices.
@@ -182,13 +196,6 @@ Scenes are the **"church of drama"**, as William Gibson also brilliantly says. S
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Ending
 
 The end of a script is often more important than the 90 pages that preceded it. Because of the magnitude of its importance, many writers struggle to close their scripts with the right resolution. But don't worry, we'll show you everything you need to know about how to end a storyboard with examples of basic storyboard formats from Star Wars: **_The Force Awakens_** and [**_The Big Short_**](https://www.imdb.com/title/tt1596363/). We will discuss the technical aspects of writing THE END into scripts. By the end, you'll have a good understanding of the formatting requirements for how to end the script.
@@ -205,19 +212,6 @@ Have you ever stored various videos and photos on a memory card or on a computer
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Import your files and arrange the order
 
 Open Wondershare Filmora, click the "Import" button, and use the navigation import panel to load media files. You can also directly drag and drop your media files into the program. Then, trim or cut the video clips in the timeline with options in the Toolbox
@@ -233,10 +227,10 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
@@ -250,10 +244,10 @@ When everything is done, hit the “Create” button, and you'll see several opt
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -288,18 +282,22 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-boosting-visual-impact-incorporate-apple-music/"><u>[New] Boosting Visual Impact Incorporate Apple Music</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-compare-metaverse-vs-omniverse-an-ultimate-guide/"><u>[Updated] Compare Metaverse Vs. Omniverse An Ultimate Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-screen-recording-software-top-10-list/"><u>[Updated] In 2024, Best Screen Recording Software Top 10 List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-text-editing-made-simple-tools-and-techniques/"><u>2024 Approved Photo Text Editing Made Simple Tools & Techniques</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/creative-chip-success-editors-flourish-on-m1/"><u>Creative Chip Success Editors Flourish on M1</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fixing-a-faulty-control-pad-fast-and-hands-off-approaches-to-common-issues/"><u>Fixing a Faulty Control Pad: Fast and Hands-Off Approaches to Common Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screensnapper-review-latest-tech/"><u>In 2024, ScreenSnapper Review - Latest Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximize-creativity-top-10-secrets-from-canva-pros/"><u>Maximize Creativity - Top 10 Secrets From Canva Pros</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reviewing-the-high-quality-video-on-galaxy-s8/"><u>Reviewing the High-Quality Video on Galaxy S8</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/sd-card-management-mastery-step-by-step-instructions-for-deleting-formatting-and-performing-a-secure-wipe/"><u>SD Card Management Mastery: Step-by-Step Instructions for Deleting, Formatting, and Performing a Secure Wipe</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-method-to-share-subtitle-text-online/"><u>Step-by-Step Method to Share Subtitle Text Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-earning-masterclass-taking-your-streaming-business-to-new-heights/"><u>[Updated] 2024 Approved YouTube Earning Masterclass Taking Your Streaming Business to New Heights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-the-skyline-drone-cinematography-tips/"><u>[Updated] Capturing the Skyline Drone Cinematography Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlined-playback-controlling-youtube-video-delivery-speeds/"><u>[Updated] Streamlined Playback Controlling YouTube Video Delivery Speeds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-call-quality-and-creativity-learn-to-apply-filters-in-zoom-for-2024/"><u>Boost Call Quality & Creativity Learn to Apply Filters in Zoom for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/chromecasts-decline-how-google-let-down-its-popular-streaming-device/"><u>Chromecast's Decline: How Google Let Down Its Popular Streaming Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-the-perfect-picture-on-android-with-these-5-best-apps/"><u>Craft the Perfect Picture on Android with These 5 Best Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-an-impactful-entry-for-your-podcast/"><u>Creating an Impactful Entry for Your Podcast</u></a></li>
+<li><a href="https://facebook.techidaily.com/foster-connection-utilize-messenger-for-in-depth-chat-analysis/"><u>Foster Connection: Utilize Messenger for In-Depth Chat Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-asus-proart-hdr-master-the-4k-quest-continues/"><u>In 2024, ASUS ProArt HDR Master The 4K Quest Continues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-speech-intelligence-on-chrome-select-the-best-web-based-tools-for-change/"><u>In 2024, Boost Speech Intelligence on Chrome Select the Best Web-Based Tools for Change</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-live-transmission-fixes/"><u>Mastering ChatGPT Live Transmission Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/osblend-the-vmix-alternative/"><u>OSBlend The VMix Alternative</u></a></li>
+<li><a href="https://extra-information.techidaily.com/penning-powerful-stories-with-a-camera-lens/"><u>Penning Powerful Stories with a Camera Lens</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211151686-solve-your-headset-woes-the-ultimate-guide-to-restoring-steelseries-arctis-5-mic-performance/"><u>Solve Your Headset Woes! The Ultimate Guide to Restoring SteelSeries Arctis 5 Mic Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essence-of-time-stretching-detailed-review-of-slomo-2e1924/"><u>The Essence of Time Stretching Detailed Review of SloMo, 2E1924</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-7-video-to-text-converters-for-seamless-content-translation/"><u>Top 7 Video-to-Text Converters for Seamless Content Translation</u></a></li>
 </ul></div>
 

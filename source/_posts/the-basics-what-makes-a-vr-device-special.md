@@ -1,7 +1,7 @@
 ---
 title: "\"The Basics  What Makes a VR Device Special?\""
-date: 2024-10-14T23:59:21.523Z
-updated: 2024-10-16T18:25:36.170Z
+date: 2024-10-25T16:08:39.111Z
+updated: 2024-10-28T16:10:30.231Z
 tags: 
   - screen-recording
   - ai video
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  And for the final images to be totally convincing, the VR headsets use minimum frame rates of 60fps to do away with shuttering or make the users feel sick.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Top VR headsets overview
 
  The race by tech giants to get their share of the virtual reality market is on and company after company is burning the midnight oil to produce the next best headset.
@@ -58,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
  HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/  )
@@ -76,30 +63,37 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Oculus Rift](https://www.oculus.com/rift/  )
 
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
 
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Sony PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr/  )
 
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
@@ -127,22 +121,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-becoming-a-pro-at-iphone-hdr-imaging/"><u>[New] Becoming a Pro at iPhone HDR Imaging</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-maximize-windows-10-top-5-recording-techniques/"><u>[New] Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-premier-mobile-platforms-for-enhanced-dji-cinematography-for-2024/"><u>[New] Premier Mobile Platforms for Enhanced DJi Cinematography for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-chromatic-spectrums-captured-a-deep-dive-into-4k-blade-tech/"><u>[Updated] Chromatic Spectrums Captured A Deep Dive Into 4K Blade Tech</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-discover-8-essential-sites-for-pristine-green-screen-images-for-2024/"><u>[Updated] Discover 8 Essential Sites for Pristine Green Screen Images for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-talking-the-talk-mastering-viewer-communication/"><u>[Updated] Talking the Talk Mastering Viewer Communication</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-recording-youtube-videos-effortlessly-the-free-way-to-screencasts/"><u>2024 Approved Recording YouTube Videos Effortlessly - The Free Way to Screencasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/analyzing-the-financial-gains-of-podcasting-for-2024/"><u>Analyzing the Financial Gains of Podcasting for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/core-aspects-of-stories/"><u>Core Aspects of Stories</u></a></li>
-<li><a href="https://extra-information.techidaily.com/drones-that-follow-innovative-gps-trail-tenders/"><u>Drones That Follow Innovative GPS Trail Tenders</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-downloads-mastering-the-art-of-saving-gfycat-gifs-in-just-four-steps/"><u>Effortless Downloads: Mastering the Art of Saving Gfycat GIFs in Just Four Steps</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone XR with a Mask On</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-choosing-the-finest-10-free-subtitles-editors-online/"><u>In 2024, Choosing the Finest 10 Free Subtitles Editors Online</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-depth-analysis-and-methods-with-morphvox-sound-alteration/"><u>In-Depth Analysis and Methods with MorphVOX Sound Alteration</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-perfect-blend-of-style-and-functionality-in-free-macdrawers/"><u>The Perfect Blend of Style & Functionality in Free MacDrawers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/wordsmith-whispers-picks-for-the-best-transcription-programs/"><u>Wordsmith Whispers Picks for the Best Transcription Programs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-step-by-step-guide-to-initiating-a-tiktok-stream-from-desktop-for-2024/"><u>[New] Step-by-Step Guide to Initiating a TikTok Stream From Desktop for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-chromebooks-speech-top-5-web-based-alterations/"><u>Enhance Your Chromebook’s Speech Top 5 Web-Based Alterations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-optimize-your-presence-on-spotify-ads/"><u>How to Optimize Your Presence on Spotify Ads</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-error-403-in-roblox-windows/"><u>How to Overcome Error 403 in Roblox (Windows)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-creativity-tiktok-video-treatments/"><u>In 2024, Boost Creativity TikTok Video Treatments</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-king-of-gaming-stations-a-detailed-examination-of-the-xbox-one-x/"><u>The King of Gaming Stations - A Detailed Examination of the Xbox One X</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-fitbit-versa-eb-merging-top-of-the-line-fitness-tracking-with-enhanced-smartwatch-utilities/"><u>The Ultimate Guide to the Fitbit Versa Eb: Merging Top-of-the-Line Fitness Tracking with Enhanced Smartwatch Utilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transition-techniques-elevating-your-kinemaster-filmography/"><u>Transition Techniques Elevating Your Kinemaster Filmography</u></a></li>
 </ul></div>
 

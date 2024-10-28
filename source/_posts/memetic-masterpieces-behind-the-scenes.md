@@ -1,7 +1,7 @@
 ---
 title: "\"Memetic Masterpieces  Behind the Scenes\""
-date: 2024-10-19T19:28:00.388Z
-updated: 2024-10-22T18:17:51.682Z
+date: 2024-10-24T16:23:19.866Z
+updated: 2024-10-28T16:16:42.382Z
 tags: 
   - screen-recording
   - ai video
@@ -49,22 +49,15 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -80,24 +73,31 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
@@ -113,14 +113,20 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
-Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
 ## Part4: Bonjour Bear
 
@@ -135,10 +141,10 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -150,18 +156,18 @@ The photo is available on most stock photo websites, such as Adobe and Tumblr. F
 
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Does copyright law protect memes?
 
@@ -203,16 +209,21 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-superior-non-zoom-virtual-meeting-options-for-pcs-and-smartphones/"><u>[New] In 2024, Superior Non-Zoom Virtual Meeting Options for PCs & Smartphones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>[Updated] How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-analyzing-the-dji-phantom-4-vision-tech/"><u>2024 Approved Analyzing the DJI Phantom 4 Vision Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-the-perfect-snap-on-pexels/"><u>2024 Approved Capturing the Perfect Snap on Pexels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-review-10-most-effective-methods-for-live-cricket-streaming-for-2024/"><u>A Review 10 Most Effective Methods for Live Cricket Streaming for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beginner-to-pro-selecting-the-best-cinema-cameras/"><u>Beginner to Pro Selecting the Best Cinema Cameras</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/empower-your-learning-10-favorite-apps-tailored-for-high-school-students/"><u>Empower Your Learning: 10 Favorite Apps Tailored for High-School Students</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-job-application-with-a-perfectly-written-cover-letter-using-chatgpt/"><u>Enhance Your Job Application with a Perfectly Written Cover Letter Using ChatGPT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-narzo-n53-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme Narzo N53 Phones with/without a PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-note-50-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme Note 50 Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/kinemaster-editors-unite-building-fluid-sequences-together/"><u>Kinemaster Editors Unite Building Fluid Sequences Together</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audiovisual-mastery-imovie-sound-guide/"><u>[New] Audiovisual Mastery IMovie Sound Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-with-clarity-advanced-tips-for-gopro-hero5-black/"><u>[New] Capture with Clarity Advanced Tips for GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-iphones-most-popular-watermarking-software-solutions/"><u>[New] Navigating iPhone's Most Popular Watermarking Software Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beyond-reality-vr-movie-magic/"><u>[Updated] Beyond Reality VR Movie Magic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blueprint-for-a-personalized-high-definition-editing-haven/"><u>[Updated] Blueprint for a Personalized, High-Definition Editing Haven</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-charting-a-successful-course-in-youtube-keywords-for-2024/"><u>[Updated] Charting a Successful Course in YouTube Keywords for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-video-capture-bandicams-edge-over-camtasia/"><u>[Updated] Mastering Video Capture Bandicam’s Edge Over Camtasia</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-flawless-imagery-how-to-remove-backgrounds-on-canva-for-2024/"><u>Achieve Flawless Imagery How to Remove Backgrounds on Canva for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-zooid-creation-samples/"><u>Essential Zooid Creation Samples</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-browsing-to-discovery-ais-influence-on-sites/"><u>From Browsing to Discovery: AI's Influence on Sites</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-a58-4g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo A58 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-motorola-moto-e13-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Motorola Moto E13 Without PUK Codes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pivotal-movie-edits-ranked-by-professionals/"><u>Pivotal Movie Edits Ranked by Professionals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/triller-unveiled-the-non-tiktok-tiktok-alternatives-secrets/"><u>Triller Unveiled The Non-TikTok, TikTok Alternative's Secrets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-house-flipper-2-pc-stability-issues/"><u>Troubleshooting and Repairing House Flipper 2 PC Stability Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Blueprint for a Thriving Portfolio in Graphics"
-date: 2024-10-09T16:08:31.578Z
-updated: 2024-10-16T22:32:26.180Z
+date: 2024-10-23T16:05:29.955Z
+updated: 2024-10-28T16:18:14.952Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,10 @@ In order to discover and design for target consumers, you may also use a current
 Any graphic designer must have a strong portfolio. Projects you did for a course as well as personal or professional projects can be included in your portfolio. Pay attention to quality over quantity. Since your portfolio will serve as potential employers' or clients' initial impression of you, choose pieces that highlight your design expertise and passions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Find Clients
@@ -58,16 +58,10 @@ It's crucial to land your first customers as quickly as you can. This will help 
 ![find graphic design clients online](https://images.wondershare.com/filmora/article-images/2022/11/find-graphic-design-clients-online.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **UpWork**
@@ -101,13 +95,6 @@ A freelance marketplace called Project4Hire links hiring clients with experts an
 **SimplyHired**
 
 Online hiring is made possible by the website and mobile app Simply Hired. Although primarily geared at full-time employment, it also offers the chance to find companies in need of design assistance, giving you the opportunity to obtain that all-important first foot in the door.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. How Much Do Graphic Designers Get Paid?
 
@@ -148,10 +135,10 @@ The Red Dragon, on the other hand, has a lower cost of living than America—in 
 Israel's entrepreneurial community is flourishing. In fact, among the top 30 worldwide startup ecosystems and runners-up, Tel Aviv comes in at number six. This makes it an appealing option for many design industry experts, especially when combined with the nation's high-tech mindset.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4\. Choose the Software
@@ -218,6 +205,13 @@ Understanding the individuals you deal with and allocating tasks based on that u
 
 A crucial component of creative activity is engaging others in their work. In general, employees who are more invested in their work will perform better over time.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 The world of graphic design depends on relationships with other people to advance. Therefore, being really nice and engaged will undoubtedly advance your career. Simply put, communication and relationship-building are essential to our line of work, so you can't avoid them. One last bit of advice is to keep going. Continue phoning, sending emails, or doing whatever else you do regularly. Reject jealousy and don't take rejection personally. A rejection today can lead to a job tomorrow or a future new client.
@@ -252,22 +246,18 @@ The world of graphic design depends on relationships with other people to advanc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-of-the-best-photo-overlays-and-text-editors-review/"><u>[New] Best of the Best Photo Overlays & Text Editors Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-5-best-dvd-creators-on-mac-os/"><u>[Updated] 5 Best DVD Creators on Mac OS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-breaking-through-virtual-barriers-crafting-engaging-metaverse-content-for-2024/"><u>[Updated] Breaking Through Virtual Barriers Crafting Engaging Metaverse Content for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-comprehensive-guide-to-9gag-for-meme-enthusiasts/"><u>[Updated] The Comprehensive Guide to 9GAG for Meme Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-for-novices-on-simple-nft-making-for-2024/"><u>A Comprehensive Guide for Novices on Simple NFT Making for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-control-over-clips-with-powerdirectors-latest-24-updates/"><u>Complete Control Over Clips with PowerDirector's Latest '24 Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-to-overcome-entry-point-not-found-errors-in-windows-environments/"><u>Easy Solutions to Overcome Entry Point Not Found Errors in Windows Environments</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-choose-a-camera-gimbal-for-your-drone/"><u>How to Choose a Camera Gimbal for Your Drone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-download-and-convert-youtube-twittersongs-videos-to-mp3/"><u>How to Download and Convert YouTube Twittersongs (Videos) to MP3</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-ensure-a-sticker-free-video-experience-on-tiktok/"><u>How to Ensure a Sticker-Free Video Experience on TikTok</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-to-secretly-save-your-snapchat-photos-without-getting-caught/"><u>How to Secretly Save Your Snapchat Photos Without Getting Caught</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y100a-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y100A for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-gopro-4k-cinematography-through-editing/"><u>Perfect GoPro 4K Cinematography Through Editing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photoshops-quick-guide-to-color-perfection/"><u>Photoshop's Quick Guide to Color Perfection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/rhythmic-reels-making-instagram-memories-to-the-beat/"><u>Rhythmic Reels Making Instagram Memories to the Beat</u></a></li>
-<li><a href="https://article-helps.techidaily.com/time-reverse-footage-on-your-phone-for-2024/"><u>Time-Reverse Footage on Your Phone for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-an-in-depth-look-at-the-features-and-functions-of-the-garmin-forerunner-265/"><u>Unveiling the Potential: An In-Depth Look at the Features and Functions of the Garmin Forerunner 265</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-comparing-cloud-providers-who-offers-what-price/"><u>[New] In 2024, Comparing Cloud Providers Who Offers What Price</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-selling-vr-games-on-oculus-devices/"><u>[Updated] Best-Selling VR Games on Oculus Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cinematicwave-win8-software/"><u>[Updated] CinematicWave Win8 Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-quality-control-best-free-lut-selections-and-links-reviewed-for-2024/"><u>[Updated] Quality Control Best Free LUT Selections & Links Reviewed for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cerseis-calls-top-15-sites-for-hearing-heroes-tts-files-for-2024/"><u>Cersei's Calls Top 15 Sites for Hearing Heroes' TTS Files for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/delving-into-the-nuances-of-touch-based-navigation/"><u>Delving Into the Nuances of Touch-Based Navigation</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-perform-a-system-restoration-on-windows-11-when-it-wont-boot/"><u>How to Perform a System Restoration on Windows 11 When It Won't Boot</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-top-iphone-video-editor-choose-between-cameo-and-filmorago/"><u>In 2024, Top iPhone Video Editor Choose Between Cameo & FilmoraGo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-best-tech-bargains-of-amazons-october-prime-day-with-apples-enduring-sale-on-the-macbook-air-now-priced-at-only-749-spotlight-by-zdnet/"><u>Score the Best Tech Bargains of Amazon’s October Prime Day with Apple's Enduring Sale on the MacBook Air, Now Priced at Only $749 | Spotlight by ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-approaches-to-maximize-impact-with-spotify-ads/"><u>Strategic Approaches to Maximize Impact with Spotify Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-streaming-fb-live-on-zoom-platform/"><u>Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-distinctions-public-ai-private-ai-and-personal-ai-explained/"><u>Understanding the Distinctions: Public AI, Private AI, and Personal AI Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
 

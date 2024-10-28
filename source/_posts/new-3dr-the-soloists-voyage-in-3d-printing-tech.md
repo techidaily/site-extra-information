@@ -1,7 +1,7 @@
 ---
 title: "\"[New] '3DR'  The Soloist’s Voyage in 3D Printing Tech\""
-date: 2024-10-09T17:29:57.108Z
-updated: 2024-10-17T02:45:28.016Z
+date: 2024-10-21T16:26:16.031Z
+updated: 2024-10-28T16:31:56.514Z
 tags: 
   - screen-recording
   - ai video
@@ -81,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -110,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -131,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -152,20 +146,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-advanced-editing-for-published-youtube-videos-for-2024/"><u>[New] Advanced Editing for Published YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-deals-on-superior-asmr-microphone-technology/"><u>[New] Best Deals on Superior ASMR Microphone Technology</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-streamlined-methods-to-store-mov-on-your-windows-pc-for-2024/"><u>[New] Streamlined Methods to Store .mov on Your Windows PC for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-cutting-edge-approaches-to-crafting-top-fb-cover-videos/"><u>[Updated] 2024 Approved Cutting-Edge Approaches to Crafting Top FB Cover Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-motion-survey-2023-for-2024/"><u>Complete Motion Survey 2023 for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-treasure-trove-of-e-commerce-the-hottest-sites-for-mystery-boxes/"><u>In 2024, A Treasure Trove of E-Commerce The Hottest Sites for Mystery Boxes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-of-android-gaming-its-all-in-kinemaster-review/"><u>In 2024, The Future of Android Gaming? It's All in KineMaster Review</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-cell-signal-amplifiers-your-comprehensive-guide/"><u>Leading Cell Signal Amplifiers : Your Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-using-windows-telnet-client-effectively/"><u>Step-by-Step Instructions on Using Windows Telnet Client Effectively</u></a></li>
-<li><a href="https://extra-information.techidaily.com/techniques-to-weave-narrative-into-visual-content/"><u>Techniques to Weave Narrative Into Visual Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-drone-editors-toolkit-techniques-for-visual-excellence/"><u>The Drone Editor's Toolkit Techniques for Visual Excellence</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-tutorial-for-turning-followers-into-cash-via-instagram/"><u>The Ultimate Tutorial for Turning Followers Into Cash via Instagram</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-most-enlightening-general-knowledge-trivia-channels-in-24/"><u>Unveiling the Most Enlightening General Knowledge Trivia Channels in '24</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10-free-image-resources/"><u>Updated Top 10 Free Image Resources</u></a></li>
-<li><a href="https://extra-information.techidaily.com/why-my-photos-are-upside-down-on-instagram-feed/"><u>Why My Photos Are Upside Down on Instagram Feed?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cognitive-conclave-selective-general-knowledge-channels/"><u>[Updated] Cognitive Conclave Selective General Knowledge Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-online-vaults-exclusive-ringtone-archives/"><u>2024 Approved Best Online Vaults Exclusive Ringtone Archives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-immersive-experiences-with-audio-in-canva/"><u>Crafting Immersive Experiences with Audio in Canva</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-soundscapes-how-to-use-auditions-fade-in-effect/"><u>Crafting Soundscapes How to Use Audition's Fade In Effect</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-image-clarity-tips-and-tricks-for-ios-devices/"><u>Enhancing Image Clarity: Tips and Tricks for iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exceptional-value-in-mobile-tech-rising-star-android-device-beats-the-competition-for-under-200-excluding-samsung/"><u>Exceptional Value in Mobile Tech: Rising Star Android Device Beats the Competition for Under $200 (Excluding Samsung)</u></a></li>
+<li><a href="https://win-net.techidaily.com/four-effective-strategies-to-recover-deleted-documents-from-your-usb-drive/"><u>Four Effective Strategies to Recover Deleted Documents From Your USB Drive</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-charting-the-course-to-celebrity-the-9-instagram-techniques-you-must-learn/"><u>In 2024, Charting the Course to Celebrity The #9 Instagram Techniques You Must Learn</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y100t-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y100t for Parents | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mediamasher-suite-for-2024/"><u>MediaMasher Suite for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prepare-yourself-7-must-have-tech-in-the-digital-frontier/"><u>Prepare Yourself 7 Must-Have Tech in the Digital Frontier</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-alleviating-emotional-isolation-and-fostering-connections/"><u>The Role of ChatGPT in Alleviating Emotional Isolation and Fostering Connections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-enhancing-your-macs-performance-in-2n22-with-premium-tools-cnet/"><u>Ultimate Guide to Enhancing Your Mac's Performance in 2N22 with Premium Tools | CNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/underwater-cinematography-made-simple-top-7-tips/"><u>Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fortnite Login Woes? Bypass the Frustration with Our Quick Fix Tips
-date: 2024-10-18T16:23:51.327Z
-updated: 2024-10-22T16:37:21.559Z
+date: 2024-10-26T16:07:17.767Z
+updated: 2024-10-28T16:03:14.643Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
@@ -94,10 +87,10 @@ See if you can log in or not. if not, try the next fix, below.
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
@@ -111,10 +104,10 @@ See if you can log in or not. if not, try the next fix, below.
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
@@ -125,18 +118,18 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -166,13 +159,6 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 7: Avoid wireless interference
@@ -183,13 +169,6 @@ See if you can log in or not. if not, try the next fix, below.
 2. Move wireless devices such as **cordless phones** or **microwave ovens** away from your router; or turn off those devices.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable the proxy server
 
@@ -207,6 +186,19 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9: Change the DNS server
 
 **Google Public DNS** provides you with **a speed boost** and **an increased security.** Try changing the DNS server in your PC to the Google Public DNS addresses to see if this issue can be resolved. Here is how to do it:
@@ -215,17 +207,31 @@ See if you can log in or not. if not, try the next fix, below.
 ![Win + R to open control panel](https://images.drivereasy.com/wp-content/uploads/2018/10/control.jpg)
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
@@ -234,15 +240,15 @@ See if you can log in or not. if not, try the next fix, below.
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -279,22 +285,24 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-audience-market-leaders-in-youtubes-short-clips-downloads/"><u>[New] 2024 Approved Audience’ Market Leaders in YouTube's Short Clips Downloads</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-protect-your-privacy-top-webcam-shields-ranked/"><u>[New] 2024 Approved Protect Your Privacy - Top Webcam Shields Ranked</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-making-mp3s-from-your-facebook-videos-with-ease/"><u>[Updated] In 2024, Making MP3s From Your Facebook Videos with Ease</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-step-further-elite-video-editing-hacks-for-tiktok/"><u>2024 Approved A Step Further Elite Video Editing Hacks for TikTok</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/best-mac-recording-software-of-2024-a-selection-of-top-12-gratis-apps-to-capture-your-screens-movavi-insights/"><u>Best Mac Recording Software of 2024: A Selection of Top 12 Gratis Apps to Capture Your Screens - Movavi Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-vivo-y17s-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y17s Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discover-the-top-8-photo-software-replacements-by-microsoft-ideal-for-image-viewing-and-video-edits/"><u>Discover the Top 8 Photo Software Replacements by Microsoft - Ideal for Image Viewing & Video Edits!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/easy-guide-to-finding-free-and-secure-vlc-software-for-macos-users/"><u>Easy Guide to Finding Free & Secure VLC Software for macOS Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>In 2024, Becoming a Snapshot Wizard Top Positions for iPhone Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-selections-of-maximum-digital-safekeeping-for-2024/"><u>Prime Selections of Maximum Digital Safekeeping for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simplifying-email-management-how-to-automate-sorting-in-gmail-with-personalized-rules/"><u>Simplifying Email Management: How to Automate Sorting in Gmail With Personalized Rules</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-creating-impactful-ae-titles/"><u>The Art of Creating Impactful AE Titles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-list-best-for-android-pics/"><u>The Ultimate List Best for Android Pics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-trivia-collection-general-knowledge-2024/"><u>The Ultimate Trivia Collection - General Knowledge 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-sj-cam-s6-a-comprehensive-assessment/"><u>Unveiling SJ-CAM S6 A Comprehensive Assessment</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-best-friend-on-mobile-top-10-android-extractor-apps-overview/"><u>[New] 2024 Approved Facebook's Best Friend on Mobile Top 10 Android Extractor Apps Overview</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-make-a-group-chat-on-skype-for-windows-and-mac/"><u>[New] 2024 Approved How to Make a Group Chat on Skype [For Windows and Mac]</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-simple-path-to-enhanced-youtube-sign-ups-create-animated-subscription-bar-using-filmora/"><u>[New] A Simple Path to Enhanced YouTube Sign-Ups - Create Animated Subscription Bar Using Filmora</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-tiny-mansions-crafting-ornate-japanese-spaces/"><u>[New] Tiny Mansions Crafting Ornate Japanese Spaces</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-gopro-editor-software-for-smartphone-users/"><u>2024 Approved Expert GoPro Editor Software for Smartphone Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-global-gala-of-greatest-video-views/"><u>2024 Approved Global Gala of Greatest Video Views</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-superior-hd-vids-discover-the-best-apps/"><u>Android's Superior HD Vids Discover the Best Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aurora-hdr-vs-standard-imagery-quality-analysis-for-2024/"><u>Aurora HDR vs Standard Imagery Quality Analysis for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoid-high-costs-buying-budget-friendly-gopros-for-2024/"><u>Avoid High Costs Buying Budget-Friendly GoPros for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/captivating-content-incorporate-these-20-magic-words/"><u>Captivating Content Incorporate These 20 Magic Words</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-how-to-edit-gif-images-with-text-on-various-platforms-including-windows-macos-mobile-devices-and-online-tools/"><u>Comprehensive Tutorial: How to Edit GIF Images with Text on Various Platforms Including Windows, macOS, Mobile Devices, and Online Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-overcoming-iphones-dwindling-network-strength-with-these-7-proven-solutions/"><u>Expert Tips: Overcoming iPhones' Dwindling Network Strength with These 7 Proven Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-13-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 13 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-k11-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-soften-your-iphone-pics-a-detailed-breakdown-4-ways/"><u>How to Soften Your iPhone Pics A Detailed Breakdown (4 Ways)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-video-editing-on-a-budget-with-free-fcp/"><u>Mastering Video Editing on a Budget with Free FCP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-future-of-filming-xs-100is-bold-journey/"><u>The Future of Filming XS 100I's Bold Journey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-tips-for-iphones-hdr-images/"><u>Ultimate Tips for iPhone's HDR Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-webcam-selection-for-podcasting/"><u>Ultimate Webcam Selection for Podcasting</u></a></li>
 </ul></div>
 

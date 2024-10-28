@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Annotation  Text Overlaying on Images & Videos Using Windows Photos\""
-date: 2024-10-15T23:21:28.998Z
-updated: 2024-10-16T21:03:20.748Z
+date: 2024-10-23T16:18:17.803Z
+updated: 2024-10-28T16:02:48.651Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -70,10 +70,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -83,10 +83,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -95,18 +95,18 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -123,21 +123,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-sony-s6500-revisited-fresh-take-on-media-playback/"><u>[New] 2024 Approved Sony S6500 Revisited Fresh Take on Media Playback</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-best-free-voice-changer-for-valorant-you-should-have-a-try/"><u>[New] Best Free Voice Changer for Valorant You Should Have a Try</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-vivavideo-app-analysis-in-depth-insights/"><u>[New] VivaVideo App Analysis In-Depth Insights</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-wipe-out-facebook-story-desktopmobile-tips-for-2024/"><u>[New] Wipe Out Facebook Story Desktop/Mobile Tips for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/asymmetric-soothing-sound-the-best-asmr-gear-without-a-heavy-price-tag-for-2024/"><u>Asymmetric Soothing Sound The Best ASMR Gear Without a Heavy Price Tag for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/budget-friendly-sky-vault-optimal-large-file-haven-for-2024/"><u>Budget-Friendly Sky Vault Optimal Large File Haven for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-androids-finest-podcast-apps-top-6/"><u>Discovering Android's Finest Podcast Apps (Top 6)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-free-asus-atk0110-acpi-drivers-to-upgrade-and-secure-your-system/"><u>Get the Latest Free ASUS ATK0110 ACPI Drivers to Upgrade and Secure Your System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-elevate-audio-experience-by-boosting-your-pcs-volume-windows-10/"><u>How To Elevate Audio Experience by Boosting Your PC's Volume (Windows 10)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-how-to-budget-for-video-popularity-on-youtube/"><u>In 2024, How to Budget for Video Popularity on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-prime-video-editors-for-youtube-enthusiasts/"><u>In 2024, Prime Video Editors for YouTube Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/insightful-cloud-costs-price-comparison-and-recommendations/"><u>Insightful Cloud Costs Price, Comparison & Recommendations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-audio-integration-in-adobe-premiere-pro/"><u>Mastering Audio Integration in Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/picart-skills-erasing-unwanted-image-backdrops/"><u>PicArt Skills Erasing Unwanted Image Backdrops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comedy-gold-examining-the-goofy-vhs-experience-for-2024/"><u>'Comedy Gold' Examining the Goofy VHS Experience for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-average-podcast-income-whats-the-payoff/"><u>[New] Average Podcast Income What's the Payoff?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-guide-to-windows-movie-maker-60-downloading/"><u>[New] Complete Guide to Windows Movie Maker 6.0 Downloading</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-becoming-a-final-cut-pro-expert-your-quick-reference/"><u>[Updated] Becoming a Final Cut Pro Expert – Your Quick Reference</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-syncing-symphony-with-images-a-facebook-media-guide/"><u>2024 Approved Syncing Symphony with Images - A Facebook Media Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adjusting-spotify-settings-stop-automated-podcast-suggestions-for-2024/"><u>Adjusting Spotify Settings Stop Automated Podcast Suggestions for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-budget-friendly-player-showdown-free-video-warriors-vlc-and-mpc/"><u>Best Budget Friendly Player Showdown Free Video Warriors (VLC & MPC)</u></a></li>
+<li><a href="https://win-help.techidaily.com/effizientes-entfernen-von-veralteten-dokumenten-in-google-drive-problem-erfolgreich-gelost/"><u>Effizientes Entfernen Von Veralteten Dokumenten in Google Drive: Problem Erfolgreich Gelöst</u></a></li>
+<li><a href="https://techtrends.techidaily.com/extracteur-et-converteur-de-dvd-winxdvd-solution-logicielle-officielle-pour-le-transfert-ios/"><u>Extracteur Et Converteur De DVD WinXDVD - Solution Logicielle Officielle Pour Le Transfert iOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-and-top-tier-comparing-the-leading-srt-apps/"><u>Free & Top-Tier Comparing the Leading SRT Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audience-favorites-screenplays-of-varied-genres/"><u>In 2024, Audience Favorites Screenplays of Varied Genres</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-life-into-photos-motion-blur-on-face-images/"><u>In 2024, Crafting Life Into Photos Motion Blur on Face Images</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-network-security-unlocking-ports-through-windows-7s-built-in-firewall/"><u>Mastering Network Security: Unlocking Ports Through Windows 7'S Built-In Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-directx-update-failure-in-windows-systems/"><u>Overcoming DirectX Update Failure in Windows Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/restoring-iphone-x-identity-check-reviving-face-recognition/"><u>Restoring iPhone X Identity Check Reviving Face Recognition</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
 

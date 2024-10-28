@@ -1,7 +1,7 @@
 ---
 title: "\"The Essence of Depth  Crafting 3D Text Art\""
-date: 2024-10-20T16:34:10.571Z
-updated: 2024-10-22T21:02:54.551Z
+date: 2024-10-21T16:24:41.064Z
+updated: 2024-10-28T16:10:38.855Z
 tags: 
   - screen-recording
   - ai video
@@ -30,13 +30,6 @@ After you get the program, install it and follow the step-by-step instructions y
 
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create 3D Text Effects in Adobe Illustrator
 
 Now that you know what you're getting into, let's finally reveal the entire process. Just follow the steps and do as you see here.
@@ -48,10 +41,10 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
@@ -62,16 +55,16 @@ Step4 Next, choose any color you want for your text from the panel on the screen
 
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
@@ -81,15 +74,22 @@ Step7 Click on the box icon on the right side of the screen and select **“Extr
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step9 Finally, it's time to export the image, and you're all done.
@@ -141,10 +141,10 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
@@ -156,10 +156,10 @@ Step4 Finally, import a video in Filmora and drag it under the text into the Tim
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -190,22 +190,16 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-inviolable-tactic-to-eliminate-youtube-shorts/"><u>[Updated] 2024 Approved Inviolable Tactic to Eliminate YouTube Shorts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-connect-play-and-share-the-essentials-of-xbox-zoom/"><u>[Updated] Connect, Play and Share The Essentials of Xbox Zoom</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-conquering-zoom-meetings-a-tech-savvy-setup-strategy/"><u>[Updated] Conquering Zoom Meetings A Tech-Savvy Setup Strategy</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-tv-ready-recycling-replay-youtube-videos-efficiently/"><u>2024 Approved TV-Ready Recycling Replay YouTube Videos Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-through-tunes-a-guide-to-using-spotify-together-with-loved-ones/"><u>Connecting Through Tunes: A Guide to Using Spotify Together with Loved Ones</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/contacts-weggesloegt-op-iphone-13-of-14-hoe-kunt-u-ze-herstellen/"><u>Contacts Weggesloegt Op iPhone 13 of 14, Hoe Kunt U Ze Herstellen?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/effortless-methods-for-dividing-your-videos-into-manageable-segments/"><u>Effortless Methods for Dividing Your Videos Into Manageable Segments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-disk-write-error-easily/"><u>How To Fix Steam Disk Write Error Easily</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-analyzing-the-updated-sony-s6500-blu-ray-player/"><u>In 2024, Analyzing the Updated Sony S6500 Blu-Ray Player</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-recordtv-easy-cost-free-windows-software-tips/"><u>In 2024, RecordTV Easy, Cost-Free Windows Software Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/next-level-ai-performance-powered-by-tsmcs-latest-optical-communication-innovation-128-terabitssecond-on-package-photonic-linkage/"><u>Next Level AI Performance Powered by TSMC's Latest Optical Communication Innovation - 12.8 Terabits/Second On-Package Photonic Linkage</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/section-4b-five-fact/"><u>Section 4B: Five Fact.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/symphony-for-statuses-whatsapps-melodic-feature/"><u>Symphony for Statuses WhatsApp's Melodic Feature</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-leading-edge-in-film-making-equipment-top-10-list/"><u>The Leading Edge in Film-Making Equipment - Top 10 List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unmatched-quality-the-premier-4k-mirrorless-choices/"><u>Unmatched Quality The Premier 4K Mirrorless Choices</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-facebooks-safety-system-and-how-to-use-it/"><u>Unveiling Facebook’s Safety System & How to Use It</u></a></li>
-<li><a href="https://extra-information.techidaily.com/zero-price-green-screen-aids/"><u>Zero-Price Green Screen Aids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chromatic-symphony-the-filmmakers-toolkit/"><u>[New] Chromatic Symphony The Filmmaker's Toolkit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-splitting-vision-assessing-splitcams-camera-excellence/"><u>[Updated] 2024 Approved Splitting Vision Assessing SplitCam's Camera Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-full-hd-cameras-for-stunts-and-sports/"><u>Affordable Full HD Cameras for Stunts and Sports</u></a></li>
+<li><a href="https://extra-information.techidaily.com/benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review/"><u>BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-zte-nubia-z60-ultra-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on ZTE Nubia Z60 Ultra Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-lava-blaze-curve-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Lava Blaze Curve 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blend-visuals-and-soundtracks-for-movie-making/"><u>In 2024, Blend Visuals and Soundtracks for Movie Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-strategies-for-free-clock-usage-optimization/"><u>In 2024, Tailored Strategies for FREE Clock Usage Optimization</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New 2024 Approved Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://extra-information.techidaily.com/night-owls-techniques-for-long-exposure-iphone-pics/"><u>Night Owls' Techniques for Long-Exposure iPhone Pics</u></a></li>
 </ul></div>
 

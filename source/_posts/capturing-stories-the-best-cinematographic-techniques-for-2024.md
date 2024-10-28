@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Stories  The Best Cinematographic Techniques for 2024\""
-date: 2024-07-27T05:38:59.873Z
-updated: 2024-07-28T05:38:59.873Z
+date: 2024-10-27T16:09:05.790Z
+updated: 2024-10-28T16:04:07.264Z
 tags: 
   - screen-recording
   - ai video
@@ -36,17 +36,10 @@ Step 1 Attach your phone to the side of a door using duct tape or any strong tap
 
 Step 2 Now open and close the door to get smooth camera movement.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Tip 2\. DIY Light Focus and Control
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### DIY LED Panel
 
 You can create LED Panel at home to add light to a subject. Unfortunately, LED strips do not produce bright light when spread as a straight line. However, we can use cardboard and LED light strips to build a broader, more brilliant light. Follow the steps below to make DIY LED Panel.
@@ -63,10 +56,14 @@ Step 4 Plug in the LED strip and use this LED Panel for a broader light source.
 
 Alright! Let's check out how it looks in the video below.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### DIY Light Flag
 
@@ -84,9 +81,6 @@ Step 4 Now, use this DIY Light Flag to shape or block light while filming.
 
 Let us see how it looks;
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![diy light flag](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-flag.gif)
 
 ### DIY Black Wrap
@@ -111,6 +105,20 @@ Here is a GIF attached for a better understanding of the steps.
 
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### DIY Light Reflector
 
 A reflector is a piece of glass or any reflective surface that can redirect light to a specific spot. For example, use aluminum foil to make a Light Reflector at your home.
@@ -127,18 +135,25 @@ Step 3 Use the reflector to redirect light to your object.
 
 There is a GIF attached below to understand the steps visually.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tip 3\. DIY Light Diffuser
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Diffuse Lights With a Desk Mat
 
 You can diffuse the light using a transparent desk mat if you think there is too much light.
@@ -155,17 +170,24 @@ Step 3 Use this diffuser to reduce the intensity of light.
 
 For a better understanding of the steps, watch the GIF attached below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reveal Movement
 
@@ -185,9 +207,6 @@ Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### 180° Presentation Movement
 
 This Movement gives the subject a general look and displays more details of the surroundings and the subject.
@@ -227,8 +246,19 @@ The video attached below will help you to understand these steps.
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words
 
 No doubt, professional cinematography requires expensive equipment, but if you are low on budget, you can use different household items to create cinematic effects. You are using everyday gadgets for creating videos significantly reduces the cost.
@@ -263,6 +293,22 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-complete-breakdown-of-color-tuning-methods/"><u>[New] A Complete Breakdown of Color Tuning Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-blocking-made-simple/"><u>[New] In 2024, Instagram Blocking Made Simple</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-short-tale-on-wintoys-unveiling-a-compelling-windows-application/"><u>A Short Tale on 'WinToys': Unveiling a Compelling Windows Application</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-stabilizing-call-of-dutys-dead-zombie-war-on-pc-crash-issues-solved/"><u>Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-complet-utilisation-de-robocopy-pour-la-creation-dun-backup-incremental-automatise/"><u>Guide Complet: Utilisation De Robocopy Pour La Création D'un Backup Incremental Automatisé</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-accessing-zoom-directly-from-google-mail-interface/"><u>In 2024, Accessing Zoom Directly From Google Mail Interface</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>In 2024, Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-c55-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme C55 online without jailbreak</u></a></li>
+<li><a href="https://games-able.techidaily.com/ranking-the-superior-console-emulators-on-macos/"><u>Ranking the Superior Console Emulators on macOS</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/rtmp-streaming-on-instagram-a-comprehensive-tutorial-for-2024/"><u>RTMP Streaming on Instagram A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-basics-what-makes-a-vr-device-special/"><u>The Basics What Makes a VR Device Special?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-article-for-keeping-your-lcdled-tv-spotless-and-clear/"><u>The Ultimate How-To Article for Keeping Your LCD/LED TV Spotless and Clear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-mobile-vr-headsets/"><u>Top 10 Mobile VR Headsets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-5-best-monitors-for-ps5/"><u>Top 5 Best Monitors for Ps5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-5-budget-friendly-pinterest-video-grabs/"><u>Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+</ul></div>
 

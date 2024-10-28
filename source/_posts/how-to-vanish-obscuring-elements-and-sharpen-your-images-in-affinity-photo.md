@@ -1,7 +1,7 @@
 ---
 title: "How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo"
-date: 2024-10-13T19:38:48.501Z
-updated: 2024-10-16T16:02:32.365Z
+date: 2024-10-25T16:00:12.661Z
+updated: 2024-10-28T16:16:05.786Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,10 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Erase a White Background in Affinity Designer
@@ -51,13 +51,6 @@ Step3 To make a selection around your subject, first enable the **"Snap To Edges
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
 Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, and use the Selection Brush tool to manually correct the rough edges of your outline.
@@ -69,13 +62,6 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -107,10 +93,10 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -120,6 +106,13 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -148,10 +141,10 @@ And if you have any interests in finding free images to expand your resource, yo
 Hopefully, this article and video can help you create ideal images!
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Alternative of Affinity Photo
@@ -161,6 +154,13 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -212,20 +212,17 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-expert-tips-on-seamless-multisnapping-videos-in-snapchat/"><u>[New] 2024 Approved Expert Tips on Seamless Multisnapping Videos in Snapchat</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-perfect-srt-output-with-premiere-pro/"><u>[New] Crafting Perfect SRT Output with Premiere Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-smart-video-alteration-for-mac-users-seeking-insta-perfect-posts-for-2024/"><u>[New] Smart Video Alteration for Mac Users Seeking Insta-Perfect Posts for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-configuring-who-can-see-your-youtube-clips/"><u>[Updated] 2024 Approved Configuring Who Can See Your YouTube Clips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-game-streaming-software-you-should-know/"><u>[Updated] Best Game Streaming Software You Should Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-solution-for-srt-not-working-in-premiere/"><u>[Updated] Comprehensive Solution for SRT Not Working in Premiere</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-innovative-iphone-and-ipad-video-players-the-10-best-options/"><u>[Updated] In 2024, Innovative iPhone & iPad Video Players The 10 Best Options</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-seamlessly-move-your-voicemail-messages-from-one-iphone-to-another/"><u>1. Seamlessly Move Your Voicemail Messages From One iPhone to Another</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>2024 Approved Elevate Your Channel Hit the 10,000 View Mark Fast</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-android-3d-playback-software/"><u>2024 Approved Ultimate Android 3D Playback Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-find-n3-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Find N3 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-practical-approach-to-hymnal-phone-tones-for-2024/"><u>A Practical Approach to Hymnal Phone Tones for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gameplay-through-recovery-strategies/"><u>Enhancing Gameplay Through Recovery Strategies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-webcams-enhancing-audio-experience/"><u>Optimal Webcams Enhancing Audio Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/standout-14-animation-techniques-for-texts/"><u>Standout 14 Animation Techniques for Texts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-splitscreen-viewer-insights/"><u>[Updated] 2024 Approved SplitScreen Viewer Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-conquering-hdr-photography-with-ease/"><u>[Updated] Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-8-pioneering-online-photo-combination-suite/"><u>In 2024, 8 Pioneering Online Photo Combination Suite</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mambo-measuring-macaws/"><u>In 2024, Mambo Measuring Macaws</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lullaby-videos-a-study-on-sleep-inducing-stories-for-2024/"><u>Lullaby Videos A Study on Sleep-Inducing Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximizing-profile-video-attraction-strategies/"><u>Maximizing Profile Video Attraction Strategies</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-foremost-selection-of-9-breakthrough-ai-voices-shaping-the-future/"><u>New In 2024, The Foremost Selection of 9 Breakthrough AI Voices Shaping the Future</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-techniques-for-iphone-picture-inversion/"><u>Professional Techniques for iPhone Picture Inversion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securely-downloading-vlc-media-player-for-free-on-macos/"><u>Securely Downloading VLC Media Player for Free on macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-to-burning-a-dvd-with-embedded-subtitles/"><u>Step-by-Step Guide to Burning a DVD With Embedded Subtitles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-on-latest-hardware/"><u>Tom's Tech Review: Comprehensive Guide on Latest Hardware</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zoom-like-a-pro-top-video-gear-for-slow-motion-effects/"><u>Zoom Like a Pro Top Video Gear for Slow Motion Effects</u></a></li>
 </ul></div>
 
