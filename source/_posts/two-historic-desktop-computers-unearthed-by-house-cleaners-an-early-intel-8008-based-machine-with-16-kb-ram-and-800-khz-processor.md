@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-10-25T16:02:11.133Z
-updated: 2024-10-28T16:11:06.220Z
+date: 2024-10-29T04:48:18.070Z
+updated: 2024-11-03T03:04:31.735Z
 tags:
   - desktop
 categories:
@@ -46,23 +46,27 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-androids-best-podcast-discoveries/"><u>[New] Android's Best Podcast Discoveries</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-webinar-playback-recordings/"><u>[Updated] 2024 Approved Webinar Playback Recordings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boxing-battlegrounds-live-vs-virtual-warriors/"><u>Boxing Battlegrounds Live VS Virtual Warriors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-techniques-for-smartphone-video-capture/"><u>Essential Techniques for Smartphone Video Capture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/google-bard-against-bing-chat-deciding-on-your-ideal-artificial-intelligence-mate/"><u>Google Bard Against Bing Chat: Deciding on Your Ideal Artificial Intelligence Mate</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977325935-igfxem-module-problems-heres-how-they-were-solved/"><u>IgfxEM Module Problems? Here's How They Were Solved</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-free-pass-to-premium-video-editing-tools/"><u>The Free Pass to Premium Video Editing Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-seamless-shift-an-introduction-to-crossfades-for-2024/"><u>The Seamless Shift An Introduction to Crossfades for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unmatched-visual-quality-in-the-best-4k-panels-ranked-1-10/"><u>Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-jaycut-basics-a-quick-start-guide-to-free-online-video-editing-software/"><u>Updated 2024 Approved Jaycut Basics A Quick Start Guide to Free Online Video Editing Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-actionable-techniques-for-efficient-media-conversion-chains/"><u>[New] Actionable Techniques for Efficient Media Conversion Chains</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-avoid-blandness-in-your-vids-top-recommended-youtube-thumbnail-heights/"><u>[New] In 2024, Avoid Blandness in Your Vids Top Recommended YouTube Thumbnail Heights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-tech-review-dji-phantom-3-professional-drone/"><u>[New] The Ultimate Tech Review DJI Phantom 3 Professional Drone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-instagrams-hidden-qanda-features-for-2024/"><u>[New] Unlocking Instagram’s Hidden Q&A Features for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-clear-the-way-for-smooth-safari-streaming/"><u>2024 Approved Clear the Way for Smooth Safari Streaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-strategic-approach-to-increase-likes-on-your-tiktok-video-content-for-2024/"><u>A Strategic Approach to Increase 'Likes' On Your TikTok Video Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-captivating-gopro-time-lapse-footage-hacks-for-2024/"><u>Craft Captivating GoPro Time-Lapse Footage Hacks for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-magic-vs-2-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor Magic Vs 2 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/inshots-competitors-for-pclaptop-editors-for-2024/"><u>Inshot's Competitors for PC/Laptop Editors for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/laughing-skits-building-a-parody-film-for-2024/"><u>Laughing Skits Building a Parody Film for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-video-quality-on-tiktok-2-ways/"><u>Transform Video Quality on TikTok (2 Ways)</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

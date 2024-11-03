@@ -1,7 +1,7 @@
 ---
 title: "\"Nostalgia on Screen  Step-by-Step for Image to Video Conversion\""
-date: 2024-10-25T16:09:35.060Z
-updated: 2024-10-28T16:22:16.161Z
+date: 2024-10-27T06:44:49.188Z
+updated: 2024-11-02T19:16:46.706Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,13 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -78,6 +85,13 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -85,13 +99,6 @@ To learn how to come up with an impressive video collage using Filmora, just fol
 To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2\. Create a timeline for your photos
 
@@ -105,13 +112,6 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -120,22 +120,16 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
@@ -147,14 +141,14 @@ That’s it! After making all the changes, you can preview your video on the rig
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
-Find more fancy ways to make the best photo and video slideshow with Filmora!
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -203,24 +197,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-flutter-free-your-videos-a-selection-of-excellent-converters/"><u>[New] 2024 Approved Flutter Free Your Videos A Selection of Excellent Converters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-command-your-cloud-data-leading-providers-to-watch/"><u>[Updated] Command Your Cloud Data Leading Providers to Watch</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-adept-methods-for-mass-acquiring-videos-on-tiktok-app/"><u>2024 Approved Adept Methods for Mass Acquiring Videos on TikTok App</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-clipcomposers-journey-thorough-review-of-androvid/"><u>2024 Approved ClipComposer's Journey – Thorough Review of AndroVid</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-image-framing-essentials-top-apps-and-websites-creators/"><u>2024 Approved Image Framing Essentials Top Apps & Websites Creators</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-the-best-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>2024 Approved The Best Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/a-comprehensive-analysis-mycams-video-capture-technology/"><u>A Comprehensive Analysis MyCam's Video Capture Technology</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/cloaked-consumption-the-secret-guide-for-exploring-instagram-stories-on-multiple-platforms-free/"><u>Cloaked Consumption The Secret Guide for Exploring Instagram Stories on Multiple Platforms (Free)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/curated-list-14-captivating-text-animation-showcases/"><u>Curated List 14 Captivating Text Animation Showcases</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-speeds-a-safe-guide-for-rapid-music-streaming/"><u>Enhancing Speeds A Safe Guide for Rapid Music Streaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-storyboard-to-screenplay-filmmaking-essentials/"><u>From Storyboard to Screenplay Filmmaking Essentials</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-11-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 11 Pro? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-cinemas-creative-edge-the-years-top-camera-trends-and-techniques-24/"><u>In 2024, Cinema's Creative Edge The Year's Top Camera Trends and Techniques - '24</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instagrams-secrets-for-creating-must-watch-unboxings/"><u>Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-how-to-get-the-latest-thrustmaster-t150-driver-software/"><u>Instant Access - How to Get the Latest Thrustmaster T150 Driver Software</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-noise-level-fluctuation-in-hp-officejet-pro-x100/"><u>Repaired Noise Level Fluctuation in HP Officejet Pro X100</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-turtle-beach-stealth-70-microphone/"><u>Troubleshooting Guide: Fixing Non-Functional Turtle Beach Stealth 70 Microphone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/understanding-hdr-techniques-in-modern-photoshoots/"><u>Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-bring-the-chuckles-home-creating-memes-on-demand/"><u>[New] 2024 Approved Bring the Chuckles Home Creating Memes on Demand</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-in-depth-guide-to-full-transcription-and-archiving-of-fb-messages/"><u>[Updated] 2024 Approved In-Depth Guide to Full Transcription & Archiving of FB Messages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-access-an-array-of-personalized-ending-sounds-for-videos/"><u>[Updated] Access an Array of Personalized Ending Sounds for Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-delving-into-popular-discussion-threads-on-youtube-for-2024/"><u>[Updated] Delving Into Popular Discussion Threads on YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailored-transmission-terminal-podcasters-hub/"><u>[Updated] Tailored Transmission Terminal Podcaster's Hub</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-cameras-elevating-podcast-engagement/"><u>2024 Approved Best Cameras Elevating Podcast Engagement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-speed-eradicating-background-bgs-in-a-flash/"><u>2024 Approved Mastering Speed Eradicating Background Bgs in a Flash</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-footage-top-10-action-cams-with-stabilization-for-2024/"><u>Best Footage Top 10 Action Cams With Stabilization for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/deciphering-the-secrets-to-bg-purging-in-figma-layouts/"><u>Deciphering the Secrets to BG Purging in Figma Layouts</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-interaction-with-menu-bar-icons/"><u>Enhancing User Interaction with Menu Bar Icons</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-screenshot-and-video-tools-top-8-smartphone-essentials/"><u>Innovative Screenshot & Video Tools – Top 8 Smartphone Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-the-mix-incorporating-and-refining-music-into-canva-projects-for-2024/"><u>Master the Mix Incorporating & Refining Music Into Canva Projects for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-conjuncts-with-pearson-academic-fusion/"><u>Mondly Conjuncts With Pearson Academic Fusion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-world-of-fpv-drone-propellers/"><u>Navigating the World of FPV Drone Propellers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-ios-based-interview-and-journey-podcasts/"><u>Ultimate Guide to iOS-Based Interview & Journey Podcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-and-components-with-tom-your-guide-to-the-latest-in-hardware-technology/"><u>Unveiling Gadgets & Components with Tom - Your Guide to the Latest in Hardware Technology</u></a></li>
 </ul></div>
 
