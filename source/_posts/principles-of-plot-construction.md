@@ -1,7 +1,7 @@
 ---
 title: "Principles of Plot Construction"
-date: 2024-10-04T05:16:42.906Z
-updated: 2024-10-04T17:22:36.718Z
+date: 2024-11-07T09:46:30.558Z
+updated: 2024-11-11T18:19:09.369Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ A screenplay is a story that describes what will be seen on film or television. 
 
 The structure of a screenplay can differ depending on the type of film being produced and the amount of dialogue versus action.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Basic standard screenplay formats
 
 Screenplay format is **a collection of 12 different elements**, and writers should keep in mind that formatting their screenplay will benefit them in the long run.
@@ -58,6 +65,13 @@ You must also include all the other elements so that no one is confused about wh
 
 Screenplays are a type of written or visual storytelling in which **dialogue, action, and description are all included**. They are typically used in the film industry to pitch a film or television show idea. They can be either fiction or nonfiction, depending on whether they use fictional stories or real-life facts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Templates for screenplay
 
 In simple words, a screenplay format template is a ready-made structure into which characters, movements, and story elements can be inserted to create a usable screenplay. It is essentially a layout with specific characteristics that suit a particular genre of screenwriting.
@@ -70,19 +84,6 @@ A thriller script template will structure character movement, staging, and dialo
 
 We currently have screenplay format templates for nearly every theatrical and film genre, including drama, comedy, action, thriller, autobiography, and others. Each of these templates has a unique structure, but the best ones share some characteristics.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Characteristics of the Ideal Screenplay Format Template
 
 Regardless of the screenplay genre, each screenplay template has some characteristics that set it apart from the rest. However, all ideal scenarios have the following characteristics in common:
@@ -93,6 +94,13 @@ Regardless of the screenplay genre, each screenplay template has some characteri
 * Creative space
 
 Let's look at each of the characteristics individually.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Comprehensive Layout
 
@@ -110,13 +118,6 @@ That said, a great screenplay format template:
 
 Aside from some niche genres like anthology and neo-bizarro, every ideal screenplay format template has some combination of these qualities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Contemporary Features
 
 Scenarios have had a similar structure since the beginning of the last century.
@@ -132,13 +133,6 @@ Even the general rule of thumb "one-page equals one minute of screen time" doesn
 While it's not necessary to have a fully automated script layout interface, any task that can be automated gives the writer more time for important tasks like contributing to off-screen production, recording voice-overs, etc.
 
 Plus, since most writers today prefer a smartphone to a traditional typewriter, it pays to have a screenplay editor in the palm of your hand.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Configurability
 
@@ -165,10 +159,10 @@ For example, an ideal screenwriting template should allow one character out of s
 ![creative space](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This prevents all characters from looking and sounding like they were cast from a similar mold and have no unique development of their own.
@@ -177,6 +171,13 @@ In addition, the best templates should allow screenwriters to adjust their plot 
 
 Common fictional tropes have already been adopted by thousands of screenwriters around the world. The job of a perfect template is to give you enough creative space to create a unique story from a traditional genre.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4\. Make your own screenplay by using Filmora
 
 After you have chosen what template is more appropriate for your needs, you will have to start writing your script. Here is a step-to-step guide to help you.
@@ -184,13 +185,6 @@ After you have chosen what template is more appropriate for your needs, you will
 (产品推荐)
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is video editing software that allows users to create amazing videos quickly and easily by utilizing a variety of powerful editing tools. It has a delightfully simple design that allows anyone to become a great video editor. Filters, animated elements, and other video effects or unique features are also available.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -228,24 +222,22 @@ The article has provided the most information about screenplays and how to write
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds/"><u>[New] Audio-Visual Elites Selecting 5 Exceptional Creators Who Mix Sounds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mac-users-launch-your-own-sports-videography-hub/"><u>[New] Mac Users Launch Your Own Sports Videography Hub</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[New] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-tiktok-edit-tricks-to-boost-creativity/"><u>[Updated] Advanced TikTok Edit Tricks to Boost Creativity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-airborne-mass-movers-selecting-the-best-drones/"><u>[Updated] Airborne Mass Movers Selecting the Best Drones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-kinetics-study-2023/"><u>[Updated] Comprehensive Kinetics Study 2023</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-compelling-podcast-names-a-detailed-guide-with-idea-examples/"><u>[Updated] Crafting Compelling Podcast Names A Detailed Guide with Idea Examples</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-iphone-voice-memo/"><u>[Updated] In 2024, The Ultimate Tutorial for iPhone Voice Memo</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-attraction-8-proven-techniques-for-reel-success/"><u>[Updated] Master the Art of Attraction 8 Proven Techniques for Reel Success</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-bebop-2s-avian-spectacle-a-compreran-analysis/"><u>2024 Approved Bebop 2'S Avian Spectacle – A Compreran Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-instagrams-copyrighted-song-permissions/"><u>A Deep Dive Into Instagram's Copyrighted Song Permissions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-conveniently-altering-resolution-on-ios-devices/"><u>In 2024, Conveniently Altering Resolution on iOS Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-spectral-perfection-program/"><u>In 2024, Spectral Perfection Program</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-essential-guide-to-win11-video-grabber-apps/"><u>In 2024, The Essential Guide to Win11 Video Grabber Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/master-your-media-messages-a-guide-to-fb-video-posts-for-2024/"><u>Master Your Media Messages A Guide to FB Video Posts for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/nikon-j5-setting-new-standards-in-high-resolution-video-production/"><u>Nikon J5 Setting New Standards in High-Resolution Video Production</u></a></li>
-<li><a href="https://extra-information.techidaily.com/professional-take-the-syma-x5c-ideal-first-timers-droning-companion/"><u>Professional Take The Syma X5C – Ideal First-Timer's Droning Companion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionary-video-editor-top-tier-clarity/"><u>Revolutionary Video Editor Top-Tier Clarity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-copyright-free-online-collections-for-games/"><u>[New] Copyright-Free Online Collections for Games</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-audio-techniques-capturing-clear-sound/"><u>[New] Essential Audio Techniques Capturing Clear Sound</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-expertly-select-the-fastest-5-chrome-plugins-for-fb-video-downloads-for-2024/"><u>[New] Expertly Select The Fastest 5 Chrome Plugins for FB Video Downloads for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoid-being-overwhelmed-by-tiktok-drafts-edits-for-orderliness/"><u>[Updated] Avoid Being Overwhelmed by TikTok Drafts Edits for Orderliness</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-the-world-from-your-mobile-height/"><u>2024 Approved Capture the World From Your Mobile Height</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-dive-into-a-friends-life-without-fuss-on-tiktok/"><u>2024 Approved How To Dive Into a Friend's Life Without Fuss on TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-iphone-voice-memo-recording-guide/"><u>2024 Approved IPhone Voice Memo Recording Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aesthetic-fusion-studio-ultimate-photo-alchemy-for-2024/"><u>Aesthetic Fusion Studio Ultimate Photo Alchemy for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/cf-and/"><u>CF卡易上手的克隆方法 & 视频教程指导 - 简单操作技巧</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-windows-10-imports-a-deep-dive-into-file-transfer/"><u>Decoding Windows 10 Imports A Deep Dive Into File Transfer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/echoes-of-the-northmen-essential-sites-to-grab-got-audio-calls/"><u>Echoes of the Northmen Essential Sites to Grab GoT Audio Calls</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfect-placement-for-instagrams-audio-emojis-a-quick-guide/"><u>In 2024, Perfect Placement for Instagram’s Audio Emojis – A Quick Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-s18-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo S18 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-zodiac-inspired-whatsapp-bios-enhancing-personal-connections/"><u>Top Zodiac-Inspired WhatsApp Bios Enhancing Personal Connections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-drone-racers-and-top-5-fpv-drones/"><u>Ultimate Guide to Drone Racers & Top 5 FPV Drones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-10-29T04:48:18.070Z
-updated: 2024-11-03T03:04:31.735Z
+date: 2024-11-09T03:07:42.447Z
+updated: 2024-11-12T02:34:56.944Z
 tags:
   - desktop
 categories:
@@ -46,27 +46,23 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-actionable-techniques-for-efficient-media-conversion-chains/"><u>[New] Actionable Techniques for Efficient Media Conversion Chains</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-avoid-blandness-in-your-vids-top-recommended-youtube-thumbnail-heights/"><u>[New] In 2024, Avoid Blandness in Your Vids Top Recommended YouTube Thumbnail Heights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-tech-review-dji-phantom-3-professional-drone/"><u>[New] The Ultimate Tech Review DJI Phantom 3 Professional Drone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-instagrams-hidden-qanda-features-for-2024/"><u>[New] Unlocking Instagram’s Hidden Q&A Features for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-clear-the-way-for-smooth-safari-streaming/"><u>2024 Approved Clear the Way for Smooth Safari Streaming</u></a></li>
-<li><a href="https://article-posts.techidaily.com/a-strategic-approach-to-increase-likes-on-your-tiktok-video-content-for-2024/"><u>A Strategic Approach to Increase 'Likes' On Your TikTok Video Content for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/craft-captivating-gopro-time-lapse-footage-hacks-for-2024/"><u>Craft Captivating GoPro Time-Lapse Footage Hacks for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-magic-vs-2-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor Magic Vs 2 FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/inshots-competitors-for-pclaptop-editors-for-2024/"><u>Inshot's Competitors for PC/Laptop Editors for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/laughing-skits-building-a-parody-film-for-2024/"><u>Laughing Skits Building a Parody Film for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-video-quality-on-tiktok-2-ways/"><u>Transform Video Quality on TikTok (2 Ways)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-captivating-images-using-leading-lines-iphone/"><u>[New] Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>[New] In 2024, Highest Rated Smartphone Camera & Recording Apps IPhone vs Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-igtv-content-extraction-for-mobile-users/"><u>[New] In 2024, IGTV Content Extraction for Mobile Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-freeing-up-youtube-footage-borderless-exploration/"><u>[Updated] Freeing Up YouTube Footage Borderless Exploration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725290369224-dvd/"><u>「焼き付け方法解説：スキルを自由に使って、あらゆる動画をDVD形式へ変換するためのガイド」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge/"><u>2024 Approved Behind the Screen Discovering Samsung Galaxy S8's 4K Edge</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults-for-2024/"><u>A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-driver-upgrades-for-your-brother-mfc-n7860dw-on-windows-pcs/"><u>Get the Newest Driver Upgrades for Your Brother MFC-N7860DW on Windows PCs</u></a></li>
+<li><a href="https://win-top.techidaily.com/guia-paso-a-paso-regresar-tu-iphone-al-estado-original-con-simplicidad/"><u>Guía Paso a Paso: Regresar Tu iPhone Al Estado Original Con Simplicidad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-12-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 12 Pro Screen | Stellar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-storing-capabilities-and-limitations-insights-into-64128gb-drives/"><u>Video Storing Capabilities & Limitations - Insights Into 64/128GB Drives</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

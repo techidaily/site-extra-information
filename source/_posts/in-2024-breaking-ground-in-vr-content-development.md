@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Breaking Ground in VR Content Development"
-date: 2024-10-01T10:43:22.091Z
-updated: 2024-10-05T12:53:48.250Z
+date: 2024-11-06T16:34:36.051Z
+updated: 2024-11-11T20:16:07.490Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -63,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -83,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -104,24 +110,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-elite-selection-7-superior-fps-games-for-2024/"><u>[New] Elite Selection 7 Superior FPS Games for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-efficiently-saving-your-screen-the-dell-approach/"><u>[New] In 2024, Efficiently Saving Your Screen The Dell Approach</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4/"><u>[Updated] Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-script-craftsmanship-dialogues-that-captivate/"><u>[Updated] Script Craftsmanship Dialogues That Captivate</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhance-igtv-engagement-with-diverse-subtitle-options/"><u>2024 Approved Enhance IGTV Engagement with Diverse Subtitle Options</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-value-4k-photography-equipment/"><u>Best Value 4K Photography Equipment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breakthrough-vloggers-reviewed-the-best-15-youtube-channels-for-product-reviews-for-2024/"><u>Breakthrough Vloggers Reviewed The Best 15 YouTube Channels for Product Reviews for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/conjoin-video-streams-for-queue-curation-for-2024/"><u>Conjoin Video Streams for Queue Curation for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/discord-screen-share-solving-the-mute-dilemma-for-clearer-communication/"><u>Discord Screen Share - Solving the Mute Dilemma for Clearer Communication</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-balance-your-shots-best-camera-stabilizers-reviewed/"><u>In 2024, Balance Your Shots Best Camera Stabilizers Reviewed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>In 2024, Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-audio-editing-essentials-l-cuts-j-cuts-and-more/"><u>New In 2024, FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202699725-should-you-preserve-msdia80dll-in-windows-find-out-why/"><u>Should You Preserve msdia80.dll in Windows? Find Out Why!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-converting-pdf-files-into-images-across-pc-mac-and-chromebook/"><u>Step-by-Step Guide: Converting PDF Files Into Images Across PC, Mac and Chromebook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-choice-of-childhood-flying-fun-toys/"><u>The Ultimate Choice of Childhood Flying Fun Toys</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-8-best-screen-recorders-without-lag-for-2024/"><u>Top 8 Best Screen Recorders without Lag for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-slow-motion-to-quick-with-android-aids/"><u>Transform Slow Motion to Quick with Android Aids</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-new-potentials-with-macos-11-big-sur/"><u>Unlocking New Potentials with macOS 11 Big Sur</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-video-spin-vlcs-rotation-guide/"><u>[New] 2024 Approved Mastering Video Spin VLC's Rotation Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-agile-quick-windows-picture-sorter/"><u>[New] Agile Quick Windows Picture Sorter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>[New] The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere/"><u>[New] The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-complete-analysis-of-the-new-picsart-guide-and-review-for-updated-app/"><u>2024 Approved A Complete Analysis of the New PicsArt – Guide & Review for Updated App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assistance-for-pursuing-passion-careers/"><u>AI Assistance for Pursuing Passion Careers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brainy-brigade-top-11-quiz-channels/"><u>Brainy Brigade Top 11 Quiz Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-overview-the-ultimate-video-editors-review-for-vivocut-for-2024/"><u>Complete Overview The Ultimate Video Editor's Review for VivoCut for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-walkthrough-restarting-windows-directly-into-safe-mode/"><u>Comprehensive Walkthrough: Restarting Windows Directly Into Safe Mode</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/finding-your-preferred-video-editor-filmora-vs-democreator-insights/"><u>Finding Your Preferred Video Editor Filmora Vs. Democreator Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-logitech-brio-camera-software-for-windows-11-systems/"><u>Get Logitech Brio Camera Software for Windows 11 Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-perfection-dive-into-top-12-websites-offering-stock-photos-without-cost/"><u>In 2024, Capture Perfection Dive Into Top 12 Websites Offering Stock Photos Without Cost</u></a></li>
 </ul></div>
 
