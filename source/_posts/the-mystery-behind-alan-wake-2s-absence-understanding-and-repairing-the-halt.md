@@ -1,7 +1,7 @@
 ---
 title: The Mystery Behind Alan Wake 2'S Absence – Understanding and Repairing the Halt
-date: 2024-11-06T10:01:32.432Z
-updated: 2024-11-11T21:01:17.622Z
+date: 2024-11-19T02:01:53.883Z
+updated: 2024-11-21T17:25:07.634Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 It must feel like forever when you can’t wait to immerse yourself in Cities: Skylines 2, but have to wait for Paradox Launcher to work first. To make things worse, Paradox Launcher just stops working out of the blue, so you have no way to play the game whatsoever. If this is also you, don’t worry, things don’t have to work this way.
 
  Here are some fixes that have helped many other gamers with their Paradox Launcher not working problem, and you may want to give them a try as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes for Paradox Launcher not working problem
 
@@ -39,10 +43,7 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reinstall Paradox Launcher
@@ -62,21 +63,11 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image.png)
 5. Double-click the**Paradox Interactive** folder, and**delete** the**launcher-v2** folder in it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-4.png)
 6. Then press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
@@ -103,13 +94,14 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 2. Select each**Paradox Launcher** related program you see here and click**End Task** to close them one by one.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then try to play your game via Paradox Launcher again and see if its launching problem is fixed. If the problem still remains, please move on to the next fix below.
 
@@ -124,23 +116,17 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then try to play your game via Paradox Launcher again to see if it can launch. If the problem remains, please move on to the next fix.
@@ -156,6 +142,10 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
  Third-party antivirus applications hook very deep into your system, so it may interfere with Steam and Paradox Launcher. To avoid this problem, you can try   **adding both Steam and Paradox Launcher as exceptions to your third-party antivirus application** .
 
  If you’re not sure how to do it, please consult your antivirus documentation for further instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.2 Make sure bootstrapper-v2.exe is not flagged as a virus
 
@@ -175,31 +165,15 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
-
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
 
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Repair damaged system files
 
@@ -213,6 +187,10 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -247,18 +225,24 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-compre-habits-of-top-reddit-posters-explained/"><u>[New] The Compre Habits of Top Reddit Posters Explained</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-seo-for-podcasts-ultimate-guide-to-boost-your-podcast-rankings/"><u>[Updated] 2024 Approved SEO for Podcasts - Ultimate Guide To Boost Your Podcast Rankings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures/"><u>[Updated] Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audio-storytelling-in-media-production-masterclass/"><u>2024 Approved Audio Storytelling in Media Production Masterclass</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-complete-overview-the-spinning-lens-revolution/"><u>2024 Approved Complete Overview The Spinning Lens Revolution</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-discover-the-secrets-to-customizing-game-sounds-with-our-step-by-step-process-no-charge/"><u>2024 Approved Discover the Secrets to Customizing Game Sounds with Our Step-by-Step Process (No Charge!)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-brand-collaboration-for-youtube/"><u>In 2024, Brand Collaboration for YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breakthrough-tactics-for-improved-voice-identity-in-pubg/"><u>In 2024, Breakthrough Tactics for Improved Voice Identity in PUBG</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-gateways-to-googles-advertising-on-youtube-platforms/"><u>In 2024, Gateways to Google's Advertising on YouTube Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/rhythm-discoveries-at-your-fingertips-free-online/"><u>Rhythm Discoveries at Your Fingertips (Free, Online)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-the-microsoft-bing-ai-chatbot-on-your-android-phones-input-method/"><u>Setting Up the Microsoft Bing AI Chatbot on Your Android Phone's Input Method</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/smart-strategies-optimizing-your-writing-with-chatgpt-as-a-freelancer/"><u>Smart Strategies: Optimizing Your Writing with ChatGPT as a Freelancer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-realistic-applications-of-auto-gpt-for-everyday-users/"><u>Top 8 Realistic Applications of Auto-GPT for Everyday Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-best-microphone-combinations-for-superior-4k-audio-and-visuals-for-2024/"><u>[New] Best Microphone Combinations for Superior 4K Audio and Visuals for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-elite-focus-handheld-premium-mobile-mounting-systems/"><u>[New] In 2024, Elite Focus Handheld Premium Mobile Mounting Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ig-beats-unleashed-an-insiders-guide-to-music-integration/"><u>[Updated] 2024 Approved IG Beats Unleashed An Insider’s Guide to Music Integration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-canvascartoons-detailed-scrutiny-and-handbooks-24/"><u>[Updated] CanvasCartoons Detailed Scrutiny & Handbooks '24</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-iphone-and-android-compared-top-youtube-app-analysis/"><u>[Updated] IPhone & Android Compared Top YouTube App Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-get-your-stream-on-point-with-these-top-webcams-for-youtube/"><u>2024 Approved Get Your Stream on Point with These Top Webcams for YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accuracy-audit-a-vll-driven-review/"><u>Accuracy Audit A VLL-Driven Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audio-excellence-with-windows-11-a-beginner-written-by-your-name-for-2024/"><u>Audio Excellence with Windows 11 A Beginner' Written by [Your Name] for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-black-screen-blues-in-warzone-with-these-pro-tech-fixes-for-2n24/"><u>Beat the Black Screen Blues in Warzone with These Pro-Tech Fixes for 2N24</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-video-effects-sites/"><u>Best Free Video Effects Sites</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-photo-skills-with-these-top-pixlr-tricks/"><u>Boost Your Photo Skills with These Top Pixlr Tricks</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-your-digital-footprints-effortlessly-the-ultimate-guide-to-using-stellar-eraser-on-windows-os/"><u>Erase Your Digital Footprints Effortlessly: The Ultimate Guide to Using Stellar Eraser on Windows OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-windows-11-photo-inspector/"><u>In 2024, Prime Windows 11 Photo Inspector</u></a></li>
+<li><a href="https://extra-information.techidaily.com/invisible-vibes-dimming-music-on-computers/"><u>Invisible Vibes Dimming Music on Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-graphics-cards-in-4k-resolution-for-2024/"><u>Leading Graphics Cards in 4K Resolution for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterful-sound-note-taking-a-roadmap-to-excellence/"><u>Masterful Sound Note-Taking A Roadmap to Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mobiles-leading-free-image-enhancement-and-layer-apps-ranked/"><u>Mobile's Leading Free Image Enhancement & Layer Apps Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/sunset-for-game-worlds-attention-or-ignorance/"><u>Sunset for Game Worlds: Attention or Ignorance?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-action-camera-review-gopro-vs-yi-4k-fresh-perspectives/"><u>Ultimate Action Camera Review GoPro Vs. Yi 4K - Fresh Perspectives</u></a></li>
 </ul></div>
 

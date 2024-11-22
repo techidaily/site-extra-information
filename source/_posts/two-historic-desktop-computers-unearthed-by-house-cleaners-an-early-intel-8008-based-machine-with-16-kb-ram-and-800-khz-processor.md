@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-11-09T03:07:42.447Z
-updated: 2024-11-12T02:34:56.944Z
+date: 2024-11-18T16:25:32.713Z
+updated: 2024-11-22T02:23:11.435Z
 tags:
   - desktop
 categories:
@@ -46,23 +46,21 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-captivating-images-using-leading-lines-iphone/"><u>[New] Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>[New] In 2024, Highest Rated Smartphone Camera & Recording Apps IPhone vs Android</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-igtv-content-extraction-for-mobile-users/"><u>[New] In 2024, IGTV Content Extraction for Mobile Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-freeing-up-youtube-footage-borderless-exploration/"><u>[Updated] Freeing Up YouTube Footage Borderless Exploration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725290369224-dvd/"><u>「焼き付け方法解説：スキルを自由に使って、あらゆる動画をDVD形式へ変換するためのガイド」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge/"><u>2024 Approved Behind the Screen Discovering Samsung Galaxy S8's 4K Edge</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults-for-2024/"><u>A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-driver-upgrades-for-your-brother-mfc-n7860dw-on-windows-pcs/"><u>Get the Newest Driver Upgrades for Your Brother MFC-N7860DW on Windows PCs</u></a></li>
-<li><a href="https://win-top.techidaily.com/guia-paso-a-paso-regresar-tu-iphone-al-estado-original-con-simplicidad/"><u>Guía Paso a Paso: Regresar Tu iPhone Al Estado Original Con Simplicidad</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-12-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 12 Pro Screen | Stellar</u></a></li>
-<li><a href="https://extra-information.techidaily.com/video-storing-capabilities-and-limitations-insights-into-64128gb-drives/"><u>Video Storing Capabilities & Limitations - Insights Into 64/128GB Drives</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-empower-your-application-with-microsoft-azure-speech-services/"><u>[New] Empower Your Application with Microsoft Azure Speech Services</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-10-essentials-for-flawless-instagram-unboxing-content/"><u>[Updated] In 2024, 10 Essentials for Flawless Instagram Unboxing Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-approach-for-telegram-web-success/"><u>2024 Approved A Step-By-Step Approach for Telegram Web Success</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711713-9781454922599-a-little-bit-of-chakras/"><u>A Little Bit of Chakras | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-onlyoffice-with-chatgpt-for-seamless-collaboration/"><u>Enhancing ONLYOFFICE with ChatGPT for Seamless Collaboration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-stills-to-movement-examining-the-action-potential-of-camplus/"><u>From Stills to Movement Examining the Action Potential of Cam+</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harnessing-the-power-of-slow-motion-pro-level-gopro-hero-10-techniques/"><u>Harnessing the Power of Slow Motion Pro-Level GoPro Hero 10 Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-lava-blaze-curve-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Lava Blaze Curve 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-no-fee-apps-your-guide-to-downloading-pinterest-content/"><u>In 2024, Best No-Fee Apps Your Guide to Downloading Pinterest Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro Phone without PIN</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-your-storage-with-these-30-great-android-video-compressors/"><u>Streamline Your Storage with These 30 Great Android Video Compressors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-video-files/"><u>Updated Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

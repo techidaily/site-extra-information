@@ -1,7 +1,7 @@
 ---
 title: "Guide to Deciphering YouTube's Comprehensive Feedback System"
-date: 2024-11-07T03:33:09.474Z
-updated: 2024-11-12T12:31:44.661Z
+date: 2024-11-19T19:00:55.559Z
+updated: 2024-11-21T22:58:11.037Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -45,10 +49,7 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
@@ -62,6 +63,10 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -80,13 +85,6 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
@@ -110,19 +108,6 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -142,10 +127,11 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -184,17 +170,22 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-break-down-the-essentials-of-youtube-sharing-on-facebook/"><u>[Updated] Break Down The Essentials of YouTube Sharing on Facebook</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-s18-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo S18 PC | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/appreciation-bundle-ultimate-selection-of-templates-for-2024/"><u>Appreciation Bundle Ultimate Selection of Templates for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/asteroid-archive-rehab/"><u>Asteroid Archive Rehab</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/counteracting-ai-reproduction-protective-measures-using-nightshades/"><u>Counteracting AI Reproduction: Protective Measures Using Nightshades</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-media-with-top-10-text-plugins/"><u>Enhancing Media with Top 10 Text Plugins</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-gameplay-now-troubleshooting-directx-problems-in-modern-warfare-2-cod/"><u>Fix Your Gameplay Now: Troubleshooting DirectX Problems in Modern Warfare 2 (CoD)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-the-swift-update-of-amd-graphics-cards/"><u>Guide to the Swift Update of AMD Graphics Cards</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-asus-rog-phone-7-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Asus ROG Phone 7 FRP</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instabeats-blending-music-and-visuals-tactfully/"><u>InstaBeats Blending Music & Visuals Tactfully</u></a></li>
-<li><a href="https://extra-information.techidaily.com/logic-pros-way-to-softly-diminish-loud-passages/"><u>Logic Pro's Way to Softly Diminish Loud Passages</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximizing-your-viewing-experience-the-ultimate-guide-to-choosing-a-mohu-leaf-30-antenna-balance-between-cost-and-capability/"><u>Maximizing Your Viewing Experience: The Ultimate Guide to Choosing a Mohu Leaf 30 Antenna Balance Between Cost and Capability</u></a></li>
+<li><a href="https://extra-information.techidaily.com/3dr-navigating-the-single-user-realm-of-3d-tech/"><u>'3DR' Navigating the Single User Realm of 3D Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-download-king-comprerante-video-acquisition-guide/"><u>[New] 2024 Approved Digital Download King Comprerante Video Acquisition Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-fearless-filming-mastering-your-first-10-clips/"><u>[New] Fearless Filming Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-adding-dimension-to-text-in-adobe-illustrator/"><u>[Updated] Adding Dimension to Text in Adobe Illustrator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-zoom-audio-solutions-for-waveform-woes/"><u>[Updated] Boost Zoom Audio Solutions for Waveform Woes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cost-efficient-drone-buying-guide-find-the-best-deals/"><u>2024 Approved Cost-Efficient Drone Buying Guide Find the Best Deals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/discover-the-top-tools-to-record-and-share-classroom-content/"><u>Discover the Top Tools to Record and Share Classroom Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/efficient-media-management-turning-videos-into-dvds-with-mac/"><u>Efficient Media Management Turning Videos Into DVDs with Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expertly-selected-best-5-free-online-convertors/"><u>Expertly Selected Best 5 Free Online Convertors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>In 2024, Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-the-art-of-capturing-skype-calls-top-rated-techniques-windowsmac/"><u>In 2024, Mastering the Art of Capturing Skype Calls Top-Rated Techniques (Windows/Mac)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-process-of-transforming-pal-dvds-into-universal-video-standards/"><u>Mastering the Process of Transforming PAL DVDs Into Universal Video Standards</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionary-guide-to-iphone-x-animoji-mastery/"><u>Revolutionary Guide to iPhone X Animoji Mastery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seasons-finest-ice-artistry-2022-highlights/"><u>Season's Finest Ice Artistry - 2022 Highlights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-new-age-of-memes-how-to-stand-out-in-the-metaverse/"><u>The New Age of Memes How to Stand Out in the Metaverse</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-moto-g-plays-exceptional-battery-life-and-reliable-performance/"><u>The Ultimate Guide to Moto G Play's Exceptional Battery Life and Reliable Performance</u></a></li>
 </ul></div>
 

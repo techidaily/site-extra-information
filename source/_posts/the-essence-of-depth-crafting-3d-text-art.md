@@ -1,7 +1,7 @@
 ---
 title: "\"The Essence of Depth  Crafting 3D Text Art\""
-date: 2024-11-06T06:13:01.177Z
-updated: 2024-11-11T16:10:30.911Z
+date: 2024-11-20T02:18:51.914Z
+updated: 2024-11-21T23:44:37.257Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ It takes 10 minutes. Even if you've never used Adobe Illustrator before, you wil
 
 This guide will show you the step-by-step process of creating a 3D text effect in Adobe Illustrator. So, if you're ready, let's begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Create a 3D Text Effect in Adobe Illustrator
 
 All you need are ten minutes of your time and the Adobe Illustrator application. Oh yes, and you need a little bit of imagination as well. That's all there is to it.
@@ -31,10 +35,7 @@ After you get the program, install it and follow the step-by-step instructions y
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create 3D Text Effects in Adobe Illustrator
@@ -47,19 +48,6 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
@@ -68,44 +56,35 @@ Step4 Next, choose any color you want for your text from the panel on the screen
 
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
 Step9 Finally, it's time to export the image, and you're all done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Alternative Way to Create 3D Text Animation
 
@@ -116,6 +95,10 @@ You might not believe it, but there's an even more accessible and less expensive
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
 
@@ -142,13 +125,6 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
 
@@ -196,22 +172,21 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-charting-a-course-through-creative-professions/"><u>[New] Charting a Course Through Creative Professions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-dialing-up-the-drama-captivating-tiktok-intros-via-mac-for-2024/"><u>[New] Dialing Up the Drama Captivating TikTok Intros via Mac for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-efficient-protocols-for-high-quality-iptv-screening/"><u>[Updated] In 2024, Efficient Protocols for High-Quality IPTV Screening</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-music-player-software-for-android-for-2024/"><u>Best Music Player Software for Android for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-for-capturing-viber-calls-on-all-your-gadgets-including-windows-and-ios-devices/"><u>Comprehensive Tutorial for Capturing Viber Calls on All Your Gadgets Including Windows and iOS Devices!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-artful-pictures-on-android-devices/"><u>Crafting Artful Pictures on Android Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/drone-innovation-reimagined-with-the-q500-typhoon/"><u>Drone Innovation Reimagined with the Q500 Typhoon</u></a></li>
-<li><a href="https://extra-information.techidaily.com/effortless-tiktok-age-verification-process/"><u>Effortless TikTok Age Verification Process</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/t-strategies-on-calculating-your-youtube-audience-impact-and-revenue/"><u>Expert Strategies on Calculating Your YouTube Audience Impact and Revenue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-errors-with-missing-dll-files-in-windows-solutions-for-msvcr71dll/"><u>Fixing Errors with Missing DLL Files in Windows: Solutions for Msvcr71.dll</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-para-convertir-archivos-gif-a-formato-webm-de-forma-gratuita-facil-y-rapida/"><u>Guía Paso a Paso Para Convertir Archivos GIF a Formato WEBM De Forma Gratuita, Fácil Y Rápida</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-sanitize-your-tv-remote-for-a-hygienic-entertainment-experience/"><u>How to Sanitize Your TV Remote for a Hygienic Entertainment Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-wet-pages-afloat-unveiling-the-secrets-of-the-waterproof-kobo-libra-h2o-e-reader/"><u>Navigating Wet Pages Afloat: Unveiling the Secrets of the Waterproof Kobo Libra H2O E-Reader</u></a></li>
-<li><a href="https://extra-information.techidaily.com/palette-power-skillful-color-adjustment/"><u>Palette Power Skillful Color Adjustment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/picture-perfectionism-top-tools-and-sites-for-superior-photo-frames/"><u>Picture Perfectionism Top Tools & Sites for Superior Photo Frames</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-premier-pro-essentials-accessible-for-all-editors/"><u>The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-b-footage-techniques-for-creating-engaging-video-content/"><u>2024 Approved B-Footage Techniques for Creating Engaging Video Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-detailed-study-on-workspace-optimization-and-productivity-levels/"><u>A Detailed Study on Workspace Optimization and Productivity Levels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiovisual-speed-adjustment-arsenal-list/"><u>Audiovisual Speed Adjustment Arsenal List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-quality-anywhere-choosing-top-phones-with-optimal-stability-for-2024/"><u>Cinematic Quality Anywhere Choosing Top Phones with Optimal Stability for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-breakdown-alderon-games-reports-0-stability-with-intels-latest-gpu-series/"><u>Complete Breakdown: Alderon Games Reports 0% Stability with Intel's Latest GPU Series</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-audio-delivery-on-your-iphone/"><u>Effortless Audio Delivery on Your iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-ffmpeg-written-by-user-for-2024/"><u>Examining FFmpeg' Written by User for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-composing-prime-canon-temporal-videos/"><u>In 2024, Composing Prime Canon Temporal Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/journey-from-monochrome-masterpieces-to-vivid-hdri-imagery/"><u>Journey From Monochrome Masterpieces to Vivid HDRI Imagery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-layer-on-sony-s3700-blu-ray-play/"><u>New Layer on Sony S3700 Blu-Ray PLAY</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-errgfxd3dinit-in-gta-5-a-comprehensive-fix-tutorial/"><u>Overcoming 'ERR_GFX_D3D_INIT' In GTA 5: A Comprehensive Fix Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/replacing-the-favorite-abandoned-linux-command-line-tool-best-options-available-now/"><u>Replacing the Favorite Abandoned Linux Command Line Tool: Best Options Available Now</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/541755-9781451603705-rootwork/"><u>Rootwork | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-avi-files-into-mp4-format-with-handbrake/"><u>Step-by-Step Guide: Converting AVI Files Into MP4 Format with Handbrake</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-youtube-outro-makers-lots-of-free-options/"><u>Top 6 YouTube Outro Makers-Lots of FREE Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/form-your-videos-secrets-of-effective-youtube-seo-tools-for-2024/"><u>Transform Your Videos Secrets of Effective YouTube SEO Tools for 2024</u></a></li>
 </ul></div>
 

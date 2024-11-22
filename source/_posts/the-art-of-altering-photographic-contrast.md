@@ -1,7 +1,7 @@
 ---
 title: "The Art of Altering Photographic Contrast"
-date: 2024-11-04T17:41:09.042Z
-updated: 2024-11-11T21:34:31.910Z
+date: 2024-11-17T00:12:15.516Z
+updated: 2024-11-22T04:05:48.921Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
 
 If you are using Windows XP or an earlier version of the Windows OS, you can invert colors in a photo by clicking on the **Invert Colors option** in the **Image menu**. Even though MS Paint lets you invert image colors easily, it is still better to use a more powerful image editor to edit your photos.
@@ -53,6 +57,10 @@ If you are using Windows XP or an earlier version of the Windows OS, you can inv
 Besides creating image negatives, the Preview app lets you convert image files as well. Once you open a photo you’d like to invert with the Preview app, you should click on the **Tools** menu.
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
@@ -78,6 +86,10 @@ The platform’s homepage contains a number of categories of tools such as **Col
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
 
 #### 5. Using [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)’s Invert Option
@@ -87,6 +99,10 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 **Compatibility:** macOS, Windows
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
@@ -122,6 +138,10 @@ Inverting colors in a photo is not a complicated process, but finding creative w
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -137,23 +157,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-future-of-video-recording-best-camcorders/"><u>[New] 2024 Approved Future of Video Recording - Best Camcorders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-professional-drone-review-best-5-to-consider/"><u>[New] 2024 Approved Professional Drone Review Best 5 to Consider</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-comprehensible-appraisal-gopro-slr4-silver-feature-report/"><u>[New] Comprehensible Appraisal GoPro SLR4 Silver Feature Report</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-likeability-for-business-profits-on-fb/"><u>[New] Leveraging Likeability for Business Profits on FB</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-where-to-find-the-best-budgeted-gopro-purchases/"><u>[Updated] 2024 Approved Where to Find the Best Budgeted GoPro Purchases</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avoiding-simulated-reality-ills-strategies-and-tips/"><u>[Updated] Avoiding Simulated Reality Ills Strategies and Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-chuckletunes-directory-select-funny-ringtone-sources/"><u>2024 Approved ChuckleTunes Directory Select Funny Ringtone Sources</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ai-assisted-naming-wizards-the-best-10-for-podcasters-for-2024/"><u>AI-Assisted Naming Wizards The Best 10 for Podcasters for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-virtual-reality-finger-guards-unveiled/"><u>Best Virtual Reality Finger Guards Unveiled</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-lower-thirds-like-a-pro-tips-and-tricks-for-fcpx-users/"><u>New In 2024, Lower Thirds Like a Pro Tips and Tricks for FCPX Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-action-hunting-gear/"><u>The Ultimate Guide to Action Hunting Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-avoid-common-errors-while-spinning-videos-in-android-apps/"><u>[New] Avoid Common Errors While Spinning Videos in Android Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aunching-winning-steps-for-an-epic-youtube-gaming-channel/"><u>[New] Launching Winning Steps for an Epic YouTube Gaming Channel</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amp-up-your-humor-arsenal-kapwings-meme-creator/"><u>2024 Approved Amp Up Your Humor Arsenal – Kapwing's Meme Creator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-quiet-curtains-the-pp-approach-to-invisible-sound-endings-for-2024/"><u>Crafting Quiet Curtains The PP Approach to Invisible Sound Endings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/direct-pathway-iphone-files-on-your-desktop/"><u>Direct Pathway IPhone Files on Your Desktop</u></a></li>
+<li><a href="https://facebook.techidaily.com/echoes-of-anonymity-permanently-retiring-from-facebook/"><u>Echoes of Anonymity: Permanently Retiring From Facebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-picks-the-best-offline-auto-racing-games-of-2024-free/"><u>Explore Our Picks: The Best Offline Auto Racing Games of 2024 (Free)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-realme-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Realme using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-budget-oriented-chinas-vr-equipment-selection/"><u>In 2024, Budget-Oriented China's VR Equipment Selection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>Laptop Perfection 10 Coolest Downloadable Desktop Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-passcode-panic-simple-methods-to-unseal-your-ipads-secrets/"><u>No More Passcode Panic: Simple Methods to Unseal Your iPad's Secrets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/softening-playlist-sounds-on-pcmac-systems/"><u>Softening Playlist Sounds on PC/Mac Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-uploading-and-live-streaming-past-videos-on-facebook/"><u>Strategies for Uploading and Live Streaming Past Videos on Facebook</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

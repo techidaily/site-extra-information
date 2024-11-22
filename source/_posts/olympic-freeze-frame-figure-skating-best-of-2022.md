@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Freeze-Frame  Figure Skating Best of 2022\""
-date: 2024-11-05T17:23:08.779Z
-updated: 2024-11-12T11:04:26.095Z
+date: 2024-11-19T19:36:15.183Z
+updated: 2024-11-22T00:00:41.805Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -38,6 +42,10 @@ Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United Stat
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
@@ -50,18 +58,19 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -83,13 +92,6 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
@@ -97,10 +99,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -108,13 +107,6 @@ Step 4: You need to add all imported media files to Video Timeline while you sho
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,22 +121,15 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-benq-bl2711u-review-the-zenith-of-high-definition-professional-monitors/"><u>[New] BenQ BL2711U Review The Zenith of High-Definition Professional Monitors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-solution-for-srt-not-working-in-premiere/"><u>[New] Comprehensive Solution for SRT Not Working in Premiere</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-fast-forward-on-vimeo-for-2024/"><u>[New] Mastering Fast-Forward on Vimeo for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-potential-channel-building-mastery/"><u>[New] Unleashing Potential Channel Building Mastery</u></a></li>
-<li><a href="https://extra-information.techidaily.com/action-replay-compare-gopros-hero5-black-and-session/"><u>Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/an-in-depth-analysis-of-rayman-legends-where-quality-meets-classic-sideways-action/"><u>An In-Depth Analysis of Rayman Legends - Where Quality Meets Classic Sideways Action!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/bring-playlists-down-to-youtube-the-5-best-conversion-resources-for-2024/"><u>Bring Playlists Down to YouTube The 5 Best Conversion Resources for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/find-your-next-favorite-free-video-player-in-our-top-12-picks-pcmobile/"><u>Find Your Next Favorite Free Video Player in Our Top 12 Picks (PC/Mobile)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/illumination-innovations-advanced-lighting-in-video-making/"><u>Illumination Innovations Advanced Lighting in Video Making</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-blueprint-of-unique-recording-gadgets/"><u>In 2024, Blueprint of Unique Recording Gadgets</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Phone without PIN</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-google-pixel-7a-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Google Pixel 7a Android SIM Unlock APK</u></a></li>
-<li><a href="https://extra-information.techidaily.com/incandescent-ideas-innovations-for-stellar-cinematography/"><u>Incandescent Ideas Innovations for Stellar Cinematography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/picture-puns-memify-pro/"><u>Picture Puns Memify Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-your-chatbot-data-the-hidden-threats-of-neural-network-reconstruction-techniques/"><u>Securing Your Chatbot Data: The Hidden Threats of Neural Network Reconstruction Techniques</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simplified-seamless-viewing-discover-fire-tvs-new-continue-watching-functionality/"><u>Simplified Seamless Viewing: Discover Fire TV's New Continue Watching Functionality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-budget-friendly-multiview-camera-options-expanding-horizons/"><u>[New] 2024 Approved Budget-Friendly Multiview Camera Options Expanding Horizons</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[New] In 2024, Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://media-tips.techidaily.com/7-a-guide-to-three-hassle-free-solutions/"><u>7 - A Guide to Three Hassle-Free Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-hd-an-in-depth-analysis-of-eizos-cg318-4k/"><u>Beyond HD An In-Depth Analysis of EIZO's CG318-4K</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-mending-broken-operating-system-files-in-windows-10-and-11/"><u>Diagnosing and Mending Broken Operating System Files in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-app-reception-a-comprehensive-scrutiny/"><u>In 2024, App Reception A Comprehensive Scrutiny</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-through-ffxp-your-step-by-step-handbook/"><u>Navigating Through FFXP Your Step-by-Step Handbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-discretion-preserving-your-chat-history-without-erasure/"><u>The Art of Discretion: Preserving Your Chat History without Erasure</u></a></li>
+<li><a href="https://solve-info.techidaily.com/unleash-potential-with-smart-cookie-technology-discover-your-sites-secret-weapon/"><u>Unleash Potential with Smart Cookie Technology: Discover Your Site's Secret Weapon!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
 </ul></div>
 

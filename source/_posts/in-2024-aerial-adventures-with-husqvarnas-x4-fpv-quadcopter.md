@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Aerial Adventures with Husqvarna's X4 FPV Quadcopter"
-date: 2024-11-09T03:41:44.038Z
-updated: 2024-11-11T21:18:23.710Z
+date: 2024-11-16T20:30:37.151Z
+updated: 2024-11-21T22:59:28.535Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 [Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and Cons
 
  **Pros:**
@@ -59,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete Review for Hubsan H501S X4
@@ -116,10 +117,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
@@ -128,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
@@ -142,10 +133,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
@@ -155,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -171,21 +163,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-discover-the-top-10-efficiency-boosters-for-fcp/"><u>[New] Discover the Top 10 Efficiency Boosters for FCP</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-elevating-your-digital-presence-best-vocal-tweakers-for-vtubers-for-2024/"><u>[New] Elevating Your Digital Presence Best Vocal Tweakers for VTubers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-real-time-engagement-strategies-for-online-streamers/"><u>[New] In 2024, Real-Time Engagement Strategies for Online Streamers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-screenflow-unleashed-a-comprehensive-macos-review/"><u>[New] ScreenFlow Unleashed A Comprehensive macOS Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-airpods-alone-restoring-connection/"><u>[Updated] Airpods Alone Restoring Connection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-champions-list-of-superior-gk-trivia-platforms-2024/"><u>[Updated] Champion's List of Superior GK Trivia Platforms, 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-understanding-the-basics-of-vsco-filters-for-2024/"><u>[Updated] Understanding the Basics of VSCO Filters for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-classic-chimes-catalogue-websites-of-worth/"><u>2024 Approved Classic Chimes Catalogue Websites of Worth</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-fixing-connection-woes-with-google-stadia-headsets/"><u>Diagnosing and Fixing Connection Woes with Google Stadia Headsets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-video-equipment-revolutionizing-podcasts/"><u>Elite Video Equipment Revolutionizing Podcasts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-cyberpower-cp6review-the-reliable-foundational-backup-power-system/"><u>Evaluating Cyberpower CP6#Review - The Reliable Foundational Backup Power System</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-beginners-primer-on-virtual-reality-concepts/"><u>In 2024, A Beginner's Primer on Virtual Reality Concepts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-leaders-list-of-8-online-havens-for-golden-3d-and-text/"><u>In 2024, A Leader's List of 8 Online Havens for Golden 3D & Text</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mediasphere-app-user-experience-report/"><u>MediaSphere App User Experience Report</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-meizu-21-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-journey-to-revamping-your-win11-look/"><u>[New] A Step-by-Step Journey to Revamping Your Win11 Look</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-strategies-for-effective-screen-sharing-via-skype-at-home/"><u>[New] In 2024, Strategies for Effective Screen Sharing via Skype at Home</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-beginners-guide-to-camera-lenses-in-filmmaking-and-vlogging/"><u>[New] In 2024, The Beginner's Guide to Camera Lenses in Filmmaking & Vlogging</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pair-audio-with-video-webspace-hub-for-2024/"><u>[New] Pair Audio with Video Webspace Hub for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-tips-capturing-clear-voice-overs-on-camera/"><u>[Updated] 2024 Approved Essential Tips Capturing Clear Voice Overs on Camera</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-pro-tips-10-crucial-tools-to-increase-followers/"><u>[Updated] 2024 Approved Instagram Pro Tips 10 Crucial Tools to Increase Followers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-virtual-valor-vault-excelling-with-top-adventures-in-gaming/"><u>[Updated] 2024 Approved Virtual Valor Vault Excelling with Top Adventures in Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-8-best-tablets-for-photo-editing-worth-a-try-filmora/"><u>[Updated] 8 Best Tablets for Photo Editing Worth a Try - Filmora</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-proven-techniques-to-enhance-subscriber-count-with-effective-channel-branding/"><u>[Updated] In 2024, Proven Techniques to Enhance Subscriber Count with Effective Channel Branding</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-art-of-personalizing-video-covers-for-facebook/"><u>[Updated] Mastering the Art of Personalizing Video Covers for Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-editing-workflows-windows-photos-and-story-remix-combo-for-2024/"><u>Advanced Editing Workflows Windows Photos & Story Remix Combo for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/basic-guide-to-windows-voice-modification-clowns-for-2024/"><u>Basic Guide to Windows Voice Modification - Clowns for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-def-camera-the-top-audio-mics-guide/"><u>High-Def Camera The Top Audio Mics Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-eliminate-yellow-hue-from-iphone-screens-a-guide-with-nine-proven-fixes/"><u>How to Eliminate Yellow Hue From iPhone Screens: A Guide with Nine Proven Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>In 2024, Cinema Crafting Excellence Top 5 Camera Skills to Hone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/introducing-motion-blur-magic-in-your-iphone-photos/"><u>Introducing Motion-Blur Magic in Your iPhone Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/podcasts-vs-youtube-which-should-you-choose/"><u>Podcasts Vs. YouTube Which Should You Choose?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/punpixel-the-ultimate-tool-for-digital-humor-for-2024/"><u>PunPixel The Ultimate Tool for Digital Humor for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplifying-windows-11-sound-logging/"><u>Simplifying Windows 11 Sound Logging</u></a></li>
 </ul></div>
 

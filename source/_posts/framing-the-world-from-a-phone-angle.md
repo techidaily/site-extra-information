@@ -1,7 +1,7 @@
 ---
 title: "Framing the World From a Phone Angle"
-date: 2024-11-06T16:33:44.537Z
-updated: 2024-11-11T21:41:39.119Z
+date: 2024-11-19T02:35:06.582Z
+updated: 2024-11-21T18:35:25.929Z
 tags: 
   - screen-recording
   - ai video
@@ -34,16 +34,17 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone users
@@ -70,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
@@ -83,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
@@ -99,10 +94,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -120,18 +112,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-gopro-hero-5-black-vs-nikon-keymission-170-which-one-is-better/"><u>[New] GoPro Hero 5 Black vs Nikon Keymission 170 Which One Is Better?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-streamlined-steps-to-watching-vr-on-your-ios-device/"><u>[New] Streamlined Steps to Watching VR on Your IOS Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-audacity-guide-creating-fluid-audio-crossfade/"><u>[Updated] Audacity Guide Creating Fluid Audio Crossfade</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-blitz-photo-screening-for-windows-users/"><u>[Updated] Blitz Photo Screening for Windows Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-market-prowess-the-art-of-strategy-unpacked/"><u>[Updated] In 2024, Market Prowess The Art of Strategy Unpacked</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-bending-images-photoshops-simplest-alterations/"><u>2024 Approved Bending Images Photoshop's Simplest Alterations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-image-making-via-premium-grid-makers/"><u>2024 Approved Excellence in Image Making via Premium Grid Makers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/acclaimed-top-5-compact-cameras-for-filming-for-2024/"><u>Acclaimed Top 5 Compact Cameras for Filming for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-qpr-index-for-sluggish-video-content/"><u>Best QPR Index for Sluggish Video Content</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-12-mini-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 12 mini For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-artisans-guide-to-blending-sound-with-visual-media-on-youtube/"><u>In 2024, The Artisan's Guide to Blending Sound with Visual Media on YouTube</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-mac-video-editor-adobe-premiere-pro-for-experts/"><u>New In 2024, The Ultimate Mac Video Editor Adobe Premiere Pro for Experts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-iphone-photography-during-video/"><u>Seamless iPhone Photography During Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-broadcasting-hidden-voices-on-instagram-live/"><u>[New] Broadcasting Hidden Voices on Instagram Live</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-filming-top-15-video-cameras-to-watch/"><u>[New] Future Filming – Top 15 Video Cameras to Watch</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-essentials-of-youtubes-latest-payment-policy/"><u>[New] The Essentials of YouTube's Latest Payment Policy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-guide-to-the-best-auto-tracking-cameras/"><u>[Updated] Guide to the Best Auto Tracking Cameras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elite-10-royal-warfare-games/"><u>2024 Approved Elite 10 Royal Warfare Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/address-the-absence-of-d3dxt939dll-dll-error-with-our-step-by-step-remedies/"><u>Address the Absence of d3dxt9_39.dll DLL Error with Our Step-by-Step Remedies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-workshop-naming-service-2023-for-2024/"><u>Advanced Workshop Naming Service 2023 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/designing-an-emotional-film-flashback-frenzy/"><u>Designing an Emotional Film Flashback Frenzy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-hidden-gems-advanced-zoom-techniques-for-roblox/"><u>Discovering Hidden Gems Advanced Zoom Techniques for Roblox</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-autofocus-issue-on-iphones-a-step-by-step-guide/"><u>Fixing the Autofocus Issue on iPhones - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmony-color-calibrator/"><u>Harmony Color Calibrator</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-staking-haven-evalutations/"><u>HIGH-STAKING HAVEN EVALUTATIONS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-x50-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor X50 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-latest-updates-enabling-chatgpt-beta-plugins/"><u>Leveraging Latest Updates: Enabling ChatGPT Beta Plugins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-joy-of-journeys-end-innovative-box-revelations/"><u>The Joy of Journey's End Innovative Box Revelations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-strategies-for-boosting-handp-healthcare-fb-campaigns/"><u>Top Strategies for Boosting H&P Healthcare FB Campaigns</u></a></li>
 </ul></div>
 

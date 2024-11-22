@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Windows Photos Experience with Added Filters/Music"
-date: 2024-11-07T00:49:46.968Z
-updated: 2024-11-12T06:59:13.747Z
+date: 2024-11-16T16:33:05.474Z
+updated: 2024-11-22T03:31:43.136Z
 tags: 
   - screen-recording
   - ai video
@@ -45,19 +45,24 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,10 +78,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -85,13 +87,6 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 **Step 5**: Hit the ‘Done’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
@@ -99,10 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -120,20 +112,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-2022-olympic-sprint-ice-key-moments-and-winners/"><u>[New] 2022 Olympic Sprint Ice Key Moments and Winners</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-revolutionary-tools-for-downloading-facebook-content-on-firefox-updated/"><u>[New] In 2024, Revolutionary Tools for Downloading Facebook Content on Firefox, Updated</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-hitting-the-high-notes-in-instagram-photography/"><u>[Updated] 2024 Approved Hitting the High Notes in Instagram Photography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-enhancing-obs-with-free-lut-downloads/"><u>[Updated] A Guide to Enhancing OBS with Free LUT Downloads</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones/"><u>[Updated] In 2024, Unleashing Potential Essential Upgrades & Supplemental Gear for Drones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choosing-your-perfect-smartphone-iphone-or-samsung-a-comprehensive-guide/"><u>Choosing Your Perfect Smartphone: IPhone or Samsung - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dissecting-the-potential-of-inshots-video-craft/"><u>Dissecting the Potential of InShot's Video Craft</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-resolving-steam-server-not-found-errors-and-connectivity-problems/"><u>Effective Strategies for Resolving Steam Server Not Found Errors and Connectivity Problems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-gif-tools-for-x876-owners/"><u>Essential GIF Tools for X/8/7/6 Owners</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-6-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 6 on MetroPCS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/resonating-with-your-device-a-comprehensive-guide-for-customizing-auditory-experience-on-android/"><u>Resonating With Your Device A Comprehensive Guide for Customizing Auditory Experience on Android</u></a></li>
-<li><a href="https://win-news.techidaily.com/scopri-i-piu-veloci-modi-per-clonare-windows-10-su-una-periferica-usb-di-inizio/"><u>Scopri I Più Veloci Modi per Clonare Windows 10 Su Una Periferica USB Di Inizio</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-best-live-tv-streaming-services-with-local-channels-2024/"><u>The Best Live TV Streaming Services With Local Channels 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-skin-cases-of-2022-ultimate-defense-and-style-combo/"><u>Top-Rated iPhone SE Skin Cases of 2022: Ultimate Defense & Style Combo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-installer-failures-on-older-windows-versions/"><u>Troubleshooting Installer Failures on Older Windows Versions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-all-encompassing-kinetic-review-2023/"><u>[Updated] All-Encompassing Kinetic Review 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-standout-content-on-reddit-strategic-guide-available/"><u>[Updated] Crafting Standout Content on Reddit - Strategic Guide Available</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-windows-music-mastery/"><u>[Updated] Immersive Windows Music Mastery</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-spectral-sync-solutions/"><u>[Updated] In 2024, Spectral Sync Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-your-income-through-strategic-use-of-youtube-shorts/"><u>2024 Approved Maximize Your Income Through Strategic Use of YouTube Shorts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-slogan-generator-for-virtual-events-for-2024/"><u>Best Slogan Generator for Virtual Events for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breaking-down-the-bottom-line-podcast-startup-costs-for-2024/"><u>Breaking Down the Bottom Line Podcast Startup Costs for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/breaking-the-silence-in-the-commonwealth-comprehensive-guide-to-repairing-fallout-4s-audio-issues-on-your-computer/"><u>Breaking The Silence in the Commonwealth: Comprehensive Guide to Repairing Fallout 4'S Audio Issues on Your Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enlarge-youtube-content-with-simple-techniques/"><u>Enlarge YouTube Content with Simple Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-templates-for-impactful-business-presentations/"><u>Essential Templates for Impactful Business Presentations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zip-to-sub-transforming-compressed-texts-to-srt-format-for-2024/"><u>From Zip to Sub Transforming Compressed Texts to SRT Format for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-soundmax-audio-driver-downloaded-and-running-in-no-time/"><u>Get Your SoundMax Audio Driver Downloaded and Running in No Time</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-lava-yuva-3-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Lava Yuva 3 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-p40-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel P40 Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-banish-coffee-stains-free-iphone-app-to-remove-red-eyes/"><u>In 2024, Banish Coffee Stains Free iPhone App to Remove Red Eyes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jestjunction-tap-into-the-world-of-meme-magic/"><u>JestJunction Tap Into the World of Meme Magic</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1 Tablespoon Baking Powder
-date: 2024-11-07T23:32:31.490Z
-updated: 2024-11-11T22:19:29.223Z
+date: 2024-11-14T23:13:01.786Z
+updated: 2024-11-21T16:47:06.635Z
 tags:
   - win11
   - win10
@@ -29,16 +29,13 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -47,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
@@ -64,10 +54,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
@@ -75,6 +62,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -85,10 +76,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
@@ -98,19 +86,6 @@ Check your region and language settings on your computer:
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -141,10 +116,7 @@ Or click  **Update All** to automatically download and install the correct versi
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
@@ -158,6 +130,10 @@ Or click  **Update All** to automatically download and install the correct versi
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -183,18 +159,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-become-an-nft-expert-with-these-top-7-creative-tools/"><u>[Updated] Become an NFT Expert with These Top 7 Creative Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-tvs-to-accompany-your-highest-rated-consoles/"><u>[Updated] Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-high-definition-heroes-10-in-4ktvs/"><u>[Updated] In 2024, High Definition Heroes – #10 in 4KTVs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-to-mastering-lut-utilization-for-2024/"><u>A Step-by-Step Approach to Mastering LUT Utilization for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-photo-manipulation-focus-on-content-not-backdrop-for-2024/"><u>Advanced Photo Manipulation Focus on Content, Not Backdrop for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/compensated-analysis-the-vlog-perspective-on-goods-in-2024/"><u>Compensated Analysis The Vlog Perspective on Goods, In 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-infinix-note-30-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Note 30 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-easy-guide-to-tweeting-videos-and-turning-them-into-music/"><u>In 2024, Easy Guide to Tweeting Videos & Turning Them Into Music</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/smooth-shots-stronger-impressions-fixing-iphone-video-instability/"><u>Smooth Shots, Stronger Impressions Fixing iPhone Video Instability</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-role-of-youtube-images-in-video-promotion-and-discovery/"><u>The Role of Youtube Images in Video Promotion and Discovery</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unearthing-user-generated-footage-on-facebook/"><u>Unearthing User-Generated Footage on Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>[New] 2024 Approved Channel Charisma Standing Out with Strategic Telegram Promotion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breaking-barriers-how-to-enjoy-virtual-journeys/"><u>[Updated] Breaking Barriers How to Enjoy Virtual Journeys</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-captivating-vlog-narratives/"><u>[Updated] Crafting Captivating Vlog Narratives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-ios-filmmaking-software/"><u>[Updated] In 2024, Best iOS Filmmaking Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-in-class-memetics-engine-for-2024/"><u>Best-in-Class Memetics Engine for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-babbage-alternative-lenses-for-intelligence-evaluation/"><u>Beyond Babbage: Alternative Lenses for Intelligence Evaluation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-microphones-matched-to-premium-4k-camera-systems/"><u>Elite Microphones Matched to Premium 4K Camera Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-devices-of-now-for-2024/"><u>Immersive Devices of Now for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blending-beats-into-bits-the-sound-savvy-image/"><u>In 2024, Blending Beats Into Bits The Sound-Savvy Image</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-zen-ai-assistance-in-daily-practices/"><u>The Future of Zen: AI Assistance in Daily Practices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-passport-to-popularity-9-essential-instagram-secrets-for-success/"><u>Your Passport to Popularity 9 Essential Instagram Secrets for Success</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Tech Secrets: A Deep Dive Into Computer Systems by Tom"
-date: 2024-11-10T18:15:32.859Z
-updated: 2024-11-12T02:18:35.058Z
+date: 2024-11-19T04:21:56.324Z
+updated: 2024-11-21T19:23:16.679Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,29 +78,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-missing-links-to-proper-window-11-mastery-revealed-here/"><u>[Updated] 2024 Approved The Missing Links to Proper WINDOW 11 Mastery Revealed Here</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-roadmap-to-accessing-costless-frame-videos/"><u>[Updated] The Roadmap to Accessing Costless Frame Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-how-to-adjust-your-photo-and-video-with-3dlut-mobile/"><u>2024 Approved How to Adjust Your Photo & Video with 3DLUT Mobile</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/1716199270453-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/bitrasers-advanced-data-destruction-techniques-for-corporate-use-video-presentation/"><u>BitRaser's Advanced Data Destruction Techniques for Corporate Use (Video Presentation)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/concoct-laughter-in-image-format-giphy-style-for-2024/"><u>Concoct Laughter in Image Format, Giphy Style for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/french-fluency-essentials-for-the-savvy-traveler/"><u>French Fluency Essentials for the Savvy Traveler</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/microsoft-unveils-windows-strategies-driving-hybrid-work-revolution/"><u>Microsoft Unveils Windows Strategies Driving Hybrid Work Revolution</u></a></li>
-<li><a href="https://extra-information.techidaily.com/samsungs-visionary-leap-the-ubd-k850-ultrablade-2023/"><u>Samsung’s Visionary Leap - The UBD K850 UltraBlade 2023</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-into-the-realm-of-textual-magic-with-14-examples/"><u>Step Into the Realm of Textual Magic with 14 Examples</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chuckle-composer-app/"><u>[New] Chuckle Composer App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-free-and-paid-canvas-creations-apps-for-pc-users/"><u>[Updated] Best Free & Paid Canvas Creations Apps for PC Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-why-no-sound-the-twitter-video-amplification-guide-for-2024/"><u>[Updated] Why No Sound? The Twitter Video Amplification Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-about-making-gifs-into-stickers-the-ultimate-guide-for-whatsapp-discord-and-telegram-users/"><u>All About Making GIFs Into Stickers The Ultimate Guide for WhatsApp, Discord & Telegram Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-windows-10-graphics-via-hp-software/"><u>Boost Windows 10 Graphics via HP Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chromes-pip-magic-for-seamless-video-playback-for-2024/"><u>Chrome's PIP Magic for Seamless Video Playback for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-look-at-dji-inspire-1-explored/"><u>Complete Look at DJI Inspire 1 Explored</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/download-twitters-livestreams-and-save-as-mp3/"><u>Download Twitter's Livestreams and Save as MP3</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chorus-of-commitment-best-ballads-for-marital-dreaming/"><u>In 2024, Chorus of Commitment Best Ballads for Marital Dreaming</u></a></li>
+<li><a href="https://fox-making.techidaily.com/no-cost-methods-for-moving-music-from-your-iphone-onto-a-laptop-or-desktop/"><u>No-Cost Methods for Moving Music From Your iPhone Onto a Laptop or Desktop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-next-step-in-smart-living-chatgpts-technological-leap/"><u>The Next Step in Smart Living: ChatGPT’s Technological Leap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-ai-shouldnt-be-your-only-source-for-emotional-counseling-learn-about-these-9-reasons/"><u>Why AI Shouldn't Be Your Only Source for Emotional Counseling – Learn About These 9 Reasons!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
