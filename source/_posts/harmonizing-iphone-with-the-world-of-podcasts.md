@@ -1,7 +1,7 @@
 ---
 title: "Harmonizing iPhone with the World of Podcasts"
-date: 2024-11-14T17:53:54.002Z
-updated: 2024-11-21T21:29:11.771Z
+date: 2024-11-23T20:28:54.856Z
+updated: 2024-11-29T22:41:04.799Z
 tags: 
   - screen-recording
   - ai video
@@ -30,11 +30,19 @@ On your iPhone, open the Apple Podcasts app. Download it if you don't already ha
 
 ![search and browse option in apple podcast app](https://images.wondershare.com/filmora/article-images/2023/04/listen-to-podcasts-on-your-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the results appear, tap on your chosen item to view more details. A summary of the podcast's topic, ratings, genre, and other information is included in the additional details. The most recent episode of that podcast should be the one that appears at the top. Earlier episodes can be listened to by scrolling down and selecting the one you want to hear.
 
 You can choose to subscribe or unfollow the podcast you're listening to. By subscribing to a podcast, you can stay updated on new content and forthcoming episodes.
 
 ![unfollow option in apple podcast app](https://images.wondershare.com/filmora/article-images/2023/04/listen-to-podcasts-on-your-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can use the following controls while playing podcasts in the Apple podcast app.
 
@@ -42,25 +50,22 @@ You can use the following controls while playing podcasts in the Apple podcast a
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | ![Play](https://images.wondershare.com/filmora/article-images/2023/04/podcast-play.png)                                                       | Play                                              |
 | ![Pause](https://images.wondershare.com/filmora/article-images/2023/04/podcast-pause.png)                                                     | Pause                                             |
-| ![Jump back 15 seconds](https://images.wondershare.com/filmora/article-images/2023/04/podcast-jump-back-15-seconds.png)                       | Jump back 15 seconds                              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+| ![Jump back 15 seconds](https://images.wondershare.com/filmora/article-images/2023/04/podcast-jump-back-15-seconds.png)                       | Jump back 15 seconds                              |
 
 | ![Jump forward 30 seconds](https://images.wondershare.com/filmora/article-images/2023/04/podcast-forward-30-seconds.png)                      | Jump forward 30 seconds                           |
 | ![Choose playback speed for podcasts](https://images.wondershare.com/filmora/article-images/2023/04/podcast-playback-speed.png)               | Choose playback speed for podcasts                |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 | ![Stream podcast audio to other devices](https://images.wondershare.com/filmora/article-images/2023/04/stream-podcast-to-other-device.png)    | Stream podcast audio to other devices             |
 | ![Choose more actions regarding the podcast episode](https://images.wondershare.com/filmora/article-images/2023/04/podcast-choose-action.png) | Choose more actions regarding the podcast episode |
 | ![Set a timer to stop playing Podcasts](https://images.wondershare.com/filmora/article-images/2023/04/podcast-set-time-not-playing.png)       | Set a timer to stop playing Podcasts              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Listen to Podcasts on iPhone Without Using Data
@@ -78,6 +83,10 @@ To listen to podcasts on your iPhone without using data you have to download the
 If your iPhone is not playing podcasts, there's usually a problem with downloading or syncing the podcast with other devices.
 
 There are several reasons why this process can be interrupted or unavailable. For example, an unstable Internet connection or any issue with the podcast servers. Another reason for the podcast not playing could be a bug or a misconfiguration of the podcast app. The Apple Podcasts app doesn't provide many error warnings. It is uncommon and can be challenging to debug.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fixes for Apple Podcast App Issues
 
@@ -110,10 +119,6 @@ Offline listening allows you to continue listening even if your Internet connect
 * Video Podcasts are also available.
 * You can listen to offline podcasts even if you don't have an internet connection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Castro
 
 [Castro](https://castro.fm/) has a distinctive strategy regarding subscription management. You can queue or archive a show as new episodes are received. You may configure your favorite shows to queue automatically, so you never miss them.
@@ -127,6 +132,10 @@ You can send any episode to your Apple Watch via Castro, and the watch will play
 * You can import MP3 files via iCloud Drive to your device.
 * The paid version unlocks additional features like trim silence in podcasts and enhanced voices.
 * Castro also offers night mode and custom app icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pocket Casts
 
@@ -142,10 +151,6 @@ There are other features to make viewing more accessible, such as the ability to
 * It can automatically Trim silence to avoid extra elongation of the podcast.
 * Variable speed playback offers listening to podcasts at your comfortable playback speed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Overcast
 
 [Overcast](https://overcast.fm/) is widespread due to its focus on detail and efficiency. Although the app is free, a premium edition is available for a small annual cost. Overcast is a media streaming service that prioritizes user preferences over business objectives.
@@ -157,7 +162,7 @@ Smart playlists, voice boost, and the search engine are the three fundamental co
 ![user interface of overcast](https://images.wondershare.com/filmora/article-images/2023/04/listen-to-podcasts-on-your-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Features**
@@ -166,10 +171,6 @@ Smart playlists, voice boost, and the search engine are the three fundamental co
 * You can curate an audio library that updates itself with the help of an eye-catching color scheme and icon collection.
 * Voice Boost keeps the volume constant while separating the discourse from the surrounding noise.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Stitcher
 
 [Stitcher](https://www.stitcher.com/) has been updated for the web, iOS, and Android platforms. It now features improved user control and navigation and a more streamlined look. You may enlist shows into your customized categories, view recently downloaded episodes alongside unfinished ones, and access all of your favorite podcasts in one place with My Podcasts.
@@ -177,10 +178,6 @@ Smart playlists, voice boost, and the search engine are the three fundamental co
 You can arrange episodes by date or use filters to display only downloaded, unplayed, or liked episodes of a particular podcast. You can choose which show episodes should be downloaded automatically and how many episodes you wish to store on your device. You may also adjust the playback speed using the slider control.
 
 ![user interface of stitcher](https://images.wondershare.com/filmora/article-images/2023/04/listen-to-podcasts-on-your-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features**
 
@@ -195,10 +192,6 @@ These are some commonly asked questions about podcasts on the iPhone.
 ### 1.Why does the Apple Podcasts app take so long to load?
 
 Ensure you have a reliable internet connection if you have issues or delays downloading shows via the Apple Podcasts App. Streaming music or video apps should be closed along with other programs utilizing a lot of data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.What causes the Apple Podcasts app to drain the battery so quickly?
 
@@ -222,11 +215,19 @@ To listen to podcasts on your iPhone without using data you have to download the
 
 ![download podcasts on iphone](https://images.wondershare.com/filmora/article-images/2023/04/listen-to-podcasts-on-your-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't I Play a Podcast on My iPhone?
 
 If your iPhone is not playing podcasts, there's usually a problem with downloading or syncing the podcast with other devices.
 
 There are several reasons why this process can be interrupted or unavailable. For example, an unstable Internet connection or any issue with the podcast servers. Another reason for the podcast not playing could be a bug or a misconfiguration of the podcast app. The Apple Podcasts app doesn't provide many error warnings. It is uncommon and can be challenging to debug.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fixes for Apple Podcast App Issues
 
@@ -273,6 +274,10 @@ You can send any episode to your Apple Watch via Castro, and the watch will play
 * The paid version unlocks additional features like trim silence in podcasts and enhanced voices.
 * Castro also offers night mode and custom app icons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pocket Casts
 
 [Pocket Casts](https://pocketcasts.com/) is a straightforward yet versatile podcast tool. It provides customized podcast suggestion lists to make finding new podcasts and episodes simple. You can easily manage your favorite podcasts and access a limitless library of recent and archived episodes, making it easier than ever to find what you're looking for.
@@ -310,10 +315,6 @@ Smart playlists, voice boost, and the search engine are the three fundamental co
 You can arrange episodes by date or use filters to display only downloaded, unplayed, or liked episodes of a particular podcast. You can choose which show episodes should be downloaded automatically and how many episodes you wish to store on your device. You may also adjust the playback speed using the slider control.
 
 ![user interface of stitcher](https://images.wondershare.com/filmora/article-images/2023/04/listen-to-podcasts-on-your-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features**
 
@@ -365,18 +366,24 @@ The majority of listeners of podcasts will agree that podcasts mostly outperform
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-assessing-sns-hdr-pros-worth-with-comparative-insight/"><u>[New] Assessing SNS HDR Pro's Worth with Comparative Insight</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-playlist-on-youtube-a-complete-guide-for-2024/"><u>[New] How to Create a Playlist on Youtube - a Complete Guide for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-screencapture-revolution-examining-camstudio/"><u>[New] In 2024, ScreenCapture Revolution Examining CamStudio</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-illustrator-way-adding-realistic-blur-to-your-pics/"><u>2024 Approved The Illustrator Way Adding Realistic Blur to Your Pics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/get-ready-to-win-more-with-this-purely-gratis-voice-modifier/"><u>Get Ready to Win More with This Purely Gratis Voice Modifier</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-system-speed-install-direct-gb-hardware-and-drivers/"><u>Improve System Speed – Install Direct GB Hardware & Drivers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boost-engagement-changing-numbers-effectively-on-tiktok/"><u>In 2024, Boost Engagement Changing Numbers Effectively on TikTok</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-professional-images-using-photoshops-powerful-luts/"><u>In 2024, Crafting Professional Images Using Photoshop's Powerful LUTs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lensleaks-revealing-affordable-stunning-tiktok-bgs/"><u>LensLeaks Revealing Affordable, Stunning TikTok BGs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nintendos-two-titans-clash-unveiling-the-differences-between-switch-lite-and-oled-versions/"><u>Nintendo's Two Titans Clash: Unveiling the Differences Between Switch Lite and OLED Versions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-note-12r-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi Note 12R Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-steams-missing-files-issue-gain-full-control/"><u>Resolving Steam's Missing Files Issue: Gain Full Control</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-srt-to-video-top-10-free-subtitle-tools/"><u>Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-guide-to-acquiring-elite-instagram-soundtracks-and-building-perfect-alarms/"><u>[New] A Step-by-Step Guide to Acquiring Elite Instagram Soundtracks and Building Perfect Alarms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-artistic-techniques-for-3d-text-effect/"><u>[New] Artistic Techniques for 3D Text Effect</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehending-variants-in-windows-movie-maker-software/"><u>[New] Comprehending Variants in Windows Movie Maker Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/onthly-earnings-from-youtube-for-creators-for-2024/"><u>[New] Monthly Earnings From YouTube for Creators for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-four-pillars-of-mobile-video-acquisition-igtv-edition/"><u>[Updated] In 2024, Four Pillars of Mobile Video Acquisition IGTV Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unlock-xps-movie-magic-software-essentials/"><u>[Updated] In 2024, Unlock XP's Movie Magic Software Essentials</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>2024 Approved Go From Gaming to Socializing Streaming Xbox to FB Live</u></a></li>
+<li><a href="https://extra-information.techidaily.com/box-buying-bonanza-uncovering-top-1-written-by-instruction-1-for-2024/"><u>Box Buying Bonanza! Uncovering Top 1 Written by Instruction 1 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brush-up-creativity-leading-mac-friendly-free-design-tools/"><u>Brush Up Creativity Leading Mac-Friendly FREE Design Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphone-landscape-mastery-tips-that-work-like-magic/"><u>IPhone Landscape Mastery Tips That Work Like Magic</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-virtual-reality-with-top-bike-simulators/"><u>Mastering Virtual Reality with Top Bike Simulators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-installation-of-codegpt-into-vs-code/"><u>Navigating the Installation of CodeGPT Into VS Code</u></a></li>
+<li><a href="https://extra-information.techidaily.com/overlay-wizardry-on-your-windows-desktop/"><u>Overlay Wizardry on Your Windows Desktop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sony-a6400-the-unseen-movie-problem/"><u>Sony A6400 The Unseen Movie Problem</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-to-restoring-removed-photos-from-your-iphone-with-software-solutions/"><u>Step-by-Step Guide to Restoring Removed Photos From Your iPhone with Software Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451904807-unveiling-the-must-have-features-in-ios-153-why-upgrading-is-imperative-right-now/"><u>Unveiling the Must-Have Features in iOS 15.3: Why Upgrading Is Imperative Right Now</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/journey-through-the-maze-of-uploading-videos-on-youtube-for-2024/"><u>Your Journey Through the Maze of Uploading Videos on YouTube for 2024</u></a></li>
 </ul></div>
 

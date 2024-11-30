@@ -1,7 +1,7 @@
 ---
 title: "\"Elite CGI  Green Screen Tutorial for Kinemaster Enthusiasts\""
-date: 2024-07-27T05:13:44.222Z
-updated: 2024-07-28T05:13:44.222Z
+date: 2024-11-25T18:54:24.599Z
+updated: 2024-11-30T01:49:05.836Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ The app's wide range of features appeals to those who want to get creative with 
 
 ![kinemaster app](https://images.wondershare.com/filmora/article-images/2023/01/kinemaster-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Features
 
 Following are some features of the KineMaster video editor that makes it stand out from the rest of the tools available:
@@ -46,8 +43,9 @@ Following are some features of the KineMaster video editor that makes it stand o
 * **Formats:** The app supports a variety of image, audio, and video formats, including JPEG, PNG, WebP, BMP, GIF, MP3, MP4, MOV, and 3GP.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How To Use Green Screen In KineMaster
 
 **Green screen, or chroma key in KineMaster, is a special effects technique. With it, you can replace the background of a video with a different image or video.**
@@ -58,10 +56,11 @@ Step1 Head to [Google Play Store](https://play.google.com/store/apps/details?id=
 
 Step2 Next, select all the video clips with the **green screen** and open the right-hand side **menu.** Scroll down and tap **"Chroma Key"** to remove the color from the videos.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![using green screen in kinemaster](https://images.wondershare.com/filmora/article-images/2023/01/using-green-screen-in-kinemaster.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And according to the user experiences we collected online, there is a possibility that you may experience the **"Ghost Face"** effect. If that does happen, you can adjust the clip's duration, color, and other settings to get a clear picture.
 
@@ -80,8 +79,9 @@ To avoid these issues, we recommend using [Filmora](https://tools.techidaily.com
 [download filmora app for ios](https://images.wondershare.com/filmorago/article-common/app_store.svg) ](https://app.adjust.com/b0k9hf2%5F4bsu85t) [download filmora app for android](https://images.wondershare.com/filmorago/article-common/google_play.svg) ](https://app.adjust.com/b0k9hf2%5F4bsu85t)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Features
 
 Here are some features that provide an edge to Filmora Go over the KineMaster tool:
@@ -91,9 +91,6 @@ Here are some features that provide an edge to Filmora Go over the KineMaster to
 * **Massive Libraries:** The app includes a vast library of stickers, effects, and filters that you can add to your videos to make them more engaging.
 * **Chroma Key Effect**: With this app, you can also add the Chroma screen effect to your videos like a pro!
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Steps
 
 Below, we've provided the step-by-step process for applying the green screen effect in your videos using Filmora:
@@ -104,10 +101,6 @@ Step2 Next, tap the **"PIP"** option. This will allow you to add another video c
 
 Step3 Use the **timeline** and navigate to the part where the **green screen** is in your video. With that clip selected, tap the **"Chroma key."** Use the **tool** to select the color and adjust the picture/clip until the green screen disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![using chroma key in filmorago](https://images.wondershare.com/filmora/article-images/2023/01/using-chroma-key-in-filmorago.png)
 
 You can now trim the clip to line up according to your requirements. That's it! Do the final edits and tap the **"Export"** option to save the video file on your device.
@@ -129,8 +122,9 @@ To avoid these issues, we recommend using [Filmora](https://tools.techidaily.com
 [download filmora app for ios](https://images.wondershare.com/filmorago/article-common/app_store.svg) ](https://app.adjust.com/b0k9hf2%5F4bsu85t) [download filmora app for android](https://images.wondershare.com/filmorago/article-common/google_play.svg) ](https://app.adjust.com/b0k9hf2%5F4bsu85t)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Features
 
 Here are some features that provide an edge to Filmora Go over the KineMaster tool:
@@ -141,8 +135,9 @@ Here are some features that provide an edge to Filmora Go over the KineMaster to
 * **Chroma Key Effect**: With this app, you can also add the Chroma screen effect to your videos like a pro!
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steps
 
 Below, we've provided the step-by-step process for applying the green screen effect in your videos using Filmora:
@@ -154,6 +149,10 @@ Step2 Next, tap the **"PIP"** option. This will allow you to add another video c
 Step3 Use the **timeline** and navigate to the part where the **green screen** is in your video. With that clip selected, tap the **"Chroma key."** Use the **tool** to select the color and adjust the picture/clip until the green screen disappears.
 
 ![using chroma key in filmorago](https://images.wondershare.com/filmora/article-images/2023/01/using-chroma-key-in-filmorago.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now trim the clip to line up according to your requirements. That's it! Do the final edits and tap the **"Export"** option to save the video file on your device.
 
@@ -187,7 +186,23 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creating-a-memorable-and-unique-moniker-for-your-filmora-content-for-2024/"><u>[New] Creating a Memorable and Unique Moniker for Your Filmora Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023s-largest-threaded-video-compilation/"><u>[Updated] 2023'S Largest Threaded Video Compilation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-visual-narratives-with-premium-text-tools-in-ae/"><u>2024 Approved Crafting Visual Narratives with Premium Text Tools in AE</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-travel-vloggers-the-ultimate-10-list/"><u>2024 Approved Essential Travel Vloggers The Ultimate 10 List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-essential-checklist-for-full-facebook-messaging-archives/"><u>2024 Approved The Essential Checklist for Full Facebook Messaging Archives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-your-compre-agent-in-finding-superior-hdr-cameras/"><u>2024 Approved Your Compre Agent in Finding Superior HDR Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725290357154-winx-dvd-author/"><u>初心者も気軽に使えるWinX DVD Authorの日本語版ガイド</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-quick-fix-for-quirky-content-mastering-meme-creation-at-9gag-for-2024/"><u>A Quick Fix for Quirky Content Mastering Meme Creation at 9GAG for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/abletons-techniques-for-diminishing-sound-intensity-for-2024/"><u>Ableton's Techniques for Diminishing Sound Intensity for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accurate-ranking-of-top-tools-for-free-srt-transformations/"><u>Accurate Ranking of Top Tools for FREE Srt Transformations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/becoming-a-leader-in-the-world-of-design-work/"><u>Becoming a Leader in the World of Design Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canva-meme-generator-for-2024/"><u>Canva Meme Generator for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafted-clicks-guide-to-software-and-sites-for-superior-photo-framing/"><u>Crafted Clicks Guide to Software & Sites for Superior Photo Framing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-asus-rog-phone-7-by-fonelab-android-recover-music/"><u>How to restore wiped music on Asus ROG Phone 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/small-size-big-sound-sony-ps-lx310bt-reviewed/"><u>Small Size, Big Sound: Sony PS-LX310BT Reviewed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-to-fixing-win11s-infamous-blue-screen-error/"><u>Step-by-Step Guide to Fixing Win11's Infamous Blue Screen Error</u></a></li>
+</ul></div>
 

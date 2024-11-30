@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-11-18T16:25:32.713Z
-updated: 2024-11-22T02:23:11.435Z
+date: 2024-11-25T10:09:10.118Z
+updated: 2024-11-30T03:53:49.616Z
 tags:
   - desktop
 categories:
@@ -46,21 +46,26 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-empower-your-application-with-microsoft-azure-speech-services/"><u>[New] Empower Your Application with Microsoft Azure Speech Services</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-10-essentials-for-flawless-instagram-unboxing-content/"><u>[Updated] In 2024, 10 Essentials for Flawless Instagram Unboxing Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-approach-for-telegram-web-success/"><u>2024 Approved A Step-By-Step Approach for Telegram Web Success</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210711713-9781454922599-a-little-bit-of-chakras/"><u>A Little Bit of Chakras | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-onlyoffice-with-chatgpt-for-seamless-collaboration/"><u>Enhancing ONLYOFFICE with ChatGPT for Seamless Collaboration</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-stills-to-movement-examining-the-action-potential-of-camplus/"><u>From Stills to Movement Examining the Action Potential of Cam+</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harnessing-the-power-of-slow-motion-pro-level-gopro-hero-10-techniques/"><u>Harnessing the Power of Slow Motion Pro-Level GoPro Hero 10 Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-lava-blaze-curve-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Lava Blaze Curve 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-no-fee-apps-your-guide-to-downloading-pinterest-content/"><u>In 2024, Best No-Fee Apps Your Guide to Downloading Pinterest Content</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro Phone without PIN</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-your-storage-with-these-30-great-android-video-compressors/"><u>Streamline Your Storage with These 30 Great Android Video Compressors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-video-files/"><u>Updated Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-updated-list-the-premier-pc-vr-headsets-of-2023/"><u>[New] 2024 Approved Updated List The Premier PC VR Headsets of 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-zoom-meetings-quickly/"><u>[New] Mastering Zoom Meetings Quickly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-palettes-journey-learning-the-science-of-colors/"><u>[Updated] A Palette's Journey Learning the Science of Colors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-software-for-high-quality-video-capture-on-windows-pcs-for-2024/"><u>[Updated] Essential Software for High-Quality Video Capture on Windows PCs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/apple-m1-pro-versus-m1-max-unveiling-variations-for-2024/"><u>Apple M1 Pro Versus M1 Max Unveiling Variations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/color-depth-from-rgb-to-srgb/"><u>Color Depth From Rgb to Srgb</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-audio-experience-on-your-iphone-device/"><u>Enhance Audio Experience on Your iPhone Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-ai-visualization-toolset/"><u>Expert AI Visualization Toolset</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/full-spectrum-analysis-of-vsco-editing-features/"><u>Full Spectrum Analysis of VSCO Editing Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-360-videos-with-iphone/"><u>How to Make 360 Videos with iPhone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/proven-techniques-to-follow-your-favorite-cricketers-live-for-2024/"><u>Proven Techniques to Follow Your Favorite Cricketers Live for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-visual-vintner-techniques-for-flavorful-films/"><u>The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-huawei-p60-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Huawei P60 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-disk-chaos-into-organized-order-with-altwindirstat/"><u>Transforming Disk Chaos Into Organized Order with altWinDirStat</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

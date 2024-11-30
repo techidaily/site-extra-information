@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!)"
-date: 2024-07-27T05:16:38.027Z
-updated: 2024-07-28T05:16:38.027Z
+date: 2024-11-27T11:34:45.424Z
+updated: 2024-11-29T18:16:24.007Z
 tags: 
   - screen-recording
   - ai video
@@ -42,16 +42,14 @@ Step2 When you click on the Game Turbo icon, you'll see a list of options from w
 
 Step3 You will see a list of voices, including a girl, woman, man, and robot, from which to choose. In the meantime, you can hear your voice by clicking the "blue circle" icon before applying the desired sound effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![turbo game step 3](https://images.wondershare.com/filmora/article-images/2022/11/turbo-game-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 After you choose the sound effect you want to use, you can close the Turbo Game. Then, you can use the sound effect you choose to talk with your friends.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![last step turbo game](https://images.wondershare.com/filmora/article-images/2022/11/turbo-game-4.jpg)
 
 ### 2\. Raistar Voice Changer
@@ -70,25 +68,24 @@ Step3 You will get some of the questions in this part. All you need to do is ans
 
 ![raistar step 3](https://images.wondershare.com/filmora/article-images/2022/11/raistar-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Once you answer all the questions, you need to click "Activate".
 
 ![raistar step 4](https://images.wondershare.com/filmora/article-images/2022/11/raistar-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 After you click "Activate". Finally, all you need to do is open Free Fire by clicking on "Open FF". Lastly, it will take you directly to the Free Fire application, and your voice will change according to the sound effect you selected earlier
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![raistar last step](https://images.wondershare.com/filmora/article-images/2022/11/raistar-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. DU RECORDER APP
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![du recorder illustration](https://images.wondershare.com/filmora/article-images/2022/11/du-recorder.jpg)
 
 DU Recorder is a decent, user-friendly stream maker and screen recorder. You can record screen videos with DU Recorder and broadcast them to YouTube, Facebook, and Twitch. Yet not many folks understand that it's also a great Free Fire app for changing your voice.
@@ -109,46 +106,26 @@ Step3 You must scroll your screen until you reach the "Change Voice" option to a
 
 Step4 You'll see a list of sound effects from which you can pick, like "Lolita," "Naughty Boy," and many others. You can hear all the sound effects before you apply them by clicking the "microphone" icon. Then, if you discover the sound effect you want to use, click "Save."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![du recorder step 4](https://images.wondershare.com/filmora/article-images/2022/11/du-recorder-4.jpg)
 
 Step5 After that, you can launch the Free Fire app. Now, you can record your screen by clicking on the DU Recorder icon. When DU Recorder records your screen, your voice will change depending on the sound effect you chose before.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![du recorder step 5](https://images.wondershare.com/filmora/article-images/2022/11/du-recorder-5.jpg)
 
 Step6 When you're done recording your screen, the file will be saved automatically on your phone.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![du recorder last step](https://images.wondershare.com/filmora/article-images/2022/11/du-recorder-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Voice Changer For Gaming
 
 Voice Changer For Gaming is one of the best ways to change your voice in Free Fire. Voice Changer For Gaming has a simple interface. Therefore you will not find this app. However, you can use this app to change your voice while playing Free Fire. See the steps below to find out how to use it.
 
 Step1 You first need to download the app and launch it. After that, you will see various sound effects.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![voice changer for gaming step 1](https://images.wondershare.com/filmora/article-images/2022/11/voice-changer-gaming-1.jpg)
 
 Step2 After finding your favorite sound effect, you can adjust the pitch and noise according to your needs.
@@ -157,10 +134,11 @@ Step2 After finding your favorite sound effect, you can adjust the pitch and noi
 
 Step3 After all is set, click on the "microphone" icon to activate the voice changer. Lastly, Launch the Free Fire, and you can communicate with your friend using the voice effect you chose previously.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![voice changer for gaming last step](https://images.wondershare.com/filmora/article-images/2022/11/voice-changer-gaming-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: Method 2: Play Free Fire on PC and use a PC voice changer
 
@@ -168,21 +146,10 @@ One of the most popular battle royale games right now is Free Fire. Both iOS and
 
 So, you will need to get the latest version of BlueStacks on your laptop before you can play Free Fire on it. The software is easy to download from the official BlueStacks website. Indeed, If you want to play Free Fire on PC like you do on your phone, you might want to use a voice changer. Here are three voice changer to play Free Fire on PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Voicemod
 
 Voicemod is a very reliable application if you need a voice changer for free fire on PC It allows you to adjust your voice in real-time while playing Free Fire. There are also more soundboards that you can create and utilize at any moment.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![voicemod illustration](https://images.wondershare.com/filmora/article-images/2022/11/voicemod.png)
 
 How to use Voicemod On a PC
@@ -199,18 +166,16 @@ Step3 Go back to your BlueStacks > settings > devices > microphone > Microphone 
 
 ![voicemod step 3](https://images.wondershare.com/filmora/article-images/2022/11/voicemod-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Turn on "Hear Myself" and "Voice changer," and start trying out the various sound effects. Also, you can try out the different sounds in the Soundboard section.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![voicemod step 4](https://images.wondershare.com/filmora/article-images/2022/11/voicemod-4.jpg)
 
 Step5 Pick your preferred voice effect, and then go back to your Free Fire in BlueStacks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### 2\. Morphvox junior
 
 MorphVOX Junior is free software that lets you alter someone's voice so. So you can talk like a man, a woman, or a baby. This voice changer is so easy to use because it comes with voices and sound effects already built in.
@@ -221,10 +186,11 @@ How to use Morphvox JR for Free Fire on PC.
 
 Step1 Download Morphvox JR on their official website and launch it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![morphvox jr step 1](https://images.wondershare.com/filmora/article-images/2022/11/morphvox-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Because Morphvox comes with voices and sound effects already built in. Therefore you need to choose between man, woman, or baby voice.
 
@@ -232,9 +198,6 @@ Step2 Because Morphvox comes with voices and sound effects already built in. The
 
 Step3 Finally, you only have to open BlueStacks and launch Free Fire. You will automatically sound like the character you chose in the beginning.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 3\. All in one voice changer
 
 Another Voice Changer you can use on PC is an All-in-One voice changer. This tool has a simple interface. Therefore, its easy to use it. Here are steps on how to use All in one voice changer
@@ -243,20 +206,26 @@ Step1 You can download All in one voice changer from their official website. Aft
 
 ![all in one voice changer step 1](https://images.wondershare.com/filmora/article-images/2022/11/voice-changer-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 You can adjust the volume. After that, choose the character you want.
 
 ![all in one voice changer step 2](https://images.wondershare.com/filmora/article-images/2022/11/voice-changer-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Once you choose the character, click on "test" to start to talk with the voice you changed before. Afterward click one play to review the voice. Lastly, if you like the voices you can save it on your computer by clicking "export."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![all in one last step](https://images.wondershare.com/filmora/article-images/2022/11/voice-changer-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part3: FAQ
 
 ### Is Voicemod on mobile?
@@ -267,9 +236,6 @@ Yes, Voiced is also available on mobile as well. You can also use Voicemod on yo
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -302,7 +268,20 @@ Yes, Voiced is also available on mobile as well. You can also use Voicemod on yo
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-quickly-craft-perfect-subtitles-and-captions-for-facebook-video-feeds/"><u>[Updated] 2024 Approved How To Quickly Craft Perfect Subtitles and Captions for Facebook Video Feeds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-music-players-software-for-windows/"><u>Best Music Players Software for Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-perfect-playlists-import-music-with-inshot/"><u>Crafting Perfect Playlists Import Music with InShot</u></a></li>
+<li><a href="https://extra-information.techidaily.com/energize-android-videos-brightly/"><u>Energize Android Videos Brightly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-polarr-photo-editor-features-in-detail/"><u>Explore Polarr Photo Editor Features in Detail</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-cutting-edge-techniques-for-channel-management-on-yt-hub/"><u>In 2024, Cutting-Edge Techniques for Channel Management on YT Hub</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oneplus-nord-ce-3-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your OnePlus Nord CE 3 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-x100-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo X100 Pro Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-fisheye-photography-for-full-spheres/"><u>Mastering Fisheye Photography for Full Spheres</u></a></li>
+<li><a href="https://extra-information.techidaily.com/memories-in-motion-a-step-by-step-guide-for-digital-conversion/"><u>Memories in Motion A Step-by-Step Guide for Digital Conversion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-n3-flip-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Find N3 Flip</u></a></li>
+<li><a href="https://discover-best.techidaily.com/uhd-vs-4k-unveiling-the-distinctions-in-high-definition-technologies/"><u>UHD Vs. 4K: Unveiling the Distinctions in High-Definition Technologies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-6s-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 6s Plus?</u></a></li>
+</ul></div>
 

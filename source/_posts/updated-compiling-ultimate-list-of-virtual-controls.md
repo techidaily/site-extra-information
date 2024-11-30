@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Compiling Ultimate List of Virtual Controls"
-date: 2024-11-14T17:00:36.165Z
-updated: 2024-11-22T03:04:48.868Z
+date: 2024-11-27T05:38:28.956Z
+updated: 2024-11-30T09:25:19.054Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is VR controller?
@@ -47,15 +47,15 @@ These 3 features matter most when we talk about a VR-friendly controller, durabi
 
 [Check at Amazon](https://www.amazon.com/gp/product/B015WKY3IM/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B015WKY3IM&linkId=fae301a4960340d3e4652321a1ba4500)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [2\. Beboncool Controller](https://www.amazon.com/gp/product/B0171JGYF2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0171JGYF2&linkId=34246a8cf16f9c7cc3fb55f393e5f780)
 
 It is a portable device, it is made up of plastic, and it is way inexpensive than other Bluetooth controllers that play good with the Gear VR box. Beboncool makes a lot of controllers for phones and tablets alike, however this tiny gamepad is seamless for moveable Gear VR gameplay. It has a battery timing of 12 hours of continuous gameplay, however the auto-off feature guarantees you will only be using battery while you are playing actually.
 
 [Check at Amazon](https://www.amazon.com/gp/product/B0171JGYF2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0171JGYF2&linkId=34246a8cf16f9c7cc3fb55f393e5f780)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [3. MOGA Hero Power](https://www.amazon.com/gp/product/B00FB5R9OY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00FB5R9OY&linkId=7ec4097169436343a0e4e8bf79af3479)
 
@@ -63,12 +63,16 @@ The Moga Hero Power is the controller which is confirmed to go with the Gear VR 
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00FB5R9OY/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00FB5R9OY&linkId=7ec4097169436343a0e4e8bf79af3479)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. MOGA Pro Power
 
 The Moga Pro Power, which is actually a more modernized edition of the previous Moga Pro, works perfectly when used with the Gear VR box when it is set into the mode “B”. To attach the phone to the MOGA Pro controller you are required to download an extra app. It is being confirmed that it fits within the Gear VR’s case which carries it and also has a phone committed port for the people playing non-VR gaming. It is being priced at $79.99 and available online but it can usually be bought for $50 at Gamestop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [5\. MOGA Pro](https://www.amazon.com/gp/product/B00FB5RBJM/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00FB5RBJM&linkId=db0d4840ef4335619cd55b7cfc47777a)
@@ -77,19 +81,11 @@ The Moga Pro is a much older and occasionally tough to find nevertheless works j
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00FB5RBJM/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00FB5RBJM&linkId=db0d4840ef4335619cd55b7cfc47777a)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Samsung Smartphone Gamepad
 
 This device is the certified controller for the Galaxy VR box. The device works perfectly and attaches to the Note 4 without any problems. While for non-virtual reality gaming or steering the Samsung phone Gamepad also has a phone base like the other mobile controllers’ devices. The magnitude of the controller is small enough to get fit in the Gear VR’s case but it might be too little for big hands. The main issue is the price. Priced at $80 it is one of the most luxurious controllers accessible. Although it is a very good device for Samsung VR box and Note 4.
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00MLQ2L58/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MLQ2L58&linkId=cef4476858cdd89a5adbf31ea1e86559)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Amazon Fire TV controller
 
@@ -112,6 +108,10 @@ It is a very small $20 iPega Wireless Controller and is compatible well with the
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -127,16 +127,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-cut-the-clutter-structuring-videos-with-chapter-tags/"><u>[New] Cut the Clutter Structuring Videos with Chapter Tags</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-maximize-your-mobile-experience-with-these-7-blockers/"><u>[New] Maximize Your Mobile Experience with These 7 Blockers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-2023s-leading-vr-game-development-tools/"><u>[Updated] 2023'S Leading VR Game Development Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-essential-steps-for-youtube-videos-to-mpeg-format/"><u>[Updated] Essential Steps for YouTube Videos to MPEG Format</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728486512766-windows-server-2022/"><u>新鮮な状態からWindows Server 2022の初期設定手順:トップ２選択</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-productivity-with-these-premier-ai-chat-assistants-in-visual-studio-code/"><u>Boost Productivity with These Premier AI Chat Assistants in Visual Studio Code</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-composition-ideal-plugins-and-websites-to-frame-your-images-for-2024/"><u>Capture Composition Ideal Plugins and Websites to Frame Your Images for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>In 2024, Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigate-nearby-landscapes-on-roblox-easily/"><u>Navigate Nearby Landscapes on Roblox Easily</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategic-vr-marketing-manifesto/"><u>Strategic VR Marketing Manifesto</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-download-filmora-13-video-editor-free-no-watermark/"><u>Updated 2024 Approved Download Filmora 13 Video Editor Free No Watermark</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-frame-it-up-right-insta-ready-video-edits-for-final-cut-pro-x/"><u>[New] In 2024, Frame It Up Right Insta-Ready Video Edits for Final Cut Pro X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bargain-bin-chinese-vr-technology/"><u>2024 Approved Bargain Bin Chinese VR Technology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-eyefirefox-capture-extensions/"><u>2024 Approved EyeFirefox Capture Extensions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-core-strategies-for-amplifying-your-digital-footprint-newbies-style/"><u>5 Core Strategies for Amplifying Your Digital Footprint, Newbies Style</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/1728464752443-sd/"><u>錯誤修復：如何使用SD卡重置缺陷</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-data-integration-seminar-mastering-advanced-data-processing-techniques-for-business-excellence/"><u>ABBYY Data Integration Seminar – Mastering Advanced Data Processing Techniques for Business Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/av1-triumph-surpassing-vp9-performance-for-2024/"><u>AV1 Triumph Surpassing VP9 Performance for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/combatting-loneliness-with-chatgpt-a-guide/"><u>Combatting Loneliness with ChatGPT: A Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-hand-tracking-techniques-for-modern-devices/"><u>Essential Hand Tracking Techniques for Modern Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-enjoy-uninterrupted-maplestory-gameplay-on-windows-11-essential-fixes-for-gamers/"><u>How to Enjoy Uninterrupted MapleStory Gameplay on Windows 11 - Essential Fixes for Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-conquering-low-light-with-iphones-advanced-hdr-techniques/"><u>In 2024, Conquering Low Light with iPhone’s Advanced HDR Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-infinix-note-30-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Infinix Note 30 Is Unlocked</u></a></li>
+<li><a href="https://win-dash.techidaily.com/konica-minolta-windows-driver-downloads-compatible-with-windows-os-versions-from-7-to-11/"><u>Konica Minolta Windows Driver Downloads - Compatible with Windows OS Versions From 7 to 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-approaches-to-dominating-spotifys-ad-space/"><u>Strategic Approaches to Dominating Spotify's Ad Space</u></a></li>
 </ul></div>
 
