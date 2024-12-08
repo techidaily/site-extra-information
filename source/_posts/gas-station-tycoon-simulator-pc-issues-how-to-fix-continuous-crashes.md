@@ -1,7 +1,7 @@
 ---
 title: "Gas Station Tycoon Simulator - PC Issues: How to Fix Continuous Crashes"
-date: 2024-11-07T23:39:32.709Z
-updated: 2024-11-12T06:17:19.843Z
+date: 2024-12-07T18:19:32.505Z
+updated: 2024-12-08T17:18:49.721Z
 tags:
   - win11
   - win10
@@ -67,22 +67,12 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Relaunch your game to see if this has resolved your issue.
 
 If no, try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check for mod errors
 
@@ -104,9 +94,17 @@ Follow the instructions below to see how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-59-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Type **%public%\\Documents** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-52-48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Right-click the**Steam folder** and select**Delete** .
 
@@ -132,18 +130,15 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-12-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_15-38-36.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -170,22 +165,12 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Right-click **Euro Truck Simulator 2** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-46-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click the **Compatibility tab** , then check **Run this program as an administrator** .
@@ -196,16 +181,13 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-40-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Relaunch your game.
 
  If the_ETS2_ crashing issue continues to occur, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for software conflicts
 
@@ -232,6 +214,10 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try relaunching_ETS2_ to see if this has resolved your issue. If your game crashes again, check the next fix, below.
 
 #### If you’re on Windows 8 or 10…
@@ -239,6 +225,10 @@ If your game is still unplayable, move on to the next fix.
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-55-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -250,14 +240,11 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-12-1.jpg)
 
- Relaunch_ETS2_ to see if this has resolved your issue. If your game still crashes, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Relaunch_ETS2_ to see if this has resolved your issue. If your game still crashes, try the next fix, below.
 
 ### Fix 6: Reinstall your game
 
@@ -269,16 +256,13 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-33-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-36-27.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart**your computer** .
 
@@ -307,24 +291,20 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-20plus-cool-metaverse-memes-and-how-to-make-your-own-memes/"><u>[New] 20+ Cool Metaverse Memes and How to Make Your Own Memes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-assessing-ffmpegs-prowess-in-original-audio-extraction/"><u>[New] Assessing FFmpeg’s Prowess in Original Audio Extraction</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-complete-guide-mastering-final-cut-pro/"><u>[New] Complete Guide Mastering Final Cut Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-lg-bp550s-breakthrough-the-2023-technology-sprint/"><u>[New] In 2024, LG BP550's Breakthrough The 2023 Technology Sprint</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-android-users-discover-the-top-youtube-video-clips/"><u>[Updated] 2024 Approved Android Users, Discover the Top YouTube Video Clips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-crafting-closure-secrets-of-spectacative-video-sign-offs-for-2024/"><u>[Updated] Crafting Closure Secrets of Spectacative Video Sign-Offs for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-direct-link-method-for-photos-and-videos/"><u>[Updated] In 2024, Direct Link Method for Photos & Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-intimate-game-viewing-a-closer-look-at-roblox-worlds/"><u>[Updated] Intimate Game Viewing A Closer Look at Roblox Worlds</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/assessment-of-discreet-and-dependable-rexing-v1-dashcam-for-value-oriented-users/"><u>Assessment of Discreet and Dependable Rexing V1 Dashcam for Value-Oriented Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-ergonomic-marvel-that-is-microsofts-sculpt-keyboard-great-bargain/"><u>In-Depth Analysis of the Ergonomic Marvel that Is Microsoft's Sculpt Keyboard - Great Bargain</u></a></li>
-<li><a href="https://extra-information.techidaily.com/kinemaster-essentials-a-guide-to-flawless-movements/"><u>Kinemaster Essentials A Guide to Flawless Movements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lines-that-captivate-the-craft-of-writing-dialogue/"><u>Lines That Captivate The Craft of Writing Dialogue</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-level-dpi-gaming-mice-for-hardcore-gamers/"><u>Next-Level DPI Gaming Mice for Hardcore Gamers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/no-more-running-out-of-room-top-20-zero-cost-cloud-services-up-to-1tb/"><u>No More Running Out of Room - Top 20 Zero-Cost Cloud Services (Up To 1TB)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/softening-the-end-effective-methods-for-reducing-volume-in-premiere-pro/"><u>Softening the End Effective Methods for Reducing Volume in Premiere Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-guide-to-crafting-stunning-tiktok-edits/"><u>Step-by-Step Guide to Crafting Stunning TikTok Edits</u></a></li>
-<li><a href="https://extra-information.techidaily.com/techniques-for-elevating-your-tiktok-unboxing-popularity/"><u>Techniques for Elevating Your TikTok Unboxing Popularity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-zte-axon-40-lites-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your ZTE Axon 40 Lites Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-affinity-photo-expertise-review-guide/"><u>[New] Affinity Photo Expertise Review Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-seamless-transitions-shooting-smooth-time-lapse-with-hero5/"><u>[Updated] 2024 Approved Seamless Transitions Shooting Smooth Time-Lapse with Hero5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snap-better-pics-with-radial-blur-and-shadow-features-in-photoshop/"><u>[Updated] Snap Better Pics with Radial Blur and Shadow Features in Photoshop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-secrets-crafting-captivating-instagram-unboxing-videos/"><u>2024 Approved Unlock the Secrets Crafting Captivating Instagram Unboxing Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aviary-creator-searching-for-affordable-filters-for-2024/"><u>Aviary Creator Searching for Affordable Filters for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-pricing-in-the-cloud-unveil-your-options-here-for-2024/"><u>Best Pricing in the Cloud? Unveil Your Options Here for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bold-creation-mastering-timelapses-and-animations-with-movie-maker-for-2024/"><u>Bold Creation Mastering Timelapses & Animations with Movie Maker for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/dota-2-mic-not-working-on-pc-solved/"><u>Dota 2 Mic Not Working on PC [Solved]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-avoiding-grainy-zoom-videos-techniques-included/"><u>In 2024, Avoiding Grainy Zoom Videos – Techniques Included</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-demystifying-ai-game-generators-from-definition-to-distinction/"><u>In 2024, Demystifying AI Game Generators From Definition to Distinction</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-supercharge-your-chat-essential-whatsapp-tactics-revealed/"><u>In 2024, Supercharge Your Chat Essential WhatsApp Tactics Revealed</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/pc-and-tumblr/"><u>PC & スマートフォンで「Tumblr」動画閲覧・保存ガイド</u></a></li>
+<li><a href="https://extra-information.techidaily.com/personal-youtube-broadcasting-with-minimal-subscribers/"><u>Personal YouTube Broadcasting with Minimal Subscribers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/preserving-periscope-content-tips-from-the-pros-for-2024/"><u>Preserving Periscope Content Tips From the Pros for 2024</u></a></li>
 </ul></div>
 

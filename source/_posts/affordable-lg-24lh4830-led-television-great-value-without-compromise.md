@@ -1,7 +1,7 @@
 ---
 title: Affordable LG 24LH4830 LED Television - Great Value Without Compromise
-date: 2024-11-07T10:04:58.201Z
-updated: 2024-11-12T05:22:17.976Z
+date: 2024-12-02T16:39:40.280Z
+updated: 2024-12-08T16:39:09.715Z
 categories:
   - BestProducts
 description: This Article Describes Affordable LG 24LH4830 LED Television - Great Value Without Compromise
@@ -37,13 +37,6 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
@@ -69,6 +62,10 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -78,10 +75,7 @@ Lifewire / Erika Rawes
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup: Relatively easy**
@@ -95,13 +89,6 @@ Lifewire / Erika Rawes
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Almost two dozen channels (in a rural area)**
 
@@ -119,6 +106,10 @@ Lifewire / Erika Rawes
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
@@ -128,10 +119,7 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
@@ -143,6 +131,10 @@ Lifewire / Erika Rawes
 **A budget antenna that works as advertised.**
 
  The AmazonBasics Antenna is a good option for anyone who wants an ultra-cheap way to get broadcast TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -175,24 +167,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tomtom-bandit-camera-update-the-ultimate-guide/"><u>[New] 2024 Approved TomTom Bandit Camera Update – The Ultimate Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts/"><u>[New] Crafting Memorable Announcements The Key to Successful Facebook Giving Posts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-exploring-m1-capabilities-apples-laptop-dilemma-for-2024/"><u>[New] Exploring M1 Capabilities Apple's Laptop Dilemma for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-ultimate-guide-to-windows-10s-video-creation-capabilities-for-2024/"><u>[New] The Ultimate Guide to Windows 10'S Video Creation Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mediameld-mixer/"><u>[Updated] MediaMeld Mixer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlocking-your-understanding-of-copyright-on-instagram/"><u>[Updated] Unlocking Your Understanding of Copyright on Instagram</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-full-overview-of-adobe-cloud-workflow-and-alternative-methods/"><u>A Full Overview of Adobe Cloud Workflow & Alternative Methods</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-social-media-norms-the-distinctive-features-of-triller/"><u>Beyond Social Media Norms The Distinctive Features of Triller</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-educational-tools-top-10-apps-for-your-teens-success/"><u>Discover the Ultimate Educational Tools: Top 10 Apps for Your Teen's Success</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-create-a-negative-like-image-look/"><u>How to Create a Negative-Like Image Look</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-xs-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone XS Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Pro Passcode without a Computer</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pivotal-understanding-of-internet-fables/"><u>Pivotal Understanding of Internet Fables</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-15-groundbreaking-film-processors-for-gopro-cinematography/"><u>Premium 15 Groundbreaking Film Processors for GoPro Cinematography</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-magic-5-lite-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor Magic 5 Lite to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-immersive-chronicles-a-brief-history/"><u>The Immersive Chronicles A Brief History</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-budget-friendly-image-editing-apps-for-smartphones/"><u>Top 10 Budget-Friendly Image Editing Apps for Smartphones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-growth-medical-ad-tricks-on-social-media/"><u>Unlocking Growth Medical Ad Tricks on Social Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-4-simplified-ways-to-screen-record-lenovo-for-2024/"><u>[New] 4 Simplified Ways to Screen Record Lenovo for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-excellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>[New] In 2024, Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-facetune-review-the-pathway-to-picture-perfection/"><u>[Updated] Full Facetune Review The Pathway to Picture Perfection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-renowned-20-free-public-domain-pubg-sets/"><u>[Updated] Renowned 20 Free, Public Domain PUBG Sets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adding-images-to-instagram-made-simple/"><u>Adding Images to Instagram Made Simple</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-ambiance-within-visual-mediums-for-2024/"><u>Auditory Ambiance Within Visual Mediums for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/captivating-colors-in-photos-a-ps-masterclass-for-2024/"><u>Captivating Colors in Photos A PS Masterclass for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-captivating-gopro-time-lapse-footage-hacks/"><u>Craft Captivating GoPro Time-Lapse Footage Hacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/effortless-pet-feeding-solutions-discover-the-convenience-of-arf-pets-automatic-dispenser/"><u>Effortless Pet Feeding Solutions: Discover the Convenience of Arf Pets Automatic Dispenser</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-ultra-hd-cinema-anywhere-with-the-new-stylish-easy-to-carry-lg-4k-projector/"><u>Experience Ultra HD Cinema Anywhere with the New Stylish, Easy-to-Carry LG 4K Projector</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-easy-magnification-on-ios-devices/"><u>Master Easy Magnification on iOS Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/peak-choice-top-five-high-definition-cameras-for-2024/"><u>Peak Choice Top Five High Definition Cameras for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sculpt-your-shots-in-the-digital-realm/"><u>Sculpt Your Shots in the Digital Realm</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210496981-9781632174390-the-just-girl-project-book-of-astrology/"><u>The Just Girl Project Book of Astrology | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-photo-editing-with-top-lunapic-hacks/"><u>Transform Photo Editing with Top LunaPic Hacks</u></a></li>
 </ul></div>
 

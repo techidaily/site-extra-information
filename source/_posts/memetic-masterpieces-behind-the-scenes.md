@@ -1,7 +1,7 @@
 ---
 title: "\"Memetic Masterpieces  Behind the Scenes\""
-date: 2024-11-25T06:18:34.589Z
-updated: 2024-11-30T01:15:52.547Z
+date: 2024-12-03T18:24:41.781Z
+updated: 2024-12-08T19:06:52.020Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -41,10 +45,6 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
 ## Part2: Distracted Boyfriend
@@ -53,13 +53,13 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
 
@@ -74,11 +74,11 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
-In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 ## Part3: I Bet He's Thinking About Other Women
 
@@ -96,6 +96,10 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
 * The meme also appears in a 2017 tweet by @NFLRT, an NFL fan account, where the man questions when Colin Kaepernick will be signed.
@@ -106,13 +110,13 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
@@ -129,14 +133,10 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part5: FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Can you use stock photos for memes?
@@ -146,7 +146,7 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Does copyright law protect memes?
@@ -189,17 +189,24 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-displaycast-critique-service-for-2024/"><u>[Updated] DisplayCast Critique Service for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fixing-freeze-problems-in-fb-livestreams-for-2024/"><u>[Updated] Fixing Freeze Problems in FB Livestreams for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-create-a-personalized-broadcasting-experience-record-webcam-with-vlc/"><u>[Updated] In 2024, Create a Personalized Broadcasting Experience Record Webcam with VLC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-compendium-of-affordable-rich-graphics-resources-online/"><u>[Updated] The Essential Compendium of Affordable, Rich Graphics Resources Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-affordable-video-players-on-various-systems/"><u>Exploring Affordable Video Players on Various Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-techniques-to-change-your-characters-voice-and-sound-identity-in-free-fire-gaming/"><u>Free Techniques to Change Your Character's Voice and Sound Identity in Free Fire Gaming</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-k11x-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo K11x Phone without Any Data Loss</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-sharing-your-privacy-guarded-yt-clip-via-gmail-pro-for-2024/"><u>Mastering Sharing Your Privacy-Guarded YT Clip via Gmail Pro for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-your-electronics-with-tips-from-toms-tech-haven/"><u>Mastering Your Electronics with Tips From Tom's Tech Haven</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/my-transformative-language-journey-powered-by-mondly-the-essential-10-techniques/"><u>My Transformative Language Journey Powered by Mondly - The Essential 10 Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photo-motion-enhancement-via-adobe-tools/"><u>Photo Motion Enhancement via Adobe Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphone-icloud-sync-issues-essential-steps-and-fixes-for-success/"><u>Resolving iPhone iCloud Sync Issues: Essential Steps and Fixes for Success</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash/"><u>[New] Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-3-straightforward-methods-to-fine-tune-shades/"><u>[Updated] 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-aural-elements-in-online-visuals/"><u>[Updated] Aural Elements in Online Visuals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-beginners-reference-to-final-cut-pro/"><u>[Updated] Complete Beginner's Reference to Final Cut Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-export-troubleshooting-saving-your-premieres-srt-data/"><u>[Updated] Export Troubleshooting Saving Your Premiere's SRT Data</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-8-trustworthy-online-content-promoters/"><u>2024 Approved Discover 8 Trustworthy Online Content Promoters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-s23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy S23 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-mobile-art-with-elite-android-collages/"><u>Elevate Your Mobile Art with Elite Android Collages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/immediately-purchase-these-three-apple-innovations-unveiled-at-wwdc-plus-your-guide-to-pre-ordering-options/"><u>Immediately Purchase These Three Apple Innovations Unveiled at WWDC - Plus, Your Guide to Pre-Ordering Options</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Reno 8T</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-in-clarity-best-tools-for-quality-4k-conversion/"><u>In 2024, Capture in Clarity Best Tools for Quality 4K Conversion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/is-netflix-experiencing-downtime-a-guide-to-identifying-and-solving-connectivity-issues/"><u>Is Netflix Experiencing Downtime? A Guide to Identifying and Solving Connectivity Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perspective-play-using-edits-to-redefine-images/"><u>Perspective Play Using Edits to Redefine Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-online-selections-for-glossy-typography-in-3d/"><u>Prime Online Selections for Glossy Typography in 3D</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-video-translation-playbook-with-13-expert-recommended-apps/"><u>The Ultimate Video Translation Playbook with 13 Expert-Recommended Apps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-how-to-install-drivers-for-your-xbox-360-controller/"><u>Ultimate Guide: How to Install Drivers for Your Xbox 360 Controller</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-watchlist-the-best-unboxers-of-the-new-era/"><u>Ultimate Watchlist The Best Unboxers of the New Era</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/understanding-file-management-and-organization-techniques/"><u>Understanding File Management & Organization Techniques</u></a></li>
 </ul></div>
 

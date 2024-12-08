@@ -1,7 +1,7 @@
 ---
 title: "\"Visual Geniuses' Cache  Unbeatable AFX Samples at Zero Price\""
-date: 2024-11-10T04:42:33.305Z
-updated: 2024-11-12T12:13:08.825Z
+date: 2024-12-03T18:33:29.069Z
+updated: 2024-12-08T18:55:53.807Z
 tags: 
   - screen-recording
   - ai video
@@ -51,24 +51,25 @@ This is a relatively simple, but very effective title template that can be used 
 
 ![arrive ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/arrive-ae-title-tempalte.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Laser After Effects Title Templates
 
 Laser Titles template is the most ideal solution for retro-themed content. It is also one of the most customizable title templates that we have found. On top of being able to change the text color, there are also several unique 3D animations and effects to choose from.
 
 ![laser ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/laser-ae-title-tempalte.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Black & White After Effects Title Template
 
 This is another minimalistic title template that can be useful for just any video project although it is primarily designed to create an abstract effect. If you want your audience to be captivated more by the content of the video than the title, the Black & White Template may be the best solution. But like most After Effects title templates, it is entirely customizable, meaning that you can choose to keep its minimalistic design while changing the overall color scheme.
 
 ![black white ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/black-white-ae-title-tempalte.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Cyber Brush Titles After Effects Template
 
@@ -93,13 +94,6 @@ The complete opposite of the previous title template, the Masonry Title Template
 This is an After Effects title template bundle that comes with different types of glitching animations. It is an ideal title to choose for a creative video project, although it may also be useful if your video is dramatic or meant to capture attention. All the templates in the bundle are fully customizable; you can change the color, text, and animation at will.
 
 ![glitch ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/glitch-ae-title-tempalte.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. Cinematic After Effects Title Template
 
@@ -157,6 +151,10 @@ Step1 Select all the layers that you have created so far and then go to “Layer
 
 ![create on exit animation ae](https://images.wondershare.com/filmora/article-images/2022/07/create-on-exit-animation-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Move the playhead to about 3 seconds and then click on “Edit” and select “Split Layer.” Delete the top Split Layer.”
 
 ![delete the top split layer](https://images.wondershare.com/filmora/article-images/2022/07/delete-the-top-split-layer.jpg)
@@ -202,10 +200,7 @@ If your video has a futuristic theme, the Future Action After Effects Title Temp
 ![feature action ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/feature-action-ae-title-tempalte.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Arrive- After Effects Title Template
@@ -215,10 +210,7 @@ This is a relatively simple, but very effective title template that can be used 
 ![arrive ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/arrive-ae-title-tempalte.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Laser After Effects Title Templates
@@ -227,6 +219,10 @@ Laser Titles template is the most ideal solution for retro-themed content. It is
 
 ![laser ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/laser-ae-title-tempalte.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Black & White After Effects Title Template
 
 This is another minimalistic title template that can be useful for just any video project although it is primarily designed to create an abstract effect. If you want your audience to be captivated more by the content of the video than the title, the Black & White Template may be the best solution. But like most After Effects title templates, it is entirely customizable, meaning that you can choose to keep its minimalistic design while changing the overall color scheme.
@@ -234,10 +230,7 @@ This is another minimalistic title template that can be useful for just any vide
 ![black white ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/black-white-ae-title-tempalte.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Cyber Brush Titles After Effects Template
@@ -252,6 +245,10 @@ If your goal is to get the message across and you don’t want any colors or eff
 
 ![minimal ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/minimal-ae-title-tempalte.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Masonry Title After Effects Template
 
 The complete opposite of the previous title template, the Masonry Title Template is the most ideal choice when your goal is to grab as much attention as you can. The unique 3D typography effect will make your title look like it has been carved out of stone and your target audience will not be able to look away. It is an ideal title for dramatic projects like documentaries and various movie genres.
@@ -259,10 +256,7 @@ The complete opposite of the previous title template, the Masonry Title Template
 ![masonry ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/masonry-ae-title-tempalte.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Glitch Titles- After Effects Title Templates
@@ -282,13 +276,6 @@ This is another great title template that you can choose if you want animations 
 If you are looking for a wide variety of choices when it comes to animations, this is a good template bundle to consider. The templates in this bundle have some of the best text effects that we have seen anywhere and there are multiple styles of title scenes to choose from. Each one of the titles is fully customizable and they are ideal for business or professional videos.
 
 ![abstract ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/abstract-ae-title-tempalte.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Edit Video Title in After Effects
 
@@ -313,10 +300,7 @@ Step1 Select the Rectangle Tool and proceed to draw a shape around the title.
 ![add a shape around title](https://images.wondershare.com/filmora/article-images/2022/07/add-a-shape-around-title.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Under “Fill” select “None” and under “Stroke,” set to “Solid Color.”
@@ -397,22 +381,18 @@ Step4 You can then use the “Effects Window” to change the color as desired.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-apple-m1-demystified-the-tech-leap-forward/"><u>[Updated] Apple M1 Demystified The Tech Leap Forward</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-a-seamless-social-journey-from-instaplustik/"><u>[Updated] Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
-<li><a href="https://extra-information.techidaily.com/avoiding-misdated-memories-with-exact-times-for-2024/"><u>Avoiding Misdated Memories with Exact Times for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beginning-a-journey-engineering-ai-engagement-points/"><u>Beginning a Journey: Engineering AI Engagement Points</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-clearer-nights-iphone-photo-hacks-for-2024/"><u>Capture Clearer Nights IPhone Photo Hacks for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-collabs-for-youtube-channel-expansion-for-2024/"><u>Crafting Collabs for YouTube Channel Expansion for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/demystifying-whatsapps-sound-message-exchange/"><u>Demystifying WhatsApp's Sound Message Exchange</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-asmr-a-gateway-to-enhanced-self-care/"><u>In 2024, ASMR A Gateway to Enhanced Self-Care</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breaking-ground-with-2023s-samsung-k850u-revision/"><u>In 2024, Breaking Ground with 2023’S Samsung K850U Revision</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-breakdown-using-googles-speech-recognition-tool/"><u>In 2024, Comprehensive Breakdown Using Google's Speech Recognition Tool</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-financial-flourishing-with-glamour-vlogs/"><u>In 2024, Financial Flourishing with Glamour Vlogs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-n55-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo N55 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-infinix-hot-40i-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Infinix Hot 40i Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/ripristina-rapidamente-i-dati-dal-cloud-una-guida-semplice-e-completa/"><u>Ripristina Rapidamente I Dati Dal Cloud: Una Guida Semplice E Completa</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-guide-to-softening-volume-levels-on-lumafusion/"><u>The Guide to Softening Volume Levels on Lumafusion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862841022-transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x-for-2024/"><u>Unveiling Mastery The Ultimate Animoji Guide for iPhone X for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-10-ultimate-virtual-worlds-for-party-gaming/"><u>[New] 10 Ultimate Virtual Worlds for Party Gaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-building-your-brand-making-money-with-vids/"><u>[New] In 2024, Building Your Brand Making Money with Vids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-obs-usage-live-skype-capture-tips/"><u>[New] In 2024, Efficient OBS Usage Live Skype Capture Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ioneering-resources-leading-free-video-openers-guide-for-2024/"><u>[New] Pioneering Resources Leading Free Video Openers Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/le-filled-chapters-best-comedy-video-plans-in-a-nutshell/"><u>Chuckle-Filled Chapters Best Comedy Video Plans in a Nutshell</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops-for-2024/"><u>Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enchant-your-audience-with-these-20-marketing-phrases/"><u>Enchant Your Audience with These 20 Marketing Phrases</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boosting-patient-engagement-through-fb-health-ads/"><u>In 2024, Boosting Patient Engagement Through FB Health Ads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-colormorph-pro-searching-for-lightroom-equals/"><u>In 2024, ColorMorph Pro Searching for Lightroom Equals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-cinematic-art-with-top-ten-professional-tools/"><u>Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-mov-video-rotation-software-top-picks/"><u>New In 2024, Free MOV Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-companion-in-selecting-the-perfect-gamers-monitor/"><u>Your Ultimate Companion in Selecting the Perfect Gamer’s Monitor</u></a></li>
 </ul></div>
 

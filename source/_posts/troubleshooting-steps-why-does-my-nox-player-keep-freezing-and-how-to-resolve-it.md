@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Does My Nox Player Keep Freezing and How to Resolve It?"
-date: 2024-11-09T05:21:53.952Z
-updated: 2024-11-11T16:48:32.751Z
+date: 2024-12-01T16:07:44.034Z
+updated: 2024-12-08T17:41:59.121Z
 tags:
   - win11
   - win10
@@ -55,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
@@ -79,16 +66,7 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 See if this issue reappears. If not, you have fixed this issue.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
@@ -98,16 +76,7 @@ See if this issue reappears. If not, you have fixed this issue.
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
@@ -115,6 +84,10 @@ See if this issue reappears. If not, you have fixed this issue.
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -126,22 +99,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -155,16 +119,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
@@ -179,13 +140,6 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -205,9 +159,17 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -231,19 +193,24 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/44cm44ot44oh44kq5asj5oplusb77ya44k544og44o844k644gq5yuv55s744gl44kj44gu6z2z5q2i55s75yplusw5b6x5oml6acg44cn/"><u>「ビデオ変換：スムーズな動画からの静止画取得手順」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>2024 Approved 7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-novices-introduction-to-video-coders/"><u>2024 Approved A Novice's Introduction to Video Coders</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-transitions-techniques-for-audios/"><u>2024 Approved Advanced Transitions Techniques for Audios</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726219482635-5/"><u>如何使用前5名清晰照片软件，提高图片分辨率【教学指南】</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/affordable-and-effective-substitutes-for-ipereon-backup-solutions/"><u>Affordable and Effective Substitutes for iPereon Backup Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/asmr-quality-meets-economic-realities-for-2024/"><u>ASMR Quality Meets Economic Realities for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2537083-9781626256408-everyday-enlightenment/"><u>Everyday Enlightenment | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-windows-10-dxgmms2sys-stop-code-a-step-by-step-guide/"><u>Fixing the Windows 10 'dxgmms2.sys' Stop Code: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-budgeting-essentials-for-your-music-video/"><u>In 2024, Budgeting Essentials for Your Music Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-integrating-apple-music-into-your-videos/"><u>In 2024, Step-by-Step Integrating Apple Music Into Your Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-note-30-vip-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Note 30 VIP to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids/"><u>Top Tips Choosing the Right FPS for Your Slow Motion Vids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-step-by-step-guide-to-mastering-morphvox-modifications/"><u>[Updated] A Step-by-Step Guide to Mastering MorphVOX Modifications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-instagram-video-edge-planning-for-maximum-marketing-success/"><u>2024 Approved The Instagram Video Edge Planning for Maximum Marketing Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aerial-artistry-essential-steps-for-drone-video-excellence-for-2024/"><u>Aerial Artistry Essential Steps for Drone Video Excellence for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/description-of-different-types-of-wet-scrubbers-such-as-venturi-and-packed-bed-scrubbers-with-examples-of-their-applications-based-on-efficiency-and-space-r566/"><u>Description of Different Types of Wet Scrubbers Such as Venturi and Packed-Bed Scrubbers, with Examples of Their Applications Based on Efficiency and Space Requirements</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-corsair-keyboard-drivers-for-windows-get-your-free-secure-installation-files-now/"><u>Download CORSAIR Keyboard Drivers for Windows - Get Your Free, Secure Installation Files Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-visuals-with-soundtracks-the-powerpresenters-way/"><u>Enhancing Visuals with Soundtracks The PowerPresenter's Way</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-convertor-list-best-5-online-gif-to-video-apps/"><u>Essential Convertor List Best 5 Online GIF to Video Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ffmpegs-audio-recapture-challenge/"><u>FFmpeg's Audio Recapture Challenge</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harness-the-power-of-iphoneipad-for-top-tier-travel-and-interview-podcasts/"><u>Harness the Power of iPhone/iPad for Top-Tier Travel & Interview Podcasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-google-pixel-fold-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Google Pixel Fold Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-decoding-monetization-how-much-creators-earn-per-ad-on-youtube/"><u>In 2024, Decoding Monetization How Much Creators Earn Per Ad on YouTube?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-multitasking-firefox-picture-in-picture-explained-for-2024/"><u>Mastering Multitasking Firefox Picture-in-Picture Explained for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-business-cloud-data-solutions/"><u>Premier Business Cloud Data Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/solo-sounders-plight-resolved-guide-for-2024/"><u>Solo Sounder's Plight Resolved Guide for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-your-potential-with-filmoras-loved-9-traits/"><u>Unleash Your Potential with Filmora's Loved 9 Traits</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Color Reversal  Making Blacks From Whites\""
-date: 2024-11-08T05:38:12.288Z
-updated: 2024-11-12T11:12:52.042Z
+date: 2024-12-05T17:27:59.813Z
+updated: 2024-12-08T18:10:15.315Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
  Mar 27, 2024• Proven solutions
 
 During the age of analog photography, the image negative was one of the most important artifacts for photographers, because it enabled them to reproduce a picture as many times as they wanted. Years later photographers invert colors in photos for mostly aesthetical reasons since only a small number of photographers still take photos with analog cameras. Regardless of the type of camera you’re using, inverting colors in a photo is a straightforward process that doesn’t require too much effort. In this article, we are going to take you through some of the best options on Mac and PC computers, as well as Android phones and iPhones that let you invert colors in just a few easy steps. So, let’s dive in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make Image Negative of a Digital Photo?
 
@@ -78,6 +82,10 @@ The platform’s homepage contains a number of categories of tools such as **Col
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
 
 #### 5. Using [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)’s Invert Option
@@ -87,6 +95,10 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 **Compatibility:** macOS, Windows
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
@@ -114,6 +126,10 @@ Creating a negative of photos you take with your phone can be fun, so why not us
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/negative-photo-effects-hd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Inverting the colors in a photo with Negative Photo Effect HD is easy since you just have to select a photo from the gallery or use the iPhone’s camera to snap a new one and apply the **negative photo effect**. You can highlight the area of the photo you’d like to invert with your finger or use some of the app’s photo editing tools to enhance the colors in the negative photo. You can save or share the photos you created, but if you use the free version of the app your photos will be watermarked unless you purchase the **Free Ads and Watermark package** for **$2.99.**
 
 **Conclusion**
@@ -121,6 +137,10 @@ Inverting the colors in a photo with Negative Photo Effect HD is easy since you 
 Inverting colors in a photo is not a complicated process, but finding creative ways to use the negative image effect is since images with inverted colors are best used within a pre-defined context. Do you often create images with inverted colors? Leave a comment below and let us know your favorite method of creating image negatives.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -137,31 +157,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-allstream-worldwide-selective-local-channel-selection/"><u>[New] AllStream Worldwide Selective Local Channel Selection</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-avoid-these-8-steps-that-newcomers-often-miss-on-youtube/"><u>[Updated] Avoid These 8 Steps that Newcomers Often Miss on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-gear-checklist-for-youtube-success/"><u>[Updated] In 2024, Essential Gear Checklist for YouTube Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-top-10-video-editing-apps-for-instagram-magic-for-2024/"><u>[Updated] Unveiling the Top 10 Video Editing Apps for Instagram Magic for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-create-compelling-compositions-with-iphone-the-power-of-leading-lines/"><u>2024 Approved Create Compelling Compositions with iPhone The Power of Leading Lines</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/awesome-martian-metropolis-mayhem-city-builders-unleash-whirlwind-wonders-of-enjoyment/"><u>Awesome Martian Metropolis Mayhem: City Builders Unleash Whirlwind Wonders of Enjoyment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-guide-to-windows-movie-maker-60-downloading/"><u>Complete Guide to Windows Movie Maker 6.0 Downloading</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-guide-for-srt-format-conversions-for-2024/"><u>Comprehensive Guide for SRT Format Conversions for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000303967-dive-into-the-epic-world-of-tiny-tina-now-running-smoothly-for-an-uninterrupted-pc-gaming-experience/"><u>Dive Into the Epic World of Tiny Tina - Now Running Smoothly for an Uninterrupted PC Gaming Experience!</u></a></li>
-<li><a href="https://windows11.techidaily.com/drive-success-top-5-windows-productivity-hacks-you-cant-miss/"><u>Drive Success: Top 5 Windows Productivity Hacks You Can't Miss</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gastronomy-gurus-the-elite-of-food-vlogs/"><u>In 2024, Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-z-fold-5-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy Z Fold 5 Phone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfectly-shot-episodes-top-webcams-for-podcast-producers/"><u>Perfectly Shot Episodes Top Webcams for Podcast Producers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/smooth-shooting-clear-screens-top-10-devices-for-exceptional-video-quality/"><u>Smooth Shooting, Clear Screens Top 10 Devices for Exceptional Video Quality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/speedy-assembly-for-stunning-google-image-mosaics/"><u>Speedy Assembly for Stunning Google Image Mosaics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently/"><u>Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ltimate-strategy-guide-to-boosting-view-count-on-youtube-shorts/"><u>The Ultimate Strategy Guide to Boosting View Count on YouTube Shorts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-collaborative-metaverse-gaming-experiences/"><u>Top 10 Collaborative Metaverse Gaming Experiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-examination-of-simple-hdr-methods/"><u>[New] A Comprehensive Examination of Simple HDR Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audiophiles-guide-to-speed-adjustment-apps/"><u>[New] Audiophile's Guide to Speed Adjustment Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-quick-grab-your-complete-guide-to-effortless-video-capture/"><u>[New] In 2024, Quick-Grab Your Complete Guide to Effortless Video Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-bringing-your-ideas-to-life-vo-plus-ppt-perfection/"><u>[Updated] Bringing Your Ideas to Life VO + PPT Perfection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-blending-beats-and-imagery-music-tips-for-instagram/"><u>[Updated] In 2024, Blending Beats and Imagery Music Tips for Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-internet-extension-fb-stories-grabber-for-2024/"><u>[Updated] Internet Extension Fb Stories Grabber for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-your-virtual-persona-with-minimal-hassle/"><u>Building Your Virtual Persona with Minimal Hassle</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-switch-between-video-playback-on-devices/"><u>Effortless Switch Between Video Playback on Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-dull-videos-for-apple-devices/"><u>Enhancing Dull Videos for Apple Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-vivo-y78plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y78+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securing-comfort-in-vr-experiences/"><u>Securing Comfort in VR Experiences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-t17238628789211/"><u>Tom's Tech Review: The Ultimate Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y200-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y200 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

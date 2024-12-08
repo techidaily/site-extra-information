@@ -1,7 +1,7 @@
 ---
 title: The Mystery Behind Alan Wake 2'S Absence – Understanding and Repairing the Halt
-date: 2024-11-27T07:02:33.991Z
-updated: 2024-11-30T11:47:20.617Z
+date: 2024-12-04T18:09:15.742Z
+updated: 2024-12-08T19:11:16.332Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 It must feel like forever when you can’t wait to immerse yourself in Cities: Skylines 2, but have to wait for Paradox Launcher to work first. To make things worse, Paradox Launcher just stops working out of the blue, so you have no way to play the game whatsoever. If this is also you, don’t worry, things don’t have to work this way.
 
  Here are some fixes that have helped many other gamers with their Paradox Launcher not working problem, and you may want to give them a try as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes for Paradox Launcher not working problem
 
@@ -42,10 +38,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Reinstall Paradox Launcher
 
  If your Paradox Launcher refuses to launch, it’s possible that there are some damaged or corrupt program files. To fix this sort of problem, a clean reinstallation is almost the quickest and the easiest way. To make sure that the reinstallation is done correctly, here’s what you can do:
@@ -54,18 +46,26 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-1.png)
 2. Select the**Paradox Interactive** folder here and click**Delete** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-2.png)
 3. Scroll down a bit to find the**Programs** folder, and**delete** the**Paradox Interactive** folder in it as well.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-3.png)
 4. On your keyboard, press the**Windows** key and the**R** key at the same time. Copy and paste**%appdata%** and hit**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image.png)
 5. Double-click the**Paradox Interactive** folder, and**delete** the**launcher-v2** folder in it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-4.png)
 6. Then press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
@@ -79,15 +79,15 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-5.png)
 9. Restart your computer afterward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Then **[download Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)**  again.
 
  Run Steam and try to play the game via Paradox Launcher again to see if it launches well. If not, please continue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disable conflicting processes in the background
 
@@ -96,10 +96,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each**Paradox Launcher** related program you see here and click**End Task** to close them one by one.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-6.png)
 
@@ -117,17 +113,25 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try to play your game via Paradox Launcher again to see if it can launch. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Modify your antivirus program settings
 
@@ -138,10 +142,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
  Third-party antivirus applications hook very deep into your system, so it may interfere with Steam and Paradox Launcher. To avoid this problem, you can try   **adding both Steam and Paradox Launcher as exceptions to your third-party antivirus application** .
 
  If you’re not sure how to do it, please consult your antivirus documentation for further instructions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4.2 Make sure bootstrapper-v2.exe is not flagged as a virus
 
@@ -161,15 +161,19 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Repair damaged system files
 
@@ -182,21 +186,17 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Bypass Paradox Launcher
 
@@ -225,17 +225,24 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-bite-size-beats-characters-in-soundscape/"><u>[New] 2024 Approved Bite-Size Beats Characters in Soundscape</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-fastest-phone-apps-for-faster-audio-streaming/"><u>[New] 2024 Approved Fastest Phone Apps for Faster Audio Streaming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-breathtaking-beijing-winter-games-of-2022/"><u>[New] 2024 Approved The Breathtaking Beijing Winter Games of 2022</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-boosting-engagement-tactics-for-great-instagram-reels/"><u>[New] Boosting Engagement Tactics for Great Instagram Reels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-mobile-recording-your-ultimate-snapchat-guide/"><u>[Updated] Mastering Mobile Recording Your Ultimate Snapchat Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhance-viewer-engagement-the-top-6-methods-for-higher-youtube-audience-retention-for-2024/"><u>Enhance Viewer Engagement The Top 6 Methods for Higher YouTube Audience Retention for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-range-locomotion-appraisal/"><u>Full Range Locomotion Appraisal</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-open-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Open to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-apples-m1-processor-showdown-m1-pro-versus-m1-max-differences/"><u>In 2024, Apple’s M1 Processor Showdown M1 Pro versus M1 Max Differences</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ization-timeline-for-successful-youtubers-for-2024/"><u>Monetization Timeline for Successful YouTubers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-windows-playback-system/"><u>Ultimate Windows Playback System</u></a></li>
-<li><a href="https://extra-information.techidaily.com/understanding-ffpm-in-firefox-today/"><u>Understanding FFPM in Firefox Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-explore-top-rated-windows-10-video-capture-software/"><u>[New] 2024 Approved Explore Top-Rated Windows 10 Video Capture Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-backwards-play-iphones-unique-reverse-feature/"><u>[Updated] Backwards Play IPhone's Unique Reverse Feature</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-hit-after-hit-top-20-rap-hits-on-tiktok-platform-for-2024/"><u>[Updated] Hit After Hit Top 20 Rap Hits on TikTok Platform for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-refining-your-tiktok-profile-age-with-ease/"><u>[Updated] Refining Your TikTok Profile Age with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-leading-10-clock-apps-to-time-your-wedding-ceremony/"><u>[Updated] The Leading 10 Clock Apps to Time Your Wedding Ceremony</u></a></li>
+<li><a href="https://extra-information.techidaily.com/20-visionary-metaverse-projects-with-educational-value/"><u>20 Visionary Metaverse Projects with Educational Value</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/integral-youtube-conduct-framework-for-2024/"><u>Integral YouTube Conduct Framework for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-spectrum-of-the-maritime-city/"><u>Language Spectrum of the Maritime City</u></a></li>
+<li><a href="https://extra-information.techidaily.com/luts-galore-complimentary-package-now-available-to-dji-fans/"><u>LUTs Galore - Complimentary Package Now Available to DJI Fans</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photographic-magic-the-best-grid-tools-ranked/"><u>Photographic Magic - The Best Grid Tools Ranked</u></a></li>
+<li><a href="https://extra-information.techidaily.com/restoring-iphone-x-identity-check-reviving-face-recognition/"><u>Restoring iPhone X Identity Check Reviving Face Recognition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tackle-buffer-delays-with-effective-solutions/"><u>Tackle Buffer Delays with Effective Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tap-into-the-funny-kapwing-for-meme-makers/"><u>Tap Into the Funny Kapwing for Meme Makers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-storage-hours-to-gb-estimation/"><u>Video Storage Hours to GB Estimation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-quick-reference-guide-to-sharing-smiles-with-9gag/"><u>Your Quick Reference Guide to Sharing Smiles with 9GAG</u></a></li>
 </ul></div>
 

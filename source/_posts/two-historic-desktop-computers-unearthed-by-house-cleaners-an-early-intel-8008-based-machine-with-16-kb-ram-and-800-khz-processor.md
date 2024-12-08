@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-11-25T10:09:10.118Z
-updated: 2024-11-30T03:53:49.616Z
+date: 2024-12-01T16:28:40.178Z
+updated: 2024-12-08T16:51:11.755Z
 tags:
   - desktop
 categories:
@@ -46,26 +46,23 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-updated-list-the-premier-pc-vr-headsets-of-2023/"><u>[New] 2024 Approved Updated List The Premier PC VR Headsets of 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-zoom-meetings-quickly/"><u>[New] Mastering Zoom Meetings Quickly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-palettes-journey-learning-the-science-of-colors/"><u>[Updated] A Palette's Journey Learning the Science of Colors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-software-for-high-quality-video-capture-on-windows-pcs-for-2024/"><u>[Updated] Essential Software for High-Quality Video Capture on Windows PCs for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/apple-m1-pro-versus-m1-max-unveiling-variations-for-2024/"><u>Apple M1 Pro Versus M1 Max Unveiling Variations for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/color-depth-from-rgb-to-srgb/"><u>Color Depth From Rgb to Srgb</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-audio-experience-on-your-iphone-device/"><u>Enhance Audio Experience on Your iPhone Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-ai-visualization-toolset/"><u>Expert AI Visualization Toolset</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-spectrum-analysis-of-vsco-editing-features/"><u>Full Spectrum Analysis of VSCO Editing Features</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-make-360-videos-with-iphone/"><u>How to Make 360 Videos with iPhone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/proven-techniques-to-follow-your-favorite-cricketers-live-for-2024/"><u>Proven Techniques to Follow Your Favorite Cricketers Live for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-visual-vintner-techniques-for-flavorful-films/"><u>The Visual Vintner Techniques for Flavorful Films</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-huawei-p60-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Huawei P60 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-disk-chaos-into-organized-order-with-altwindirstat/"><u>Transforming Disk Chaos Into Organized Order with altWinDirStat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>[New] Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screen-stream-showdown-who-wins-obs-or-shadowgl-in-2024/"><u>[Updated] Screen Stream Showdown Who Wins, OBS or ShadowGL, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audible-annotators-top-selections-for-offline-text-conversion-for-2024/"><u>Audible Annotators Top Selections for Offline Text Conversion for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/benq-sw320-review-a-gateway-to-true-high-definition/"><u>BenQ SW320 Review A Gateway to True High Definition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12t-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12T Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-design-channels-get-free-visuals-now/"><u>In 2024, Design Channels - Get Free Visuals Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-y78plus-t1-edition-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo Y78+ (T1) Edition Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-moto-g04-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Moto G04 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-principles-of-metaverse-commercial-strategy/"><u>Key Principles of Metaverse Commercial Strategy</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/navigating-whatsapps-latest-privacy-shifts-comprehensive-analysis-by-malwarefox/"><u>Navigating WhatsApp's Latest Privacy Shifts – Comprehensive Analysis by MalwareFox</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-online-platforms-to-convert-images-to-videos/"><u>New 10 Best Online Platforms to Convert Images to Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-collage-apps-for-android-lovers/"><u>Prime Collage Apps for Android Lovers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securely-installing-apple-podcasts-episodes/"><u>Securely Installing Apple Podcasts Episodes</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

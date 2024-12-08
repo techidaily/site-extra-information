@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Adding Accurate Dates to Photographic Records"
-date: 2024-11-26T16:06:27.716Z
-updated: 2024-11-29T16:12:26.538Z
+date: 2024-12-07T19:29:20.022Z
+updated: 2024-12-08T19:19:01.110Z
 tags: 
   - screen-recording
   - ai video
@@ -67,6 +67,10 @@ But what if you miss an important date? How would you plan for this? Well, now y
 
 You can do this in two ways: With an **inbuilt photo editor** or an **external photo editor**. Let's take a look at both.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use the inbuilt photo app on Android and iPhone to add date stamps
 
 Most phone makers do not usually have the option to superimpose a timestamp on their taken photos. However, some phones offer it.
@@ -176,6 +180,10 @@ You can make your photos sharper by simply navigating to the bottom of the Modif
 
 ![sharpen your images](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Adjust lighting and exposure
 
 When retouching your image in the Photos app, select the Adjust tab, then drag the thumb along the Lights slider to make the necessary adjustments.
@@ -192,17 +200,9 @@ Step2Then select Show Markup Tool.
 
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3Click on the text button.
 
 ![click on the text button](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4Proceed to add date and time into the text area manually.
 
@@ -232,17 +232,21 @@ Step2Select Edit & Create > Edit with Paint 3D in the upper right corner of the 
 
 ![select edit create](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Go to the screen's top and click Text.
 
 ![click on text](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4To create a text box, click and drag.
 
 ![create a text box](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5Enter the date you want.
 
@@ -291,10 +295,6 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 
 ![pixlp](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-21.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key features**
 
 * Photo Resizing
@@ -319,6 +319,10 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 2. [Fotor](#part4-2)  
 3. [PIXLR](#part4-3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Add Date Stamps Using Third-Party Camera Apps
 
 You can use third-party camera apps on the google play store or iOS respectively to **add dates to your photos**. To begin, head to your phone app store and search for a third-party camera app that serves this function.
@@ -328,10 +332,6 @@ One app that does this effectively is Timestamp camera free. You can **add dates
 Downloading the [Timestamp camera](https://www.timestampcameraapp.com/) is free on the google play store. Follow the steps below.
 
 ![downloading the timestamp camera](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step1Go to your phone app store: Apple Store or Play Store.
 
@@ -365,10 +365,6 @@ Step4Go back and take a picture to verify if it works.
 
 Step5You should note that the time stamp option could also appear as Watermark.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use the inbuilt photo app to edit photos on Android and iPhone
 
 You can edit photos on Android and iOS devices. Click your phone's default camera to edit photos on both platforms.
@@ -456,19 +452,11 @@ First, to resize an image in the Photos app on a Mac, enter editing mode by clic
 
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2Sharpen your images
 
 You can make your photos sharper by simply navigating to the bottom of the Modify menu in the Photos app and selecting Sharpen.
 
 ![sharpen your images](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3Adjust lighting and exposure
 
@@ -530,17 +518,21 @@ Step5Enter the date you want.
 
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6Select Menu in the upper-left corner.
 
 ![select menu](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step7Proceed to click on the Save option.
 
 ![click on save option](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Edit Photos Online to add date stamps
 
@@ -558,11 +550,19 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Add depth of field to your image instantly.
 * Background image remover
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [Fotor](https://www.fotor.com/)
 
 **Add a date to a photo** using Fotor. Fotor provides great features that make photo editing a smooth and easy process. To begin, you will need to sign up and upload your photo.
 
 ![ftor](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -570,6 +570,10 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Background Remover
 * Wrinkle Remover
 * Blemish Remover
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [PIXLR](https://pixlr.com/)
 
@@ -582,10 +586,6 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 * Photo Resizing
 * Background Remover
 * Retouching of photo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -619,22 +619,22 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-perfecting-your-youtube-music-order/"><u>[New] In 2024, Perfecting Your YouTube Music Order</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-steadicam-recommendations-for-professional-dslr-workflows/"><u>[New] Prime Steadicam Recommendations for Professional DSLR Workflows</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-social-media-strategy-broadcasting-twitch-to-facebook-for-2024/"><u>[New] Social Media Strategy Broadcasting Twitch to Facebook for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-adding-drama-to-videos-strikethrough-for-emphasis-and-clarity/"><u>[Updated] In 2024, Adding Drama to Videos Strikethrough for Emphasis and Clarity</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-revisit-facebooks-top-watches-a-step-by-step/"><u>[Updated] In 2024, Revisit Facebook's Top Watches A Step-by-Step</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lean-cloud-archive-efficient-low-cost-large-data/"><u>[Updated] Lean Cloud Archive Efficient, Low-Cost Large Data</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-conquer-mixer-broadcasting-on-macos-systems/"><u>2024 Approved Conquer Mixer Broadcasting on macOS Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-real-time-broadcasting-a-beginners-guide/"><u>2024 Approved Mastering Real-Time Broadcasting A Beginner's Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-announcing-a-charity-drive-on-fb/"><u>A Step-by-Step Guide to Announcing a Charity Drive on FB</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exceptional-sound-value-for-aspiring-asmr-artists/"><u>Exceptional Sound Value for Aspiring ASMR Artists</u></a></li>
-<li><a href="https://win-info.techidaily.com/free-unique-iphone-ringtone-downloads-ideas-for-the-latest-iphones-13-to-15/"><u>Free Unique iPhone Ringtone Downloads: Ideas for the Latest iPhones (13 to 15)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-character-development-through-authentic-dialogue/"><u>In 2024, Character Development Through Authentic Dialogue</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ranking-top-tools-convert-srt-files-with-zero-charge/"><u>Ranking Top Tools Convert Srt Files with Zero Charge</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategies-to-create-memorable-podcast-intro-lines/"><u>Strategies to Create Memorable Podcast Intro Lines</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-battle-ultrawide-vs-uhd-4k-display-options/"><u>The Ultimate Battle UltraWide vs UHD 4K Display Options</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-network-paths-expert-techniques-with-tracert-in-windows-environments/"><u>Unlocking Network Paths: Expert Techniques with Tracert in Windows Environments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adding-descriptive-titlestexts-via-microsoft-photos-win-11/"><u>[New] Adding Descriptive Titles/Texts via Microsoft Photos Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-software-and-techniques-for-film-from-photos/"><u>[New] Best Software and Techniques for Film From Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-conquer-competitors-try-this-highest-rated-voice-modification-software-for-valorant/"><u>[New] Conquer Competitors - Try This Highest-Rated Voice Modification Software for Valorant</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-deleting-youtube-content-a-step-by-step-guide/"><u>2024 Approved Deleting YouTube Content A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/client-reviews-the-heart-of-modern-marketing-strategies/"><u>Client Reviews The Heart of Modern Marketing Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/filmoras-easy-steps-to-convert-avi-files-into-vibrant-gifs-on-all-platforms/"><u>Filmora’s Easy Steps to Convert AVI Files Into Vibrant GIFs on All Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flawless-tint-enhancer/"><u>Flawless Tint Enhancer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-boosting-revenue-with-youtube-short-videos-a-complete-plan/"><u>In 2024, Boosting Revenue with YouTube Short Videos – A Complete Plan</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-navigating-the-process-of-voice-over-recording-in-media-production/"><u>In 2024, Navigating the Process of Voice-Over Recording in Media Production</u></a></li>
+<li><a href="https://common-error.techidaily.com/mitigating-event-141-hardware-errors-for-reliable-computing/"><u>Mitigating Event 141 Hardware Errors for Reliable Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-toward-unauthorized-access-a-c-span-journey/"><u>Navigating Toward Unauthorized Access A C-Span Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-liberating-tracks-with-pazeras-tools/"><u>The Ultimate Guide to Liberating Tracks with Pazera's Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-15-plus-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 15 Plus without itunes or icloud</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-how-to-extract-beats-from-songs-for-youtube-and-other-projects/"><u>Updated How to Extract Beats From Songs for YouTube and Other Projects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aif-m4rmp4-movavi/"><u>オンラインで無料AIF M4RをMP4に変換: Movavi 使い方詳しく解説</u></a></li>
 </ul></div>
 

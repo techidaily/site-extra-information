@@ -1,7 +1,7 @@
 ---
 title: 1 Tablespoon Baking Powder
-date: 2024-11-28T06:22:03.614Z
-updated: 2024-11-29T21:42:27.936Z
+date: 2024-12-04T19:32:35.965Z
+updated: 2024-12-08T19:20:31.581Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab9c0b620709.jpg)
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I fix Cortana not working?
 
@@ -46,16 +42,12 @@ Check your region and language settings on your computer:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -76,16 +68,12 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -111,13 +99,25 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -127,13 +127,13 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -159,19 +159,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-tricks-for-ios-screenshots-just-got-updated/"><u>[New] In 2024, Advanced Tricks for iOS Screenshots - Just Got Updated</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-an-insider-look-at-vegaspro-2019/"><u>[Updated] An Insider Look at VegasPro 2019</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-1-5-best-url-trimmer-tools-for-youtube-videos/"><u>2024 Approved 1-5 Best URL Trimmer Tools for YouTube Videos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/auditory-exquisiteness-the-ultimate-headphone-journey/"><u>Auditory Exquisiteness: The Ultimate Headphone Journey</u></a></li>
-<li><a href="https://extra-information.techidaily.com/building-a-vivid-world-with-animated-clips-in-movie-maker/"><u>Building a Vivid World with Animated Clips in Movie Maker</u></a></li>
-<li><a href="https://extra-information.techidaily.com/googles-musical-sidekick-ringers-guide/"><u>Google's Musical Sidekick Ringers Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gopro-film-perfection-best-15-lut-list-unveiled/"><u>GoPro Film Perfection Best 15 LUT List Unveiled</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 15 Pro Max and iPad</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-50plus-best-text-techniques-in-film-making/"><u>In 2024, 50+ Best Text Techniques in Film-Making</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-xiaomi-redmi-13c-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Redmi 13C – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-12-mini-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 12 mini Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-image-editors-ultimate-toolkit-review-for-2024/"><u>The Image Editor's Ultimate Toolkit Review for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/tutorial-how-to-extract-videos-from-national-geographic-website-as-high-quality-mp4-mov-or-avi-files/"><u>Tutorial: How To Extract Videos From National Geographic Website as High-Quality MP4, MOV or AVI Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-potential-a-step-by-step-solo-podcast-creation/"><u>Unleash Potential A Step-By-Step Solo Podcast Creation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-craft-humor-for-giphy-network/"><u>[New] Craft Humor for Giphy Network</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-new-era-for-sony-blu-ray-player-s6700/"><u>[New] New Era for Sony Blu-Ray Player S6700</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-metrics-of-mastery-assessing-luminances-hdr-capabilities-for-2024/"><u>[New] The Metrics of Mastery Assessing Luminance's HDR Capabilities for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-creating-a-decreasing-volume-effect-in-audacity/"><u>2024 Approved Creating a Decreasing Volume Effect in Audacity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/add-fade-inout-premiere-pro-for-2024/"><u>Add Fade In/Out Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/astronomy-enthusiasts-top-website-picklist-for-2024/"><u>Astronomy Enthusiasts' Top Website Picklist for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-selection-top-ranked-free-ae-templates/"><u>Elite Selection Top-Ranked FREE AE Templates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-into-modern-electronics-by-toms-digital-world/"><u>Expert Insights Into Modern Electronics by Tom's Digital World</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-shaky-to-steady-selecting-an-ideal-camera-gimbals-for-uavs/"><u>From Shaky to Steady Selecting an Ideal Camera Gimbals for UAVs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y77t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y77t Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-engaging-shots-using-strategic-leading-lines-iphone/"><u>In 2024, Capture Engaging Shots Using Strategic Leading Lines (iPhone)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pros-and-cons-ranking-the-best-7-aqua-cameras/"><u>Pros & Cons Ranking the Best 7 Aqua Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-service-links-solutions-for-malwarebytes-failures/"><u>Reviving Service Links: Solutions for Malwarebytes Failures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/secrets-of-the-trade-perfecting-sticker-removal-in-tiktoks/"><u>Secrets of the Trade Perfecting Sticker Removal in TikToks</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/soluzione-rapida-al-problema-del-disco-di-stato-solido-non-rilevato-nel-bios/"><u>Soluzione Rapida Al Problema Del Disco Di Stato Solido Non Rilevato Nel BIOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/soundscapes-for-the-eye-ranking-the-best-photographers-plus-videographers-w-tunes/"><u>Soundscapes for the Eye Ranking the Best Photographers + Videographers W/ Tunes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-water-resistant-wearables-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Water Resistant Wearables : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-of-sumind-bt70b-fm-transmitter-best-car-connector/"><u>Unveiling the Features of Sumind BT70B FM Transmitter - Best Car Connector?</u></a></li>
 </ul></div>
 

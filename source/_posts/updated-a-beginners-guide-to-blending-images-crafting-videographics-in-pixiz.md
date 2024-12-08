@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Beginner's Guide to Blending Images, Crafting Videographics in Pixiz"
-date: 2024-11-05T17:28:17.444Z
-updated: 2024-11-12T02:37:25.689Z
+date: 2024-12-05T17:48:23.346Z
+updated: 2024-12-08T19:33:40.385Z
 tags: 
   - screen-recording
   - ai video
@@ -56,9 +56,17 @@ Step2Now select any slideshow template by clicking on it.
 
 ![click on slideshow template](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Click on the select photo option and choose a photo.
 
 ![choose a photo](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4You can add more photos, in the same way, one by one (till the maximum number). Check below if the template you've chosen has the option to control the effect and speed (optional). Then, click on the **Go** button.
 
@@ -67,6 +75,10 @@ Step4You can add more photos, in the same way, one by one (till the maximum numb
 Step5Now click on download and then save. Your photo video will be saved in GIF format.
 
 ![click on download and save](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. The best software for creating slideshows - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -77,13 +89,6 @@ The powerful video editing program Filmora is offered by Wondershare. It offers 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do you make photo videos using Filmora?
 
@@ -97,15 +102,16 @@ Step3**Import** photos by **clicking** (import media) and then drag and drop the
 
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
 ![option to make the photo fit](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5**Click** on the **Title** option in the top right and select the **title template**. **Drag and drop** the **title template** at the point of the video you want it to appear.
@@ -116,41 +122,32 @@ Step6**Double click the text** to open the box for **making edits in text**, fon
 
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7Let's add some music. **Click** the **audio tab** at the top right. Now **choose** some **music** and then **drag and drop** to add.
 
 ![add some music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step8You can **double-click** the music to open the **settings box** and make changes.
 
 ![change music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step9To make your slideshow more appealing, you can also add transitions or effects.
 
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step10After finishing all the editing, you can export your creation to any format you want.
 
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -163,13 +160,6 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How do you make photo videos using Filmora?
 
 Step1Download [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from official website and click the setup wait till it install.
@@ -178,22 +168,13 @@ Step2Now **open** **Filmora** and **click** **new project**.
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
@@ -220,10 +201,7 @@ Step9To make your slideshow more appealing, you can also add transitions or effe
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step10After finishing all the editing, you can export your creation to any format you want.
@@ -262,21 +240,19 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-boosted-visuals-a-beginners-guide-to-gopro-video-editing/"><u>[New] Boosted Visuals A Beginner's Guide to GoPro Video Editing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-how-to-add-music-to-instagram-reel/"><u>[New] How to Add Music to Instagram Reel</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-deciding-the-best-skype-audio-capture-of-2023/"><u>[Updated] Deciding the Best Skype Audio Capture of 2023</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-good-book-trailer-examples-for-2024/"><u>5 Good Book Trailer Examples for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/asmr-a-sound-path-to-wellness-in-2024/"><u>ASMR A Sound Path to Wellness, In 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-realme-12-proplus-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme 12 Pro+ 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dji-flight-pattern-review-phantom-3/"><u>DJI Flight Pattern Review - Phantom 3</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-lenovo-ideapad-100-drivers-a-step-by-step-guide-for-windows-11/"><u>Download & Install Lenovo IdeaPad 100 Drivers: A Step-by-Step Guide for Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ensure-safety-with-these-five-windows-computer-lock-techniques/"><u>Ensure Safety with These Five Windows Computer Lock Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-rejuvenating-your-logitech-m310-mouse-through-driver-update/"><u>Guide to Rejuvenating Your Logitech M310 Mouse Through Driver Update</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/speedy-insights-modifying-videos-in-instagram-stories/"><u>Speedy Insights Modifying Videos in Instagram Stories</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-drone-video-recording/"><u>The Art of Drone Video Recording</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-essentials-of-a-blue-screen-of-death-explained/"><u>The Essentials of a Blue Screen of Death Explained</u></a></li>
-<li><a href="https://extra-information.techidaily.com/two-keys-to-intriguing-tiktok-videos/"><u>Two Keys to Intriguing TikTok Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unseen-aspects-the-hidden-secrets-of-instagram-stories-viewers/"><u>Unseen Aspects The Hidden Secrets of Instagram Stories Viewers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-dual-drive-approach-video-uploads-to-twitter-plus-tumblr/"><u>[New] 2024 Approved The Dual-Drive Approach Video Uploads to Twitter + Tumblr</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-brand-alliances-elevating-youtube-content/"><u>[New] Brand Alliances Elevating YouTube Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[New] In 2024, The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-auditory-adaptability-for-ace-gamers/"><u>2024 Approved Auditory Adaptability for Ace Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/arctic-athleticism-winter-olympics-spotlight-on-snowboard-cross-stars-for-2024/"><u>Arctic Athleticism Winter Olympics Spotlight on Snowboard Cross Stars for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-searchgpt-the-innovative-ai-powered-search-tool-using-chatgpt-technology/"><u>Discover SearchGPT: The Innovative AI-Powered Search Tool Using ChatGPT Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/effortless-wi-fi-integration-a-comprehensive-guide-to-os-xwindows/"><u>Effortless Wi-Fi Integration: A Comprehensive Guide to OS X/Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-contrasts-between-signal-and-whatsapp-what-sets-them-apart/"><u>Exploring the Contrasts Between Signal and WhatsApp: What Sets Them Apart?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-canva-expertise-ditching-image-backdrops-with-ease/"><u>In 2024, Canva Expertise Ditching Image Backdrops with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-memes-with-ease-on-9gag-platform/"><u>In 2024, Crafting Memes with Ease on 9GAG Platform</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-highlight-your-pc-gaming-6-effective-screen-methods/"><u>In 2024, Highlight Your PC Gaming 6 Effective Screen Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-and-power-in-nikons-d7500/"><u>In 2024, Precision and Power in Nikon's D7500</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-simple-hdr-photography-methods/"><u>Mastering Simple HDR Photography Methods</u></a></li>
 </ul></div>
 

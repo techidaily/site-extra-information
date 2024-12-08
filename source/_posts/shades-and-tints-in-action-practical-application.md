@@ -1,7 +1,7 @@
 ---
 title: "\"Shades & Tints in Action  Practical Application\""
-date: 2024-11-08T07:40:36.152Z
-updated: 2024-11-12T09:35:58.771Z
+date: 2024-12-04T18:22:44.934Z
+updated: 2024-12-08T17:50:54.257Z
 tags: 
   - screen-recording
   - ai video
@@ -28,32 +28,20 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Color Harmony
@@ -61,6 +49,10 @@ As you can see, we have every color available in this wheel and they are arrange
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -70,24 +62,15 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
@@ -98,10 +81,7 @@ As you can see from this example the base color for the scene is a dark blue/pur
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -138,16 +118,20 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] In 2024, Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-discovering-how-youtube-runs-its-creator-workshop/"><u>[Updated] 2024 Approved Discovering How YouTube Runs Its Creator Workshop</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-download-all-youtube-images-for-free-in-2024/"><u>[Updated] Download All YouTube Images for Free, In 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-optimize-your-yi-4k-footage-best-accessories-list-for-2024/"><u>[Updated] Optimize Your YI 4K Footage - Best Accessories List for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-bring-imagination-alive-start-with-microsofts-movie-maker-on-w11/"><u>2024 Approved Bring Imagination Alive Start with Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-bringing-imagery-elements-into-harmony/"><u>2024 Approved Bringing Imagery Elements Into Harmony</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-tempo-detection-top-free-tools-unveiled/"><u>Cutting-Edge Tempo Detection Top Free Tools Unveiled</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-zte-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked ZTE Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-v-purse-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor V Purse to Gmail | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastermind-knowledge-capture-via-mematics-app/"><u>Mastermind Knowledge Capture via Mematic's App</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728478240463-404-url/"><u>ディレクトリ '404エラー': URLを追う途中で消えた情報源へのアプローチ方法</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-thankful-compilation-professional-and-personalized-otus/"><u>[New] 2024 Approved Thankful Compilation Professional & Personalized OTUs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-your-videos-impact-with-expertly-recorded-voices/"><u>[New] Maximizing Your Video's Impact with Expertly Recorded Voices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-aquatic-adventures-top-5-anglers-choice-cameras/"><u>[Updated] Aquatic Adventures Top 5 Anglers' Choice Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-cinema-magic-with-fcps-top-10-plugin-choices/"><u>[Updated] Crafting Cinema Magic with FCP’s Top 10 Plugin Choices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-gentle-volume-declines-in-premiere-pro-videos/"><u>[Updated] Crafting Gentle Volume Declines in Premiere Pro Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-explore-the-ultimate-list-of-free-youtube-channel-starters/"><u>[Updated] Explore the Ultimate List of Free YouTube Channel Starters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-a-stepwise-journey-through-windows-10-recording/"><u>2024 Approved A Stepwise Journey Through Windows 10 Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adaptive-speaking-methods-in-free-fire-for-2024/"><u>Adaptive Speaking Methods in Free Fire for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-lava-blaze-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lava Blaze Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-information.techidaily.com/duo-dynamics-instagram-tiktok-confluence-guide/"><u>Duo Dynamics Instagram-TikTok Confluence Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290557798-dvd/"><u>DVDデータ移行フリーガイド：スマホ・タブレットへの簡単な手順</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-discover-the-top-4k-youtube-converters-for-quality-video-downloads/"><u>In 2024, Discover the Top 4K YouTube Converters for Quality Video Downloads</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-spark-20-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Spark 20 Pro Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-revelation-transforming-computer-performance/"><u>SRT Revelation Transforming Computer Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-15-cloud-storage-plans-2024-edition-analysis/"><u>Top 15 Cloud Storage Plans 2024 Edition Analysis</u></a></li>
 </ul></div>
 

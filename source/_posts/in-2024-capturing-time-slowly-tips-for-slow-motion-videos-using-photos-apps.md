@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-07-27T05:10:07.753Z
-updated: 2024-07-28T05:10:07.753Z
+date: 2024-12-07T16:37:58.048Z
+updated: 2024-12-08T18:29:26.116Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft
 * [**Part2: Customizing the Slow Motion Effect**](#part2)
 * [**Part3: How to Edit in Slow Motion Online**](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Part 1：How to Use Slow Motion in Windows 10
 
 There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
@@ -45,6 +42,10 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2：Customizing the Slow Motion Effect
 
 When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
@@ -53,10 +54,11 @@ There is also the handy option of being able to select the portion of your video
 
 Now you can select the beginning and end point using the bottom slider on the Photos app. Choose the precise starting and ending of the slow motion effect, and then watch through your video to ensure it is exactly as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
@@ -67,6 +69,10 @@ You can even create multiple versions of the file with the slow motion effect ap
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
 
@@ -84,195 +90,8 @@ Click on the “upload video” button so that it can be added into the database
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
-## Conclusion
-
-Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4) has been out for a couple years, many people are not aware of all its features. Given the way Microsoft has added powerful features to Photos, it has the capability to offer much more to users. One such feature is the option to add the effect of slow motion in Windows 10 using the Photos app. We will explain how you can use the slow motion feature in Photos, along with an option to add the effect of slow motion online.
-
-* [**Part1: How to Use Slow Motion in Windows 10**](#part1)
-* [**Part2: Customizing the Slow Motion Effect**](#part2)
-* [**Part3: How to Edit in Slow Motion Online**](#part3)
-
-## Part 1：How to Use Slow Motion in Windows 10
-
-There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
-
-Navigate to the folder where your video file is located and right click on it. You will go to “open with” and then choose the Photos app. When it is open in the application, you can click on “Edit & Create” and then go to “Add slo-mo”.
-
-![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
-
-If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 2：Customizing the Slow Motion Effect
-
-When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
-
-There is also the handy option of being able to select the portion of your video where you want to add this effect. Say you are producing a longer video, where you want the effect in place for a few seconds.
-
-Now you can select the beginning and end point using the bottom slider on the Photos app. Choose the precise starting and ending of the slow motion effect, and then watch through your video to ensure it is exactly as you want.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
-
-We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
-
-You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
-
-**You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-## Part 3: How to Edit in Slow Motion Online
-
-If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### [EZGif](https://ezgif.com/video-speed)
-
-**Step 1: Select Video**
-
-You can choose a file from your computer to add it onto the site, before you will add the effect of slow motion online. It is even possible to add files through an online URL.
-
-**Step 2: Upload**
-
-Click on the “upload video” button so that it can be added into the database. You will be limited to videos that are less than 100MB. If your video is larger, you may want to use a separate program to reduce its size before adding it to EZGif.com.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
-
-**Step 3: Output**
-
-The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
-
-## Conclusion
-
-Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4) has been out for a couple years, many people are not aware of all its features. Given the way Microsoft has added powerful features to Photos, it has the capability to offer much more to users. One such feature is the option to add the effect of slow motion in Windows 10 using the Photos app. We will explain how you can use the slow motion feature in Photos, along with an option to add the effect of slow motion online.
-
-* [**Part1: How to Use Slow Motion in Windows 10**](#part1)
-* [**Part2: Customizing the Slow Motion Effect**](#part2)
-* [**Part3: How to Edit in Slow Motion Online**](#part3)
-
-## Part 1：How to Use Slow Motion in Windows 10
-
-There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
-
-Navigate to the folder where your video file is located and right click on it. You will go to “open with” and then choose the Photos app. When it is open in the application, you can click on “Edit & Create” and then go to “Add slo-mo”.
-
-![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
-
-If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
-## Part 2：Customizing the Slow Motion Effect
-
-When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
-
-There is also the handy option of being able to select the portion of your video where you want to add this effect. Say you are producing a longer video, where you want the effect in place for a few seconds.
-
-Now you can select the beginning and end point using the bottom slider on the Photos app. Choose the precise starting and ending of the slow motion effect, and then watch through your video to ensure it is exactly as you want.
-
-![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
-
-We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
-
-You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
-
-**You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
-## Part 3: How to Edit in Slow Motion Online
-
-If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
-
-### [EZGif](https://ezgif.com/video-speed)
-
-**Step 1: Select Video**
-
-You can choose a file from your computer to add it onto the site, before you will add the effect of slow motion online. It is even possible to add files through an online URL.
-
-**Step 2: Upload**
-
-Click on the “upload video” button so that it can be added into the database. You will be limited to videos that are less than 100MB. If your video is larger, you may want to use a separate program to reduce its size before adding it to EZGif.com.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
-
-**Step 3: Output**
-
-The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
-
-![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
@@ -305,13 +124,6 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Part 2：Customizing the Slow Motion Effect
 
 When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
@@ -320,9 +132,170 @@ There is also the handy option of being able to select the portion of your video
 
 Now you can select the beginning and end point using the bottom slider on the Photos app. Choose the precise starting and ending of the slow motion effect, and then watch through your video to ensure it is exactly as you want.
 
+![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
+
+You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
+
+**You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 3: How to Edit in Slow Motion Online
+
+If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
+
+### [EZGif](https://ezgif.com/video-speed)
+
+**Step 1: Select Video**
+
+You can choose a file from your computer to add it onto the site, before you will add the effect of slow motion online. It is even possible to add files through an online URL.
+
+**Step 2: Upload**
+
+Click on the “upload video” button so that it can be added into the database. You will be limited to videos that are less than 100MB. If your video is larger, you may want to use a separate program to reduce its size before adding it to EZGif.com.
+
+![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
+
+**Step 3: Output**
+
+The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
+
+![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
+
+## Conclusion
+
+Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4) has been out for a couple years, many people are not aware of all its features. Given the way Microsoft has added powerful features to Photos, it has the capability to offer much more to users. One such feature is the option to add the effect of slow motion in Windows 10 using the Photos app. We will explain how you can use the slow motion feature in Photos, along with an option to add the effect of slow motion online.
+
+* [**Part1: How to Use Slow Motion in Windows 10**](#part1)
+* [**Part2: Customizing the Slow Motion Effect**](#part2)
+* [**Part3: How to Edit in Slow Motion Online**](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 1：How to Use Slow Motion in Windows 10
+
+There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
+
+Navigate to the folder where your video file is located and right click on it. You will go to “open with” and then choose the Photos app. When it is open in the application, you can click on “Edit & Create” and then go to “Add slo-mo”.
+
+![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
+
+## Part 2：Customizing the Slow Motion Effect
+
+When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
+
+There is also the handy option of being able to select the portion of your video where you want to add this effect. Say you are producing a longer video, where you want the effect in place for a few seconds.
+
+Now you can select the beginning and end point using the bottom slider on the Photos app. Choose the precise starting and ending of the slow motion effect, and then watch through your video to ensure it is exactly as you want.
+
+![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
+
+We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
+
+You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
+
+**You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 3: How to Edit in Slow Motion Online
+
+If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
+
+### [EZGif](https://ezgif.com/video-speed)
+
+**Step 1: Select Video**
+
+You can choose a file from your computer to add it onto the site, before you will add the effect of slow motion online. It is even possible to add files through an online URL.
+
+**Step 2: Upload**
+
+Click on the “upload video” button so that it can be added into the database. You will be limited to videos that are less than 100MB. If your video is larger, you may want to use a separate program to reduce its size before adding it to EZGif.com.
+
+![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
+
+**Step 3: Output**
+
+The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
+
+![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4) has been out for a couple years, many people are not aware of all its features. Given the way Microsoft has added powerful features to Photos, it has the capability to offer much more to users. One such feature is the option to add the effect of slow motion in Windows 10 using the Photos app. We will explain how you can use the slow motion feature in Photos, along with an option to add the effect of slow motion online.
+
+* [**Part1: How to Use Slow Motion in Windows 10**](#part1)
+* [**Part2: Customizing the Slow Motion Effect**](#part2)
+* [**Part3: How to Edit in Slow Motion Online**](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 1：How to Use Slow Motion in Windows 10
+
+There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
+
+Navigate to the folder where your video file is located and right click on it. You will go to “open with” and then choose the Photos app. When it is open in the application, you can click on “Edit & Create” and then go to “Add slo-mo”.
+
+![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
+
+## Part 2：Customizing the Slow Motion Effect
+
+When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
+
+There is also the handy option of being able to select the portion of your video where you want to add this effect. Say you are producing a longer video, where you want the effect in place for a few seconds.
+
+Now you can select the beginning and end point using the bottom slider on the Photos app. Choose the precise starting and ending of the slow motion effect, and then watch through your video to ensure it is exactly as you want.
+
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
@@ -332,8 +305,9 @@ You can even create multiple versions of the file with the slow motion effect ap
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
@@ -390,7 +364,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-guide-to-using-snapchats-influencer-showcase/"><u>[New] A Guide to Using Snapchat's Influencer Showcase</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cognitive-conundrums-top-11-gk-video-hubs/"><u>[New] Cognitive Conundrums Top 11 GK Video Hubs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-list-of-best-most-affordable-recorders/"><u>[Updated] 2024 Approved The Ultimate List of Best, Most Affordable Recorders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-tailoring-tags-to-achieve-six-figures-in-views-for-2024/"><u>[Updated] Tailoring #Tags to Achieve Six Figures in Views for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-guide-to-excellence-full-screen-preview-in-premiere/"><u>2024 Approved Advanced Guide to Excellence Full Screen Preview in Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-crossfade-audio-dynamics-in-production/"><u>2024 Approved Breaking Down Crossfade Audio Dynamics in Production</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-constructing-visually-captivating-photo-collections/"><u>2024 Approved Constructing Visually Captivating Photo Collections</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-firefoxs-social-media-edge-top-downloader-extensions-and-addons-for-fb-content/"><u>2024 Approved FireFox's Social Media Edge Top Downloader Extensions and Addons for FB Content</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210796592-9780008603632-black-women-always-conversations-on-life-culture-and-creativity/"><u>Black Women Always: Conversations on life, culture and creativity | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-scrutiny-gopro-silver-hero4-version/"><u>Complete Scrutiny GoPro Silver Hero4 Version</u></a></li>
+<li><a href="https://win-dash.techidaily.com/corsair-keyboard-drivers-update-for-windows-operating-system-free-and-reliable-software-download/"><u>CORSAIR Keyboard Drivers Update for Windows Operating System: Free & Reliable Software Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-metaverse-and-multimeva-what-sets-them-apart-insightful-guide/"><u>Dissecting Metaverse and Multimeva What Sets Them Apart (Insightful Guide)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-high-quality-hd-films-secrets-to-easily-grab-and-save-movies-up-to-100mb-for-free/"><u>Download High-Quality HD Films - Secrets to Easily Grab & Save Movies Up to 100MB for Free!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-gimbals-matched-for-high-res-dslrs/"><u>In 2024, Best Gimbals Matched for High-Res DSLRs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>In 2024, Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-your-online-presence-with-these-18-elite-recording-systems/"><u>Perfect Your Online Presence with These 18 Elite Recording Systems</u></a></li>
+</ul></div>
 

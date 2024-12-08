@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Avoidance and Remedy  Tackling Windows 10 Photos Viewer Glitches\""
-date: 2024-11-05T07:34:10.103Z
-updated: 2024-11-12T08:00:48.312Z
+date: 2024-12-07T19:28:17.218Z
+updated: 2024-12-08T16:33:59.614Z
 tags: 
   - screen-recording
   - ai video
@@ -40,13 +40,14 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Windows 10 Photos app crashes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
@@ -60,21 +61,11 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
@@ -90,13 +81,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -106,6 +90,10 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -137,6 +125,10 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -152,18 +144,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-comprehensive-guide-to-optimizing-facetime-recording-quality/"><u>[New] Comprehensive Guide to Optimizing FaceTime Recording Quality</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transforming-instagram-footage-into-square-stories-using-imovie-tips/"><u>[New] In 2024, Transforming Instagram Footage Into Square Stories Using iMovie Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-incorporating-brand-identity-adding-logos-to-youtube-videos/"><u>[Updated] Incorporating Brand Identity Adding Logos to YouTube Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shaping-narratives-through-text-effects/"><u>[Updated] Shaping Narratives Through Text Effects</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-solutions-to-chromes-missing-video-while-using-facebook/"><u>10 Solutions to Chrome's Missing Video While Using Facebook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-chroma-blades-the-new-era-of-high-definition-capture/"><u>2024 Approved Chroma Blades The New Era of High-Definition Capture</u></a></li>
-<li><a href="https://extra-information.techidaily.com/androids-elite-podcast-app-selection-top-6-list/"><u>Android's Elite Podcast App Selection Top 6 List</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/econosounds-experience-comprehensive-examination-of-oneplus-buds/"><u>EconoSounds Experience - Comprehensive Examination of OnePlus Buds</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A2 to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-stealth-and-honor-find-your-favorite-games-like-tsushi/"><u>In 2024, Stealth and Honor Find Your Favorite Games Like Tsushi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/live-tv-streaming-guide-the-best-ten-and-their-comparison/"><u>Live TV Streaming Guide The Best Ten and Their Comparison</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-reading-habits-with-the-new-and-improved-kindle-paperwhite-2018/"><u>Revolutionize Your Reading Habits with The New and Improved Kindle Paperwhite (2018)</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/wiederherstellung-verlorener-videodateien-von-einer-geloschten-microsd-professionelle-datenrettung-mit-myrecover/"><u>Wiederherstellung Verlorener Videodateien Von Einer Gelöschten MicroSD - Professionelle Datenrettung Mit MyRecover</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-melodic-mockery-best-laugh-inspired-songs/"><u>[New] 2024 Approved Melodic Mockery Best Laugh-Inspired Songs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-pinnacles-selection-of-12-motion-cameras-with-satellite-tracking/"><u>[New] 2024 Approved Pinnacle's Selection of 12 Motion Cameras with Satellite Tracking</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cinematography-insights-the-leading-5-secrets/"><u>[New] Cinematography Insights The Leading 5 Secrets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elevate-your-podcast-with-professional-scriptwriting-strategies/"><u>[New] In 2024, Elevate Your Podcast with Professional Scriptwriting Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-shorts-creating-flawless-5-second-videos/"><u>[New] YouTube Shorts Creating Flawless 5-Second Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-tale-of-two-faces-iphone-x-and-samsung-compared/"><u>2024 Approved A Tale of Two Faces IPhone X & Samsung Compared</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehending-drone-systems-mechanics-and-applications-explained/"><u>2024 Approved Comprehending Drone Systems Mechanics and Applications Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiophiles-guide-to-the-premier-8-4k-blu-rays-for-2024/"><u>Audiophile's Guide to the Premier 8 4K Blu-Rays for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-strategies-for-choosing-best-fpv-drone-blades/"><u>Cutting-Edge Strategies for Choosing Best FPV Drone Blades</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-conversations-to-code-crafting-a-web-application-using-chatgpt/"><u>From Conversations to Code: Crafting a Web Application Using ChatGPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-utilize-obs-studio-android-solutions/"><u>In 2024, How to Utilize OBS Studio Android Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premier-gps-devices-for-modern-cars/"><u>Premier GPS Devices for Modern Cars</u></a></li>
 </ul></div>
 
