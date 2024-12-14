@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Freeze-Frame  Figure Skating Best of 2022\""
-date: 2024-12-07T18:31:52.049Z
-updated: 2024-12-08T16:04:04.176Z
+date: 2024-12-11T17:36:29.778Z
+updated: 2024-12-14T19:58:22.486Z
 tags: 
   - screen-recording
   - ai video
@@ -34,16 +34,24 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
@@ -54,23 +62,15 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -99,7 +99,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -121,22 +121,19 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-guiding-you-through-youtubes-view-limitations/"><u>[New] 2024 Approved Guiding You Through YouTube's View Limitations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-recording-sims-4-games-a-complete-beginners-guide-for-2024/"><u>[New] Recording Sims 4 Games A Complete Beginner's Guide for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-filmmakers-companion-for-advanced-lut-expertise/"><u>[Updated] A Filmmaker's Companion for Advanced LUT Expertise</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-brush-boldly-beyond-professionals-palette-play/"><u>[Updated] Brush Boldly Beyond - Professionals' Palette Play</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlock-new-horizons-best-6-instagram-reel-apps/"><u>[Updated] In 2024, Unlock New Horizons Best 6 Instagram Reel Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-leading-photo-and-tune-recorders-for-immersive-experience-for-2024/"><u>[Updated] Leading Photo & Tune Recorders for Immersive Experience for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-calculated-viewing-time-for-a-standard-20mb-film/"><u>2024 Approved Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
-<li><a href="https://extra-information.techidaily.com/assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/demystifying-filmoras-multimedia-capabilities-for-2024/"><u>Demystifying Filmora's Multimedia Capabilities for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-g-5g-2023-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto G 5G (2023) Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>In 2024, The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-cost-free-image-refinement-toolkit/"><u>Optimal, Cost-Free Image Refinement Toolkit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spearhead-presentation-innovation-using-chatgpts-capabilities/"><u>Spearhead Presentation Innovation Using ChatGPT's Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-enhancements-in-windows-11-unveiled/"><u>The Enhancements in Windows 11 Unveiled</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-alternative-software-a-syncthing-pour-les-utilisateurs-de-windows/"><u>Top Alternative Software À Syncthing Pour Les Utilisateurs De Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-virtual-presence-enhanced-screen-focus-on-ms-teams/"><u>Unlocking Virtual Presence Enhanced Screen Focus on MS Teams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-19-critical-examples-of-the-metaverse-unveiled/"><u>[New] 19 Critical Examples of the Metaverse Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-5-streamlined-online-convertors-for-gifs-to-video/"><u>[New] Best 5 Streamlined Online Convertors for GIFs to Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-echoes-unleashed-exploring-sound-with-mac/"><u>[New] Echoes Unleashed Exploring Sound with Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-guide-to-timing-your-wedding-in-10-top-apps/"><u>[New] In 2024, Ultimate Guide to Timing Your Wedding, in 10 Top Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unique-ideas-for-dynamic-fb-video-marketing-campaigns-for-2024/"><u>[New] Unique Ideas for Dynamic FB Video Marketing Campaigns for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/"><u>[Updated] Snapchat Integration for Twitter's Visual Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/balancing-professional-and-personal-profiles-for-2024/"><u>Balancing Professional and Personal Profiles for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-for-maximizing-vscos-potential/"><u>Expert Tips for Maximizing VSCO's Potential</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-list-iphone-video-recording-hacks/"><u>In 2024, A-List iPhone Video Recording Hacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-balancing-act-a-comprehensive-guide-to-drone-gimbals/"><u>In 2024, Balancing Act A Comprehensive Guide to Drone Gimbals</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-printer-software-model-w-windows/"><u>Install Printer Software Model W Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-stagnant-utorrent-transfers-on-windows/"><u>Remedying Stagnant uTorrent Transfers on Windows</u></a></li>
 </ul></div>
 

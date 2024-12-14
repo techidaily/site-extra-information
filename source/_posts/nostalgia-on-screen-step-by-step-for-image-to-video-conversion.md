@@ -1,7 +1,7 @@
 ---
 title: "\"Nostalgia on Screen  Step-by-Step for Image to Video Conversion\""
-date: 2024-12-01T19:07:54.242Z
-updated: 2024-12-08T17:51:40.120Z
+date: 2024-12-08T18:47:26.329Z
+updated: 2024-12-14T19:07:23.302Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Therefore, it is highly recommended to digitize photos to make them lasting. In 
 * [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
 * [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Smart Ways to Digitize Your Memorable Old Photos
 
 With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
@@ -68,6 +64,10 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -91,7 +91,7 @@ To start with, you can just launch Filmora on your system and import your photos
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Create a timeline for your photos
@@ -106,6 +106,10 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -113,10 +117,6 @@ The edit option will present tons of additional features that you can implement 
 As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
@@ -135,7 +135,7 @@ That’s it! After making all the changes, you can preview your video on the rig
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
@@ -166,13 +166,13 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -189,22 +189,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-visual-narratives-the-leading-10-vector-editors/"><u>[New] Crafting Visual Narratives The Leading 10 Vector Editors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-choosing-your-soundtrack-the-podcast-vs-youtube-showdown/"><u>[Updated] Choosing Your Soundtrack The Podcast Vs. YouTube Showdown</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>[Updated] In 2024, From Idea to Execution An Essential Guide to YouTube Shorts Template Design</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sleep-well-with-asmr-techniques-and-tips/"><u>2024 Approved Sleep Well with ASMR Techniques and Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/wmvmovavi/"><u>高速WMV形式コンバータ指南：Movaviで動画ファイルを変換する方法</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-lifes-moments-with-the-virb-ultra-30-an-in-depth-guide/"><u>Capturing Life's Moments with the VIRB Ultra 30 – An In-Depth Guide</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/how-to-move-your-entire-music-library-from-an-external-hard-drive-to-ios-devices/"><u>How to Move Your Entire Music Library From an External Hard Drive to iOS Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boost-zoom-audio-solutions-for-waveform-woes/"><u>In 2024, Boost Zoom Audio Solutions for Waveform Woes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-srt-to-text-transformation-a-modern-technique/"><u>In 2024, Seamless SRT-to-Text Transformation A Modern Technique</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximizing-impact-partnering-with-influencers-on-youtube/"><u>Maximizing Impact Partnering with Influencers on YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/selecting-the-right-audio-for-your-unboxing-projects/"><u>Selecting the Right Audio for Your Unboxing Projects</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-fixing-display-drivers-for-your-hp-monitor-on-various-versions-of-windows/"><u>Step-by-Step Guide to Fixing Display Drivers for Your HP Monitor on Various Versions of Windows</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-ultimate-battery-selection-guide-for-uavs/"><u>The Ultimate Battery Selection Guide for UAVs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-list-the-5-most-excellent-slow-motion-cams/"><u>Ultimate List The 5 Most Excellent Slow-Motion Cams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-macx-hd-professional/"><u>Windows用 MacX HD 影片格式改換程式 Professional 直接購入方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-explanation-of-googles-automatic-transcription-technology/"><u>[New] Comprehensive Explanation of Google's Automatic Transcription Technology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-achieving-authenticity-altering-voices-on-instagram-profiles/"><u>[New] In 2024, Achieving Authenticity Altering Voices on Instagram Profiles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-displaycast-critique-service/"><u>[New] In 2024, DisplayCast Critique Service</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-flawless-visual-shifts-for-filmmakers/"><u>[Updated] 2024 Approved Flawless Visual Shifts for Filmmakers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-companions-for-podcast-lovers-activities-and-tasks/"><u>[Updated] Best Companions for Podcast Lovers Activities and Tasks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-secrets-of-fbx-game-recorder-unveiled-for-2024/"><u>[Updated] Secrets of FBX Game Recorder Unveiled for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/astro-bio-revolution-crafting-signature-whatsapp-identities-for-2024/"><u>Astro-Bio Revolution Crafting Signature WhatsApp Identities for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-motion-samsungs-time-lapse-guide-for-2024/"><u>Capturing Motion Samsung's Time-Lapse Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gratuitous-sound-solutions-years-best-lut-downloads/"><u>Gratuitous Sound Solutions - Year's Best LUT Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-9-masterclass-in-live-gaming-streams/"><u>In 2024, 9 Masterclass in Live Gaming Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-beginners-approach-to-adding-dates-to-photographs/"><u>In 2024, A Beginner's Approach to Adding Dates to Photographs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-memory-write-errors/"><u>Resolving Windows Memory Write Errors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-process-of-unresponsive-touchpanels/"><u>Reverse Process of Unresponsive Touchpanels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visionary-flying-discover-the-q500-typhoon/"><u>Visionary Flying - Discover the Q500 Typhoon</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"VidFX Tricks  Top 10 Text Transformations\""
-date: 2024-12-07T16:34:09.124Z
-updated: 2024-12-08T16:29:34.172Z
+date: 2024-12-07T19:34:16.283Z
+updated: 2024-12-14T16:29:10.768Z
 tags: 
   - screen-recording
   - ai video
@@ -45,21 +45,17 @@ Opening a video with the view of a beach and blue water is definitely stunning. 
 
 ![under water text effect](https://images.wondershare.com/filmora/article-images/2022/09/under-water-text-effect.jpg)
 
-The text also has some distortion effect due to the waves in the water body so that it looks more realistic. There are different variations of that underwater text effect such as the text emerging out of water when there is a side view of the water body is taken. Another example of the variation is that text is floating over the water and having a watery gel or bubbly texture.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+The text also has some distortion effect due to the waves in the water body so that it looks more realistic. There are different variations of that underwater text effect such as the text emerging out of water when there is a side view of the water body is taken. Another example of the variation is that text is floating over the water and having a watery gel or bubbly texture.
 
 ### 2\. Flame Text Effect
 
 Flame text effect is extremely common in the opening and closing credits of a video especially when it is an action video. Generally, a dark background is set against the fiery text so that the flame effect is more prominent and eye-catching. In fact, some video creators prefer a fiery background out of which the text with flame text effect emerges and make the required impact.
 
 ![flame text effect](https://images.wondershare.com/filmora/article-images/2022/09/flame-text-effect.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 There are different variations of the flame text effect available which make the effect relevant even today. Instead of the flame text effect spread outside of the text, the effect is contained within the text when the text is large enough to accommodate flames prominently within it. Sometimes, the text is distorted as if the fire is burning the text.
 
@@ -71,19 +67,11 @@ Glitch text effect is an extremely popular effect in modern times where retro vi
 
 Glitch text effect is more prominent when it is applied to a large text having a light color against a dark background. The use of shadow and blur effect to get the desired glitch effect is common. More often than not, some short straight lines like strokes are placed around the text to enhance the glitch effect. Some creators prefer glitch text effect on 3D texts for a better visual appeal.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. 3D Text Effect
 
 3D text effect has been popular ever since its inception and its popularity has been steady in the videography world even today. Of course, with time, the effect has changed a lot to match the different niches of videos, and hence, you will come across a wide variety of 3D text effects. Starting from full screen texts and titles to adverts and promotional texts, 3D text effects find a place everywhere.
 
 ![3d text video effect](https://images.wondershare.com/filmora/article-images/2022/09/3d-text-video-effect.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Starting from 3D texts coming out of the background wall to 3D hologram text effect with retro look, you can apply any 3D effect to the texts and titles of your video as per relevancy. Most importantly, there is a wide scope for customization and personalization to captivate the viewers and get the message across clearly. You can go through 3D text After Effects tutorial and embed 3D texts in your video easily.
 
@@ -125,11 +113,11 @@ If you have watched any informational video, you must have seen small notes slid
 
 ![slide text effect](https://images.wondershare.com/filmora/article-images/2022/09/slide-text-effect.jpg)
 
-Generally, the slide effect for text is accompanied by a highlighted background so that the text is legible. It is suitable for showing important notes in a few sentences such as showing some facts about a place. The effect is widely used in videos related to news or videos where there are more photos and texts and less voice narration.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Generally, the slide effect for text is accompanied by a highlighted background so that the text is legible. It is suitable for showing important notes in a few sentences such as showing some facts about a place. The effect is widely used in videos related to news or videos where there are more photos and texts and less voice narration.
 
 ### 10\. Stripe Text Effect
 
@@ -155,17 +143,9 @@ Step2 Import your video clip under Project Media folder to which you want to add
 
 ![add title text to video filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-title-text-to-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Select a text effect template of your liking and drop it on the timeline. Adjust its place on the timeline to make it appear exactly where required. You can also reposition the text from the view. Double-click on the text layer and edit the text.
 
 ![customize text title video filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-title-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Thereafter, you can edit the style of the text as well as modify other settings. Moreover, you can go to Advanced section to edit out the text effect and animation easily.
 
@@ -185,6 +165,10 @@ Opening a video with the view of a beach and blue water is definitely stunning. 
 
 The text also has some distortion effect due to the waves in the water body so that it looks more realistic. There are different variations of that underwater text effect such as the text emerging out of water when there is a side view of the water body is taken. Another example of the variation is that text is floating over the water and having a watery gel or bubbly texture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Flame Text Effect
 
 Flame text effect is extremely common in the opening and closing credits of a video especially when it is an action video. Generally, a dark background is set against the fiery text so that the flame effect is more prominent and eye-catching. In fact, some video creators prefer a fiery background out of which the text with flame text effect emerges and make the required impact.
@@ -192,10 +176,6 @@ Flame text effect is extremely common in the opening and closing credits of a vi
 ![flame text effect](https://images.wondershare.com/filmora/article-images/2022/09/flame-text-effect.jpg)
 
 There are different variations of the flame text effect available which make the effect relevant even today. Instead of the flame text effect spread outside of the text, the effect is contained within the text when the text is large enough to accommodate flames prominently within it. Sometimes, the text is distorted as if the fire is burning the text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Glitch Text Effect
 
@@ -211,6 +191,10 @@ Glitch text effect is more prominent when it is applied to a large text having a
 
 ![3d text video effect](https://images.wondershare.com/filmora/article-images/2022/09/3d-text-video-effect.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Starting from 3D texts coming out of the background wall to 3D hologram text effect with retro look, you can apply any 3D effect to the texts and titles of your video as per relevancy. Most importantly, there is a wide scope for customization and personalization to captivate the viewers and get the message across clearly. You can go through 3D text After Effects tutorial and embed 3D texts in your video easily.
 
 ### 5\. Comic Book Text Effect
@@ -220,6 +204,10 @@ Comic book text effect is an old-school style but its application in funny segme
 ![comic book text effect](https://images.wondershare.com/filmora/article-images/2022/09/comic-book-text-effect.jpg)
 
 Similarly, it is used for displaying texts and titles in anime videos. The text effect has a cartoonish look and a comic background to enhance the text effect. There could also be a blasting effect in the background that can act as a highlighter. The text color in the comic text effect also has a retro feel but bright in outlook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Blurry Fade on Text Effect
 
@@ -243,7 +231,15 @@ If you are looking for a customized animation for the texts in your video, you s
 
 ![animate along a path text effect](https://images.wondershare.com/filmora/article-images/2022/09/animate-along-a-path-text-effect.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can use the effect to show certain lines that are common throughout the video. Besides, you can use it while making transition from one scene to another. Some video creators use them for opening and editing credits so that it can keep the audiences hooked instead of the usual opening and ending credits.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. Slide Text Effect
 
@@ -253,15 +249,15 @@ If you have watched any informational video, you must have seen small notes slid
 
 Generally, the slide effect for text is accompanied by a highlighted background so that the text is legible. It is suitable for showing important notes in a few sentences such as showing some facts about a place. The effect is widely used in videos related to news or videos where there are more photos and texts and less voice narration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Stripe Text Effect
 
 Just like the slide text effect, the stripe text effect is equally common in today’s informational videos that you get to see on social media and video streaming platforms. The text appears on the screen out of nowhere and the text gets surrounded by stripes on both sides.
 
 ![stripe text video effect](https://images.wondershare.com/filmora/article-images/2022/09/stripe-text-video-effect.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This effect is suitable to introduce titles and topics in a video. Generally, in the stripe text effect, the text style is kept as simple as possible. But you can always tweak it and add stripes within the text to make it more eye-catching.
 
@@ -281,12 +277,16 @@ Step2 Import your video clip under Project Media folder to which you want to add
 
 ![add title text to video filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-title-text-to-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Select a text effect template of your liking and drop it on the timeline. Adjust its place on the timeline to make it appear exactly where required. You can also reposition the text from the view. Double-click on the text layer and edit the text.
 
 ![customize text title video filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-title-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Thereafter, you can edit the style of the text as well as modify other settings. Moreover, you can go to Advanced section to edit out the text effect and animation easily.
@@ -319,24 +319,16 @@ We have listed the most popular text effects that are widely used in today’s v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-budget-savvy-gopro-upgrades-for-starters/"><u>[New] Budget Savvy GoPro Upgrades for Starters</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-snorkel-and-capture-best-action-cameras-unveiled/"><u>[New] Snorkel and Capture Best Action Cameras Unveiled</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-powerdirectors-latest-revolution-compre-point-by-point-review-and-tutorial/"><u>[Updated] 2024 Approved PowerDirector's Latest Revolution Compre Point-by-Point Review & Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-25plus-futuristic-insights-on-ar-enhanced-worlds/"><u>[Updated] 25+ Futuristic Insights on AR-Enhanced Worlds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pursuing-passion-professionally-a-guide-for-aspiring-designers/"><u>[Updated] Pursuing Passion Professionally A Guide for Aspiring Designers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-starting-off-right-must-haves-for-youtube-enthusiasts/"><u>[Updated] Starting Off Right Must-Haves for YouTube Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-future-proof-selection-top-cloud-services-reviewed-for-2024/"><u>A Future-Proof Selection Top Cloud Services Reviewed for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/androids-very-own-podcasters/"><u>Android's Very Own Podcasters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-best-practices-for-5-windows-11-audio-capture-methods/"><u>Discover the Best Practices for 5 Windows 11 Audio Capture Methods</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-tips-for-updating-the-system-management-bus-controller-on-dell-computers/"><u>Essential Tips for Updating the System Management Bus Controller on Dell Computers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-become-a-meme-genius-the-best-8-gif-making-methods/"><u>In 2024, Become a Meme Genius The Best 8 GIF-Making Methods</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/innovative-synergy-mondly-enhances-pearsons-buttons/"><u>Innovative Synergy: Mondly Enhances Pearson's Buttons</u></a></li>
-<li><a href="https://extra-information.techidaily.com/memelores-premier-10-templates/"><u>Memelore's Premier 10 Templates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/off-road-adventures-await-explore-the-top-free-car-racers-for-no-wifi-needed/"><u>Off-Road Adventures Await - Explore the Top Free Car Racers for No WiFi Needed !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-steams-continuous-crashes-with-these-simple-remedies/"><u>Resolve Steam's Continuous Crashes with These Simple Remedies!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/social-streamline-merging-instagram-and-tiktok-worlds/"><u>Social Streamline Merging Instagram & TikTok Worlds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-quick-winner-guide-how-to-make-money-on-reddit-in-just-a-click/"><u>The Quick-Winner Guide How to Make Money on Reddit in Just a Click</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>TikTok to Tokens Financial Figures of PewDiePie</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-bots-that-transform-your-twitch-broadcasting-experience/"><u>Top Bots That Transform Your Twitch Broadcasting Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-acoustic-architects-leading-sites-to-buy-skype-tones/"><u>[New] Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-instavid-angle-mystery-vertical-reversals-on-the-rise/"><u>[New] InstaVid Angle Mystery Vertical Reversals on the Rise</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-definitive-manual-on-hand-based-tracking/"><u>[New] The Definitive Manual on Hand-Based Tracking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-closer-look-techniques-for-minecraft-exploration/"><u>[Updated] Closer Look Techniques for Minecraft Exploration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-13-substitutes-for-kisscartoon-discover-where-to-watch-your-beloved-animations/"><u>Best 13 Substitutes for KissCartoon: Discover Where to Watch Your Beloved Animations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-virtual-reality-bike-adventures-listed-here-for-2024/"><u>Best Virtual Reality Bike Adventures Listed Here for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-impact-with-google-based-podcast-uploads/"><u>In 2024, Maximizing Impact with Google-Based Podcast Uploads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterful-marketing-essential-expressions-for-professionals/"><u>Masterful Marketing Essential Expressions for Professionals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/start-with-snapseed-a-foundation-for-image-editing/"><u>Start with Snapseed A Foundation for Image Editing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stay-active-with-fitbit-versa-3-enhanced-with-inbuilt-gps-and-health-tracking-apps-for-ultimate-workout-motivation/"><u>Stay Active with Fitbit Versa 3 - Enhanced With Inbuilt GPS & Health Tracking Apps for Ultimate Workout Motivation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-strategy-for-top-tier-youtube-titles-and-tags-for-2024/"><u>The Ultimate Strategy for Top-Tier Youtube Titles & Tags for 2024</u></a></li>
 </ul></div>
 

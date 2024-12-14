@@ -1,7 +1,7 @@
 ---
 title: "Guide to Deciphering YouTube's Comprehensive Feedback System"
-date: 2024-12-05T17:07:18.231Z
-updated: 2024-12-08T18:53:38.441Z
+date: 2024-12-12T20:41:33.758Z
+updated: 2024-12-14T17:50:34.107Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is YouTube Comment
@@ -41,7 +41,7 @@ Not only does it show your fans followers that you care about what they have to 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Advantage of YouTube comments
@@ -64,6 +64,10 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -82,13 +86,13 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
 
@@ -100,10 +104,6 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 
 Step6 Make the necessary edits and choose “Save”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -113,7 +113,7 @@ For example, you might click on a notification, and YouTube takes you to a parti
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
@@ -170,20 +170,22 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-clarity-chronicles-for-beginners-unraveling-resolution-factors/"><u>[New] Clarity Chronicles for Beginners Unraveling Resolution Factors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-ever-film-dialogues-showcase/"><u>[Updated] Best-Ever Film Dialogues Showcase</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-captivating-your-audience-writing-podcast-intros/"><u>[Updated] Captivating Your Audience Writing Podcast Intros</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-taking-control-youtube-visibility-personalization/"><u>[Updated] Taking Control YouTube Visibility Personalization</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-10-advanced-techniques-to-master-with-canva-designer/"><u>2024 Approved 10 Advanced Techniques to Master with Canva Designer</u></a></li>
-<li><a href="https://solve-news.techidaily.com/automated-user-tracking-with-cookiebot-technology/"><u>Automated User Tracking with Cookiebot Technology</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-download-of-youtube-content-for-2024/"><u>Direct Download of YouTube Content for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-basics-to-details-dji-inspire-2-explained/"><u>From Basics to Details DJI Inspire 2 Explained</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-novices-to-vectors-grasping-the-basics-and-choices/"><u>From Novices to Vectors Grasping the Basics and Choices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-blueprinting-breathtaking-cinematic-sketches/"><u>In 2024, Blueprinting Breathtaking Cinematic Sketches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/master-the-art-of-vlogging-starting-kit-and-tools-for-2024/"><u>Master the Art of Vlogging Starting Kit & Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pioneering-techniques-for-superior-fullscreen-presentation-in-premiere-for-2024/"><u>Pioneering Techniques for Superior Fullscreen Presentation in Premiere for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-7-top-mac-vids/"><u>Ultimate Guide to 7 Top Mac Vids</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-vhsaipcweb/"><u>Winx VHS用AIガイド：PCとWebカメラで記録方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-asus-proarts-pa-329q-a-comprehensive-examination-of-high-end-monitoring/"><u>[New] Asus ProArt's PA 329Q A Comprehensive Examination of High-End Monitoring</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-tips-creating-striking-youtube-video-previews/"><u>[Updated] 2024 Approved Essential Tips Creating Striking YouTube Video Previews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-smarter-gameplay-strategic-memory-allocation-to-minecraft/"><u>[Updated] 2024 Approved Smarter Gameplay Strategic Memory Allocation to Minecraft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-your-streaming-experience-on-macos-via-mixer/"><u>[Updated] Tailoring Your Streaming Experience on macOS via Mixer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/arcade-alpha-check-in-gamers-thoughts/"><u>ARCADE ALPHA CHECK-IN Gamers' Thoughts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/budget-friendly-obs-configuration-guide/"><u>Budget-Friendly OBS Configuration Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-visual-quality-in-ar-the-role-of-luts/"><u>Enhancing Visual Quality in AR The Role of LUTs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-suggestions-superior-mobile-melody-designers/"><u>Ideal Suggestions Superior Mobile Melody Designers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practice-animation-series/"><u>In 2024, Best Practice Animation Series</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-craft-individual-humor-masterpieces-online/"><u>In 2024, Craft Individual Humor Masterpieces Online</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/integrating-page-turn-audio-effects-into-your-digital-flipbooks-with-flipbuilder/"><u>Integrating Page-Turn Audio Effects Into Your Digital Flipbooks with FlipBuilder</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-editing-videos-like-a-pro-with-quicktime-on-mac/"><u>New Editing Videos Like a Pro with QuickTime on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimizing-flight-a-list-of-essential-drone-accessories/"><u>Optimizing Flight A List of Essential Drone Accessories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resetting-valorant-for-smooth-play-system-approach/"><u>Resetting Valorant for Smooth Play: System Approach</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-image-enhancement-pivotal-pixlr-insights/"><u>The Art of Image Enhancement Pivotal Pixlr Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-technology-essentials-2022s-must-have-electronic-innovations-featured-by-zdnet/"><u>Top-Rated Technology Essentials: 2022'S Must-Have Electronic Innovations Featured by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Framing the World From a Phone Angle"
-date: 2024-12-04T17:45:08.942Z
-updated: 2024-12-08T16:34:14.065Z
+date: 2024-12-09T17:52:40.919Z
+updated: 2024-12-14T20:11:44.039Z
 tags: 
   - screen-recording
   - ai video
@@ -34,17 +34,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone users
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -112,20 +112,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-leading-workplace-cloud-reservoirs/"><u>[New] In 2024, Leading Workplace Cloud Reservoirs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-top-6-creative-editors-on-the-latest-macos-big-sur/"><u>[New] In 2024, Top 6 Creative Editors on the Latest macOS Big Sur</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210196588-9781631599668-10-minute-crystal-healing/"><u>10-Minute Crystal Healing | Free Book</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-beam-breakthroughs-lighting-know-how-for-video-success/"><u>2024 Approved Beam Breakthroughs Lighting Know-How for Video Success</u></a></li>
-<li><a href="https://extra-information.techidaily.com/efficient-way-to-insert-a-hyperlink-in-your-tiktok-bio/"><u>Efficient Way to Insert a Hyperlink in Your TikTok Bio</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-camon-20-premier-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Camon 20 Premier 5G Phones with/without a PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-much-does-pewdiepie-make-yearly-financial-report/"><u>How Much Does PewDiePie Make - Yearly Financial Report</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-swift-tips-for-easy-ipad-screen-recordings/"><u>In 2024, Swift Tips for Easy iPad Screen Recordings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rogging-into-digital-marketing-establishing-a-yt-channel-on-mobile/"><u>Leapfrogging Into Digital Marketing Establishing a YT Channel on Mobile</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mp3-vers-m4r-pour-iphone-gratuite-et-facile-comment-le-faire-via-linterface-de-ligne-de-commande/"><u>Mp3 Vers M4r Pour iPhone Gratuite Et Facile - Comment Le Faire via L'interface De Ligne De Commande</u></a></li>
-<li><a href="https://win-blog.techidaily.com/revitalizing-urban-development-challenges-how-to-get-your-skyfortress-game-running/"><u>Revitalizing Urban Development Challenges: How to Get Your SkyFortress Game Running</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-sky-battle-drone-racing-fundamentals-and-top-5-fpv-titans/"><u>The Ultimate Sky Battle Drone Racing Fundamentals & Top 5 FPV Titans</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-power-of-video-enhancer-22-for-professionals/"><u>Unveiling the Power of Video Enhancer 2.2 for Professionals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boosting-video-conference-quality-a-guide-to-using-zoom-and-skype/"><u>[New] Boosting Video Conference Quality A Guide to Using ZOOM & SKYPE</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-cloud-perfection-in-your-pocket-top-apps-for-android-for-2024/"><u>[New] Cloud Perfection in Your Pocket Top Apps for Android for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-creating-a-softer-focus-iphone-image-blurring-explained/"><u>[New] Creating a Softer Focus IPhone Image Blurring Explained</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-decoding-fb-lives-multiscreen-mastery-techniques/"><u>[New] Decoding FB Live's Multiscreen Mastery Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-use-snap-camera-on-zoom/"><u>[Updated] In 2024, How to Use Snap Camera on Zoom?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-metaverse-marketing-plan-for-2024/"><u>A Step-by-Step Metaverse Marketing Plan for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/balancing-act-lowering-audio-levels/"><u>Balancing Act Lowering Audio Levels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/celebratory-closures-from-bare-bones-to-full-featured-for-2024/"><u>Celebratory Closures From Bare-Bones to Full-Featured for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-revamp-your-windows-pc-by-updating-motherboard-drivers/"><u>Comprehensive Tutorial: Revamp Your Windows PC by Updating Motherboard Drivers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/crucial-contact-segments-in-email-campaigns-insights-from-massmail-systems/"><u>Crucial Contact Segments in Email Campaigns: Insights From MassMail Systems</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-5-lite-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 5 Lite Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-intro-editors-for-device-applications/"><u>In 2024, Leading Intro Editors for Device Applications</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mac-to-snapchat-creating-compact-shareable-content/"><u>In 2024, Mac to Snapchat Creating Compact, Shareable Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-synopsis-gopro-slr4-sliver-camera-review/"><u>In-Depth Synopsis GoPro SLR4 Sliver Camera Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-mobile-media-3-key-steps-to-stabilize-iphone-videos/"><u>Mastering Mobile Media 3 Key Steps to Stabilize iPhone Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-solving-instagram-story-upload-problems/"><u>Step-by-Step Guide: Solving Instagram Story Upload Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-innovative-play-sony-xperia-xzs-4k-smartphone-journey/"><u>The Innovative Play Sony Xperia XZ's 4K Smartphone Journey</u></a></li>
 </ul></div>
 

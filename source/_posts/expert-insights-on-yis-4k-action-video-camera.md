@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights on YI’s 4K Action Video Camera"
-date: 2024-07-27T05:02:08.667Z
-updated: 2024-07-28T05:02:08.667Z
+date: 2024-12-09T20:17:27.803Z
+updated: 2024-12-14T16:14:09.100Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,257 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
 # YI 4K Action Camera Review
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ There is no doubt to say that [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) is a leader among all action camera producers. But within last few years many other companies have launched impressive models with all incredible features. One of such outstanding action camera is YI 4K Action Camera from Xiaomi. This camera is competing with GoPro devices in terms of design as well as features. And the best part is that you can buy this feature-rich camera with payment of $199.99 only. So let us discuss few interesting features of this new action cam that can help us to decide whether it is able to steal the crown from GoPro or not.
+
+**You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Complete Review for Yi 4k Action Camera
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
+)
+
+#### Design
+
+ Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
+
+![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
+
+#### Specifications
+
+| **Parameters**       | **Details**                                                                                                                       |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Processor            | Ambarella A9SE chipset                                                                                                            |
+| Image sensor         | Sony IMX377 1/2.3” 12 megapixels CMOS sensor                                                                                      |
+| Weight               | 3.4 ounces/96g (battery+camera)                                                                                                   |
+| Video solution       | 4K 30/25fps 2.5K 30/25fps, 1440p 60/50/30/25fps 1080p 120/100/60/50/30/25fps 960p 120/100/60/5ofps 720p 240/240fps 480 240/200fps |
+| Photo features       | Timer, burst at frequencies between 3p/s and 30p/6s                                                                               |
+| Battery              | 1430mAH assists up to 2hrs 35 mins with 1080p recording at 30fps                                                                  |
+| Waterproof           | 40m (with housing)                                                                                                                |
+| Connectivity         | Bluetooth and dual-band Wi-Fi                                                                                                     |
+| Lens                 | 155-degree wide-angle/ F2.8 aperture                                                                                              |
+| Max photo resolution | 12-megapixels                                                                                                                     |
+| LCD display          | 2.19”touchscreen                                                                                                                  |
+
+#### Pros and Cons
+
+| **Pros**                                              | **Cons**                                                                            |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Impressive image quality                              | No mounts/waterproof included                                                       |
+| Ultimate battery life                                 | You have to control everything with one button under water- that’s really difficult |
+| Touch screen display is of very rich quality          | It is little difficult to access MicroSD slot                                       |
+| Super-reliable advanced Wi-Fi connectivity            | You will find it difficult to use LCD screen in direct Sunlight                     |
+| Image stabilization feature can be activated at 1080p | Additional protective housing is must for underwater usage                          |
+
+#### Accessories
+
+ You will find a USB charging cable with your camera- nothing else. You need to buy you own power adapter. This is really sad when we compare it with GoPro Hero4 Black where box include waterproof case and mounting clips. You will have to pay $40 to get official Yi waterproof case and the best part is that it is compatible with GoPro device.
+
+ Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+#### Features
+
+* **Usability:**
+
+ In simple words, Xiaomi Yi 4K action camera is much easier to operate as compared to Hero4 Black. You need not to mess up with buttons as intuitive touch screen provides easy interface. You can easily switch between various settings to improve recording experience. It offers 6 different advanced shooting modes where three can be used for photos and three works for videos.
+
+* **Video Quality:**
+
+ Yi 4K can capture videos with 4K resolution at 25 and 30 fps frame rate, whereas for 1080p you can switch to 25/30/50/60/100 and 120fps. Battery life as well as settings and controls, everything is much easier. In order to capture slow motion videos you can go to 720p with 240fps. Further, the time lapse mode leads to impressive addition and you will definitely enjoy electronic image stabilization with fish eye reduction feature.
+
+* **Image Quality:**
+
+ The image capturing ability of Yi 4K is really impressive but it is not up to Hero4 Black level in terms of colour and deep details. However, the images are sharp and crisp and you will get impressive details even in low light situation. It can capture images at 12 MP with pretty good results. The time lapse mode allows switching to 60, 30, 10, 5, 2, 1 and 0.5 seconds.
+
+* **Battery Life and Storage:**
+
+ This device contains a battery of 5.4Wh that is removable and rechargeable. It can assist users up to 120 minutes with 4K shooting at 30fps. If you prefer to work with 1080p at 30fps then Yi 4K action cam can serve you up to 2 hours 35 minutes with ease.
+
+ Yi 4K action cam supports 128 GB MicroSD card but professionals recommend to use class 10 versions only for high quality results. Note that you need to pay extra to buy SD card. For best compatibility and impressive recording performance Yi company suggests using:
+
+* Sandisk Extreme Plus U3
+* Sony SR-64UX U3
+* Lexar 100x U3
+* Sandisk Extreme PRO U3
+* Sandisk Extreme U3
+* Transcent Ultimate 633X U3
+* **Electronic Image Stabilization and Lens Distortion Correction:**
+
+ The fish eye reduction works perfectly fine with Yi 4k action cam whereas Electronic image stabilization is compatible to 1080p resolution level only with 30fps. Few users have rated the effect of image stabilization feature very low as compared to GoPro devices but it is fine for beginners.
+
+* **Auto Low Light:**
+
+ If you prefer to record videos in low light location then your camera will automatically move to low light mode. The shutter speed can be adjusted as per need to boost the recording performance in night hours. Note that auto low light mode is not compatible with 4K and 2.5K resolution but works fine with 1080p.
+
+* **Connectivity and App:**
+
+ You will easily find a Micro USB Port on one side of device to plug in the battery charger. There is no facility for external microphone connectivity and you cannot even display the output. A MicroSD slot is available for storage. It also offers Bluetooth and dual band Wi-Fi connectivity so that you can enjoy remote control. You will never find any problem while transferring videos and images to smart phone.
+
+ The Yi action camera can be easily connected to your smartphone using specially designed App. All that you need to do is:
+
+* Get latest version of your Yi Action app.
+* Switch on the location sharing from settings option in your smartphone.
+* Enable GPS on Android device.
+* Disable the VPN connection and cellular data.
+* Start your Yi action app and connect action camera via Wi-Fi.
+
+ Now you are able to access your camera tab on smartphone.
+
+#### Summary
+
+ However it may not seem a perfect camera to most of action camera lovers with many annoying defects but still it has so many features that offer impressive results. The price factor as well as performance of camera is much superior as compared to many newcomers in market.
+
+ Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ There is no doubt to say that [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) is a leader among all action camera producers. But within last few years many other companies have launched impressive models with all incredible features. One of such outstanding action camera is YI 4K Action Camera from Xiaomi. This camera is competing with GoPro devices in terms of design as well as features. And the best part is that you can buy this feature-rich camera with payment of $199.99 only. So let us discuss few interesting features of this new action cam that can help us to decide whether it is able to steal the crown from GoPro or not.
+
+**You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Complete Review for Yi 4k Action Camera
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
+)
+
+#### Design
+
+ Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
+
+![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
+
+#### Specifications
+
+| **Parameters**       | **Details**                                                                                                                       |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Processor            | Ambarella A9SE chipset                                                                                                            |
+| Image sensor         | Sony IMX377 1/2.3” 12 megapixels CMOS sensor                                                                                      |
+| Weight               | 3.4 ounces/96g (battery+camera)                                                                                                   |
+| Video solution       | 4K 30/25fps 2.5K 30/25fps, 1440p 60/50/30/25fps 1080p 120/100/60/50/30/25fps 960p 120/100/60/5ofps 720p 240/240fps 480 240/200fps |
+| Photo features       | Timer, burst at frequencies between 3p/s and 30p/6s                                                                               |
+| Battery              | 1430mAH assists up to 2hrs 35 mins with 1080p recording at 30fps                                                                  |
+| Waterproof           | 40m (with housing)                                                                                                                |
+| Connectivity         | Bluetooth and dual-band Wi-Fi                                                                                                     |
+| Lens                 | 155-degree wide-angle/ F2.8 aperture                                                                                              |
+| Max photo resolution | 12-megapixels                                                                                                                     |
+| LCD display          | 2.19”touchscreen                                                                                                                  |
+
+#### Pros and Cons
+
+| **Pros**                                              | **Cons**                                                                            |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Impressive image quality                              | No mounts/waterproof included                                                       |
+| Ultimate battery life                                 | You have to control everything with one button under water- that’s really difficult |
+| Touch screen display is of very rich quality          | It is little difficult to access MicroSD slot                                       |
+| Super-reliable advanced Wi-Fi connectivity            | You will find it difficult to use LCD screen in direct Sunlight                     |
+| Image stabilization feature can be activated at 1080p | Additional protective housing is must for underwater usage                          |
+
+#### Accessories
+
+ You will find a USB charging cable with your camera- nothing else. You need to buy you own power adapter. This is really sad when we compare it with GoPro Hero4 Black where box include waterproof case and mounting clips. You will have to pay $40 to get official Yi waterproof case and the best part is that it is compatible with GoPro device.
+
+ Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
+
+#### Features
+
+* **Usability:**
+
+ In simple words, Xiaomi Yi 4K action camera is much easier to operate as compared to Hero4 Black. You need not to mess up with buttons as intuitive touch screen provides easy interface. You can easily switch between various settings to improve recording experience. It offers 6 different advanced shooting modes where three can be used for photos and three works for videos.
+
+* **Video Quality:**
+
+ Yi 4K can capture videos with 4K resolution at 25 and 30 fps frame rate, whereas for 1080p you can switch to 25/30/50/60/100 and 120fps. Battery life as well as settings and controls, everything is much easier. In order to capture slow motion videos you can go to 720p with 240fps. Further, the time lapse mode leads to impressive addition and you will definitely enjoy electronic image stabilization with fish eye reduction feature.
+
+* **Image Quality:**
+
+ The image capturing ability of Yi 4K is really impressive but it is not up to Hero4 Black level in terms of colour and deep details. However, the images are sharp and crisp and you will get impressive details even in low light situation. It can capture images at 12 MP with pretty good results. The time lapse mode allows switching to 60, 30, 10, 5, 2, 1 and 0.5 seconds.
+
+* **Battery Life and Storage:**
+
+ This device contains a battery of 5.4Wh that is removable and rechargeable. It can assist users up to 120 minutes with 4K shooting at 30fps. If you prefer to work with 1080p at 30fps then Yi 4K action cam can serve you up to 2 hours 35 minutes with ease.
+
+ Yi 4K action cam supports 128 GB MicroSD card but professionals recommend to use class 10 versions only for high quality results. Note that you need to pay extra to buy SD card. For best compatibility and impressive recording performance Yi company suggests using:
+
+* Sandisk Extreme Plus U3
+* Sony SR-64UX U3
+* Lexar 100x U3
+* Sandisk Extreme PRO U3
+* Sandisk Extreme U3
+* Transcent Ultimate 633X U3
+* **Electronic Image Stabilization and Lens Distortion Correction:**
+
+ The fish eye reduction works perfectly fine with Yi 4k action cam whereas Electronic image stabilization is compatible to 1080p resolution level only with 30fps. Few users have rated the effect of image stabilization feature very low as compared to GoPro devices but it is fine for beginners.
+
+* **Auto Low Light:**
+
+ If you prefer to record videos in low light location then your camera will automatically move to low light mode. The shutter speed can be adjusted as per need to boost the recording performance in night hours. Note that auto low light mode is not compatible with 4K and 2.5K resolution but works fine with 1080p.
+
+* **Connectivity and App:**
+
+ You will easily find a Micro USB Port on one side of device to plug in the battery charger. There is no facility for external microphone connectivity and you cannot even display the output. A MicroSD slot is available for storage. It also offers Bluetooth and dual band Wi-Fi connectivity so that you can enjoy remote control. You will never find any problem while transferring videos and images to smart phone.
+
+ The Yi action camera can be easily connected to your smartphone using specially designed App. All that you need to do is:
+
+* Get latest version of your Yi Action app.
+* Switch on the location sharing from settings option in your smartphone.
+* Enable GPS on Android device.
+* Disable the VPN connection and cellular data.
+* Start your Yi action app and connect action camera via Wi-Fi.
+
+ Now you are able to access your camera tab on smartphone.
+
+#### Summary
+
+ However it may not seem a perfect camera to most of action camera lovers with many annoying defects but still it has so many features that offer impressive results. The price factor as well as performance of camera is much superior as compared to many newcomers in market.
+
+ Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
 
 ##### Max Wales
 
@@ -42,9 +289,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -160,9 +404,6 @@ Follow @Max Wales
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -199,251 +440,9 @@ Follow @Max Wales
 
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
-#### Features
-
-* **Usability:**
-
- In simple words, Xiaomi Yi 4K action camera is much easier to operate as compared to Hero4 Black. You need not to mess up with buttons as intuitive touch screen provides easy interface. You can easily switch between various settings to improve recording experience. It offers 6 different advanced shooting modes where three can be used for photos and three works for videos.
-
-* **Video Quality:**
-
- Yi 4K can capture videos with 4K resolution at 25 and 30 fps frame rate, whereas for 1080p you can switch to 25/30/50/60/100 and 120fps. Battery life as well as settings and controls, everything is much easier. In order to capture slow motion videos you can go to 720p with 240fps. Further, the time lapse mode leads to impressive addition and you will definitely enjoy electronic image stabilization with fish eye reduction feature.
-
-* **Image Quality:**
-
- The image capturing ability of Yi 4K is really impressive but it is not up to Hero4 Black level in terms of colour and deep details. However, the images are sharp and crisp and you will get impressive details even in low light situation. It can capture images at 12 MP with pretty good results. The time lapse mode allows switching to 60, 30, 10, 5, 2, 1 and 0.5 seconds.
-
-* **Battery Life and Storage:**
-
- This device contains a battery of 5.4Wh that is removable and rechargeable. It can assist users up to 120 minutes with 4K shooting at 30fps. If you prefer to work with 1080p at 30fps then Yi 4K action cam can serve you up to 2 hours 35 minutes with ease.
-
- Yi 4K action cam supports 128 GB MicroSD card but professionals recommend to use class 10 versions only for high quality results. Note that you need to pay extra to buy SD card. For best compatibility and impressive recording performance Yi company suggests using:
-
-* Sandisk Extreme Plus U3
-* Sony SR-64UX U3
-* Lexar 100x U3
-* Sandisk Extreme PRO U3
-* Sandisk Extreme U3
-* Transcent Ultimate 633X U3
-* **Electronic Image Stabilization and Lens Distortion Correction:**
-
- The fish eye reduction works perfectly fine with Yi 4k action cam whereas Electronic image stabilization is compatible to 1080p resolution level only with 30fps. Few users have rated the effect of image stabilization feature very low as compared to GoPro devices but it is fine for beginners.
-
-* **Auto Low Light:**
-
- If you prefer to record videos in low light location then your camera will automatically move to low light mode. The shutter speed can be adjusted as per need to boost the recording performance in night hours. Note that auto low light mode is not compatible with 4K and 2.5K resolution but works fine with 1080p.
-
-* **Connectivity and App:**
-
- You will easily find a Micro USB Port on one side of device to plug in the battery charger. There is no facility for external microphone connectivity and you cannot even display the output. A MicroSD slot is available for storage. It also offers Bluetooth and dual band Wi-Fi connectivity so that you can enjoy remote control. You will never find any problem while transferring videos and images to smart phone.
-
- The Yi action camera can be easily connected to your smartphone using specially designed App. All that you need to do is:
-
-* Get latest version of your Yi Action app.
-* Switch on the location sharing from settings option in your smartphone.
-* Enable GPS on Android device.
-* Disable the VPN connection and cellular data.
-* Start your Yi action app and connect action camera via Wi-Fi.
-
- Now you are able to access your camera tab on smartphone.
-
-#### Summary
-
- However it may not seem a perfect camera to most of action camera lovers with many annoying defects but still it has so many features that offer impressive results. The price factor as well as performance of camera is much superior as compared to many newcomers in market.
-
- Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- There is no doubt to say that [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) is a leader among all action camera producers. But within last few years many other companies have launched impressive models with all incredible features. One of such outstanding action camera is YI 4K Action Camera from Xiaomi. This camera is competing with GoPro devices in terms of design as well as features. And the best part is that you can buy this feature-rich camera with payment of $199.99 only. So let us discuss few interesting features of this new action cam that can help us to decide whether it is able to steal the crown from GoPro or not.
-
-**You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Complete Review for Yi 4k Action Camera
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
-)
-
-#### Design
-
- Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
-
-![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
-
-#### Specifications
-
-| **Parameters**       | **Details**                                                                                                                       |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Processor            | Ambarella A9SE chipset                                                                                                            |
-| Image sensor         | Sony IMX377 1/2.3” 12 megapixels CMOS sensor                                                                                      |
-| Weight               | 3.4 ounces/96g (battery+camera)                                                                                                   |
-| Video solution       | 4K 30/25fps 2.5K 30/25fps, 1440p 60/50/30/25fps 1080p 120/100/60/50/30/25fps 960p 120/100/60/5ofps 720p 240/240fps 480 240/200fps |
-| Photo features       | Timer, burst at frequencies between 3p/s and 30p/6s                                                                               |
-| Battery              | 1430mAH assists up to 2hrs 35 mins with 1080p recording at 30fps                                                                  |
-| Waterproof           | 40m (with housing)                                                                                                                |
-| Connectivity         | Bluetooth and dual-band Wi-Fi                                                                                                     |
-| Lens                 | 155-degree wide-angle/ F2.8 aperture                                                                                              |
-| Max photo resolution | 12-megapixels                                                                                                                     |
-| LCD display          | 2.19”touchscreen                                                                                                                  |
-
-#### Pros and Cons
-
-| **Pros**                                              | **Cons**                                                                            |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Impressive image quality                              | No mounts/waterproof included                                                       |
-| Ultimate battery life                                 | You have to control everything with one button under water- that’s really difficult |
-| Touch screen display is of very rich quality          | It is little difficult to access MicroSD slot                                       |
-| Super-reliable advanced Wi-Fi connectivity            | You will find it difficult to use LCD screen in direct Sunlight                     |
-| Image stabilization feature can be activated at 1080p | Additional protective housing is must for underwater usage                          |
-
-#### Accessories
-
- You will find a USB charging cable with your camera- nothing else. You need to buy you own power adapter. This is really sad when we compare it with GoPro Hero4 Black where box include waterproof case and mounting clips. You will have to pay $40 to get official Yi waterproof case and the best part is that it is compatible with GoPro device.
-
- Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
-![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
-
-#### Features
-
-* **Usability:**
-
- In simple words, Xiaomi Yi 4K action camera is much easier to operate as compared to Hero4 Black. You need not to mess up with buttons as intuitive touch screen provides easy interface. You can easily switch between various settings to improve recording experience. It offers 6 different advanced shooting modes where three can be used for photos and three works for videos.
-
-* **Video Quality:**
-
- Yi 4K can capture videos with 4K resolution at 25 and 30 fps frame rate, whereas for 1080p you can switch to 25/30/50/60/100 and 120fps. Battery life as well as settings and controls, everything is much easier. In order to capture slow motion videos you can go to 720p with 240fps. Further, the time lapse mode leads to impressive addition and you will definitely enjoy electronic image stabilization with fish eye reduction feature.
-
-* **Image Quality:**
-
- The image capturing ability of Yi 4K is really impressive but it is not up to Hero4 Black level in terms of colour and deep details. However, the images are sharp and crisp and you will get impressive details even in low light situation. It can capture images at 12 MP with pretty good results. The time lapse mode allows switching to 60, 30, 10, 5, 2, 1 and 0.5 seconds.
-
-* **Battery Life and Storage:**
-
- This device contains a battery of 5.4Wh that is removable and rechargeable. It can assist users up to 120 minutes with 4K shooting at 30fps. If you prefer to work with 1080p at 30fps then Yi 4K action cam can serve you up to 2 hours 35 minutes with ease.
-
- Yi 4K action cam supports 128 GB MicroSD card but professionals recommend to use class 10 versions only for high quality results. Note that you need to pay extra to buy SD card. For best compatibility and impressive recording performance Yi company suggests using:
-
-* Sandisk Extreme Plus U3
-* Sony SR-64UX U3
-* Lexar 100x U3
-* Sandisk Extreme PRO U3
-* Sandisk Extreme U3
-* Transcent Ultimate 633X U3
-* **Electronic Image Stabilization and Lens Distortion Correction:**
-
- The fish eye reduction works perfectly fine with Yi 4k action cam whereas Electronic image stabilization is compatible to 1080p resolution level only with 30fps. Few users have rated the effect of image stabilization feature very low as compared to GoPro devices but it is fine for beginners.
-
-* **Auto Low Light:**
-
- If you prefer to record videos in low light location then your camera will automatically move to low light mode. The shutter speed can be adjusted as per need to boost the recording performance in night hours. Note that auto low light mode is not compatible with 4K and 2.5K resolution but works fine with 1080p.
-
-* **Connectivity and App:**
-
- You will easily find a Micro USB Port on one side of device to plug in the battery charger. There is no facility for external microphone connectivity and you cannot even display the output. A MicroSD slot is available for storage. It also offers Bluetooth and dual band Wi-Fi connectivity so that you can enjoy remote control. You will never find any problem while transferring videos and images to smart phone.
-
- The Yi action camera can be easily connected to your smartphone using specially designed App. All that you need to do is:
-
-* Get latest version of your Yi Action app.
-* Switch on the location sharing from settings option in your smartphone.
-* Enable GPS on Android device.
-* Disable the VPN connection and cellular data.
-* Start your Yi action app and connect action camera via Wi-Fi.
-
- Now you are able to access your camera tab on smartphone.
-
-#### Summary
-
- However it may not seem a perfect camera to most of action camera lovers with many annoying defects but still it has so many features that offer impressive results. The price factor as well as performance of camera is much superior as compared to many newcomers in market.
-
- Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- There is no doubt to say that [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) is a leader among all action camera producers. But within last few years many other companies have launched impressive models with all incredible features. One of such outstanding action camera is YI 4K Action Camera from Xiaomi. This camera is competing with GoPro devices in terms of design as well as features. And the best part is that you can buy this feature-rich camera with payment of $199.99 only. So let us discuss few interesting features of this new action cam that can help us to decide whether it is able to steal the crown from GoPro or not.
-
-**You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Complete Review for Yi 4k Action Camera
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
-)
-
-#### Design
-
- Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
-
-#### Specifications
-
-| **Parameters**       | **Details**                                                                                                                       |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Processor            | Ambarella A9SE chipset                                                                                                            |
-| Image sensor         | Sony IMX377 1/2.3” 12 megapixels CMOS sensor                                                                                      |
-| Weight               | 3.4 ounces/96g (battery+camera)                                                                                                   |
-| Video solution       | 4K 30/25fps 2.5K 30/25fps, 1440p 60/50/30/25fps 1080p 120/100/60/50/30/25fps 960p 120/100/60/5ofps 720p 240/240fps 480 240/200fps |
-| Photo features       | Timer, burst at frequencies between 3p/s and 30p/6s                                                                               |
-| Battery              | 1430mAH assists up to 2hrs 35 mins with 1080p recording at 30fps                                                                  |
-| Waterproof           | 40m (with housing)                                                                                                                |
-| Connectivity         | Bluetooth and dual-band Wi-Fi                                                                                                     |
-| Lens                 | 155-degree wide-angle/ F2.8 aperture                                                                                              |
-| Max photo resolution | 12-megapixels                                                                                                                     |
-| LCD display          | 2.19”touchscreen                                                                                                                  |
-
-#### Pros and Cons
-
-| **Pros**                                              | **Cons**                                                                            |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Impressive image quality                              | No mounts/waterproof included                                                       |
-| Ultimate battery life                                 | You have to control everything with one button under water- that’s really difficult |
-| Touch screen display is of very rich quality          | It is little difficult to access MicroSD slot                                       |
-| Super-reliable advanced Wi-Fi connectivity            | You will find it difficult to use LCD screen in direct Sunlight                     |
-| Image stabilization feature can be activated at 1080p | Additional protective housing is must for underwater usage                          |
-
-#### Accessories
-
- You will find a USB charging cable with your camera- nothing else. You need to buy you own power adapter. This is really sad when we compare it with GoPro Hero4 Black where box include waterproof case and mounting clips. You will have to pay $40 to get official Yi waterproof case and the best part is that it is compatible with GoPro device.
-
- Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
 
@@ -529,7 +528,19 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-vr-equipment-enhancing-flight-control/"><u>[New] Best VR Equipment Enhancing Flight Control</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-circulation-crafting-kit/"><u>[New] Circulation Crafting Kit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-looping-iphones-videos-effortlessly/"><u>[Updated] Step-by-Step Looping iPhones Videos Effortlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellence-in-vocal-alteration-top-choices-above-all/"><u>Excellence in Vocal Alteration Top Choices Above All</u></a></li>
+<li><a href="https://article-tips.techidaily.com/from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more/"><u>From Graphics to Emojis Turning GIFs Into Stickers on Telegram & More</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture-for-2024/"><u>Helmet Hats A Comprehensive Look at Best Cams in Bike Culture for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-scalp-and-copy-trading-on-mt4-and-mt5-by-mt4copier-guide/"><u>How to scalp and Copy Trading on MT4 and MT5</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-glance-fastest-photo-viewer-in-11-os/"><u>Quick Glance Fastest Photo Viewer in 11 OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-moto-g73-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola Moto G73 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablet-titans-clash-a-side-by-side-analysis-of-the-new-ipad-air-4-and-galaxy-tab-s7plus-for-tech-enthusiasts/"><u>Tablet Titans Clash: A Side-by-Side Analysis of the New iPad Air 4 and Galaxy Tab S7+ for Tech Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-screen-experience-with-hp-envy-27-display/"><u>The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
+</ul></div>
 

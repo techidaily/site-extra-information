@@ -1,7 +1,7 @@
 ---
 title: "\"Brilliant Backdrops  Using Light to Enchant Audiences for 2024\""
-date: 2024-07-27T05:01:01.941Z
-updated: 2024-07-28T05:01:01.941Z
+date: 2024-12-13T19:05:27.679Z
+updated: 2024-12-14T20:25:35.009Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -46,10 +50,11 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
@@ -61,10 +66,11 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -72,25 +78,14 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -99,11 +94,12 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
@@ -111,6 +107,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -144,7 +144,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-5-best-live-streaming-software-for-mac-you-must-know/"><u>[New] In 2024, 5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-explore-the-world-of-mobile-video-editing-with-snapchat-favorites/"><u>[Updated] 2024 Approved Explore the World of Mobile Video Editing with Snapchat Favorites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sharpen-your-videoleap-videos-from-afar/"><u>[Updated] Sharpen Your Videoleap Videos From Afar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cost-effective-drone-collection-affordable-flight-gadgets/"><u>2024 Approved Cost-Effective Drone Collection Affordable Flight Gadgets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-craft-natural-motion-depth-in-ps/"><u>2024 Approved Craft Natural Motion Depth in PS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-hottest-tiktok-trials-step-up-and-join-in/"><u>2024 Approved Hottest TikTok Trials - Step Up and Join In</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-reversing-footage-in-a-snap/"><u>2024 Approved Reversing Footage in a Snap</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assembling-a-spectacular-screenplay-cut-out/"><u>Assembling a Spectacular Screenplay Cut-Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-list-of-8-best-free-video-rotator-software-for-pc-users-both-offline-and-online/"><u>Discover the Ultimate List of 8 Best Free Video Rotator Software for PC Users, Both Offline & Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-end-stabilizers-perfecting-mobile-and-professional-shooting/"><u>High-End Stabilizers Perfecting Mobile & Professional Shooting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bring-your-world-to-life-delving-into-hp-envy-27s-features/"><u>In 2024, Bring Your World to Life Delving Into HP Envy 27'S Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-color-harmony-explore-this-select-list-of-7-techniques/"><u>The Art of Color Harmony Explore This Select List of 7 Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-simple-art-of-capturing-breathtaking-slow-motion-shots-with-android/"><u>The Simple Art of Capturing Breathtaking Slow-Motion Shots with Android</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-top-twelve-spreading-misinformation-about-covid/"><u>The Top Twelve Spreading Misinformation About COVID</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-canon-mg2900-with-new-drivers-quick-guide-to-free-downloads/"><u>Update Your Canon MG2900 with New Drivers - Quick Guide to Free Downloads</u></a></li>
+</ul></div>
 

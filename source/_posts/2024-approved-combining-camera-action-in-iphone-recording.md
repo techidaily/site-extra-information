@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Combining Camera Action in iPhone Recording\""
-date: 2024-07-27T05:04:13.195Z
-updated: 2024-07-28T05:04:13.195Z
+date: 2024-12-10T16:09:59.822Z
+updated: 2024-12-14T16:24:26.851Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 # How to Take Photos While Recording Videos on iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -49,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The drawbacks of taking photos and videos simultaneously
 
 *  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
@@ -65,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 | **iPhone SE**        | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 | **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Extract frames from video
 
@@ -104,9 +105,6 @@ Follow @Ollie Mattison
 * Look for the video mode and switch to it for initiating video recording.
 * Tap the red button located at the bottom and it will start the video recording.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
  Image resource: igeeksblog.com
@@ -114,8 +112,9 @@ Follow @Ollie Mattison
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The drawbacks of taking photos and videos simultaneously
 
 *  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
@@ -131,10 +130,6 @@ Follow @Ollie Mattison
 | **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
@@ -147,14 +142,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Check this video to see how to extract photos from a video with Filmora:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -186,8 +179,9 @@ Follow @Ollie Mattison
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The drawbacks of taking photos and videos simultaneously
 
 *  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
@@ -203,16 +197,10 @@ Follow @Ollie Mattison
 | **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why Choose Wondershare Filmora?
 
 * It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
@@ -221,15 +209,13 @@ Follow @Ollie Mattison
 
  Check this video to see how to extract photos from a video with Filmora:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -243,6 +229,10 @@ Follow @Ollie Mattison
 
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to shoot a still photo and record a video simultaneously on your iPhone
 
  The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
@@ -255,18 +245,14 @@ Follow @Ollie Mattison
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### The drawbacks of taking photos and videos simultaneously
 
 *  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
@@ -286,9 +272,6 @@ Follow @Ollie Mattison
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why Choose Wondershare Filmora?
 
 * It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
@@ -300,6 +283,10 @@ Follow @Ollie Mattison
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -329,7 +316,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-beyond-standard-views-a-detailed-look-at-the-z32x-model/"><u>[New] Beyond Standard Views A Detailed Look at the Z32X Model</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-access-unlimited-12-stream-livestream-content/"><u>2024 Approved Access Unlimited 12-Stream Livestream Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-choreographing-compelling-cinematic-hooks/"><u>2024 Approved Choreographing Compelling Cinematic Hooks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-flashback-to-fame-vimeo-glimpse/"><u>2024 Approved Flashback to Fame Vimeo Glimpse</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-missing-msvcr71-dll/"><u>Addressing Missing MSVCR71 DLL</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-disney-delights-a-review-of-the-goofy-saga/"><u>Dissecting Disney Delights A Review of 'The Goofy Saga'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-for-deactivating-microsofts-cortana-feature-on-windows-10-devices/"><u>Expert Tips for Deactivating Microsoft's Cortana Feature on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmonizing-visuals-and-audio-in-unboxing-videos/"><u>Harmonizing Visuals & Audio in Unboxing Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-photography-excellence-follow-the-top-10-rules-for-2024/"><u>IPhone Photography Excellence Follow the Top 10 Rules for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/luminous-techniques-for-web-based-cinema/"><u>Luminous Techniques for Web-Based Cinema</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-artisans-approach-to-color-balancing/"><u>The Artisan's Approach to Color Balancing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-s-best-free-green-screen-editors-for-mobile-phones-for-2024/"><u>Updated S Best Free Green Screen Editors for Mobile Phones for 2024</u></a></li>
+</ul></div>
 

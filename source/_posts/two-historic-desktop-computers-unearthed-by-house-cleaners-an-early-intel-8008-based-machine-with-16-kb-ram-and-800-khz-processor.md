@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-12-01T16:28:40.178Z
-updated: 2024-12-08T16:51:11.755Z
+date: 2024-12-09T20:23:23.677Z
+updated: 2024-12-14T20:46:36.865Z
 tags:
   - desktop
 categories:
@@ -46,23 +46,22 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>[New] Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-screen-stream-showdown-who-wins-obs-or-shadowgl-in-2024/"><u>[Updated] Screen Stream Showdown Who Wins, OBS or ShadowGL, In 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audible-annotators-top-selections-for-offline-text-conversion-for-2024/"><u>Audible Annotators Top Selections for Offline Text Conversion for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/benq-sw320-review-a-gateway-to-true-high-definition/"><u>BenQ SW320 Review A Gateway to True High Definition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12t-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12T Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-design-channels-get-free-visuals-now/"><u>In 2024, Design Channels - Get Free Visuals Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-y78plus-t1-edition-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo Y78+ (T1) Edition Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-moto-g04-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Moto G04 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/key-principles-of-metaverse-commercial-strategy/"><u>Key Principles of Metaverse Commercial Strategy</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/navigating-whatsapps-latest-privacy-shifts-comprehensive-analysis-by-malwarefox/"><u>Navigating WhatsApp's Latest Privacy Shifts – Comprehensive Analysis by MalwareFox</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-online-platforms-to-convert-images-to-videos/"><u>New 10 Best Online Platforms to Convert Images to Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-collage-apps-for-android-lovers/"><u>Prime Collage Apps for Android Lovers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/securely-installing-apple-podcasts-episodes/"><u>Securely Installing Apple Podcasts Episodes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-revolutionize-your-channels-thumbnails-with-these-tools/"><u>[New] In 2024, Revolutionize Your Channel's Thumbnails with These Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>Accurate Ranking Top 10 Gratuitous Srt File Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/audio-mastery-with-the-premier-soundbars-of-2024-professional-endorsements-zdnet/"><u>Audio Mastery with the Premier Soundbars of 2024: Professional Endorsements | ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-after-effects-title-templates/"><u>Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-find-x7-ultra-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Find X7 Ultra FRP Locks</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-13t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi 13T Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-step-by-step-pathway-to-mastering-srt-files/"><u>In 2024, Step-by-Step Pathway to Mastering SRT Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-googles-text-conversion-service-a-detailed-walkthrough/"><u>Mastering Google's Text Conversion Service A Detailed Walkthrough</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-gopro-hero5-black-journey-elevating-your-visual-storytelling/"><u>The GoPro Hero5 Black Journey Elevating Your Visual Storytelling</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-15-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 15 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-list-groundbreayer-vr-gloves-reviewed/"><u>Ultimate List Groundbreayer VR Gloves Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads-in-2024/"><u>Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads, In 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
