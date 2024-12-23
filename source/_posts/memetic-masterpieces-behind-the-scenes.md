@@ -1,7 +1,7 @@
 ---
 title: "\"Memetic Masterpieces  Behind the Scenes\""
-date: 2024-12-11T19:33:17.621Z
-updated: 2024-12-14T18:24:14.498Z
+date: 2024-12-19T17:12:56.157Z
+updated: 2024-12-23T19:50:34.625Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,16 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -58,7 +62,7 @@ The original photo is the work of Antonio Guillem, who uploaded it on iStock in 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -76,17 +80,9 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
@@ -94,11 +90,19 @@ However, subsequent memes feature satirical themes. Here are some of the most po
 
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
@@ -109,10 +113,6 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part4: Bonjour Bear
 
@@ -126,10 +126,6 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
 
 * Others use the meme as a reaction to when your relatives visit. The captions indicate your parent informing you that your uncle and aunt are visiting and they have brought presents.
@@ -138,7 +134,7 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part5: FAQs
@@ -152,6 +148,10 @@ This is because not all stock photo providers offer their images with a creative
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Can you use watermarked stock photos to create memes?
 
@@ -189,22 +189,24 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>[New] A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-capturecraft-hd-top-10-freepaid-filters-list/"><u>[New] CaptureCraft HD Top 10 Free/Paid Filters List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-list-the-best-websites-for-ringtone-grabs/"><u>[New] Exclusive List The Best Websites for Ringtone Grabs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-earnings-empire-constructing-a-profitable-youtube-channel/"><u>[Updated] 2024 Approved Earnings Empire Constructing a Profitable YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-downloading-youtube-playlists-made-simple-and-easy/"><u>[Updated] In 2024, Downloading YouTube Playlists Made Simple & Easy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-snap-and-save-your-android-no-price-tag-in-2024/"><u>[Updated] Snap & Save Your Android - No Price Tag, In 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-tech-pioneer-at-play-asuss-breakthrough-with-the-mg28uq-monitor-for-2024/"><u>[Updated] Tech Pioneer at Play ASUS's Breakthrough with the MG28UQ Monitor for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breaking-down-the-top-ae-title-styles/"><u>Breaking Down the Top AE Title Styles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/convert-talk-to-text-the-costless-alternative/"><u>Convert Talk to Text The Costless Alternative</u></a></li>
-<li><a href="https://extra-information.techidaily.com/designing-pinnacle-canon-temp-video-series/"><u>Designing Pinnacle Canon Temp Video Series</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-how-this-affordable-hp-chromebook-simplified-my-life-without-windows-now-just-136-cheaper/"><u>Discover How This Affordable HP Chromebook Simplified My Life Without Windows - Now Just $136 Cheaper!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/echo-to-etchings-discovering-preeminent-text-apps/"><u>Echo to Etchings Discovering Preeminent Text Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/greatest-stop-motion-animations-ranked-1-15/"><u>Greatest Stop-Motion Animations Ranked #1-15</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mudar-seus-arquivos-vob-em-mp4-sem-cobranca-solucao-off-line-do-movavi/"><u>Mudar Seus Arquivos VOB Em MP4 Sem Cobrança: Solução Off-Line Do Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-the-best-deal-on-a-high-quality-gaming-screen-get-the-sceptre-24-inch-curved-monitor-at-just-79/"><u>Score the Best Deal on a High-Quality Gaming Screen - Get the Sceptre 24 Inch Curved Monitor at Just $79!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-source-guide-4-top-skype-ringtones/"><u>The Ultimate Source Guide 4 Top Skype Ringtones</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-lower-thirds-like-a-pro-expert-techniques-for-final-cut-pro-x/"><u>Updated 2024 Approved Lower Thirds Like a Pro Expert Techniques for Final Cut Pro X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-achieving-sharper-screen-focus-zooming-tips-for-google-meet/"><u>[New] Achieving Sharper Screen Focus Zooming Tips for Google Meet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audience-favorites-outstanding-vr-gaming-with-google-cardboard/"><u>[New] Audience Favorites Outstanding VR Gaming with Google Cardboard</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-blueprint-for-becoming-a-trending-force-on-facebook/"><u>[New] In 2024, The Blueprint for Becoming a Trending Force on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-6-unobtrusive-applications-for-android-captures-for-2024/"><u>[New] Top 6 Unobtrusive Applications for Android Captures for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-compreenas-guide-to-designing-a-compelling-rss-feed/"><u>[Updated] A Compreenas Guide to Designing a Compelling RSS Feed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-instant-images-guide-easy-recording-tips-dell-for-2024/"><u>[Updated] Instant Images Guide Easy Recording Tips (Dell) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-top-10-after-effects-text-presets/"><u>[Updated] Top 10 After Effects Text Presets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-free-video-editing-software-on-iphone-and-ipad/"><u>Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-in-fun-the-top-samsung-gear-vr-games-for-2024/"><u>Immerse in Fun The Top Samsung Gear VR Games for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-gaming-unlocked-by-htcs-revolutionary-vr-headset/"><u>Immersive Gaming Unlocked by HTC's Revolutionary VR Headset</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-pathway-to-load-moviemaker-6/"><u>In 2024, Comprehensive Pathway to Load Moviemaker 6</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exclusive-choices-to-replace-traditional-fbx-recorder-games/"><u>In 2024, Exclusive Choices to Replace Traditional FBX Recorder Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-potential-per-viewer-youtubes-financial-dynamics-for-2024/"><u>Profit Potential Per Viewer YouTube's Financial Dynamics for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/startup-steps-for-stream-money-in-periscope/"><u>Startup Steps for Stream Money in Periscope</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-process-step-by-step-telegram-web-guide/"><u>Streamlined Process Step-by-Step Telegram Web Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-contortions-a-complete-guide-to-picture-edits/"><u>Visual Contortions A Complete Guide to Picture Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-change-mastery-for-sony-game-systems/"><u>Voice Change Mastery for Sony Game Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nokia C210 | Dr.fone</u></a></li>
 </ul></div>
 

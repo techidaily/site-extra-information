@@ -1,7 +1,7 @@
 ---
 title: "\"Shades & Tints in Action  Practical Application\""
-date: 2024-12-04T18:22:44.934Z
-updated: 2024-12-08T17:50:54.257Z
+date: 2024-12-19T16:08:12.221Z
+updated: 2024-12-23T21:52:24.059Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
@@ -34,14 +38,10 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Color Harmony
@@ -51,7 +51,7 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -62,15 +62,15 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
@@ -81,7 +81,7 @@ As you can see from this example the base color for the scene is a dark blue/pur
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -118,20 +118,19 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-thankful-compilation-professional-and-personalized-otus/"><u>[New] 2024 Approved Thankful Compilation Professional & Personalized OTUs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-your-videos-impact-with-expertly-recorded-voices/"><u>[New] Maximizing Your Video's Impact with Expertly Recorded Voices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-aquatic-adventures-top-5-anglers-choice-cameras/"><u>[Updated] Aquatic Adventures Top 5 Anglers' Choice Cameras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-cinema-magic-with-fcps-top-10-plugin-choices/"><u>[Updated] Crafting Cinema Magic with FCP’s Top 10 Plugin Choices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-gentle-volume-declines-in-premiere-pro-videos/"><u>[Updated] Crafting Gentle Volume Declines in Premiere Pro Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-explore-the-ultimate-list-of-free-youtube-channel-starters/"><u>[Updated] Explore the Ultimate List of Free YouTube Channel Starters</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-a-stepwise-journey-through-windows-10-recording/"><u>2024 Approved A Stepwise Journey Through Windows 10 Recording</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adaptive-speaking-methods-in-free-fire-for-2024/"><u>Adaptive Speaking Methods in Free Fire for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-lava-blaze-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lava Blaze Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-information.techidaily.com/duo-dynamics-instagram-tiktok-confluence-guide/"><u>Duo Dynamics Instagram-TikTok Confluence Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725290557798-dvd/"><u>DVDデータ移行フリーガイド：スマホ・タブレットへの簡単な手順</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-discover-the-top-4k-youtube-converters-for-quality-video-downloads/"><u>In 2024, Discover the Top 4K YouTube Converters for Quality Video Downloads</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-spark-20-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Spark 20 Pro Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/srt-revelation-transforming-computer-performance/"><u>SRT Revelation Transforming Computer Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-15-cloud-storage-plans-2024-edition-analysis/"><u>Top 15 Cloud Storage Plans 2024 Edition Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-top-12-html5-video-engines/"><u>[New] In 2024, The Ultimate Guide to Top 12 HTML5 Video Engines</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-compreenas-of-15-best-android-simulators-for-all-users/"><u>[New] The Compreenas of 15 Best Android Simulators for All Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-loved-fast-essential-bio-hacks-that-work-on-every-version-of-tinder/"><u>[Updated] Get Loved, Fast Essential Bio Hacks that Work on Every Version of Tinder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-ustream-live-streaming-choices/"><u>2024 Approved Beyond Ustream Live Streaming Choices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-conquering-video-production-hurdles-essential-filmora-tips-and-tricks/"><u>2024 Approved Conquering Video Production Hurdles Essential Filmora Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-mobiles-for-crafting-perfect-dji-videos-for-2024/"><u>Advanced Mobiles for Crafting Perfect DJi Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016959515-apex-legends-troubleshooting-guide-fix-your-voice-chat-issues-now/"><u>Apex Legends: Troubleshooting Guide - Fix Your Voice Chat Issues Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-and-outshine-cheapest-cloud-plans-for-every-need-2024/"><u>Explore & Outshine Cheapest Cloud Plans for Every Need, 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-150-2023-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 150 (2023) To Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-hot-40i-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-itel-p40-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Itel P40 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/knowledge-base-articles-and-resources/"><u>Knowledge Base Articles & Resources</u></a></li>
+<li><a href="https://extra-information.techidaily.com/next-gen-tracker-seamless-camera-movement-coordination/"><u>Next-Gen Tracker Seamless Camera Movement Coordination</u></a></li>
 </ul></div>
 

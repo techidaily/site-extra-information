@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2024-12-09T20:23:23.677Z
-updated: 2024-12-14T20:46:36.865Z
+date: 2024-12-19T16:12:27.062Z
+updated: 2024-12-23T16:35:48.033Z
 tags:
   - desktop
 categories:
@@ -46,22 +46,28 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-revolutionize-your-channels-thumbnails-with-these-tools/"><u>[New] In 2024, Revolutionize Your Channel's Thumbnails with These Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>Accurate Ranking Top 10 Gratuitous Srt File Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/audio-mastery-with-the-premier-soundbars-of-2024-professional-endorsements-zdnet/"><u>Audio Mastery with the Premier Soundbars of 2024: Professional Endorsements | ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-free-after-effects-title-templates/"><u>Best Free After Effects Title Templates</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-find-x7-ultra-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Find X7 Ultra FRP Locks</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-13t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi 13T Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-step-by-step-pathway-to-mastering-srt-files/"><u>In 2024, Step-by-Step Pathway to Mastering SRT Files</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-googles-text-conversion-service-a-detailed-walkthrough/"><u>Mastering Google's Text Conversion Service A Detailed Walkthrough</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-gopro-hero5-black-journey-elevating-your-visual-storytelling/"><u>The GoPro Hero5 Black Journey Elevating Your Visual Storytelling</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-15-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 15 Plus without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-list-groundbreayer-vr-gloves-reviewed/"><u>Ultimate List Groundbreayer VR Gloves Reviewed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads-in-2024/"><u>Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-complete-guide-to-integrating-azures-speech-recognition-service/"><u>[New] A Complete Guide to Integrating Azure's Speech Recognition Service</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beyond-ustream-an-examination-of-video-streaming/"><u>[New] Beyond Ustream An Examination of Video Streaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-youtube-to-mp4-blueprint/"><u>[New] The Ultimate YouTube to MP4 Blueprint</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-10-best-online-learning-sites-like-udemy/"><u>[Updated] 2024 Approved 10 Best Online Learning Sites Like Udemy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit/"><u>[Updated] Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization/"><u>[Updated] In 2024, The Ultimate Handbook IOS Photo Alignment & Cloud Synchronization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-nightscape-techniques-unlocked/"><u>[Updated] IPhone Nightscape Techniques Unlocked</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-cinematic-vision-using-ae-luts-effectively/"><u>Enhance Cinematic Vision Using AE LUTs Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-actors-availability-downloadable-content-terms/"><u>In 2024, Actors' Availability Downloadable Content Terms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725290574645-isowindows-11/"><u>ISOイメージをWindows #11上で起動するためのステップバイステップ・チュートリアル</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-linksys-wusb630n-driver-download-and-installation-manual/"><u>Mastering the Linksys WUSB630n: Driver Download and Installation Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-past-onedrive-sign-in-snags-with-windows-steps/"><u>Navigate Past OneDrive Sign-In Snags with Windows Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-photos-effortless-best-10-screenshot-sticker-enhancers-for-smartphones/"><u>Perfect Photos, Effortless Best 10 Screenshot-Sticker Enhancers for Smartphones</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-se-2022-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone SE (2022) You Should Try Out</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>The Ultimate Guide to Picture Purity Erasing Images' Excesses</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-pathway-to-uniform-audio-dynamics-in-three-steps/"><u>The Ultimate Pathway to Uniform Audio Dynamics in Three Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-audio-excellence-in-ios-settings/"><u>Unlocking Audio Excellence in iOS Settings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-marketers-love-video-commendations/"><u>Why Marketers Love Video Commendations</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

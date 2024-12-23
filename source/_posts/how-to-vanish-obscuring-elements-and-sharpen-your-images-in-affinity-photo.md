@@ -1,7 +1,7 @@
 ---
 title: "How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo"
-date: 2024-12-10T19:29:02.299Z
-updated: 2024-12-14T17:20:38.882Z
+date: 2024-12-16T16:22:35.364Z
+updated: 2024-12-23T21:55:24.948Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Erase a White Background in Affinity Designer
@@ -56,13 +56,13 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -93,10 +93,6 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -122,7 +118,7 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -144,7 +140,7 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -162,6 +158,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -197,22 +197,20 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-auroras-dynamic-range-feature-a-detailed-perspective/"><u>[New] Aurora's Dynamic Range Feature A Detailed Perspective</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-boosting-your-videos-popularity-in-a-competitive-space-like-tiktok/"><u>[New] Boosting Your Video’s Popularity in a Competitive Space Like TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unleash-creativity-capturing-quality-videos-on-logitech/"><u>[New] Unleash Creativity Capturing Quality Videos on Logitech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-canva-cinematography-perfecting-music-cropping-and-editing/"><u>[Updated] Canva Cinematography Perfecting Music Cropping and Editing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-early-bird-winners-youtubes-quick-favorites-for-2024/"><u>[Updated] Early Bird Winners Youtube's Quick Favorites for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-detailed-analysis-of-mozillas-popup-functionality/"><u>2024 Approved A Detailed Analysis of Mozilla's Popup Functionality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-an-individuals-3dr-experience/"><u>A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/becoming-a-youtube-pro-the-ultimate-picture-post-guide-for-2024/"><u>Becoming a YouTube Pro The Ultimate Picture Post Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expand-your-communication-skills-16-free-asl-learning-tools-and-resources/"><u>Expand Your Communication Skills: 16 Free ASL Learning Tools & Resources</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-note-30-vip-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-discover-best-8-3d-realms-with-glossy-text-effects/"><u>In 2024, Discover Best 8 3D Realms with Glossy Text Effects</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-a58-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo A58 4G Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/launch-success-a-guide-to-10-motivating-movies/"><u>Launch Success A Guide to 10 Motivating Movies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/select-your-perfect-outro-soundtrack-online-for-free-for-2024/"><u>Select Your Perfect Outro Soundtrack Online For Free for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-loops-in-windows-10-automatic-repairs-solved/"><u>Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-directory-of-classical-tone-archives/"><u>Ultimate Directory of Classical Tone Archives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleashing-your-device-writers-step-by-step-tutorial-for-custom-ringtones-and-sounds-on-android/"><u>Unleashing Your Device' Writers Step-by-Step Tutorial for Custom Ringtones and Sounds on Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-range-humor-development-unleash-your-wit/"><u>[New] Free-Range Humor Development Unleash Your Wit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>[New] Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-rhythms-companion-finding-premium-club-vids/"><u>[Updated] In 2024, Rhythm's Companion Finding Premium Club Vids</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transforming-your-zip-archive-into-an-srt-subtitle-file/"><u>[Updated] In 2024, Transforming Your Zip Archive Into an Srt Subtitle File</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-understanding-permissions-the-key-to-saving-google-meets-for-2024/"><u>[Updated] Understanding Permissions The Key to Saving Google Meets for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-superior-virtual-background-switchers-guide/"><u>2024 Approved 10 Superior Virtual Background Switchers Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-android-lightroom-assessment/"><u>2024 Approved Comprehensive Android Lightroom Assessment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-the-screen-jaunt-vrs-spectacular-world-for-2024/"><u>Beyond the Screen Jaunt VR's Spectacular World for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-presentations-with-powerpoint-soundtracks/"><u>Enhancing Presentations with PowerPoint Soundtracks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-tips-for-writing-accurate-slug-lines/"><u>Essential Tips for Writing Accurate Slug Lines</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-obs-full-screen-troubles-now-under-control/"><u>In 2024, Obs Full Screen Troubles Now Under Control</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-hd-blackouts-on-facebook-live-tips-for-chromesafari-users/"><u>Navigating HD Blackouts on Facebook Live Tips for Chrome/Safari Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-iphone-video-editing-showdown-top-5-apps-compared/"><u>New 2024 Approved IPhone Video Editing Showdown Top 5 Apps Compared</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-plus-playstation-gaming-controls-included/"><u>Nintendo Switch Plus: PlayStation Gaming Controls Included</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-quick-filming-techniques-your-5-best-home-hacks-list/"><u>Unlock Quick Filming Techniques – Your 5 Best Home Hacks List</u></a></li>
 </ul></div>
 

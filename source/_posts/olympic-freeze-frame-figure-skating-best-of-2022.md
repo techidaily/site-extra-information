@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Freeze-Frame  Figure Skating Best of 2022\""
-date: 2024-12-11T17:36:29.778Z
-updated: 2024-12-14T19:58:22.486Z
+date: 2024-12-18T21:19:14.313Z
+updated: 2024-12-23T16:59:50.550Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -35,24 +39,16 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
@@ -62,12 +58,16 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
@@ -98,15 +98,15 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,19 +121,17 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-19-critical-examples-of-the-metaverse-unveiled/"><u>[New] 19 Critical Examples of the Metaverse Unveiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-5-streamlined-online-convertors-for-gifs-to-video/"><u>[New] Best 5 Streamlined Online Convertors for GIFs to Video</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-echoes-unleashed-exploring-sound-with-mac/"><u>[New] Echoes Unleashed Exploring Sound with Mac</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-guide-to-timing-your-wedding-in-10-top-apps/"><u>[New] In 2024, Ultimate Guide to Timing Your Wedding, in 10 Top Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unique-ideas-for-dynamic-fb-video-marketing-campaigns-for-2024/"><u>[New] Unique Ideas for Dynamic FB Video Marketing Campaigns for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/"><u>[Updated] Snapchat Integration for Twitter's Visual Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/balancing-professional-and-personal-profiles-for-2024/"><u>Balancing Professional and Personal Profiles for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-for-maximizing-vscos-potential/"><u>Expert Tips for Maximizing VSCO's Potential</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-list-iphone-video-recording-hacks/"><u>In 2024, A-List iPhone Video Recording Hacks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-balancing-act-a-comprehensive-guide-to-drone-gimbals/"><u>In 2024, Balancing Act A Comprehensive Guide to Drone Gimbals</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-printer-software-model-w-windows/"><u>Install Printer Software Model W Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-stagnant-utorrent-transfers-on-windows/"><u>Remedying Stagnant uTorrent Transfers on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>[New] The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pro-3-camera-insight-mastering-video-on-the-go-with-ion-for-2024/"><u>[Updated] Pro 3 Camera Insight Mastering Video on the Go with ION for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spark-interest-engage-followers-maximizing-tiktok-unboxer-appeal/"><u>[Updated] Spark Interest, Engage Followers Maximizing TikTok Unboxer Appeal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-360-degree-view-transformative-media-experience/"><u>2024 Approved A 360-Degree View Transformative Media Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/20mb-video-seconds-breakdown-for-2024/"><u>20MB Video - Seconds Breakdown for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-time-of-playback-in-a-20mb-film/"><u>Analyzing Time of Playback in a 20Mb Film</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apex-palette-adjuster-for-2024/"><u>Apex Palette Adjuster for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-classic-visuals-a-guide-to-shader-magic-in-retroarc/"><u>Crafting Classic Visuals: A Guide to Shader Magic in RetroArc</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-top-10-horizontal-and-vertical-igtv-editing-apps-reviewed/"><u>In 2024, Top 10 Horizontal & Vertical IGTV Editing Apps Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-great-race-camera-battle-gopro-hero-4-vs-ghost-s/"><u>The Great Race Camera Battle GoPro Hero 4 VS Ghost-S</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V30 | Dr.fone</u></a></li>
 </ul></div>
 

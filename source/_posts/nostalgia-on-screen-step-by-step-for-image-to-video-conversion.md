@@ -1,7 +1,7 @@
 ---
 title: "\"Nostalgia on Screen  Step-by-Step for Image to Video Conversion\""
-date: 2024-12-08T18:47:26.329Z
-updated: 2024-12-14T19:07:23.302Z
+date: 2024-12-21T21:09:56.073Z
+updated: 2024-12-23T17:05:23.188Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,13 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 ![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\. Get in Touch with a Professional
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Convert Old Photos into a Video Effortlessly?
 
@@ -90,10 +90,6 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
@@ -107,7 +103,7 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
@@ -122,6 +118,10 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
@@ -132,10 +132,14 @@ That’s it! After making all the changes, you can preview your video on the rig
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
@@ -170,10 +174,6 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -189,22 +189,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-explanation-of-googles-automatic-transcription-technology/"><u>[New] Comprehensive Explanation of Google's Automatic Transcription Technology</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-achieving-authenticity-altering-voices-on-instagram-profiles/"><u>[New] In 2024, Achieving Authenticity Altering Voices on Instagram Profiles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-displaycast-critique-service/"><u>[New] In 2024, DisplayCast Critique Service</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-flawless-visual-shifts-for-filmmakers/"><u>[Updated] 2024 Approved Flawless Visual Shifts for Filmmakers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-companions-for-podcast-lovers-activities-and-tasks/"><u>[Updated] Best Companions for Podcast Lovers Activities and Tasks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-secrets-of-fbx-game-recorder-unveiled-for-2024/"><u>[Updated] Secrets of FBX Game Recorder Unveiled for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/astro-bio-revolution-crafting-signature-whatsapp-identities-for-2024/"><u>Astro-Bio Revolution Crafting Signature WhatsApp Identities for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-motion-samsungs-time-lapse-guide-for-2024/"><u>Capturing Motion Samsung's Time-Lapse Guide for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gratuitous-sound-solutions-years-best-lut-downloads/"><u>Gratuitous Sound Solutions - Year's Best LUT Downloads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-9-masterclass-in-live-gaming-streams/"><u>In 2024, 9 Masterclass in Live Gaming Streams</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-beginners-approach-to-adding-dates-to-photographs/"><u>In 2024, A Beginner's Approach to Adding Dates to Photographs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-memory-write-errors/"><u>Resolving Windows Memory Write Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reverse-process-of-unresponsive-touchpanels/"><u>Reverse Process of Unresponsive Touchpanels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visionary-flying-discover-the-q500-typhoon/"><u>Visionary Flying - Discover the Q500 Typhoon</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-360-camera-buying-guide-how-to-choose-a-suitable-360-camera/"><u>[New] 360 Camera Buying Guide How to Choose a Suitable 360 Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-into-film-editing-made-easy/"><u>[New] Getting Into Film Editing Made Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-quick-youtube-comment-removal-techniques/"><u>[New] Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pivotal-moments-in-figure-skating-22-highlights/"><u>[New] Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-leading-edge-quick-frame-gatherer-5/"><u>[Updated] In 2024, Leading Edge Quick Frame Gatherer #5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-subtitle-tools-navigate-through-the-best-10-web-edits/"><u>2024 Approved Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/macos-3/"><u>如何在 macOS 上無需花錢就能將檔案移動到外接硬碟：3 種技術指南</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-closer-look-ffmpeg-for-pristine-audio-extraction-for-2024/"><u>A Closer Look FFmpeg for Pristine Audio Extraction for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/classy-contemporary-and-convenient-a-full-evaluation-of-the-flexispot-theodore-adjustable-desk-for-professionals/"><u>Classy, Contemporary & Convenient: A Full Evaluation of the Flexispot Theodore Adjustable Desk for Professionals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-an-unresponsive-iphone-flashlight-a-comprehensive-guide-with-12-solutions/"><u>Fixing an Unresponsive iPhone Flashlight - A Comprehensive Guide with 12 Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-non-responsive-lenovo-mouse-pads-in-different-versions-of-windows-operating-system/"><u>How to Repair Non-Responsive Lenovo Mouse Pads in Different Versions of Windows Operating System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-budget-friendly-high-fidelity-webm-players/"><u>The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
 </ul></div>
 

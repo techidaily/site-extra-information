@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Best of Breed  Exceptional Cardboard VR Gaming Experienits\""
-date: 2024-07-27T04:54:57.788Z
-updated: 2024-07-28T04:54:57.788Z
+date: 2024-12-18T18:38:03.478Z
+updated: 2024-12-23T18:53:27.228Z
 tags: 
   - screen-recording
   - ai video
@@ -29,84 +29,8 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 The Google Cardboard is the most affordable way to experience virtual reality without having to spend a lot of cash. The VR technology is still in its early stages, and consumers are slowly embracing it. If you have bought [Google Cardboard](https://tools.techidaily.com/wondershare/filmora/download/), below are the best VR games that you can play with it.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## 1. Chair in a Room
-
-Chair in a Room is a horror game for the Google Cardboard. You play a lawyer who is on his way to the top of the corporate ladder. However, you are visited by your business partner and the ghosts of the past, present and future. The goal of the game is to find the child-like innocence inside of you to unlock the happy ending.
-
-If you want a good scare, then this is the VR game that you should play. You will feel your heart pounding as you progress through the game. It really feels like it was made for VR and not just a port. On the downside, you need a fast smartphone and good headphones to enjoy the game. It was designed for the Nexus 5 and above, and devices with lower specs might have trouble running the game.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-## 2. BombSquad VR for Cardboard
-
-BombSquad VR for Cardboard is an arcade game where players must avoid getting hit by bombs, and at the same time capture flags. Up to eight players can play at the same time. To play the game, you need a gamepad or another Android device to act as a controller. While it costs $2.99, you also get the BombSquad Pro that allows you to play the non-VR version of the game. The game features networked multiplayer mode, advanced ragdoll face-plant physics, lots of explosions, pirates, barbarians, ninja, and chefs.
-
-It is a fun game that you can play with your friends. If you enjoy the normal BombSquad game, then you will definitely love the VR version. However, just like the other VR games, it requires a lot of power. There are some players that find the game too jumpy and glitch. They can’t hold a position.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
-## 3
-
-BAMF VR
-
-BAMF VR is a simple game that only requires you to push a single button. The objective of the game is to explore the world and collect crystals. There are mazes, timed obstacles, and lots of exploration. While it is an adventure game, there’s no jumping or running. Instead, players teleport from one place to another. To teleport, you need to hit the button. It is recommended to play it while standing up or sitting on a swivel chair because it requests the player to turn around.
-
-BAMF VR is one of the best VR games for the Google Cardboard. While it is simple, it has imaginative puzzles. There are no downsides to the game; except players want more levels because it is easy to beat the game.
-
-## 4. Sisters
-
-VR is the best medium for horror games. You just need to seat back and look around as supernatural stuff happen around you. It is best to play with headphones to fully enjoy the experience.
-
-It has simple look based controls that will allow players to pick up and play the game. It has a scary digitally painted environment that will truly immerse you into the game. And combined with the spooky soundtrack, it feels like you are really there.
-
-If you want to be scared, then go play Sisters. It is best to prank your friends who think that VR games are not that scary. However, there are reports that it keeps on crashing on low-end Android phones.
-
-## 5. Waa! VR
-
-The little astronaut is back, and now he explores a VR world. The objective of the game is to destroy incoming asteroids by shooting them with homing missiles. No controllers are required. It features 360 free look, and you just need to focus to select the target.
-
-Waa! is a VR game that kids will enjoy. The gameplay is simple and just right for the little ones. There are no bad comments about the except that it might be too easy for adult users.
-
-| Title:                | Chair In A Room         | BombSquad VR for Cardboard                                                             | BAMF VR                                                                         | Sisters                                                                             | Waa! VR            |
-| --------------------- | ----------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------ |
-| Pricing:              | Free                    | $2.99                                                                                  | Free                                                                            | Free                                                                                | $1.99              |
-| Users Review:         | Very positive           | Very positive                                                                          | Very positive                                                                   | Positive                                                                            | Positive           |
-| Genre                 | Horror/Adventure        | Action                                                                                 | Adventure                                                                       | Horror/Adventure                                                                    | Action/Adventure   |
-| Developer             | Ryan Bousfield          | Eric Froemling                                                                         | Mikael W. Bergene                                                               | Otherworld Interactive                                                              | Peter Bickhofe     |
-| Publisher             | Ryan BousfieldM         | Eric Froemling                                                                         | Mikael W. Bergene                                                               | Otherworld Interactive                                                              | Peter Bickhofe     |
-| Release Date          | December 23, 2015       | August 10, 2016                                                                        | April 25, 2016                                                                  | March 31, 2016                                                                      | January 11, 2016   |
-| Player                | Single-player           | Multi-player                                                                           | Single-player                                                                   | Single-player                                                                       | Single-player      |
-| Language              | English                 | English                                                                                | English                                                                         | English                                                                             | English            |
-| Age Rating            | 12+                     | 12+                                                                                    | 3+                                                                              | 12+                                                                                 | 3+                 |
-| Controller            | Not required            | Required                                                                               | Required                                                                        | Not required                                                                        | Not required       |
-| Supported Controllers | Controller and keyboard | Gamepad                                                                                | Bluetooth/USB controller                                                        | None                                                                                | None               |
-| Space Required        | 39 MB                   | 52 MB                                                                                  | 36 MB                                                                           | 33 MB                                                                               | 27 MB              |
-| Platform              | Android 4.1 and up      | Android 4.1 and up                                                                     | Android                                                                         | Android 4.1 and up                                                                  | Android 4.1 and up |
-| Internet connection   | Not required            | Required                                                                               | Not required                                                                    | Not required                                                                        | Not required       |
-| Where to download     | Google Play             | [Google Play](https://play.google.com/store/apps/details?id=net.froemling.bombsquadcb) | [Google Play](https://play.google.com/store/apps/details?id=com.MWB.BAMF&hl=en) | [Google Play](https://play.google.com/store/apps/details?id=com.otherworld.Sisters) | Google Play        |
-| Recommend stars       | 4 Stars                 | 4 Stars                                                                                | 4.5 Stars                                                                       | 4 Stars                                                                             | 4 Stars            |
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-The Google Cardboard is the most affordable way to experience virtual reality without having to spend a lot of cash. The VR technology is still in its early stages, and consumers are slowly embracing it. If you have bought [Google Cardboard](https://tools.techidaily.com/wondershare/filmora/download/), below are the best VR games that you can play with it.
 
 ## 1. Chair in a Room
 
@@ -114,9 +38,6 @@ Chair in a Room is a horror game for the Google Cardboard. You play a lawyer who
 
 If you want a good scare, then this is the VR game that you should play. You will feel your heart pounding as you progress through the game. It really feels like it was made for VR and not just a port. On the downside, you need a fast smartphone and good headphones to enjoy the game. It was designed for the Nexus 5 and above, and devices with lower specs might have trouble running the game.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 2. BombSquad VR for Cardboard
 
 BombSquad VR for Cardboard is an arcade game where players must avoid getting hit by bombs, and at the same time capture flags. Up to eight players can play at the same time. To play the game, you need a gamepad or another Android device to act as a controller. While it costs $2.99, you also get the BombSquad Pro that allows you to play the non-VR version of the game. The game features networked multiplayer mode, advanced ragdoll face-plant physics, lots of explosions, pirates, barbarians, ninja, and chefs.
@@ -131,6 +52,10 @@ BAMF VR is a simple game that only requires you to push a single button. The obj
 
 BAMF VR is one of the best VR games for the Google Cardboard. While it is simple, it has imaginative puzzles. There are no downsides to the game; except players want more levels because it is easy to beat the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Sisters
 
 VR is the best medium for horror games. You just need to seat back and look around as supernatural stuff happen around you. It is best to play with headphones to fully enjoy the experience.
@@ -138,6 +63,10 @@ VR is the best medium for horror games. You just need to seat back and look arou
 It has simple look based controls that will allow players to pick up and play the game. It has a scary digitally painted environment that will truly immerse you into the game. And combined with the spooky soundtrack, it feels like you are really there.
 
 If you want to be scared, then go play Sisters. It is best to prank your friends who think that VR games are not that scary. However, there are reports that it keeps on crashing on low-end Android phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5. Waa! VR
 
@@ -166,6 +95,10 @@ Waa! is a VR game that kids will enjoy. The gameplay is simple and just right fo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -177,6 +110,10 @@ Follow @Benjamin Arango
  Mar 27, 2024• Proven solutions
 
 The Google Cardboard is the most affordable way to experience virtual reality without having to spend a lot of cash. The VR technology is still in its early stages, and consumers are slowly embracing it. If you have bought [Google Cardboard](https://tools.techidaily.com/wondershare/filmora/download/), below are the best VR games that you can play with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1. Chair in a Room
 
@@ -190,9 +127,6 @@ BombSquad VR for Cardboard is an arcade game where players must avoid getting hi
 
 It is a fun game that you can play with your friends. If you enjoy the normal BombSquad game, then you will definitely love the VR version. However, just like the other VR games, it requires a lot of power. There are some players that find the game too jumpy and glitch. They can’t hold a position.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 3
 
 BAMF VR
@@ -209,9 +143,6 @@ It has simple look based controls that will allow players to pick up and play th
 
 If you want to be scared, then go play Sisters. It is best to prank your friends who think that VR games are not that scary. However, there are reports that it keeps on crashing on low-end Android phones.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5. Waa! VR
 
 The little astronaut is back, and now he explores a VR world. The objective of the game is to destroy incoming asteroids by shooting them with homing missiles. No controllers are required. It features 360 free look, and you just need to focus to select the target.
@@ -251,6 +182,10 @@ Follow @Benjamin Arango
 
 The Google Cardboard is the most affordable way to experience virtual reality without having to spend a lot of cash. The VR technology is still in its early stages, and consumers are slowly embracing it. If you have bought [Google Cardboard](https://tools.techidaily.com/wondershare/filmora/download/), below are the best VR games that you can play with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Chair in a Room
 
 Chair in a Room is a horror game for the Google Cardboard. You play a lawyer who is on his way to the top of the corporate ladder. However, you are visited by your business partner and the ghosts of the past, present and future. The goal of the game is to find the child-like innocence inside of you to unlock the happy ending.
@@ -258,8 +193,9 @@ Chair in a Room is a horror game for the Google Cardboard. You play a lawyer who
 If you want a good scare, then this is the VR game that you should play. You will feel your heart pounding as you progress through the game. It really feels like it was made for VR and not just a port. On the downside, you need a fast smartphone and good headphones to enjoy the game. It was designed for the Nexus 5 and above, and devices with lower specs might have trouble running the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2. BombSquad VR for Cardboard
 
 BombSquad VR for Cardboard is an arcade game where players must avoid getting hit by bombs, and at the same time capture flags. Up to eight players can play at the same time. To play the game, you need a gamepad or another Android device to act as a controller. While it costs $2.99, you also get the BombSquad Pro that allows you to play the non-VR version of the game. The game features networked multiplayer mode, advanced ragdoll face-plant physics, lots of explosions, pirates, barbarians, ninja, and chefs.
@@ -267,8 +203,9 @@ BombSquad VR for Cardboard is an arcade game where players must avoid getting hi
 It is a fun game that you can play with your friends. If you enjoy the normal BombSquad game, then you will definitely love the VR version. However, just like the other VR games, it requires a lot of power. There are some players that find the game too jumpy and glitch. They can’t hold a position.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3
 
 BAMF VR
@@ -277,9 +214,6 @@ BAMF VR is a simple game that only requires you to push a single button. The obj
 
 BAMF VR is one of the best VR games for the Google Cardboard. While it is simple, it has imaginative puzzles. There are no downsides to the game; except players want more levels because it is easy to beat the game.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4. Sisters
 
 VR is the best medium for horror games. You just need to seat back and look around as supernatural stuff happen around you. It is best to play with headphones to fully enjoy the experience.
@@ -288,9 +222,6 @@ It has simple look based controls that will allow players to pick up and play th
 
 If you want to be scared, then go play Sisters. It is best to prank your friends who think that VR games are not that scary. However, there are reports that it keeps on crashing on low-end Android phones.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 5. Waa! VR
 
 The little astronaut is back, and now he explores a VR world. The objective of the game is to destroy incoming asteroids by shooting them with homing missiles. No controllers are required. It features 360 free look, and you just need to focus to select the target.
@@ -316,9 +247,73 @@ Waa! is a VR game that kids will enjoy. The gameplay is simple and just right fo
 | Where to download     | Google Play             | [Google Play](https://play.google.com/store/apps/details?id=net.froemling.bombsquadcb) | [Google Play](https://play.google.com/store/apps/details?id=com.MWB.BAMF&hl=en) | [Google Play](https://play.google.com/store/apps/details?id=com.otherworld.Sisters) | Google Play        |
 | Recommend stars       | 4 Stars                 | 4 Stars                                                                                | 4.5 Stars                                                                       | 4 Stars                                                                             | 4 Stars            |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+The Google Cardboard is the most affordable way to experience virtual reality without having to spend a lot of cash. The VR technology is still in its early stages, and consumers are slowly embracing it. If you have bought [Google Cardboard](https://tools.techidaily.com/wondershare/filmora/download/), below are the best VR games that you can play with it.
+
+## 1. Chair in a Room
+
+Chair in a Room is a horror game for the Google Cardboard. You play a lawyer who is on his way to the top of the corporate ladder. However, you are visited by your business partner and the ghosts of the past, present and future. The goal of the game is to find the child-like innocence inside of you to unlock the happy ending.
+
+If you want a good scare, then this is the VR game that you should play. You will feel your heart pounding as you progress through the game. It really feels like it was made for VR and not just a port. On the downside, you need a fast smartphone and good headphones to enjoy the game. It was designed for the Nexus 5 and above, and devices with lower specs might have trouble running the game.
+
+## 2. BombSquad VR for Cardboard
+
+BombSquad VR for Cardboard is an arcade game where players must avoid getting hit by bombs, and at the same time capture flags. Up to eight players can play at the same time. To play the game, you need a gamepad or another Android device to act as a controller. While it costs $2.99, you also get the BombSquad Pro that allows you to play the non-VR version of the game. The game features networked multiplayer mode, advanced ragdoll face-plant physics, lots of explosions, pirates, barbarians, ninja, and chefs.
+
+It is a fun game that you can play with your friends. If you enjoy the normal BombSquad game, then you will definitely love the VR version. However, just like the other VR games, it requires a lot of power. There are some players that find the game too jumpy and glitch. They can’t hold a position.
+
+## 3
+
+BAMF VR
+
+BAMF VR is a simple game that only requires you to push a single button. The objective of the game is to explore the world and collect crystals. There are mazes, timed obstacles, and lots of exploration. While it is an adventure game, there’s no jumping or running. Instead, players teleport from one place to another. To teleport, you need to hit the button. It is recommended to play it while standing up or sitting on a swivel chair because it requests the player to turn around.
+
+BAMF VR is one of the best VR games for the Google Cardboard. While it is simple, it has imaginative puzzles. There are no downsides to the game; except players want more levels because it is easy to beat the game.
+
+## 4. Sisters
+
+VR is the best medium for horror games. You just need to seat back and look around as supernatural stuff happen around you. It is best to play with headphones to fully enjoy the experience.
+
+It has simple look based controls that will allow players to pick up and play the game. It has a scary digitally painted environment that will truly immerse you into the game. And combined with the spooky soundtrack, it feels like you are really there.
+
+If you want to be scared, then go play Sisters. It is best to prank your friends who think that VR games are not that scary. However, there are reports that it keeps on crashing on low-end Android phones.
+
+## 5. Waa! VR
+
+The little astronaut is back, and now he explores a VR world. The objective of the game is to destroy incoming asteroids by shooting them with homing missiles. No controllers are required. It features 360 free look, and you just need to focus to select the target.
+
+Waa! is a VR game that kids will enjoy. The gameplay is simple and just right for the little ones. There are no bad comments about the except that it might be too easy for adult users.
+
+| Title:                | Chair In A Room         | BombSquad VR for Cardboard                                                             | BAMF VR                                                                         | Sisters                                                                             | Waa! VR            |
+| --------------------- | ----------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------ |
+| Pricing:              | Free                    | $2.99                                                                                  | Free                                                                            | Free                                                                                | $1.99              |
+| Users Review:         | Very positive           | Very positive                                                                          | Very positive                                                                   | Positive                                                                            | Positive           |
+| Genre                 | Horror/Adventure        | Action                                                                                 | Adventure                                                                       | Horror/Adventure                                                                    | Action/Adventure   |
+| Developer             | Ryan Bousfield          | Eric Froemling                                                                         | Mikael W. Bergene                                                               | Otherworld Interactive                                                              | Peter Bickhofe     |
+| Publisher             | Ryan BousfieldM         | Eric Froemling                                                                         | Mikael W. Bergene                                                               | Otherworld Interactive                                                              | Peter Bickhofe     |
+| Release Date          | December 23, 2015       | August 10, 2016                                                                        | April 25, 2016                                                                  | March 31, 2016                                                                      | January 11, 2016   |
+| Player                | Single-player           | Multi-player                                                                           | Single-player                                                                   | Single-player                                                                       | Single-player      |
+| Language              | English                 | English                                                                                | English                                                                         | English                                                                             | English            |
+| Age Rating            | 12+                     | 12+                                                                                    | 3+                                                                              | 12+                                                                                 | 3+                 |
+| Controller            | Not required            | Required                                                                               | Required                                                                        | Not required                                                                        | Not required       |
+| Supported Controllers | Controller and keyboard | Gamepad                                                                                | Bluetooth/USB controller                                                        | None                                                                                | None               |
+| Space Required        | 39 MB                   | 52 MB                                                                                  | 36 MB                                                                           | 33 MB                                                                               | 27 MB              |
+| Platform              | Android 4.1 and up      | Android 4.1 and up                                                                     | Android                                                                         | Android 4.1 and up                                                                  | Android 4.1 and up |
+| Internet connection   | Not required            | Required                                                                               | Not required                                                                    | Not required                                                                        | Not required       |
+| Where to download     | Google Play             | [Google Play](https://play.google.com/store/apps/details?id=net.froemling.bombsquadcb) | [Google Play](https://play.google.com/store/apps/details?id=com.MWB.BAMF&hl=en) | [Google Play](https://play.google.com/store/apps/details?id=com.otherworld.Sisters) | Google Play        |
+| Recommend stars       | 4 Stars                 | 4 Stars                                                                                | 4.5 Stars                                                                       | 4 Stars                                                                             | 4 Stars            |
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -349,7 +344,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-breathing-life-into-images-mastering-face-motion-blur-in-picsart/"><u>[New] Breathing Life Into Images Mastering Face Motion Blur in Picsart</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-close-up-power-in-videoleap-zooming-made-easy-for-2024/"><u>[Updated] Close-Up Power in VideoLeap Zooming Made Easy for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-solutions-to-chromes-missing-video-while-using-facebook/"><u>10 Solutions to Chrome's Missing Video While Using Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chroma-blades-the-new-era-of-high-definition-capture/"><u>2024 Approved Chroma Blades The New Era of High-Definition Capture</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-magic-6-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor Magic 6 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-elite-podcast-app-selection-top-6-list/"><u>Android's Elite Podcast App Selection Top 6 List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-vr-experience-advanced-gopro-4k-editing/"><u>Enhance VR Experience Advanced GoPro 4K Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-finest-free-luts-of-the-year/"><u>Explore the Finest FREE LUTs of the Year</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-acclaimed-top-5-compact-cameras-for-filming/"><u>In 2024, Acclaimed Top 5 Compact Cameras for Filming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-compose-your-story-best-mobile-annotation-tools/"><u>In 2024, Compose Your Story Best Mobile Annotation Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-streamlining-minecraft-by-boosting-ram-capacity/"><u>In 2024, Streamlining Minecraft by Boosting RAM Capacity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/live-tv-streaming-guide-the-best-ten-and-their-comparison/"><u>Live TV Streaming Guide The Best Ten and Their Comparison</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-leap-with-confidence-your-step-by-step-windows-11-in-place-journey/"><u>Making the Leap with Confidence: Your Step-by-Step Windows 11 In-Place Journey</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-efficient-apc-be600m1-uninterruptible-power-supply-plus-a-usb-charger-for-your-devices/"><u>The Ultimate Guide to the Efficient APC BE600M1 Uninterruptible Power Supply - Plus a USB Charger for Your Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-selection-every-game-only-available-on-the-playstation-5/"><u>Ultimate Selection: Every Game Only Available on the PlayStation 5</u></a></li>
+</ul></div>
 

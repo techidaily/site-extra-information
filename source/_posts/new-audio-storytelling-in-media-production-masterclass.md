@@ -1,7 +1,7 @@
 ---
 title: "[New] Audio Storytelling in Media Production Masterclass"
-date: 2024-12-01T18:50:45.517Z
-updated: 2024-12-08T18:08:15.897Z
+date: 2024-12-17T21:36:33.981Z
+updated: 2024-12-23T17:25:59.686Z
 tags: 
   - screen-recording
   - ai video
@@ -25,7 +25,7 @@ And when you learn how to use this technique the right way, your YouTube videos 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Voiceover or Narration?
@@ -48,15 +48,15 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
@@ -71,7 +71,7 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
@@ -84,10 +84,6 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -96,17 +92,21 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
 
@@ -146,18 +146,19 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-audio-input-reduction-zero-price-included/"><u>[Updated] Audio Input Reduction - Zero Price Included</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-buy-in-4k-budget-savvy-camera-picks/"><u>[Updated] Best Buy in 4K Budget-Savvy Camera Picks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-ways-from-video-links-to-audio-downloads/"><u>[Updated] Prime Ways From Video Links to Audio Downloads</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/10t-5g-messages-recovery-recover-deleted-messages-from-10t-5g-by-fonelab-android-recover-messages/"><u>10T 5G Messages Recovery - Recover Deleted Messages from 10T 5G</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-stop-instant-video-capture-effortlessly-using-quicktime/"><u>2024 Approved Stop Instant Video Capture Effortlessly Using QuickTime</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/5-ways-to-rewind-a-twitch-live-stream-for-2024/"><u>5 Ways to Rewind A Twitch Live Stream for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-with-clarity-advanced-tips-for-gopro-hero5-black/"><u>Capture with Clarity Advanced Tips for GoPro Hero5 Black</u></a></li>
-<li><a href="https://win11.techidaily.com/directives-for-disabling-errors-on-gaming-platform/"><u>Directives for Disabling Errors on Gaming Platform</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/igtv-content-size-requirements/"><u>IGTV Content Size Requirements</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-moto-g34-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola Moto G34 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-non-functioning-spelling-corrections-in-outlook/"><u>Troubleshooting Non-Functioning Spelling Corrections in Outlook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-video-correction-eradicating-fish-eye-from-gopro/"><u>[New] Precision Video Correction Eradicating Fish Eye From GoPro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2022-olympic-sprint-ice-key-moments-and-winners/"><u>[Updated] 2022 Olympic Sprint Ice Key Moments and Winners</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-expert-tips-for-smooth-win11-meetings-via-zoom/"><u>[Updated] Expert Tips for Smooth Win11 Meetings via Zoom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods/"><u>[Updated] Navigating YouTube's Subtitle System Download with Ease Using 3 Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028402050-dvd/"><u>市販DVDが動き出さない? ストレスなしでこの簡単対策を学べ</u></a></li>
+<li><a href="https://extra-information.techidaily.com/choosing-your-gopro-an-exhaustive-comparison/"><u>Choosing Your GoPro An Exhaustive Comparison</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-dreaded-class-not-found-problem-in-windows-computers-easily/"><u>Fixing the Dreaded 'Class Not Found' Problem in Windows Computers Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-huawei-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Huawei Phones with/without a PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterful-plot-crafting-in-film-history/"><u>Masterful Plot Crafting in Film History</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximum-clarity-video-transformer-windowsmac/"><u>Maximum Clarity Video Transformer (Windows/Mac)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-orientation-top-tripods-for-iphones-and-androids/"><u>Optimal Orientation Top Tripods for iPhones & Androids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/secrets-to-proficient-mobile-and-desktop-film-recording-for-2024/"><u>Secrets to Proficient Mobile and Desktop Film Recording for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-how-to-address-bootmgr-error-messages/"><u>Troubleshooting Guide: How to Address BOOTMGR Error Messages</u></a></li>
 </ul></div>
 

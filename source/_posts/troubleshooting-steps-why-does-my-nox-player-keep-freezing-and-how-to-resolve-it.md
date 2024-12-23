@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Does My Nox Player Keep Freezing and How to Resolve It?"
-date: 2024-12-01T16:07:44.034Z
-updated: 2024-12-08T17:41:59.121Z
+date: 2024-12-17T16:16:06.003Z
+updated: 2024-12-23T19:50:46.574Z
 tags:
   - win11
   - win10
@@ -41,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
@@ -65,19 +73,11 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
 
@@ -86,7 +86,7 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
@@ -99,13 +99,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -120,7 +120,7 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
@@ -160,7 +160,7 @@ See if this issue reappears. If not, you have fixed this issue!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
@@ -168,7 +168,7 @@ See if this issue reappears. If not, you have fixed this issue!
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
@@ -193,24 +193,22 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-a-step-by-step-guide-to-mastering-morphvox-modifications/"><u>[Updated] A Step-by-Step Guide to Mastering MorphVOX Modifications</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-instagram-video-edge-planning-for-maximum-marketing-success/"><u>2024 Approved The Instagram Video Edge Planning for Maximum Marketing Success</u></a></li>
-<li><a href="https://extra-information.techidaily.com/aerial-artistry-essential-steps-for-drone-video-excellence-for-2024/"><u>Aerial Artistry Essential Steps for Drone Video Excellence for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/description-of-different-types-of-wet-scrubbers-such-as-venturi-and-packed-bed-scrubbers-with-examples-of-their-applications-based-on-efficiency-and-space-r566/"><u>Description of Different Types of Wet Scrubbers Such as Venturi and Packed-Bed Scrubbers, with Examples of Their Applications Based on Efficiency and Space Requirements</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-corsair-keyboard-drivers-for-windows-get-your-free-secure-installation-files-now/"><u>Download CORSAIR Keyboard Drivers for Windows - Get Your Free, Secure Installation Files Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-visuals-with-soundtracks-the-powerpresenters-way/"><u>Enhancing Visuals with Soundtracks The PowerPresenter's Way</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-convertor-list-best-5-online-gif-to-video-apps/"><u>Essential Convertor List Best 5 Online GIF to Video Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ffmpegs-audio-recapture-challenge/"><u>FFmpeg's Audio Recapture Challenge</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harness-the-power-of-iphoneipad-for-top-tier-travel-and-interview-podcasts/"><u>Harness the Power of iPhone/iPad for Top-Tier Travel & Interview Podcasts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-google-pixel-fold-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Google Pixel Fold Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-decoding-monetization-how-much-creators-earn-per-ad-on-youtube/"><u>In 2024, Decoding Monetization How Much Creators Earn Per Ad on YouTube?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-multitasking-firefox-picture-in-picture-explained-for-2024/"><u>Mastering Multitasking Firefox Picture-in-Picture Explained for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premier-business-cloud-data-solutions/"><u>Premier Business Cloud Data Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/solo-sounders-plight-resolved-guide-for-2024/"><u>Solo Sounder's Plight Resolved Guide for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-your-potential-with-filmoras-loved-9-traits/"><u>Unleash Your Potential with Filmora's Loved 9 Traits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-colors-unleashed-practical-application-of-color-theory/"><u>[New] Colors Unleashed Practical Application of Color Theory</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-achieving-visual-precision-with-the-right-4k-display-selection/"><u>2024 Approved Achieving Visual Precision with the Right 4K Display Selection</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/advanced-nuxt-pro-dashboard-with-argon-theme-enhanced-laravel-integration-by-creative-tim/"><u>Advanced Nuxt Pro Dashboard with Argon Theme - Enhanced Laravel Integration by Creative Tim</u></a></li>
+<li><a href="https://extra-information.techidaily.com/altered-captions-a-video-guide-for-2024/"><u>Altered Captions A Video Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blades-vivid-palette-now-in-stunning-4k-clarity/"><u>Blade's Vivid Palette, Now in Stunning 4K Clarity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/classic-cinema-in-paperback-examining-the-goofy-story/"><u>Classic Cinema in Paperback Examining 'The Goofy Story'</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/g-heroes-the-most-motivating-vids-of-the-year-1-10-for-2024/"><u>Hiring Heroes The Most Motivating Vids of the Year #1-10 for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-razr-40-lock-screen-password-by-drfone-android/"><u>How To Change Motorola Razr 40 Lock Screen Password?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cloud-marketplace-dissecting-cost-structures/"><u>In 2024, Cloud Marketplace Dissecting Cost Structures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/io-screen-recorder-user-manual-overview/"><u>IO Screen Recorder User Manual Overview</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-huawei-p60-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Huawei P60</u></a></li>
+<li><a href="https://extra-information.techidaily.com/powerhouse-modifications-top-10-os-xwin-srt-systems-unveiled/"><u>Powerhouse Modifications Top 10 OS X/Win SRT Systems Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-windows-unable-to-set-up-key-system-components-issue/"><u>Resolved: Fixing 'Windows Unable to Set Up Key System Components' Issue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-swiftly-converting-mp3-videos-to-avi-format-with-minimal-effort/"><u>Simple Steps: Swiftly Converting MP3 Videos to AVI Format with Minimal Effort</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-mobvoi-ticwatch-e2-on-a-budget-is-it-really-cheap-enough-to-ignore-its-flaws/"><u>The Mobvoi TicWatch E2 on a Budget - Is It Really Cheap Enough to Ignore Its Flaws?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tricks-to-increase-viewership-on-your-tiktok-unboxing-sessions/"><u>Tricks to Increase Viewership on Your TikTok Unboxing Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-settings-makeover-triad-of-techniques/"><u>Win11 Settings Makeover: Triad of Techniques</u></a></li>
 </ul></div>
 
