@@ -1,7 +1,7 @@
 ---
 title: "\"The Basics  What Makes a VR Device Special?\""
-date: 2024-12-20T18:10:57.789Z
-updated: 2024-12-23T16:34:01.200Z
+date: 2024-12-28T07:24:52.376Z
+updated: 2024-12-29T05:37:39.592Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  And for the final images to be totally convincing, the VR headsets use minimum frame rates of 60fps to do away with shuttering or make the users feel sick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top VR headsets overview
 
  The race by tech giants to get their share of the virtual reality market is on and company after company is burning the midnight oil to produce the next best headset.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![ghtc-vive-vr](https://images.wondershare.com/filmora/article-images/htc-vive.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
@@ -58,15 +62,19 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ![gear-vr](https://images.wondershare.com/filmora/article-images/gear-vr.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Oculus Rift](https://www.oculus.com/rift/  )
 
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
@@ -75,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
@@ -84,19 +92,11 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Not to be left behind, Google also has a cardboard virtual reality headset. With this headset, it sounds like popping your smartphone in a cardboard container and putting it over your head for a virtual reality experience. Sounds like a joke, but you will be pleasantly surprised to learn that it works like charm and it is also low cost. If anything, the smartphone you have already has all the gyroscopic sensors as well as the positioning devices needed to track your head movements.
 
  Since the Cardboard has grown so much in terms of popularity, Google has planned to release a better version known as Daydream. This will be a device like the Gear VR, but it has been designed to work with android phones which are currently being revamped to over better VR experiences. It is still not know when the new device will be available, but the Cardboard is retailing at $16.99 at Amazon.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -113,22 +113,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/cost-efficiency-in-yt-promotional-campaigns-for-2024/"><u>Cost Efficiency in YT Promotional Campaigns for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/democratizing-ai-innovation-discover-the-operational-secrets-of-gpt-4/"><u>Democratizing AI Innovation: Discover the Operational Secrets of GPT-4</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-lite-to-your-device-top-6-downloading-tools-of-2023-revealed/"><u>Facebook Lite to Your Device - Top 6 Downloading Tools of 2023 Revealed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hours-of-videography-expected-gb-usage/"><u>Hours of Videography Expected GB Usage</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ideal-smartphones-for-excellent-video-recording/"><u>Ideal Smartphones for Excellent Video Recording</u></a></li>
-<li><a href="https://extra-information.techidaily.com/illustrators-dream-top-8-ipados-drawers/"><u>Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-record-edit-and-export-high-quality-webcam-videoseasy-steps/"><u>In 2024, How to Record, Edit and Export High-Quality Webcam Videos[Easy Steps]</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-revolutionizing-virtual-reality-top-pc-headsets-of-the-new-year/"><u>In 2024, Revolutionizing Virtual Reality Top PC Headsets of the New Year</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>Recover lost data from Honor X50i+</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-motorola-moto-g73-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Motorola Moto G73 5G has been deleted</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-silent-clicks-on-your-logitech-g933-effortless-fixes-for-immediate-sound/"><u>Solving Silent Clicks on Your Logitech G933: Effortless Fixes for Immediate Sound</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-manual-implementing-speech-to-text-with-google-docs/"><u>Step-by-Step Manual Implementing Speech to Text with Google Docs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-podcasts/"><u>The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Podcasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-lava-blaze-2-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Lava Blaze 2 Pro Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/virtual-escapades-with-top-samsung-gear-vr-games/"><u>Virtual Escapades with Top Samsung Gear VR Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boost-productivity-effective-use-of-zoom-on-win10-pcs/"><u>[New] Boost Productivity Effective Use of Zoom on Win10 PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-breakdown-reviewing-2024s-video-show-features/"><u>[New] Complete Breakdown Reviewing 2024’S Video Show Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-custom-ringtone-ideas-for-christian-lifestyle/"><u>[Updated] 2024 Approved Custom Ringtone Ideas for Christian Lifestyle</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-exceptional-14-visual-text-motion-examples/"><u>[Updated] 2024 Approved Exceptional 14 Visual Text Motion Examples</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-bulgarian-for-efficient-speakers/"><u>Daily Dose of Bulgarian for Efficient Speakers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone X</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver/"><u>In 2024, Comparing the Crème De La Crème GoPro Hero5 Black to Hero4 Silver</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-motorola-moto-g34-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Motorola Moto G34 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/is-it-possible-to-quick-review-on-windows-heres-how/"><u>Is It Possible to Quick Review on Windows? Here’s How</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-level-mac-audio-logging-tools-uncover-the-top-5/"><u>Pro-Level Mac Audio Logging Tools Uncover the Top 5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/select-blur-apps-for-softened-backdrops/"><u>Select Blur Apps for Softened Backdrops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sony-s6700-updated-summary-unpacked/"><u>Sony S6700 Updated Summary Unpacked</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-comprehensive-guide-to-using-luts-in-video-editing/"><u>The Comprehensive Guide to Using LUTs in Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-definitive-guide-to-captivating-podcast-covers-for-2024/"><u>The Definitive Guide to Captivating Podcast Covers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/time-capsule-converting-single-photographs-to-video/"><u>Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-hardware-reviews/"><u>Tom's Tech Insights: Expert Hardware Reviews</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Aerial Adventures with Husqvarna's X4 FPV Quadcopter"
-date: 2024-12-20T17:01:03.773Z
-updated: 2024-12-23T21:27:23.989Z
+date: 2024-12-27T21:50:43.159Z
+updated: 2024-12-28T22:43:28.333Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 )
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 #### Verdict
 
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Complete Review for Hubsan H501S X4
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -163,20 +163,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-shadow-play-with-iphone-pro-photography-tips/"><u>2024 Approved Shadow Play with iPhone Pro Photography Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/3d-paint-speed-expertise-through-shortcuts/"><u>3D Paint Speed Expertise Through Shortcuts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/54m55a6a44ov44os44o844og44ks5o6s6zmk44gz44kl44ot44oh44kq57eo6zug44og44kv44ol44od44kv/"><u>特定フレームを排除するビデオ編集テクニック</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-dynamic-speed-up-videos/"><u>Crafting Dynamic Speed-Up Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enrich-iphone-videography-and-photos-with-expert-gear/"><u>Enrich iPhone Videography & Photos with Expert Gear</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-adjust-and-restore-correct-video-playback-direction-on-an-asus-notebook/"><u>How to Adjust and Restore Correct Video Playback Direction on an ASUS Notebook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-customize-your-devices-lock-screen-background/"><u>How To Customize Your Device's Lock Screen Background</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-leading-resources-for-premium-vector-data/"><u>In 2024, 10 Leading Resources for Premium Vector Data</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pierce-through-darkness-essential-techniques-to-brighten-iphone-vids/"><u>Pierce Through Darkness Essential Techniques to Brighten iPhone Vids</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-java-setup-issues-on-windows-systems/"><u>Resolving Java Setup Issues on Windows Systems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/sky-sprinting-guide-plus-mastering-the-art-of-fpv-drone-racing-for-2024/"><u>Sky Sprinting Guide + Mastering the Art of FPV Drone Racing for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-fixing-error-0x8024402c-on-windows/"><u>Step-by-Step Troubleshooting for Fixing Error 0X8024402c on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/steps-to-crafting-powerful-end-of-episode-notes/"><u>Steps to Crafting Powerful End-of-Episode Notes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/why-are-videos-invisible-on-sony-a6400/"><u>Why Are Videos Invisible on Sony A6400?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/zooming-up-triad-of-effective-video-enhancement-practices/"><u>Zooming Up Triad of Effective Video Enhancement Practices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-whats-going-wrong-sideways-videos-on-instagram/"><u>[New] What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-free-screen-recorder-apowersoft-evaluation/"><u>[Updated] In 2024, Free Screen Recorder Apowersoft Evaluation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-gaming-filmmaking-techniques-to-record-games-flawlessly/"><u>[Updated] In 2024, Gaming Filmmaking Techniques to Record Games Flawlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-straightforward-stories/"><u>2024 Approved Crafting Straightforward Stories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/artistic-compendium-for-perfect-paste-ups-for-2024/"><u>Artistic Compendium for Perfect Paste-Ups for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aviary-creator-searching-for-affordable-filters/"><u>Aviary Creator Searching for Affordable Filters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-tools-the-leading-camera-selections/"><u>Cinematic Tools The Leading Camera Selections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-guide-to-mastering-picsart-for-2024/"><u>Complete Guide to Mastering PicsArt for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/current-compendium-of-questions-for-captivating-audio-clips/"><u>Current Compendium of Questions for Captivating Audio Clips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/deciphering-cameras-smart-hdr-features-and-their-impact/"><u>Deciphering Camera's Smart HDR Features and Their Impact</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207103656-how-to-repair-a-malfunctioning-steam-client-launcher-expert-solutions-inside/"><u>How to Repair a Malfunctioning Steam Client Launcher - Expert Solutions Inside!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nubia-z50-ultra-drfone-by-drfone-android/"><u>How to Screen Mirroring Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-xs-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone XS to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-launch-update-breaking-down-the-latest-features-pricing-release-timeline-and-technical-specifications/"><u>Meta Quest 3 Launch Update: Breaking Down the Latest Features, Pricing, Release Timeline, and Technical Specifications</u></a></li>
 </ul></div>
 

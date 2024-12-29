@@ -1,7 +1,7 @@
 ---
 title: "Flash Frame Filmmaking Script"
-date: 2024-12-18T20:21:10.627Z
-updated: 2024-12-23T16:25:50.578Z
+date: 2024-12-24T02:56:43.575Z
+updated: 2024-12-28T22:44:40.595Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ This is always, always, the number one problem for my screenwriting students. Th
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. An independent story
@@ -59,11 +59,7 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Turning Point
@@ -71,10 +67,6 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 It's helpful to think of a screenplay as a pattern of significant human change that you create at specific moments of change—the discoveries and decisions your main character makes that change the character and move the story forward. What your character wants and is trying to achieve in your short is the surface action – the events we see on screen. And how these events forever change a character's inner landscape is deep action—your character arc.
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Sublimation
 
@@ -112,10 +104,6 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -125,6 +113,10 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -157,7 +149,7 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Turning Point
@@ -166,11 +158,19 @@ It's helpful to think of a screenplay as a pattern of significant human change t
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Sublimation
 
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Ending
 
@@ -195,7 +195,11 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
@@ -206,13 +210,13 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.Save the video in the format of your choice
 
@@ -221,11 +225,7 @@ When everything is done, hit the “Create” button, and you'll see several opt
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -260,22 +260,22 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-capturing-the-extreme-the-gopro-hero5-black-vs-hero4-silver-duel/"><u>[New] Capturing the Extreme The GoPro Hero5 Black Vs Hero4 Silver Duel</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-converting-iphone-photos-jpg-png-into-pdf-documents/"><u>[Updated] Converting iPhone Photos (JPG, PNG) Into PDF Documents</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-leading-edge-tech-for-action-footage-capture/"><u>[Updated] In 2024, Leading Edge Tech for Action Footage Capture</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-oscillation-crafting-box/"><u>[Updated] Oscillation Crafting Box</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-amplify-your-iphone-films-with-free-audio-additions-discover-three-ways/"><u>2024 Approved Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways</u></a></li>
-<li><a href="https://extra-information.techidaily.com/an-easy-guide-to-embedding-mp3-files-into-presentations/"><u>An Easy Guide to Embedding MP3 Files Into Presentations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-solution-for-srt-not-working-in-premiere-for-2024/"><u>Comprehensive Solution for SRT Not Working in Premiere for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crafting-the-core-plot/"><u>Crafting the Core Plot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-offer-secure-lenovos-top-of-the-line-thinkpad-x1-extreme-gen-4-for-just-half-the-price-shop-smart/"><u>Exclusive Black Friday Offer: Secure Lenovo's Top-of-the-Line ThinkPad X1 Extreme Gen 4 for Just Half the Price | Shop Smart</u></a></li>
-<li><a href="https://fox-http.techidaily.com/explore-the-best-free-passport-picture-creation-services-online-for-2024/"><u>Explore the Best Free Passport Picture Creation Services Online for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprelevant-listings-best-free-tools-to-watch-webm-videos/"><u>In 2024, Comprelevant Listings Best Free Tools to Watch WebM Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-strategies-for-youtube-to-mpeg-conversion/"><u>In 2024, Optimal Strategies for YouTube-to-MPEG Conversion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/masterclass-in-vr-bikes-and-trails/"><u>Masterclass in VR Bikes and Trails</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a59-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A59 5G Device</u></a></li>
-<li><a href="https://win11.techidaily.com/unclutter-desktop-techniques-for-window-arrangement-in-win11/"><u>Unclutter Desktop: Techniques for Window Arrangement in Win11</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/zac-efron-backgrounds-collection-for-your-computer-professional-photos-and-designs-from-yl-computing-solutions/"><u>Zac Efron Backgrounds Collection for Your Computer - Professional Photos and Designs From YL Computing Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-your-guide-to-the-most-hilarious-tear-jerking-ig-memes/"><u>[Updated] Your Guide to The Most Hilarious, Tear-Jerking IG Memes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-access-unparalleled-image-clarity-for-no-charge/"><u>2024 Approved Access Unparalleled Image Clarity for No Charge</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-accessing-and-using-srt-audio-on-various-oses/"><u>2024 Approved Accessing and Using SRT Audio on Various OSes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile/"><u>2024 Approved Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-xperia-xz-superior-a-4k-mobile-experience-analysis/"><u>2024 Approved Sony Xperia XZ Superior A 4K Mobile Experience Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-batch-file-transformations/"><u>Best Batch File Transformations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosted-visuals-a-beginners-guide-to-gopro-video-editing-for-2024/"><u>Boosted Visuals A Beginner's Guide to GoPro Video Editing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brilliance-on-screen-an-examination-of-hps-4k-z32x/"><u>Brilliance on Screen An Examination of HP’s 4K Z32X</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-aukey-usb-30-hub-analysis-simple-design-powerful-performance/"><u>Comprehensive Aukey USB 3.0 Hub Analysis: Simple Design, Powerful Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-strategy-seamlessly-integrating-subtitles-in-videos/"><u>Expert Strategy Seamlessly Integrating Subtitles in Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-your-current-security-settings-do-not-allow-this-file-to-be-downloaded/"><u>Fixed: Your Current Security Settings Do Not Allow This File to Be Downloaded</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-linux-update-halts-snapdragon-x-elite-gpu-by-default-due-to-lack-of-verified-oem-key-signing-processes-available/"><u>New Linux Update Halts Snapdragon X Elite GPU by Default - Due to Lack of Verified OEM Key Signing Processes Available</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-10-best-free-online-video-repeaters/"><u>New The Ultimate List 10 Best Free Online Video Repeaters</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-s17-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo S17 Pro on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionary-top-8-methods-convert-subtitles-to-srt-format-seamlessly/"><u>Revolutionary Top 8 Methods Convert Subtitles to SRT Format Seamlessly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/speedy-silencing-eradicating-static-and-white-noise-from-audio-tracks-for-2024/"><u>Speedy Silencing Eradicating Static and White Noise From Audio Tracks for 2024</u></a></li>
 </ul></div>
 

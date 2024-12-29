@@ -1,7 +1,7 @@
 ---
 title: "Framing the World From a Phone Angle"
-date: 2024-12-19T18:15:15.067Z
-updated: 2024-12-23T19:31:54.697Z
+date: 2024-12-26T17:08:36.097Z
+updated: 2024-12-29T11:56:16.392Z
 tags: 
   - screen-recording
   - ai video
@@ -34,14 +34,14 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone users
 
@@ -52,17 +52,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -112,16 +112,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-fade-techniques-to-pare-down-audio-intensity-in-logic-pro/"><u>[New] 2024 Approved Fade Techniques to Pare Down Audio Intensity in Logic Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-tactics-for-youtube-advertising-with-banners/"><u>[Updated] 2024 Approved Essential Tactics for YouTube Advertising with Banners</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-insta-savvy-the-top-10-tags-that-matter-most-for-2024/"><u>[Updated] Insta Savvy The Top 10 Tags That Matter Most for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nokia-c300-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nokia C300 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comical-creation-quick-tips-for-meme-mastery/"><u>Comical Creation Quick Tips for Meme Mastery</u></a></li>
-<li><a href="https://extra-information.techidaily.com/confronting-giants-picking-your-powerhouse-t5-or-sjcam-s6-for-2024/"><u>Confronting Giants Picking Your Powerhouse - T5 or SJCAM S6 for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-steps-to-prep-your-oculus-rift-zone/"><u>Essential Steps to Prep Your Oculus Rift Zone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-muffled-to-clear-the-initial-use-of-fade-in-audition/"><u>From Muffled to Clear The Initial Use of Fade in Audition</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/inside-look-how-to-identify-and-clean-dust-in-your-computer-case-expert-advice-by-yl-software/"><u>Inside Look: How to Identify and Clean Dust in Your Computer Case - Expert Advice by YL Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-your-view-adding-captions-on-windows-media-player/"><u>Streamline Your View Adding Captions on Windows Media Player</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-recording-techniques-with-adobe-presenter/"><u>[New] 2024 Approved Mastering Recording Techniques with Adobe Presenter</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unmatched-guide-the-ultimate-11-streaming-recorders/"><u>[New] 2024 Approved Unmatched Guide The Ultimate 11 Streaming Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-a-captivating-voice-the-art-of-writing-film-dialogues/"><u>[Updated] Crafting a Captivating Voice The Art of Writing Film Dialogues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-art-of-audio-blend-with-audacity-techniques/"><u>[Updated] Unveiling the Art of Audio Blend with Audacity Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-vector-illustration-software-a-must-have-list-for-artists/"><u>Best Vector Illustration Software A Must-Have List for Artists</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-ev-ownership-perks-you-didnt-know-about-exclusive-parking-options-and-quick-travel-through-hov-lanes/"><u>Discover EV Ownership Perks You Didn't Know About: Exclusive Parking Options & Quick Travel Through HOV Lanes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-correct-a-pcs-oversight-of-its-vga-hardware/"><u>How to Correct a PC's Oversight of Its VGA Hardware</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>In 2024, Chuckle-Inducing Snaps Applying the Cartoon Face Effect on Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-review-of-vivavideo-app/"><u>In 2024, Comprehensive Review of VivaVideo App</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-14-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 14 Pro to PC | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-yuva-3-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava Yuva 3 Pro FRP Without Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/meme-maniacs-your-comprerans-quick-start-guide-for-9gag/"><u>Meme Maniacs Your Compreran's Quick-Start Guide for 9GAG</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/sicherung-ihrer-externen-festplatte-auf-windows-10-einfach-and-schnell/"><u>Sicherung Ihrer Externen Festplatte Auf Windows 10: Einfach & Schnell</u></a></li>
+<li><a href="https://extra-information.techidaily.com/standout-80s-aesthetics-for-video-editing-pros/"><u>Standout '80S Aesthetics for Video Editing Pros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-30-mobile-video-edits-using-dji-technology/"><u>Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-dev-error-5573-in-call-of-duty-warzone-across-pc-and-consoles/"><u>Troubleshooting Guide: Resolving Dev Error 5573 in Call of Duty: Warzone Across PC and Consoles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
 </ul></div>
 

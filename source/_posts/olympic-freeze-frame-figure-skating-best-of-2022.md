@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Freeze-Frame  Figure Skating Best of 2022\""
-date: 2024-12-18T21:19:14.313Z
-updated: 2024-12-23T16:59:50.550Z
+date: 2024-12-27T22:01:59.831Z
+updated: 2024-12-28T16:48:38.216Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -38,13 +34,13 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -54,12 +50,16 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
@@ -67,7 +67,7 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
@@ -105,7 +105,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -121,17 +121,22 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>[New] The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-pro-3-camera-insight-mastering-video-on-the-go-with-ion-for-2024/"><u>[Updated] Pro 3 Camera Insight Mastering Video on the Go with ION for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-spark-interest-engage-followers-maximizing-tiktok-unboxer-appeal/"><u>[Updated] Spark Interest, Engage Followers Maximizing TikTok Unboxer Appeal</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-360-degree-view-transformative-media-experience/"><u>2024 Approved A 360-Degree View Transformative Media Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/20mb-video-seconds-breakdown-for-2024/"><u>20MB Video - Seconds Breakdown for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/analyzing-time-of-playback-in-a-20mb-film/"><u>Analyzing Time of Playback in a 20Mb Film</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/apex-palette-adjuster-for-2024/"><u>Apex Palette Adjuster for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-classic-visuals-a-guide-to-shader-magic-in-retroarc/"><u>Crafting Classic Visuals: A Guide to Shader Magic in RetroArc</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-top-10-horizontal-and-vertical-igtv-editing-apps-reviewed/"><u>In 2024, Top 10 Horizontal & Vertical IGTV Editing Apps Reviewed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-great-race-camera-battle-gopro-hero-4-vs-ghost-s/"><u>The Great Race Camera Battle GoPro Hero 4 VS Ghost-S</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-9-fixes-for-firefox-videos-on-facebook-live/"><u>[New] 9 Fixes for Firefox Videos on Facebook Live</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-filmmakers-approach-to-classroom-instructional-videos/"><u>[New] A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-eight-free-android-recorders-top-selection-list/"><u>[New] In 2024, Eight Free Android Recorders – Top Selection List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-10-best-online-photo-background-changers-filmora-for-2024/"><u>[Updated] 10 Best Online Photo Background Changers - Filmora for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-record-and-save-streaming-audio-with-ease/"><u>[Updated] 2024 Approved How to Record and Save Streaming Audio with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-studio-quality-with-audacity-for-2024/"><u>Achieving Studio Quality with Audacity for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convert-srt-free-top-10-web-subtitle-services/"><u>Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/geekworm-x1011-nas-rack-review-a-detailed-assessment/"><u>GeekWorm X1011 NAS Rack Review - A Detailed Assessment</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-k70-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi K70 Pro Without PUK Codes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-instagram-editors-handbook-maximizing-video-impact/"><u>In 2024, The Instagram Editor's Handbook Maximizing Video Impact</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photo-perfection-top-6-iphone-utilities-to-exclude-unwanted-elements/"><u>Photo Perfection Top 6 iPhone Utilities to Exclude Unwanted Elements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-users-from-gpt-related-threats/"><u>Protecting Users From GPT-Related Threats</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974436808-quick-and-simple-steps-to-download-and-upgrade-your-canon-device-drivers-in-windows/"><u>Quick and Simple Steps to Download & Upgrade Your Canon Device Drivers in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>Streamlining Your Figma Project Eliminate the Unwanted Background</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-non-opening-nuisance-7-steps-to-fix-stubborn-websites-in-win-os/"><u>The Non-Opening Nuisance: 7 Steps to Fix Stubborn Websites in WIN OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-premium-soundtracks-in-your-mp4-files-the-2024-guide/"><u>Unleashing Premium Soundtracks in Your MP4 Files – The 2024 Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unraveling-the-mystery-of-apples-new-ios-camera/"><u>Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
 </ul></div>
 

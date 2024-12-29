@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Beam Breakthroughs  Lighting Know-How for Video Success\""
-date: 2024-07-27T04:51:45.093Z
-updated: 2024-07-28T04:51:45.093Z
+date: 2024-12-21T22:02:52.223Z
+updated: 2024-12-29T01:29:58.036Z
 tags: 
   - screen-recording
   - ai video
@@ -48,23 +48,29 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -72,32 +78,24 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -109,6 +107,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,7 +144,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-comprehensive-look-at-vivacut-in-the-2024-landscape/"><u>[New] A Comprehensive Look at VivaCut in the 2024 Landscape</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cartoonify-photos-wirelessly-on-pcs-macs-and-more/"><u>[New] Cartoonify Photos Wirelessly on PCs, Macs, and More</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essential-tools-for-the-top-6-choices-in-helmet-harnesses-for-gopros-for-2024/"><u>[New] Essential Tools for the Top 6 Choices in Helmet Harnesses for GOPROs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-action-in-motion-best-surfing-cams-of-2023-update/"><u>[Updated] Action in Motion Best Surfing Cams of 2023 Update</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audience-favorites-screenplays-of-varied-genres/"><u>2024 Approved Audience Favorites Screenplays of Varied Genres</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-videos-with-precision-leveraging-storyremix-in-windows-11/"><u>2024 Approved Crafting Videos with Precision Leveraging StoryRemix in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accessing-trendsetting-background-images-for-tiktok-for-2024/"><u>Accessing Trendsetting Background Images for TikTok for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-quality-discover-how-apples-competitors-beat-100-price-tag-with-innovative-solo-buds/"><u>Affordable Quality: Discover How Apple's Competitors Beat $100 Price Tag with Innovative Solo Buds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-transformation-best-15-gopro-color-correction-look-ups-explored/"><u>Cinematic Transformation Best 15 GoPro Color Correction Look-Ups Explored</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96164149-9781401951238-compendium-of-magical-things/"><u>Compendium of Magical Things | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/content-cash-cow-how-much-does-the-meme-king-make/"><u>Content Cash Cow How Much Does the Meme King Make?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-windows-systems/"><u>Download and Install Atheros Network Adapter Drivers on Windows Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/foundations-of-mixing-adobe-auditions-fade-in-technique/"><u>Foundations of Mixing Adobe Audition’s Fade In Technique</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frenemies-forever-friends-favorite-vrs/"><u>Frenemies Forever Friends' Favorite VRs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-videography-stabilizers-enhancing-mobile-and-dslr-shots/"><u>Premier Videography Stabilizers Enhancing Mobile & DSLR Shots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/qualcomm-unleashes-budget-friendly-power-get-your-hands-on-the-newest-snapdragon-x-elite-mini-pc-preorder-now/"><u>Qualcomm Unleashes Budget-Friendly Power: Get Your Hands on the Newest Snapdragon X Elite Mini PC – Preorder Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-television-sets-below-1000-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Rated Television Sets Below $1,000 - Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-best-free-video-surveillance-software-a-comprehensive-guide/"><u>Updated 2024 Approved The Best Free Video Surveillance Software A Comprehensive Guide</u></a></li>
+</ul></div>
 

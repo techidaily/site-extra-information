@@ -1,7 +1,7 @@
 ---
 title: "\"The Essence of Depth  Crafting 3D Text Art\""
-date: 2024-12-20T17:39:31.631Z
-updated: 2024-12-23T21:07:45.862Z
+date: 2024-12-22T17:03:52.378Z
+updated: 2024-12-29T01:30:23.312Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,6 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
@@ -56,10 +52,6 @@ Step5 Align the text to make it easier to edit and move around the canvas later.
 
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
@@ -68,19 +60,19 @@ Step7 Click on the box icon on the right side of the screen and select **“Extr
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step9 Finally, it's time to export the image, and you're all done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Alternative Way to Create 3D Text Animation
 
@@ -102,21 +94,21 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,9 +128,17 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
@@ -172,22 +172,20 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-skyrocketing-sales-how-ad-revenue-transforms-youtube-videos/"><u>[Updated] In 2024, Skyrocketing Sales How Ad Revenue Transforms YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-your-guide-to-genuine-selfies-on-instagrams-canvas/"><u>[Updated] In 2024, Your Guide to Genuine Selfies on Instagram's Canvas</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-deep-dive-into-top-10-streaming-platforms-compared/"><u>2024 Approved A Deep Dive Into Top 10 Streaming Platforms Compared</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-benq-sw320-monitor-reveal-a-spectacle-in-4k-technology/"><u>2024 Approved BenQ SW320 Monitor Reveal A Spectacle in 4K Technology</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-learning-legends-esteemed-ed-streams-online/"><u>2024 Approved Learning Legends Esteemed Ed Streams Online</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/black-friday-brings-you-close-to-a-new-world-of-words/"><u>Black Friday Brings You Close to a New World of Words</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chilling-celebrations-beijings-winter-sports-spectacle/"><u>Chilling Celebrations Beijing's Winter Sports Spectacle</u></a></li>
-<li><a href="https://extra-information.techidaily.com/guide-on-google-podcast-upload/"><u>Guide on Google Podcast Upload</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-pinnacle-studio-25-review/"><u>In 2024, Pinnacle Studio 25 Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/julys-top-picks-save-money-with-these-free-driver-updater-solutions/"><u>July's Top Picks: Save Money with These Free Driver Updater Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-video-player-best-availability-on-multiple-systems/"><u>Optimal Video Player Best Availability on Multiple Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/overcoming-youtube-distortion-for-better-playback/"><u>Overcoming YouTube Distortion for Better Playback</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-platforms-elevating-youtube-success/"><u>Prime Platforms Elevating YouTube Success</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975389106-radeon-rx-470-driver-downloads-and-update-tutorials-enhance-your-gaming-experience-today/"><u>Radeon RX 470 Driver Downloads & Update Tutorials: Enhance Your Gaming Experience Today</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-process-to-enhance-obs-with-effective-lut-filters-for-2024/"><u>Step-by-Step Process to Enhance OBS with Effective LUT Filters for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-pros-playlist-shuffle-manual/"><u>The Pro's Playlist Shuffle Manual</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-the-path-to-youtube-video-co-creation-and-partnerships/"><u>[New] 2024 Approved Navigating the Path to YouTube Video Co-Creation & Partnerships</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-you-need-to-know-about-podcast-funding-for-2024/"><u>All You Need To Know About Podcast Funding for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/beheben-von-raw-disk-partitionsproblemen-in-windows-11-eine-anleitung-zu-funf-losungsansatzen/"><u>Beheben Von RAW-Disk-/Partitionsproblemen in Windows 11: Eine Anleitung Zu Fünf Lösungsansätzen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-budget-video-players-and-streaming-tools-reviewed-pc-and-mobile/"><u>Best Budget Video Players and Streaming Tools Reviewed (PC & Mobile)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/branding-beyond-words-eye-catching-podcast-graphics/"><u>Branding Beyond Words Eye-Catching Podcast Graphics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-friendly-hd-cameras-for-thrilling-moments-for-2024/"><u>Budget-Friendly HD Cameras for Thrilling Moments for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-exploration-of-polarrs-advanced-image-tools-for-2024/"><u>Comprehensive Exploration of Polarr's Advanced Image Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/create-meme-with-adobe/"><u>Create Meme with Adobe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dauntless-desktop-crash-solved-tips-and-fixes-for-smooth-gaming/"><u>Dauntless Desktop Crash Solved: Tips and Fixes for Smooth Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-dimensions-metaverse-vs-omniverse-explained/"><u>Digital Dimensions Metaverse Vs. Omniverse Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-your-acer-device-free-wi-fi-driver-download-now/"><u>Fast Track Your Acer Device - Free Wi-Fi Driver Download Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flaw-in-apples-latest-anti-theft-feature-revealed-a-comprehensive-guide-to-secure-your-devices/"><u>Flaw in Apple's Latest Anti-Theft Feature Revealed: A Comprehensive Guide to Secure Your Devices</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-7-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 7 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/storage-analysis-videography-on-64128gb-hardware-for-2024/"><u>Storage Analysis Videography on 64/128GB Hardware for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-and-the-art-of-system-recovery-unveiling-system-restore/"><u>Windows 10 and the Art of System Recovery: Unveiling System Restore</u></a></li>
 </ul></div>
 
