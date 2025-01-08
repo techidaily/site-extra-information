@@ -1,7 +1,7 @@
 ---
 title: "Microsoft’s Glimpse Into Augmented Reality – The HoloLens Journey"
-date: 2024-07-27T04:44:32.245Z
-updated: 2024-07-28T04:44:32.245Z
+date: 2025-01-01T00:55:36.765Z
+updated: 2025-01-07T18:37:04.804Z
 tags: 
   - screen-recording
   - ai video
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
  Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Main features of Microsoft HoloLens
 
  HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.
@@ -45,18 +46,6 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 
  The release date for Microsoft’s HoloLens hasn’t been announced as yet but this device is available for developers and the people having a Microsoft account. The developer’s device is priced at $3000 but we are contemplating that it will be priced slightly on the lower side for the usual customers. A Microsoft account holder can order as many as 5 HoloLens from one account and if market trends are to be believed, the customer edition will be released around Christmas this year itself.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## User experience
 
  Using Microsoft HoloLens was surely an experience of a lifetime, the one that you can’t easily forget. This wonderful device is filled with a number of pros, however we did come across a few cons as well, all of which are enlisted below for your quick reference.
@@ -112,8 +101,9 @@ Follow @Benjamin Arango
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The First Impression of Microsoft HoloLens
 
  Microsoft HoloLens is the company’s holographic, augmented reality headset that promises a never before like holographic experience to its users. The HoloLens came in an eye catching black box. The HoloLens comes in an interesting case with a zipper and once you unzip it, you come across a beautifully crafted head gear comprising of two rings with a lens.
@@ -121,8 +111,9 @@ Follow @Benjamin Arango
  Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Main features of Microsoft HoloLens
 
  HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.
@@ -134,84 +125,9 @@ Follow @Benjamin Arango
  The release date for Microsoft’s HoloLens hasn’t been announced as yet but this device is available for developers and the people having a Microsoft account. The developer’s device is priced at $3000 but we are contemplating that it will be priced slightly on the lower side for the usual customers. A Microsoft account holder can order as many as 5 HoloLens from one account and if market trends are to be believed, the customer edition will be released around Christmas this year itself.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## User experience
 
- Using Microsoft HoloLens was surely an experience of a lifetime, the one that you can’t easily forget. This wonderful device is filled with a number of pros, however we did come across a few cons as well, all of which are enlisted below for your quick reference.
-
-**Pros**
-
-* Hands free hologram experience
-
- Using HoloLens is no rocket science, Microsoft has taken a number of steps to make this device extremely user friendly. There are no wires and remote control that works over this device, all you get is a head gear that has a few inbuilt buttons on the outer rin
-
-* Impressive resolution
-
- Microsoft’s promise to give its users an ultimate holographic experience with HoloLens doesn’t seem illogical. The resolution of this device is so impressive that it literally transforms you to another world of digital excellence.
-
-* Spatial sound like never before
-
- Apart from the high quality holographic resolution, HoloLens even boasts upon excellent spatial sound system that works wonders in giving its users a worthy AR experience.
-
-* Excellent build quality
-
- Microsoft’s HoloLens comes with a headgear that might appear like few of its contemporaries, however the build quality that it comes with makes it all the more likeable and better device. HoloLens comes with a comfortable weight and sits right on the head giving its user a viewing experience like never before.
-
-**Cons**
-
-* Average battery backup
-
- A $3000 augmented reality device like Microsoft’s HoloLens is expected to have a great battery backup but unfortunately, HoloLens disappoints on this front.
-
-* Field of view certainly needs improvement
-
- A HoloLens user would certainly experience great viewing experience when he stands still but it somehow gets distorted once you start moving. Its field of view certainly needs a lot improvement.
-
-* Still a glitch
-
- No matter how enthusiastically the Microsoft’s sales team is prompting HoloLens as realistic and user friendly, it is still a glitch for a regular gamer who isn’t really aware of the complexities and technicalities of using this device.
-
-* Exorbitant price
-
- Let’s just be honest here, HoloLens is a one of a kind device that is bound to burn a hole in your pocket. $3000 for a technologically blessed gaming device, you need to make a smart choice here.
-
- Keeping aside a few cons, Microsoft’s HoloLens is definitely one AR device that boasts upon high end technology and promises to give a wonderful gaming experience to its users. This one’s definitely a device that gives true worth of its hefty price.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-## The First Impression of Microsoft HoloLens
-
- Microsoft HoloLens is the company’s holographic, augmented reality headset that promises a never before like holographic experience to its users. The HoloLens came in an eye catching black box. The HoloLens comes in an interesting case with a zipper and once you unzip it, you come across a beautifully crafted head gear comprising of two rings with a lens.
-
- Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-## Main features of Microsoft HoloLens
-
- HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.
-
- The headset contains holographic lenses and a depth camera along with speakers above the ears. There is literally a host of sensors built into the headset that include an ambient light sensor along with not just one or two but four environment sensing cameras that work in complete sync with depth sensing camera.
-
- There is an onboard processing via Intel 32 bit architecture, a GPU, HPU that are backed by 2GB RAM and a humongous 64 GB onboard storage. The resolution of device is unbelievable in terms of picture and video quality and even the audio of HoloLens is admirable and the one that is bound to give every gamer a sensational gaming experience.
-
- The release date for Microsoft’s HoloLens hasn’t been announced as yet but this device is available for developers and the people having a Microsoft account. The developer’s device is priced at $3000 but we are contemplating that it will be priced slightly on the lower side for the usual customers. A Microsoft account holder can order as many as 5 HoloLens from one account and if market trends are to be believed, the customer edition will be released around Christmas this year itself.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## User experience
 
  Using Microsoft HoloLens was surely an experience of a lifetime, the one that you can’t easily forget. This wonderful device is filled with a number of pros, however we did come across a few cons as well, all of which are enlisted below for your quick reference.
@@ -272,6 +188,10 @@ Follow @Benjamin Arango
 
  Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Main features of Microsoft HoloLens
 
  HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.
@@ -324,9 +244,80 @@ Follow @Benjamin Arango
 
  Keeping aside a few cons, Microsoft’s HoloLens is definitely one AR device that boasts upon high end technology and promises to give a wonderful gaming experience to its users. This one’s definitely a device that gives true worth of its hefty price.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+## The First Impression of Microsoft HoloLens
+
+ Microsoft HoloLens is the company’s holographic, augmented reality headset that promises a never before like holographic experience to its users. The HoloLens came in an eye catching black box. The HoloLens comes in an interesting case with a zipper and once you unzip it, you come across a beautifully crafted head gear comprising of two rings with a lens.
+
+ Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.
+
+## Main features of Microsoft HoloLens
+
+ HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.
+
+ The headset contains holographic lenses and a depth camera along with speakers above the ears. There is literally a host of sensors built into the headset that include an ambient light sensor along with not just one or two but four environment sensing cameras that work in complete sync with depth sensing camera.
+
+ There is an onboard processing via Intel 32 bit architecture, a GPU, HPU that are backed by 2GB RAM and a humongous 64 GB onboard storage. The resolution of device is unbelievable in terms of picture and video quality and even the audio of HoloLens is admirable and the one that is bound to give every gamer a sensational gaming experience.
+
+ The release date for Microsoft’s HoloLens hasn’t been announced as yet but this device is available for developers and the people having a Microsoft account. The developer’s device is priced at $3000 but we are contemplating that it will be priced slightly on the lower side for the usual customers. A Microsoft account holder can order as many as 5 HoloLens from one account and if market trends are to be believed, the customer edition will be released around Christmas this year itself.
+
+## User experience
+
+ Using Microsoft HoloLens was surely an experience of a lifetime, the one that you can’t easily forget. This wonderful device is filled with a number of pros, however we did come across a few cons as well, all of which are enlisted below for your quick reference.
+
+**Pros**
+
+* Hands free hologram experience
+
+ Using HoloLens is no rocket science, Microsoft has taken a number of steps to make this device extremely user friendly. There are no wires and remote control that works over this device, all you get is a head gear that has a few inbuilt buttons on the outer rin
+
+* Impressive resolution
+
+ Microsoft’s promise to give its users an ultimate holographic experience with HoloLens doesn’t seem illogical. The resolution of this device is so impressive that it literally transforms you to another world of digital excellence.
+
+* Spatial sound like never before
+
+ Apart from the high quality holographic resolution, HoloLens even boasts upon excellent spatial sound system that works wonders in giving its users a worthy AR experience.
+
+* Excellent build quality
+
+ Microsoft’s HoloLens comes with a headgear that might appear like few of its contemporaries, however the build quality that it comes with makes it all the more likeable and better device. HoloLens comes with a comfortable weight and sits right on the head giving its user a viewing experience like never before.
+
+**Cons**
+
+* Average battery backup
+
+ A $3000 augmented reality device like Microsoft’s HoloLens is expected to have a great battery backup but unfortunately, HoloLens disappoints on this front.
+
+* Field of view certainly needs improvement
+
+ A HoloLens user would certainly experience great viewing experience when he stands still but it somehow gets distorted once you start moving. Its field of view certainly needs a lot improvement.
+
+* Still a glitch
+
+ No matter how enthusiastically the Microsoft’s sales team is prompting HoloLens as realistic and user friendly, it is still a glitch for a regular gamer who isn’t really aware of the complexities and technicalities of using this device.
+
+* Exorbitant price
+
+ Let’s just be honest here, HoloLens is a one of a kind device that is bound to burn a hole in your pocket. $3000 for a technologically blessed gaming device, you need to make a smart choice here.
+
+ Keeping aside a few cons, Microsoft’s HoloLens is definitely one AR device that boasts upon high end technology and promises to give a wonderful gaming experience to its users. This one’s definitely a device that gives true worth of its hefty price.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -357,7 +348,26 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-electrolytes-for-hero5-authentic-and-3rd-party-companies/"><u>[New] Best Electrolytes for Hero5 - Authentic & 3Rd Party Companies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevate-your-graphic-design-skills-master-canvas-background-trimming/"><u>[New] Elevate Your Graphic Design Skills Master Canva's Background Trimming</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-complete-manual-integrating-srt-into-mp4-files/"><u>[New] In 2024, Complete Manual Integrating SRT Into MP4 Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-choosing-between-wirecast-and-obs-for-streaming/"><u>[Updated] Choosing Between Wirecast and OBS for Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-insights-streamlined-iphone-podcast-downloads-for-2024/"><u>Comprehensive Insights Streamlined iPhone Podcast Downloads for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-audio-curated-lists-for-video-editors-for-2024/"><u>Elite Audio Curated Lists for Video Editors for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/embracing-change-and-competition-singapores-strategy-to-build-an-agile-workforce-boost-connectivity-and-excel-in-a-digital-green-future-by-2030/"><u>Embracing Change and Competition: Singapore's Strategy to Build an Agile Workforce, Boost Connectivity, and Excel in a Digital-Green Future by 2030</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-audio-visual-experience-with-these-6-apps/"><u>Enhance Your Audio-Visual Experience with These 6 Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmony-in-high-definition-audiovisual-fusion-on-windows-11/"><u>Harmony in High Definition Audio/Visual Fusion on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choreographing-cinema-sounds-in-the-windows-11-space/"><u>In 2024, Choreographing Cinema Sounds in the Windows 11 Space</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-8-webcams-to-elevate-your-livestreams/"><u>Premier 8 Webcams to Elevate Your Livestreams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pros-choice-of-top-slo-mo-mobile-photography-apps-on-ios-and-android/"><u>Pro's Choice of Top Slo-Mo Mobile Photography Apps on iOS & Android</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recover-your-missed-chats-expert-tips-for-restoring-erased-text-messages/"><u>Recover Your Missed Chats: Expert Tips for Restoring Erased Text Messages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-to-install-new-intel-thunderbolt-driver-packages-for-optimal-connectivity/"><u>Simple Steps to Install New Intel Thunderbolt Driver Packages for Optimal Connectivity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-d3dx9-dll-files-effective-solutions-and-steps/"><u>Troubleshooting Missing D3dx9_^ Dll Files: Effective Solutions and Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-choice-for-live-tv-access-with-regional-networks-2024-edition/"><u>Ultimate Choice for Live TV Access with Regional Networks, 2024 Edition</u></a></li>
+</ul></div>
 

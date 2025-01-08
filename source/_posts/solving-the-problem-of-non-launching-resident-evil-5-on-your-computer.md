@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem of Non-Launching Resident Evil 5 on Your Computer
-date: 2024-12-24T10:57:41.976Z
-updated: 2024-12-28T18:50:02.823Z
+date: 2024-12-31T18:57:57.524Z
+updated: 2025-01-07T23:17:41.419Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes that have helped many gamers. In this guide, you’ll learn how to bring your game back to normal and what you can do to avoid bumping into the same issues again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before getting started
 
  Before you head on to the following fixes, make sure your PC ([how to check my PC specs?](https://tools.techidaily.com/drivereasy/download/) ) meets the**minimum requirements for Star Wars: Battlefield 2** .
@@ -34,10 +30,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **DirectX**   | Version 11                                          | Version 11                                          |
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  If “**Yes my gear is up for running Star Wars: Battlefront 2** “, here are 8 crashing fixes for you to try. You might not need to try them all; just work down the list until you find the one that does the trick.
@@ -50,6 +42,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 6. **[Disable antivirus software temporarily](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Disable Discord In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Repair your game
 
@@ -84,6 +80,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** … button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
@@ -91,10 +91,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 4) Wait for the process to complete.
 
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -114,16 +110,12 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **OR**
@@ -134,6 +126,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 4) Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reset Battlefront 2
 
@@ -161,6 +157,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 **Note:** If you find reverting to DX11 makes your game laggy, you can edit**BootOptions.ini** again to enable DX12.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Run as administrator
 
  When the game keeps crashing, you can always run both your game launcher and game.exe file as administrator. To make sure your game runs smoothly, you can run your game as an administrator permanently.
@@ -178,7 +178,7 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable antivirus software temporarily
@@ -200,6 +200,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 If the game keeps crashing, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  There might be some other conflicting services that stop your Battlefront 2 from working normally. To check if this is your issue, you’ll need to perform a clean boot.
@@ -211,7 +215,7 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
@@ -236,10 +240,6 @@ If the game keeps crashing, you can try the next fix.
 
 1. Open the**System Configuration** .
 2. Enable the service **one by one** (restart your PC and test the issue after enabling each service or start-up) until you find the problematic one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable Discord In-Game Overlay
 
@@ -292,24 +292,22 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-youtube-presence-with-these-8-free-courses/"><u>[New] In 2024, Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-complete-srt-reference-manual/"><u>[New] The Complete SRT Reference Manual</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-guide-to-high-quality-cost-free-webm-viewers/"><u>[Updated] In 2024, Ultimate Guide to High-Quality, Cost-Free WebM Viewers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-master-the-art-of-meeting-management-the-finest-10-free-recorders-for-slack-for-2024/"><u>[Updated] Master the Art of Meeting Management The Finest 10 Free Recorders for Slack for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-apples-m1-processor-showdown-m1-pro-versus-m1-max-differences/"><u>2024 Approved Apple’s M1 Processor Showdown M1 Pro versus M1 Max Differences</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-essential-photo-and-film-capture-apps-iphone-and-android-edition/"><u>2024 Approved Essential Photo & Film Capture Apps IPhone & Android Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-first-steps-to-picture-perfection-demystifying-pixels/"><u>2024 Approved First Steps to Picture Perfection Demystifying Pixels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-connoisseurs-guide-to-the-very-best-10-vectors-pix/"><u>A Connoisseur's Guide to the Very Best 10 Vectors Pix</u></a></li>
-<li><a href="https://extra-information.techidaily.com/end-unwanted-movement-in-iphone-videography/"><u>End Unwanted Movement in iPhone Videography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enjoy-the-ultimate-windows-experience-with-the-2023-microsoft-store-editors-choice-apps/"><u>Enjoy the Ultimate Windows Experience With the 2023 Microsoft Store Editor’s Choice Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-for-a-closer-look-at-google-meet-participants/"><u>Expert Tips for a Closer Look at Google Meet Participants</u></a></li>
-<li><a href="https://extra-information.techidaily.com/faqs-of-using-vlc-player-on-mac/"><u>FAQs of Using VLC Player on Mac</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-proprietary-drivers-for-lenovo-legion-5-pro-16ach6h-laptop/"><u>Installing Proprietary Drivers for Lenovo Legion 5 Pro (16ACH6H) Laptop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lessons-in-motion-mastering-classroom-editing-for-2024/"><u>Lessons in Motion Mastering Classroom Editing for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-iphones-most-popular-watermarking-software-solutions/"><u>Navigating iPhone's Most Popular Watermarking Software Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-through-new-camera-settings-in-ios-11/"><u>Navigating Through New Camera Settings in iOS 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamlining-your-itunes-video-recordings-for-2024/"><u>Streamlining Your iTunes Video Recordings for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unraveling-windows-10-complexities-simplified/"><u>Unraveling Windows 10 Complexities Simplified</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-award-winning-screenplays-for-each-genre-division/"><u>[New] Award-Winning Screenplays for Each Genre Division</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows/"><u>[New] From Raw to Refined Mastering the Art of PC Video Editing on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-independent-android-adventures-the-ultimate-list-of-unplugged-titles/"><u>[New] Independent Android Adventures - The Ultimate List of Unplugged Titles</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pushing-boundaries-in-motion-photography-for-2024/"><u>[New] Pushing Boundaries in Motion Photography for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-mac-microphone-tools-selecting-leading-recorders/"><u>[Updated] Essential Mac Microphone Tools Selecting Leading Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-full-guide-on-speeding-up-facebook-videos-best-extensions-apps-and/"><u>2024 Approved Full Guide on Speeding Up Facebook Videos- Best Extensions, Apps, And</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ure-success-starts-with-smart-hashtagging/"><u>6-Figure Success Starts with Smart #Hashtagging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7wav/"><u>7人気の無料プログラム：フラック形式からWAVへ容易に変換</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-audio-editing-tools-in-magix-producer-suite-for-2024/"><u>Analyzing Audio Editing Tools in Magix Producer Suite for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-brightness-boost-in-hd-and-its-hdr-impact/"><u>Analyzing Brightness Boost in HD and Its HDR Impact</u></a></li>
+<li><a href="https://discover-help.techidaily.com/comment-convertir-un-dvd-avec-contourner-le-code-regional-sur-windows-11-8-ou-7/"><u>Comment Convertir Un DVD Avec Contourner Le Code Régional Sur Windows 11, 8 Ou 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-color-standards-in-review-rgb-vs-srgb-breakdown/"><u>Digital Color Standards in Review Rgb vs Srgb Breakdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-asuss-high-tech-display-unveiled-the-mg28uq-monitor-insight/"><u>In 2024, ASUS's High Tech Display Unveiled – The MG28UQ Monitor Insight</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-alarm-issues-heres-how-to-make-it-work-perfectly/"><u>IPhone Alarm Issues? Here’s How to Make It Work Perfectly!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionary-reddit-techniques-for-aspiring-digital-wizards/"><u>Revolutionary Reddit Techniques for Aspiring Digital Wizards</u></a></li>
+<li><a href="https://fox-that.techidaily.com/signs-of-being-blocked-on-imessage-how-to-tell-if-someone-has-restricted-your-messages/"><u>Signs of Being Blocked on iMessage: How to Tell If Someone Has Restricted Your Messages</u></a></li>
 </ul></div>
 

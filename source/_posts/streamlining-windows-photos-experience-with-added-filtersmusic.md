@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Windows Photos Experience with Added Filters/Music"
-date: 2024-12-27T11:45:19.745Z
-updated: 2024-12-29T03:22:41.731Z
+date: 2025-01-05T16:35:29.190Z
+updated: 2025-01-08T03:22:50.480Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to add filters on Windows 10 Photos App
@@ -49,6 +49,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -56,14 +60,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -77,18 +77,18 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -112,14 +112,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-androids-leading-video-tiles-ranked-8-freepaid-collage-creators/"><u>[New] Android's Leading Video Tiles Ranked #8-Free/Paid Collage Creators</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-skys-boldest-workhorses-top-10-drones/"><u>[New] The Sky's Boldest Workhorses - Top 10 Drones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-artistic-auto-trims-best-6-mac-os-big-sur-video-editors-reviewed/"><u>[Updated] Artistic Auto-Trims Best 6 Mac OS Big Sur Video Editors Reviewed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/brain-boost-in-your-fifties-with-foreign-languages-learning/"><u>Brain Boost in Your Fifties with Foreign Languages Learning</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/edit-away-bloat-organizing-your-overflow-of-tiktok-saves/"><u>Edit Away Bloat Organizing Your Overflow of TikTok Saves</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-zero-30-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Zero 30 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/laptop-maintenance-tips-how-to-replace-a-missing-or-faulty-keystroke/"><u>Laptop Maintenance Tips: How to Replace a Missing or Faulty Keystroke</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrade-your-device-with-ios-18-no-charge-for-the-latest-innovations-and-news-revealed/"><u>Upgrade Your Device with iOS 1#8: No Charge for the Latest Innovations & News Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-craft-your-unique-ringtone-from-favorite-tiktok-music-to-cellphone-alarms/"><u>[New] Craft Your Unique Ringtone - From Favorite TikTok Music to Cellphone Alarms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-methods-for-converting-twitter-videos-into-mp3-format/"><u>[New] Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-binge-watch-with-flexibility-mastering-the-pip-functionality-in-netflix/"><u>[Updated] In 2024, Binge-Watch With Flexibility Mastering the PIP Functionality in Netflix</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamline-your-conversations-with-twitter-video-uploads-on-whatsapp/"><u>[Updated] In 2024, Streamline Your Conversations with Twitter Video Uploads on WhatsApp</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bigger-photos-equal-quality-output/"><u>2024 Approved Bigger Photos, Equal Quality Output</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-review-of-powerdirector-pro-suite/"><u>2024 Approved Comprehensive Review of PowerDirector Pro Suite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-images-made-simple-in-illustrator/"><u>Dynamic Images Made Simple in Illustrator</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-clip-weaver-workshop/"><u>In 2024, Clip Weaver Workshop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-hot-40i-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Hot 40i Phone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>New In 2024, How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-locations-to-find-rich-text-enhancements/"><u>Prime Locations to Find Rich Text Enhancements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016575811-pubg-mobile-voice-communication-problems-heres-how-to-solve-them/"><u>PUBG Mobile Voice Communication Problems? Here's How to Solve Them</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamped-speaker-performance-lg-televisions-now-offer-top-notch-sound-perfect-for-apple-enthusiasts-a-closer-look-by-zdnet/"><u>Revamped Speaker Performance: LG Televisions Now Offer Top-Notch Sound, Perfect for Apple Enthusiasts - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/starting-points-for-motion-visual-creation/"><u>Starting Points for Motion Visual Creation</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-future-of-social-media-cryptocurrency-promos/"><u>The Future of Social Media: Cryptocurrency Promos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-fixing-and-replacing-fallen-computer-keyboard-buttons/"><u>The Ultimate Tutorial: Fixing and Replacing Fallen Computer Keyboard Buttons</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-collection-no-cost-ae-template-gold/"><u>Ultimate Collection No-Cost AE Template Gold</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-worlds-reimagined-the-most-spectacular-sci-fi-films-of-the-metaverse-era/"><u>Virtual Worlds Reimagined The Most Spectacular Sci-Fi Films of the Metaverse Era</u></a></li>
+<li><a href="https://extra-information.techidaily.com/woven-wisdom-in-digital-weaves-arvr-quote-compilation/"><u>Woven Wisdom in Digital Weaves AR/VR Quote Compilation</u></a></li>
 </ul></div>
 

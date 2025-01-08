@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Captivating Clips with Cleverly Chosen Lights"
-date: 2024-07-27T04:46:09.277Z
-updated: 2024-07-28T04:46:09.277Z
+date: 2025-01-01T22:00:16.862Z
+updated: 2025-01-08T01:34:22.335Z
 tags: 
   - screen-recording
   - ai video
@@ -23,8 +23,9 @@ Many people are wondering how to set up lighting for video shooting. While there
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -49,24 +50,21 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
@@ -86,6 +84,10 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
@@ -94,9 +96,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -107,14 +106,12 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -147,7 +144,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-embed-a-youtube-video-in-powerpoint/"><u>[New] 2024 Approved How to Embed a YouTube Video in PowerPoint</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rafting-dynamic-collab-videos-with-content-partners-on-youtube/"><u>[New] Crafting Dynamic Collab Videos with Content Partners on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-nocturnal-nuances-essential-tips-for-moonlit-portraiture-for-2024/"><u>[New] Nocturnal Nuances Essential Tips for Moonlit Portraiture for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-authoritative-sourcebook-no-cost-limitless-pictures/"><u>[Updated] Authoritative Sourcebook No Cost, Limitless Pictures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-choosing-pro-stream-vmix-vs-wirecast-battle/"><u>[Updated] Choosing Pro Stream VMix Vs. Wirecast Battle</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pinnacle-of-meme-artistry-program-for-2024/"><u>[Updated] Pinnacle of Meme Artistry Program for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-indispensable-fcp-enhancing-plugins/"><u>2024 Approved 10 Indispensable FCP-Enhancing Plugins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization/"><u>2024 Approved Breathing Life Into Your Phone The Complete Guide to Android Audio Customization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-canva-creative-editor-exploration/"><u>2024 Approved Canva Creative Editor Exploration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-speed-issue-resolved-no-gpu-acceleration/"><u>Direct3D Speed Issue Resolved: No GPU Acceleration</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-dealing-with-invalid-app-installs-on-windows/"><u>Guide: Dealing with Invalid App Installs on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12r-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12R If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-ways-to-record-audio-on-windows-11/"><u>In 2024, 5 Ways to Record Audio on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-motion-dynamics-synopsis/"><u>In 2024, Comprehensive Motion Dynamics Synopsis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-vector-art-our-picks-for-top-10-tools-in-industry/"><u>Mastering Vector Art Our Picks for Top 10 Tools in Industry</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sdr-to-hdri-pioneers-expert-tips-and-techniques/"><u>SDR to HDRI Pioneers Expert Tips and Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows11macos/"><u>パソコンで無料で簡単！ブルーレイを見る方法 - Windows11/MacOS両用ガイド</u></a></li>
+</ul></div>
 

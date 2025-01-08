@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Freeze-Frame  Figure Skating Best of 2022\""
-date: 2024-12-27T22:01:59.831Z
-updated: 2024-12-28T16:48:38.216Z
+date: 2025-01-03T22:40:57.496Z
+updated: 2025-01-08T04:07:47.244Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -34,41 +38,33 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
@@ -92,6 +88,10 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
@@ -105,7 +105,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -121,22 +121,16 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-9-fixes-for-firefox-videos-on-facebook-live/"><u>[New] 9 Fixes for Firefox Videos on Facebook Live</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-filmmakers-approach-to-classroom-instructional-videos/"><u>[New] A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-eight-free-android-recorders-top-selection-list/"><u>[New] In 2024, Eight Free Android Recorders – Top Selection List</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-10-best-online-photo-background-changers-filmora-for-2024/"><u>[Updated] 10 Best Online Photo Background Changers - Filmora for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-record-and-save-streaming-audio-with-ease/"><u>[Updated] 2024 Approved How to Record and Save Streaming Audio with Ease</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieving-studio-quality-with-audacity-for-2024/"><u>Achieving Studio Quality with Audacity for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/convert-srt-free-top-10-web-subtitle-services/"><u>Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/geekworm-x1011-nas-rack-review-a-detailed-assessment/"><u>GeekWorm X1011 NAS Rack Review - A Detailed Assessment</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-k70-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi K70 Pro Without PUK Codes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-instagram-editors-handbook-maximizing-video-impact/"><u>In 2024, The Instagram Editor's Handbook Maximizing Video Impact</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photo-perfection-top-6-iphone-utilities-to-exclude-unwanted-elements/"><u>Photo Perfection Top 6 iPhone Utilities to Exclude Unwanted Elements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-users-from-gpt-related-threats/"><u>Protecting Users From GPT-Related Threats</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974436808-quick-and-simple-steps-to-download-and-upgrade-your-canon-device-drivers-in-windows/"><u>Quick and Simple Steps to Download & Upgrade Your Canon Device Drivers in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>Streamlining Your Figma Project Eliminate the Unwanted Background</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-non-opening-nuisance-7-steps-to-fix-stubborn-websites-in-win-os/"><u>The Non-Opening Nuisance: 7 Steps to Fix Stubborn Websites in WIN OS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleashing-premium-soundtracks-in-your-mp4-files-the-2024-guide/"><u>Unleashing Premium Soundtracks in Your MP4 Files – The 2024 Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unraveling-the-mystery-of-apples-new-ios-camera/"><u>Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-write-podcast-magic-a-comprehensive-guide-with-sample-chapters/"><u>[Updated] 2024 Approved Write Podcast Magic A Comprehensive Guide with Sample Chapters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-performers-the-leading-8k-camera-lineup/"><u>[Updated] Best Performers The Leading 8K Camera Lineup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-your-ipad-as-a-creative-tool-for-time-lapse-for-2024/"><u>[Updated] Your iPad as a Creative Tool for Time Lapse for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-low-speed-photo-and-video-capture-tools-iosandroid-for-2024/"><u>Best Low-Speed Photo and Video Capture Tools, iOS/Android for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tactics-to-eliminate-stuck-image-issues-on-your-monitor/"><u>Comprehensive Tactics to Eliminate Stuck Image Issues on Your Monitor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-analytics-and-personalization-solutions/"><u>Cookiebot-Driven Analytics and Personalization Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-transition-zip-to-subrip-srt-formatting/"><u>Effortless Transition ZIP to SubRip (SRT) Formatting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-ping-woes-in-chivalry-of-heroes-advanced-fixes-and-tweaks-expert-guide/"><u>Eliminate Ping Woes in Chivalry of Heroes - Advanced Fixes & Tweaks (Expert Guide )</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-audio-tools-for-professional-podcast-creators/"><u>In 2024, Top Audio Tools for Professional Podcast Creators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-sourcing-premium-background-images/"><u>The Ultimate Guide to Sourcing Premium Background Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/writing-vlogs-a-guide-to-persuasive-scripts/"><u>Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
 </ul></div>
 

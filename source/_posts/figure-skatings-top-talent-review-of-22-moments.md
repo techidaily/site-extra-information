@@ -1,7 +1,7 @@
 ---
 title: "\"Figure Skating's Top Talent  Review of '22 Moments\""
-date: 2024-12-26T16:56:16.999Z
-updated: 2024-12-28T19:39:57.012Z
+date: 2025-01-03T00:32:41.517Z
+updated: 2025-01-08T05:06:45.821Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -39,32 +43,32 @@ Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United Stat
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
@@ -88,25 +92,21 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,22 +121,20 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-important-measures-to-adapt-music-tempoplay-on-spotify/"><u>[New] 2024 Approved Important Measures to Adapt Music Tempoplay on Spotify</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-breaking-down-asus-pa32u-a-4k-professional-review/"><u>[New] Breaking Down ASUS PA32U A 4K Professional Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-top-8-best-selfie-sticks-for-iphone-2024-review/"><u>[New] Top 8 Best Selfie Sticks for iPhone 2024 Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-an-overview-and-comparative-study-of-googles-augmented-reality-stickers/"><u>[Updated] An Overview and Comparative Study of Google's Augmented Reality Stickers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-foodie-frenzy-top-10-viral-eats-on-tiktok/"><u>[Updated] Foodie Frenzy Top 10 Viral Eats on TikTok</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ai-revolution-gigabytes-top-tier-workstation-boards-with-ai-branding-and-comprehensive-hardware-lineup-including-amdintel-gpus/"><u>AI Revolution: Gigabyte's Top-Tier Workstation Boards with AI Branding & Comprehensive Hardware Lineup Including AMD/Intel GPUs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-freshly-charge-your-ipad-by-replacing-its-battery/"><u>Expert Tips on How to Freshly Charge Your iPad by Replacing Its Battery</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/lly-flourishing-through-film-reviewing-retail-relics/"><u>Fiscally Flourishing Through Film Reviewing Retail Relics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hone-your-iphone-skills-with-shortened-and-customized-vids/"><u>Hone Your iPhone Skills with Shortened & Customized Vids</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fetch-latest-updates-for-your-dell-d3100-graphics-device-driver/"><u>How to Fetch Latest Updates for Your DELL D3100 Graphics Device Driver</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adobes-art-of-amusement-and-jest/"><u>In 2024, Adobe's Art of Amusement and Jest</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-tricks-watch-your-footage-in-reverse/"><u>IPhone Tricks Watch Your Footage In Reverse</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-world-of-digital-sound-capture-a-deep-dive/"><u>Navigating the World of Digital Sound Capture A Deep Dive</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-video-editors-for-windows-10-must-have-tools-list/"><u>Prime Video Editors for Windows 10 Must-Have Tools List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/supreme-sync-audio-player-android-flair/"><u>Supreme Sync Audio Player, Android Flair</u></a></li>
-<li><a href="https://blog-min.techidaily.com/telechargez-lediteur-de-convertisseur-gratuit-de-pbm-vers-png-chez-movavi-votre-solution-simple-pour-les-graphiques-en-ligne/"><u>Téléchargez L'éditeur De Convertisseur Gratuit De PBM Vers PNG Chez Movavi : Votre Solution Simple Pour Les Graphiques en Ligne !</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-strategies-for-professional-gif-craftsmanship/"><u>[New] Advanced Strategies for Professional GIF Craftsmanship</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-craft-your-vision-essential-windows-10-tips-for-future-directors/"><u>[New] Craft Your Vision Essential Windows 10 Tips for Future Directors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-game-streamers-for-your-watchlist/"><u>[New] In 2024, Essential Game Streamers for Your Watchlist</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-zoom-screen-sharpness-users-handbook/"><u>[New] Perfecting Zoom Screen Sharpness User's Handbook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-3-effective-steps-to-brighten-your-photos/"><u>[Updated] 3 Effective Steps to Brighten Your Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-complete-look-at-color-correction-for-gopro-videos-for-2024/"><u>A Complete Look at Color Correction for GoPro Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accessible-and-quality-the-best-10-online-passport-photo-tools-revealed/"><u>Accessible & Quality The Best 10 Online Passport Photo Tools Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blending-youtube-audio-features-into-video-projects/"><u>Blending YouTube Audio Features Into Video Projects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-hosts-maximizing-youtube-video-exposure/"><u>Ideal Hosts Maximizing YouTube Video Exposure</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/identifying-defective-motherboard-parts-a-step-by-step-guide-yl-computing/"><u>Identifying Defective Motherboard Parts: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Three Ways to Sim Unlock Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-itel-a05s-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Itel A05s Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-mediatrans-the-top-choice-for-seamlessly-transferring-photos-and-music-videos-between-pcs-on-your-iphoneipad/"><u>WinX MediaTrans™: The Top Choice for Seamlessly Transferring Photos and Music Videos Between PCs on Your iPhone/iPad</u></a></li>
 </ul></div>
 

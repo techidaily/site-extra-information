@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Techniques in Aerial Cinematography"
-date: 2024-07-27T04:45:36.008Z
-updated: 2024-07-28T04:45:36.008Z
+date: 2025-01-06T03:32:03.023Z
+updated: 2025-01-07T20:52:55.273Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
 
 # Tips on Filming with Drone
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,135 +31,9 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
  Let's check a video tutorial first:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Tips for Filming with Drone
 
-* [Part 1: Techniques](#part1)
-* [Part 2: Weather](#part2)
-* [Part 3: Camera](#part3)
-* [Part 4: Editing](#part4)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-### Techniques
-
- In order to get best results with your aerial shoot, try these professional techniques:
-
-#### 1\.  Go Slow
-
- The very first recommendation to beginners from professionals is to move slowly. It leaves cinematic impression on viewers as your slow motion makes them think that you are shooting from a larger platform such as helicopter. No doubt, it will increase the production value and shots will appear perfectly crafted and well controlled.
-
- Ensure that you operate RC control stick very smoothly. Take help from gradual movements so that undesired shakes in footage can be avoided and at the same time care about slow acceleration and deceleration to avoid distortion from end results.
-
- It is good to pre-plan as well as visual most of your aerial shots. One should prefer to advance guard his filming location so that all pros and cons can be pre-observed and proper planning can be done to get rid of limitations of that area. If you know your requirements in advance and have an effective plan for the site then you will definitely be able to make most out of your limited battery life of drone. You will not feel happy if some shots are missed just because of mismanagement and drained drone battery.
-
-#### 2\.  Two Axis type Movement
-
- There are few hidden tricks behind those breathtaking shots of big budget movies and it is good to implement them with care. Most of those professionals prefer to implement two axis type movements simultaneously. They often make some arrangements to fly backwards as well as downwards at the same time but note that such movements must be controlled at much smoother rate with stable adjustments.
-
-#### 3\.  Strafe
-
- When you have to focus on attractive landscapes then the best idea is to use sideways movements or the strafing feature. It will help you to show landscapes with different prospective and results will naturally be more impressive. Usually, most of the shots over landscapes in Hollywood movies are recorded with aerial motions where drone keep on moving forward and backward, so if you try the strafing effect then it will definitely be a unique and awesome idea. This recording style will also help you to reveal various eye catching features of the landscape.
-
-#### 4\.  Orbit
-
- If you want to achieve Orbit then you have to control your drone strafe movements towards left or right side while pulling that yaw stick to exactly opposite direction. Let me make it clear that yaw stick is a control stick that you will find on left side of your drone controller and it is there to control rotation action of drone. Note that, you need to have more practice on that yaw control because most of users, even professionals end up spinning much faster and results are too bad.
-
-#### 5\.  Fly Through Shots
-
- Here is something more cinematic but it is going to be risky enough. You need to be more careful to capture this type of shots because it demands you complete attention on controller screen for drone navigation. If you believe on your piloting skills then you will definitely achieve success in this recording action. When these shots are captured perfectly, they have power to capture attention of viewers and they will soon become fan of your cinematography skills along with your risk management strategy.
-
-### Weather
-
- When we talk about weather then it is something out of your control and you have just one option that is to pray mercy from Mother Nature. To capture some of the best shots you will often need to fly in a clean sky and you definitely don’t need that heavy fog and rain. This issue is more common in winter days, especially when you are working on high altitudes that get freeze due to cold.
-
-**What to do?**
-
-* The first most important trick is to avoid taking shots in windy day. Generally, most of the advanced drone units can bear the pressure of up to 25-35 mph wind but if it goes above this range then your footage will get spoiled. It is not a good idea to simply rely on post processing techniques like jello effect etc. However, few professionals are able to refine their shots with Wrap Stabilization Setting to get best results.
-* Choose golden hours of the day to shoot your footage. The time of sunset and sunrise will help your footage to stand out as shadows are highly visible during this time and it will naturally create a natural impact. People rarely shoot scenes at sunrise time so you can try to implement this trick to prove yourself different from those common aerial shooters.
-
-### Camera
-
- Some of the most common camera settings that demand your focus are flat image profile and shutter speed.
-
-* **Flat Image Profile:**There is no doubt to say that your camera settings are going to leave great impact on your footage so use them effectively. Prefer to work on flattest camera profile as it will help you to get impressive dynamic range with aerial camera. This technique of shooting helps users to prevent clouds and sky and also helps users to retain details from darkest point on ground.
-* **Control Shutter Speed:**  
- It is good to work with lower shutter speed and in order to avoid strobing effect one must prefer to shot by keeping camera close to ground. Keep it somewhere around 100th to 250th level of second, one can also work with ND filter to control shutter speed to desired lower level. In case if you work with 500th or 100th part of second then you will naturally obtain sharper frames with it leads to footage with heavy strobing.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-### Editing
-
- If you need to edit your shots to get customized results then it is most important to choose a professional and high quality software tool. One of the best professional recommendations is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) due to its intuitive interface and ability to edit 4k video shoots. It can naturally lead to Hollywood style feeling with impressive adjustments of colours and other video effects.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Steps to edit videos using Wondershare Filmora:**
-
-**Step 1 Import video files:** First of all you need to import your files from computer folder to main interface of Wondershare Filmora. You can either prefer to use the “Import” option directly or work with drag and drop functions that can bring all desired files immediately to software timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![import videos](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
-
-**Step 2: Cut Videos:**
-
- Simply move the slider position to the specific point on your video from where you need to cut it down. In case if you want to remove any specific part permanently then split it using cut option and then use delete button from right menu or from toolbar to remove it. In case if you want to cut your video into multiple parts then simply repeat this process. But note that, you need to save those multiple sections of files one by one while deleting the unwanted portions.
-
-**Step 3: Scene Detection:**
-
-![scene detection](https://images.wondershare.com/filmora/article-images/scene-detection.jpg)
-
- If you want to reach to certain segment of video quickly then use scene detection function. Just highlight your video on item tray and then right click, from the drop down menu, select “Scene Detection” option and now you can immediately separate your video into various parts as per need. It will help you to reach to specific part with ease.
-
-**Step 4: Apply Effects:**
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
-![add effects](https://images.wondershare.com/filmora/article-images/add-effects-in-filmora.jpg)
-
- Wondershare Filmora provides wide range of features and editing options. One can easily add transitions, filters, overlays, titles, text and other useful elements with ease. The filmora library contains about 500 effects along with free royalty music option.
-
- **Step 5: Export:**
-
-![export](https://images.wondershare.com/filmora/article-images/export-output.jpg)
-
- Once you are done with the editing part and your video has reached to the satisfactory view then simply hit the create option to save your video. It is possible to export video to device with different file formats as per your need, for this you need to select the format option and then choose your desired type. In case if you wish to play your video on specific devices like iPod, iPad and iPhone etc then you need to click on Device option and then choose your device from available list. Videos can also be uploaded directly to social media platforms like YouTube etc and it can be burnt to DVD discs also so that you can enjoy them on TV screens with DVD player at home.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
- Are you curious about which scenes in a film are shot by drones? Check [this article](https://skytango.com/drones-in-movies-7-hollywood-movies-filmed-with-drones/) to expand your interest.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Drones have power to create wonders in the film industry and we can observe their awesome performance with undergoing revolution in the filmmaking. Filmmakers are now able to create wonders with cinematic, jaw dropping results that were earlier just impossible in Hollywood productions. But if you are new to this world of drone then you must be searching for some information regarding how to shoot aerial videos using drone to get professional results. If so, then don’t worry! Because the article below will provide you complete information about impressive filming techniques with latest drones.
-
- Let's check a video tutorial first:
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Tips for Filming with Drone
 
 * [Part 1: Techniques](#part1)
@@ -215,9 +86,6 @@ Follow @Max Wales
 * **Control Shutter Speed:**  
  It is good to work with lower shutter speed and in order to avoid strobing effect one must prefer to shot by keeping camera close to ground. Keep it somewhere around 100th to 250th level of second, one can also work with ND filter to control shutter speed to desired lower level. In case if you work with 500th or 100th part of second then you will naturally obtain sharper frames with it leads to footage with heavy strobing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Editing
 
  If you need to edit your shots to get customized results then it is most important to choose a professional and high quality software tool. One of the best professional recommendations is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) due to its intuitive interface and ability to edit 4k video shoots. It can naturally lead to Hollywood style feeling with impressive adjustments of colours and other video effects.
@@ -228,10 +96,11 @@ Follow @Max Wales
 
 **Step 1 Import video files:** First of all you need to import your files from computer folder to main interface of Wondershare Filmora. You can either prefer to use the “Import” option directly or work with drag and drop functions that can bring all desired files immediately to software timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![import videos](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Cut Videos:**
 
@@ -239,9 +108,6 @@ Follow @Max Wales
 
 **Step 3: Scene Detection:**
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scene detection](https://images.wondershare.com/filmora/article-images/scene-detection.jpg)
 
  If you want to reach to certain segment of video quickly then use scene detection function. Just highlight your video on item tray and then right click, from the drop down menu, select “Scene Detection” option and now you can immediately separate your video into various parts as per need. It will help you to reach to specific part with ease.
@@ -259,6 +125,10 @@ Follow @Max Wales
  Once you are done with the editing part and your video has reached to the satisfactory view then simply hit the create option to save your video. It is possible to export video to device with different file formats as per your need, for this you need to select the format option and then choose your desired type. In case if you wish to play your video on specific devices like iPod, iPad and iPhone etc then you need to click on Device option and then choose your device from available list. Videos can also be uploaded directly to social media platforms like YouTube etc and it can be burnt to DVD discs also so that you can enjoy them on TV screens with DVD player at home.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Are you curious about which scenes in a film are shot by drones? Check [this article](https://skytango.com/drones-in-movies-7-hollywood-movies-filmed-with-drones/) to expand your interest.
 
@@ -278,9 +148,6 @@ Follow @Max Wales
 
  Let's check a video tutorial first:
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips for Filming with Drone
 
 * [Part 1: Techniques](#part1)
@@ -316,9 +183,6 @@ Follow @Max Wales
 
  Here is something more cinematic but it is going to be risky enough. You need to be more careful to capture this type of shots because it demands you complete attention on controller screen for drone navigation. If you believe on your piloting skills then you will definitely achieve success in this recording action. When these shots are captured perfectly, they have power to capture attention of viewers and they will soon become fan of your cinematography skills along with your risk management strategy.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Weather
 
  When we talk about weather then it is something out of your control and you have just one option that is to pray mercy from Mother Nature. To capture some of the best shots you will often need to fly in a clean sky and you definitely don’t need that heavy fog and rain. This issue is more common in winter days, especially when you are working on high altitudes that get freeze due to cold.
@@ -340,18 +204,12 @@ Follow @Max Wales
 
  If you need to edit your shots to get customized results then it is most important to choose a professional and high quality software tool. One of the best professional recommendations is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) due to its intuitive interface and ability to edit 4k video shoots. It can naturally lead to Hollywood style feeling with impressive adjustments of colours and other video effects.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Steps to edit videos using Wondershare Filmora:**
 
 **Step 1 Import video files:** First of all you need to import your files from computer folder to main interface of Wondershare Filmora. You can either prefer to use the “Import” option directly or work with drag and drop functions that can bring all desired files immediately to software timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import videos](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
 
 **Step 2: Cut Videos:**
@@ -360,9 +218,6 @@ Follow @Max Wales
 
 **Step 3: Scene Detection:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scene detection](https://images.wondershare.com/filmora/article-images/scene-detection.jpg)
 
  If you want to reach to certain segment of video quickly then use scene detection function. Just highlight your video on item tray and then right click, from the drop down menu, select “Scene Detection” option and now you can immediately separate your video into various parts as per need. It will help you to reach to specific part with ease.
@@ -379,9 +234,124 @@ Follow @Max Wales
 
  Once you are done with the editing part and your video has reached to the satisfactory view then simply hit the create option to save your video. It is possible to export video to device with different file formats as per your need, for this you need to select the format option and then choose your desired type. In case if you wish to play your video on specific devices like iPod, iPad and iPhone etc then you need to click on Device option and then choose your device from available list. Videos can also be uploaded directly to social media platforms like YouTube etc and it can be burnt to DVD discs also so that you can enjoy them on TV screens with DVD player at home.
 
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Are you curious about which scenes in a film are shot by drones? Check [this article](https://skytango.com/drones-in-movies-7-hollywood-movies-filmed-with-drones/) to expand your interest.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Drones have power to create wonders in the film industry and we can observe their awesome performance with undergoing revolution in the filmmaking. Filmmakers are now able to create wonders with cinematic, jaw dropping results that were earlier just impossible in Hollywood productions. But if you are new to this world of drone then you must be searching for some information regarding how to shoot aerial videos using drone to get professional results. If so, then don’t worry! Because the article below will provide you complete information about impressive filming techniques with latest drones.
+
+ Let's check a video tutorial first:
+
+## Tips for Filming with Drone
+
+* [Part 1: Techniques](#part1)
+* [Part 2: Weather](#part2)
+* [Part 3: Camera](#part3)
+* [Part 4: Editing](#part4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Techniques
+
+ In order to get best results with your aerial shoot, try these professional techniques:
+
+#### 1\.  Go Slow
+
+ The very first recommendation to beginners from professionals is to move slowly. It leaves cinematic impression on viewers as your slow motion makes them think that you are shooting from a larger platform such as helicopter. No doubt, it will increase the production value and shots will appear perfectly crafted and well controlled.
+
+ Ensure that you operate RC control stick very smoothly. Take help from gradual movements so that undesired shakes in footage can be avoided and at the same time care about slow acceleration and deceleration to avoid distortion from end results.
+
+ It is good to pre-plan as well as visual most of your aerial shots. One should prefer to advance guard his filming location so that all pros and cons can be pre-observed and proper planning can be done to get rid of limitations of that area. If you know your requirements in advance and have an effective plan for the site then you will definitely be able to make most out of your limited battery life of drone. You will not feel happy if some shots are missed just because of mismanagement and drained drone battery.
+
+#### 2\.  Two Axis type Movement
+
+ There are few hidden tricks behind those breathtaking shots of big budget movies and it is good to implement them with care. Most of those professionals prefer to implement two axis type movements simultaneously. They often make some arrangements to fly backwards as well as downwards at the same time but note that such movements must be controlled at much smoother rate with stable adjustments.
+
+#### 3\.  Strafe
+
+ When you have to focus on attractive landscapes then the best idea is to use sideways movements or the strafing feature. It will help you to show landscapes with different prospective and results will naturally be more impressive. Usually, most of the shots over landscapes in Hollywood movies are recorded with aerial motions where drone keep on moving forward and backward, so if you try the strafing effect then it will definitely be a unique and awesome idea. This recording style will also help you to reveal various eye catching features of the landscape.
+
+#### 4\.  Orbit
+
+ If you want to achieve Orbit then you have to control your drone strafe movements towards left or right side while pulling that yaw stick to exactly opposite direction. Let me make it clear that yaw stick is a control stick that you will find on left side of your drone controller and it is there to control rotation action of drone. Note that, you need to have more practice on that yaw control because most of users, even professionals end up spinning much faster and results are too bad.
+
+#### 5\.  Fly Through Shots
+
+ Here is something more cinematic but it is going to be risky enough. You need to be more careful to capture this type of shots because it demands you complete attention on controller screen for drone navigation. If you believe on your piloting skills then you will definitely achieve success in this recording action. When these shots are captured perfectly, they have power to capture attention of viewers and they will soon become fan of your cinematography skills along with your risk management strategy.
+
+### Weather
+
+ When we talk about weather then it is something out of your control and you have just one option that is to pray mercy from Mother Nature. To capture some of the best shots you will often need to fly in a clean sky and you definitely don’t need that heavy fog and rain. This issue is more common in winter days, especially when you are working on high altitudes that get freeze due to cold.
+
+**What to do?**
+
+* The first most important trick is to avoid taking shots in windy day. Generally, most of the advanced drone units can bear the pressure of up to 25-35 mph wind but if it goes above this range then your footage will get spoiled. It is not a good idea to simply rely on post processing techniques like jello effect etc. However, few professionals are able to refine their shots with Wrap Stabilization Setting to get best results.
+* Choose golden hours of the day to shoot your footage. The time of sunset and sunrise will help your footage to stand out as shadows are highly visible during this time and it will naturally create a natural impact. People rarely shoot scenes at sunrise time so you can try to implement this trick to prove yourself different from those common aerial shooters.
+
+### Camera
+
+ Some of the most common camera settings that demand your focus are flat image profile and shutter speed.
+
+* **Flat Image Profile:**There is no doubt to say that your camera settings are going to leave great impact on your footage so use them effectively. Prefer to work on flattest camera profile as it will help you to get impressive dynamic range with aerial camera. This technique of shooting helps users to prevent clouds and sky and also helps users to retain details from darkest point on ground.
+* **Control Shutter Speed:**  
+ It is good to work with lower shutter speed and in order to avoid strobing effect one must prefer to shot by keeping camera close to ground. Keep it somewhere around 100th to 250th level of second, one can also work with ND filter to control shutter speed to desired lower level. In case if you work with 500th or 100th part of second then you will naturally obtain sharper frames with it leads to footage with heavy strobing.
+
+### Editing
+
+ If you need to edit your shots to get customized results then it is most important to choose a professional and high quality software tool. One of the best professional recommendations is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) due to its intuitive interface and ability to edit 4k video shoots. It can naturally lead to Hollywood style feeling with impressive adjustments of colours and other video effects.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Steps to edit videos using Wondershare Filmora:**
+
+**Step 1 Import video files:** First of all you need to import your files from computer folder to main interface of Wondershare Filmora. You can either prefer to use the “Import” option directly or work with drag and drop functions that can bring all desired files immediately to software timeline.
+
+![import videos](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
+
+**Step 2: Cut Videos:**
+
+ Simply move the slider position to the specific point on your video from where you need to cut it down. In case if you want to remove any specific part permanently then split it using cut option and then use delete button from right menu or from toolbar to remove it. In case if you want to cut your video into multiple parts then simply repeat this process. But note that, you need to save those multiple sections of files one by one while deleting the unwanted portions.
+
+**Step 3: Scene Detection:**
+
+![scene detection](https://images.wondershare.com/filmora/article-images/scene-detection.jpg)
+
+ If you want to reach to certain segment of video quickly then use scene detection function. Just highlight your video on item tray and then right click, from the drop down menu, select “Scene Detection” option and now you can immediately separate your video into various parts as per need. It will help you to reach to specific part with ease.
+
+**Step 4: Apply Effects:**
+
+![add effects](https://images.wondershare.com/filmora/article-images/add-effects-in-filmora.jpg)
+
+ Wondershare Filmora provides wide range of features and editing options. One can easily add transitions, filters, overlays, titles, text and other useful elements with ease. The filmora library contains about 500 effects along with free royalty music option.
+
+ **Step 5: Export:**
+
+![export](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+
+ Once you are done with the editing part and your video has reached to the satisfactory view then simply hit the create option to save your video. It is possible to export video to device with different file formats as per your need, for this you need to select the format option and then choose your desired type. In case if you wish to play your video on specific devices like iPod, iPad and iPhone etc then you need to click on Device option and then choose your device from available list. Videos can also be uploaded directly to social media platforms like YouTube etc and it can be burnt to DVD discs also so that you can enjoy them on TV screens with DVD player at home.
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
  Are you curious about which scenes in a film are shot by drones? Check [this article](https://skytango.com/drones-in-movies-7-hollywood-movies-filmed-with-drones/) to expand your interest.
@@ -402,15 +372,16 @@ Follow @Max Wales
 
  Let's check a video tutorial first:
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Tips for Filming with Drone
 
 * [Part 1: Techniques](#part1)
 * [Part 2: Weather](#part2)
 * [Part 3: Camera](#part3)
 * [Part 4: Editing](#part4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Techniques
 
@@ -440,9 +411,6 @@ Follow @Max Wales
 
  Here is something more cinematic but it is going to be risky enough. You need to be more careful to capture this type of shots because it demands you complete attention on controller screen for drone navigation. If you believe on your piloting skills then you will definitely achieve success in this recording action. When these shots are captured perfectly, they have power to capture attention of viewers and they will soon become fan of your cinematography skills along with your risk management strategy.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Weather
 
  When we talk about weather then it is something out of your control and you have just one option that is to pray mercy from Mother Nature. To capture some of the best shots you will often need to fly in a clean sky and you definitely don’t need that heavy fog and rain. This issue is more common in winter days, especially when you are working on high altitudes that get freeze due to cold.
@@ -452,9 +420,6 @@ Follow @Max Wales
 * The first most important trick is to avoid taking shots in windy day. Generally, most of the advanced drone units can bear the pressure of up to 25-35 mph wind but if it goes above this range then your footage will get spoiled. It is not a good idea to simply rely on post processing techniques like jello effect etc. However, few professionals are able to refine their shots with Wrap Stabilization Setting to get best results.
 * Choose golden hours of the day to shoot your footage. The time of sunset and sunrise will help your footage to stand out as shadows are highly visible during this time and it will naturally create a natural impact. People rarely shoot scenes at sunrise time so you can try to implement this trick to prove yourself different from those common aerial shooters.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Camera
 
  Some of the most common camera settings that demand your focus are flat image profile and shutter speed.
@@ -463,14 +428,15 @@ Follow @Max Wales
 * **Control Shutter Speed:**  
  It is good to work with lower shutter speed and in order to avoid strobing effect one must prefer to shot by keeping camera close to ground. Keep it somewhere around 100th to 250th level of second, one can also work with ND filter to control shutter speed to desired lower level. In case if you work with 500th or 100th part of second then you will naturally obtain sharper frames with it leads to footage with heavy strobing.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Editing
 
  If you need to edit your shots to get customized results then it is most important to choose a professional and high quality software tool. One of the best professional recommendations is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) due to its intuitive interface and ability to edit 4k video shoots. It can naturally lead to Hollywood style feeling with impressive adjustments of colours and other video effects.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Steps to edit videos using Wondershare Filmora:**
 
@@ -486,6 +452,10 @@ Follow @Max Wales
 
 ![scene detection](https://images.wondershare.com/filmora/article-images/scene-detection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to reach to certain segment of video quickly then use scene detection function. Just highlight your video on item tray and then right click, from the drop down menu, select “Scene Detection” option and now you can immediately separate your video into various parts as per need. It will help you to reach to specific part with ease.
 
 **Step 4: Apply Effects:**
@@ -500,14 +470,15 @@ Follow @Max Wales
 
  Once you are done with the editing part and your video has reached to the satisfactory view then simply hit the create option to save your video. It is possible to export video to device with different file formats as per your need, for this you need to select the format option and then choose your desired type. In case if you wish to play your video on specific devices like iPod, iPad and iPhone etc then you need to click on Device option and then choose your device from available list. Videos can also be uploaded directly to social media platforms like YouTube etc and it can be burnt to DVD discs also so that you can enjoy them on TV screens with DVD player at home.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
  Are you curious about which scenes in a film are shot by drones? Check [this article](https://skytango.com/drones-in-movies-7-hollywood-movies-filmed-with-drones/) to expand your interest.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -537,7 +508,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-create-compelling-compositions-with-iphone-the-power-of-leading-lines/"><u>[New] Create Compelling Compositions with iPhone The Power of Leading Lines</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/apping-memorable-media-metaphors-for-2024/"><u>[New] Mapping Memorable Media Metaphors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-iphone-photo-potential-the-art-of-reflection/"><u>[New] Unlock iPhone Photo Potential The Art of Reflection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-learning-in-lut-design/"><u>[Updated] Accelerating Learning in LUT Design</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-new-era-for-cameras-exploring-the-multicam-revolution-for-2024/"><u>A New Era for Cameras Exploring the MultiCam Revolution for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-dialogue-design-dossiers/"><u>Dynamic Dialogue Design Dossiers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
+<li><a href="https://extra-information.techidaily.com/highlighted-10-facial-edits-for-iosandroid-phones/"><u>Highlighted 10 Facial Edits for iOS/Android Phones</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly/"><u>In 2024, An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-narzo-n53-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme Narzo N53</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a25-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A25 5G Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1046264-9781780991382-magic-crystals-sacred-stones/"><u>Magic Crystals, Sacred Stones | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-ingenious-best-buy-strategy-for-a-free-macbook-air-m3-your-ultimate-guide-to-claiming-this-hidden-gem-without-fuss/"><u>Mastering the Ingenious Best Buy Strategy for a Free MacBook Air M3 - Your Ultimate Guide to Claiming This Hidden Gem Without Fuss!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-filmmaking-kinemaster-transition-techniques/"><u>Seamless Filmmaking Kinemaster Transition Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sequel-of-seconds-measuring-20mb-footage/"><u>Sequel of Seconds Measuring 20MB Footage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/twitch-triumph-or-hitbox-heritage/"><u>Twitch Triumph or Hitbox Heritage?</u></a></li>
+</ul></div>
 

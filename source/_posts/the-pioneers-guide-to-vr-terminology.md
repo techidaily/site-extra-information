@@ -1,7 +1,7 @@
 ---
 title: "The Pioneer's Guide to VR Terminology"
-date: 2024-07-27T04:42:08.726Z
-updated: 2024-07-28T04:42:08.726Z
+date: 2025-01-02T05:34:57.037Z
+updated: 2025-01-07T22:02:22.931Z
 tags: 
   - screen-recording
   - ai video
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54
 
 # Virtual Reality Terms You Should Know
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Motion Platform
 
 It is a kind of highly controlled physical system which assists in the simulation of display motion into the real motion senses in the VR world. It provides life to all captured digital elements and let users believe that they are playing with a world of all living things.
@@ -40,9 +34,6 @@ It is a kind of highly controlled physical system which assists in the simulatio
 
 Eye Tracking works the same as that of head tracking and assists to keep users eye in motion as per the requirement of VR stuff. HMD assists in proper tracking of eye and head with integration to VR content, if you talk about VR games then this feature makes you feel the reality inside the gaming world and when you have to aim at targets then they can be controlled like real-world movements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Head Tracking
 
 Here we are going to talk about the sensors that track the movement of users' heads and keeps images moving in such a manner that they match head positions perfectly. For example, if you are using an Oculus Rift then the head tracking feature will force your head to look up, down, right, and left so that you can see the world in the way virtual reality wish to make you see.
@@ -51,37 +42,26 @@ Here we are going to talk about the sensors that track the movement of users' he
 
 It is described in terms of the ability to record all movements in such a manner that they appear to be a part of the real world. It will help you to get a closer look at every element that you want to observe in VR content, the same as that of real life. It is one of the biggest elements in the world of Virtual Reality that forces your senses to get involved with the tricky science of virtual environment with a feeling that you are wandering in a fantasy world.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Refresh Rate
 
 When you are looking at a series of images in the world of Virtual reality then refresh rate helps to control the movement of frames so that they can be managed to move at a faster or slower rate as per requirement. Refresh rate controls lead and lag of a series of images in such a manner that users avail a responsive experience. At the standard rate, users need 60 frames per second.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Head Mounted Display (HMD)
 
 This term will be more often used when you enter the world of Virtual Reality because it is associated with reading and hearing abilities in VR technology. In simple terms, HMDs are the specialized form of hardware that is responsible to deliver VR experience to users. It is designed in shape of a helmet or goggle that users can strap on their faces easily or can wear on their heads. The usage depends upon the requirements of your VR gear because some sensors work with head tracking whereas others do not need such elements.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Latency
 
 If you have ever experienced the world of Virtual Reality then you surely might have noticed that whenever you move your head in the directive motion then the visuals do not keep up accordingly, this is called latency. This is an unpleasant thing about Virtual Reality that adds a limitation to match virtual world with the real world. The lag caused by this latency period is a complaint from VR content users and it occurs due to a variety of reasons.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Immersion
 
 The combination of VR and MR leads to immersive experience of users where high-end manipulations can be done on images, sounds as well as other stimuli so that they can stay alive in an artificial environment.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Field of View (FOV)
 
 The term Field of View presents the angle of the visual field in degrees where it is important to keep FoV higher to that immersion can be extended to a higher end of the scale. Technically, the viewing angle of the human eye reaches up to 200 degrees thus it becomes important to raise the angle of FoV so that higher immersion can be resulted.
@@ -90,9 +70,6 @@ The term Field of View presents the angle of the visual field in degrees where i
 
 Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
 
 First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
@@ -105,11 +82,11 @@ It is simply the process of overlaying digital elements or data on the real worl
 
 The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -125,9 +102,6 @@ Follow @Benjamin Arango
 
 It is a kind of highly controlled physical system which assists in the simulation of display motion into the real motion senses in the VR world. It provides life to all captured digital elements and let users believe that they are playing with a world of all living things.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Eye Tracking
 
 Eye Tracking works the same as that of head tracking and assists to keep users eye in motion as per the requirement of VR stuff. HMD assists in proper tracking of eye and head with integration to VR content, if you talk about VR games then this feature makes you feel the reality inside the gaming world and when you have to aim at targets then they can be controlled like real-world movements.
@@ -145,89 +119,8 @@ It is described in terms of the ability to record all movements in such a manner
 When you are looking at a series of images in the world of Virtual reality then refresh rate helps to control the movement of frames so that they can be managed to move at a faster or slower rate as per requirement. Refresh rate controls lead and lag of a series of images in such a manner that users avail a responsive experience. At the standard rate, users need 60 frames per second.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Head Mounted Display (HMD)
-
-This term will be more often used when you enter the world of Virtual Reality because it is associated with reading and hearing abilities in VR technology. In simple terms, HMDs are the specialized form of hardware that is responsible to deliver VR experience to users. It is designed in shape of a helmet or goggle that users can strap on their faces easily or can wear on their heads. The usage depends upon the requirements of your VR gear because some sensors work with head tracking whereas others do not need such elements.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
-## Latency
-
-If you have ever experienced the world of Virtual Reality then you surely might have noticed that whenever you move your head in the directive motion then the visuals do not keep up accordingly, this is called latency. This is an unpleasant thing about Virtual Reality that adds a limitation to match virtual world with the real world. The lag caused by this latency period is a complaint from VR content users and it occurs due to a variety of reasons.
-
-## Immersion
-
-The combination of VR and MR leads to immersive experience of users where high-end manipulations can be done on images, sounds as well as other stimuli so that they can stay alive in an artificial environment.
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Field of View (FOV)
-
-The term Field of View presents the angle of the visual field in degrees where it is important to keep FoV higher to that immersion can be extended to a higher end of the scale. Technically, the viewing angle of the human eye reaches up to 200 degrees thus it becomes important to raise the angle of FoV so that higher immersion can be resulted.
-
-## Screen Resolution
-
-Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
-
-## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
-
-First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-## [Augmented Reality](https://tools.techidaily.com/wondershare/filmora/download/)
-
-It is simply the process of overlaying digital elements or data on the real world so that you can interact with reality and digital elements on same platform. Although Augmented Reality technology is still running behind Virtual Reality, the day they will converge then real wonders will be created with mixed reality effects.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-## [Mixed Reality](https://tools.techidaily.com/wondershare/filmora/download/)
-
-The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
-## Motion Platform
-
-It is a kind of highly controlled physical system which assists in the simulation of display motion into the real motion senses in the VR world. It provides life to all captured digital elements and let users believe that they are playing with a world of all living things.
-
-## Eye Tracking
-
-Eye Tracking works the same as that of head tracking and assists to keep users eye in motion as per the requirement of VR stuff. HMD assists in proper tracking of eye and head with integration to VR content, if you talk about VR games then this feature makes you feel the reality inside the gaming world and when you have to aim at targets then they can be controlled like real-world movements.
-
-## Head Tracking
-
-Here we are going to talk about the sensors that track the movement of users' heads and keeps images moving in such a manner that they match head positions perfectly. For example, if you are using an Oculus Rift then the head tracking feature will force your head to look up, down, right, and left so that you can see the world in the way virtual reality wish to make you see.
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Motion Tracking
-
-It is described in terms of the ability to record all movements in such a manner that they appear to be a part of the real world. It will help you to get a closer look at every element that you want to observe in VR content, the same as that of real life. It is one of the biggest elements in the world of Virtual Reality that forces your senses to get involved with the tricky science of virtual environment with a feeling that you are wandering in a fantasy world.
-
-## Refresh Rate
-
-When you are looking at a series of images in the world of Virtual reality then refresh rate helps to control the movement of frames so that they can be managed to move at a faster or slower rate as per requirement. Refresh rate controls lead and lag of a series of images in such a manner that users avail a responsive experience. At the standard rate, users need 60 frames per second.
 
 ## Head Mounted Display (HMD)
 
@@ -249,9 +142,6 @@ The term Field of View presents the angle of the visual field in degrees where i
 
 Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
 
 First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
@@ -280,24 +170,18 @@ Follow @Benjamin Arango
 
 It is a kind of highly controlled physical system which assists in the simulation of display motion into the real motion senses in the VR world. It provides life to all captured digital elements and let users believe that they are playing with a world of all living things.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Eye Tracking
 
 Eye Tracking works the same as that of head tracking and assists to keep users eye in motion as per the requirement of VR stuff. HMD assists in proper tracking of eye and head with integration to VR content, if you talk about VR games then this feature makes you feel the reality inside the gaming world and when you have to aim at targets then they can be controlled like real-world movements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Head Tracking
 
 Here we are going to talk about the sensors that track the movement of users' heads and keeps images moving in such a manner that they match head positions perfectly. For example, if you are using an Oculus Rift then the head tracking feature will force your head to look up, down, right, and left so that you can see the world in the way virtual reality wish to make you see.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Motion Tracking
 
 It is described in terms of the ability to record all movements in such a manner that they appear to be a part of the real world. It will help you to get a closer look at every element that you want to observe in VR content, the same as that of real life. It is one of the biggest elements in the world of Virtual Reality that forces your senses to get involved with the tricky science of virtual environment with a feeling that you are wandering in a fantasy world.
@@ -306,30 +190,106 @@ It is described in terms of the ability to record all movements in such a manner
 
 When you are looking at a series of images in the world of Virtual reality then refresh rate helps to control the movement of frames so that they can be managed to move at a faster or slower rate as per requirement. Refresh rate controls lead and lag of a series of images in such a manner that users avail a responsive experience. At the standard rate, users need 60 frames per second.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Head Mounted Display (HMD)
 
 This term will be more often used when you enter the world of Virtual Reality because it is associated with reading and hearing abilities in VR technology. In simple terms, HMDs are the specialized form of hardware that is responsible to deliver VR experience to users. It is designed in shape of a helmet or goggle that users can strap on their faces easily or can wear on their heads. The usage depends upon the requirements of your VR gear because some sensors work with head tracking whereas others do not need such elements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Latency
 
 If you have ever experienced the world of Virtual Reality then you surely might have noticed that whenever you move your head in the directive motion then the visuals do not keep up accordingly, this is called latency. This is an unpleasant thing about Virtual Reality that adds a limitation to match virtual world with the real world. The lag caused by this latency period is a complaint from VR content users and it occurs due to a variety of reasons.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Immersion
 
 The combination of VR and MR leads to immersive experience of users where high-end manipulations can be done on images, sounds as well as other stimuli so that they can stay alive in an artificial environment.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Field of View (FOV)
+
+The term Field of View presents the angle of the visual field in degrees where it is important to keep FoV higher to that immersion can be extended to a higher end of the scale. Technically, the viewing angle of the human eye reaches up to 200 degrees thus it becomes important to raise the angle of FoV so that higher immersion can be resulted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Screen Resolution
+
+Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
+
+## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+
+First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
+
+## [Augmented Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+
+It is simply the process of overlaying digital elements or data on the real world so that you can interact with reality and digital elements on same platform. Although Augmented Reality technology is still running behind Virtual Reality, the day they will converge then real wonders will be created with mixed reality effects.
+
+## [Mixed Reality](https://tools.techidaily.com/wondershare/filmora/download/)
+
+The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Motion Platform
+
+It is a kind of highly controlled physical system which assists in the simulation of display motion into the real motion senses in the VR world. It provides life to all captured digital elements and let users believe that they are playing with a world of all living things.
+
+## Eye Tracking
+
+Eye Tracking works the same as that of head tracking and assists to keep users eye in motion as per the requirement of VR stuff. HMD assists in proper tracking of eye and head with integration to VR content, if you talk about VR games then this feature makes you feel the reality inside the gaming world and when you have to aim at targets then they can be controlled like real-world movements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Head Tracking
+
+Here we are going to talk about the sensors that track the movement of users' heads and keeps images moving in such a manner that they match head positions perfectly. For example, if you are using an Oculus Rift then the head tracking feature will force your head to look up, down, right, and left so that you can see the world in the way virtual reality wish to make you see.
+
+## Motion Tracking
+
+It is described in terms of the ability to record all movements in such a manner that they appear to be a part of the real world. It will help you to get a closer look at every element that you want to observe in VR content, the same as that of real life. It is one of the biggest elements in the world of Virtual Reality that forces your senses to get involved with the tricky science of virtual environment with a feeling that you are wandering in a fantasy world.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Refresh Rate
+
+When you are looking at a series of images in the world of Virtual reality then refresh rate helps to control the movement of frames so that they can be managed to move at a faster or slower rate as per requirement. Refresh rate controls lead and lag of a series of images in such a manner that users avail a responsive experience. At the standard rate, users need 60 frames per second.
+
+## Head Mounted Display (HMD)
+
+This term will be more often used when you enter the world of Virtual Reality because it is associated with reading and hearing abilities in VR technology. In simple terms, HMDs are the specialized form of hardware that is responsible to deliver VR experience to users. It is designed in shape of a helmet or goggle that users can strap on their faces easily or can wear on their heads. The usage depends upon the requirements of your VR gear because some sensors work with head tracking whereas others do not need such elements.
+
+## Latency
+
+If you have ever experienced the world of Virtual Reality then you surely might have noticed that whenever you move your head in the directive motion then the visuals do not keep up accordingly, this is called latency. This is an unpleasant thing about Virtual Reality that adds a limitation to match virtual world with the real world. The lag caused by this latency period is a complaint from VR content users and it occurs due to a variety of reasons.
+
+## Immersion
+
+The combination of VR and MR leads to immersive experience of users where high-end manipulations can be done on images, sounds as well as other stimuli so that they can stay alive in an artificial environment.
+
 ## Field of View (FOV)
 
 The term Field of View presents the angle of the visual field in degrees where it is important to keep FoV higher to that immersion can be extended to a higher end of the scale. Technically, the viewing angle of the human eye reaches up to 200 degrees thus it becomes important to raise the angle of FoV so that higher immersion can be resulted.
@@ -346,9 +306,6 @@ First of all, it is important to know the actual meaning of VR that stands for V
 
 It is simply the process of overlaying digital elements or data on the real world so that you can interact with reality and digital elements on same platform. Although Augmented Reality technology is still running behind Virtual Reality, the day they will converge then real wonders will be created with mixed reality effects.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Mixed Reality](https://tools.techidaily.com/wondershare/filmora/download/)
 
 The convergence of Virtual and Augmented reality is known as mixed reality. MR creates a blend of the virtual world into the physical space and it has the power to bring life into digital elements resulted from highly advanced camera units and VR+AR gears.
@@ -383,7 +340,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-beyond-fun-and-games-deciphering-the-deep-meanings-in-emojis/"><u>[Updated] 2024 Approved Beyond Fun & Games Deciphering the Deep Meanings in Emojis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-to-the-best-high-res-capture-software/"><u>[Updated] Ultimate Guide to the Best High-Res Capture Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-film-for-a-friendly-facebook-feature/"><u>2024 Approved Film for a Friendly Facebook Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/p-dive-into-youtube-view-counts-and-more-for-2024/"><u>A Deep Dive Into YouTube View Counts and More for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-breakdown-of-theta-s-specifications-for-2024/"><u>Comprehensive Breakdown of Theta S Specifications for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/enhance-your-storytelling-with-text-in-instagram-videos-a-comprehensive-tutorial/"><u>Enhance Your Storytelling with Text in Instagram Videos - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmony-in-hd-crafting-melodic-instagram-videos/"><u>Harmony in HD Crafting Melodic Instagram Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-dive-deep-into-designing-dynamic-youtube-live-thumbnails/"><u>In 2024, Dive Deep Into Designing Dynamic YouTube Live Thumbnails</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-dedicated-users-video-testimonials/"><u>Mac Dedicated Users' Video Testimonials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/melodic-matchmaking-complementary-soundtracks-for-boxings/"><u>Melodic Matchmaking Complementary Soundtracks for Boxings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinterest-video-extraction-top-5-free-tools-ranked/"><u>Pinterest Video Extraction Top 5 Free Tools Ranked</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rolling-back-macos-sierra-to-el-capitan-version/"><u>Rolling Back MacOS Sierra to El Capitan Version</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-strategies-for-unrestricted-space-allocation/"><u>Superior Strategies for Unrestricted Space Allocation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlock-styling-secrets-with-a-diy-video-editing-guide-for-2024/"><u>Unlock Styling Secrets with a DIY Video Editing Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/what-lies-beneath-periscope-its-features-pricing-and-registration-guide/"><u>What Lies Beneath Periscope? Its Features, Pricing & Registration Guide</u></a></li>
+</ul></div>
 

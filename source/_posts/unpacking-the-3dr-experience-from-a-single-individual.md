@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the '3DR' Experience From a Single Individual"
-date: 2024-07-27T04:42:22.939Z
-updated: 2024-07-28T04:42:22.939Z
+date: 2025-01-04T00:54:57.846Z
+updated: 2025-01-08T04:34:57.184Z
 tags: 
   - screen-recording
   - ai video
@@ -65,10 +65,11 @@ thumbnail: https://thmb.techidaily.com/dd18e8bc3c9f273d09d135719fd511870ffe57b02
 
 #### 2\.  Design
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
@@ -86,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/dd18e8bc3c9f273d09d135719fd511870ffe57b02
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -100,189 +105,9 @@ thumbnail: https://thmb.techidaily.com/dd18e8bc3c9f273d09d135719fd511870ffe57b02
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
-
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Pros and Cons of 3DR Solo
-
-**Pros:**
-
-* Comes with Gimbal Stabilization and it works with GoPro cameras.
-* Offers repetition with smart shots.
-* Provides automated and smooth adjustment facility for the gimbal.
-* Return to home feature added.
-* Can be connected with android and iOS devices using dedicated application.
-
-**Cons:**
-
-* It offers very short battery life and takes too long to get charged.
-* People find its GPS system little spotty.
-* Drifts are observed during hovers.
-
- **Verdict:**
-
- The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
-## Complete Review
-
-#### 1\. Basic Specs Info
-
-| Item name            | 3DR Solo                                    |                       |                                  |
-| -------------------- | ------------------------------------------- | --------------------- | -------------------------------- |
-| Manufacture          | 3DR Robotics                                |                       |                                  |
-| Price:               | Official: $1099                             |                       |                                  |
-| Basic Specifications |                                             |                       |                                  |
-| Weight               | 3.35 lbs                                    | Dimensions            | 18.5x1.8x0.7 feet                |
-| Application          | Android and iOS compatible                  | Flight Time           | 22 minutes                       |
-| FAA Registration     | Yes                                         | Smartphone Controlled | Yes                              |
-| Camera               | GoPro 3+/4                                  | Battery Life          | 20/22 minutes (5200 mAh, Li-ion) |
-| Video Resolution     | 4K/60P (as per GoPro Camera Specifications) | Rotors                | 4 replaceable (10 inch diameter) |
-
-#### 2\.  Design
-
-![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
-
- People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
-
-#### 3\. Battery Life
-
- Solo makes use of a very heavy and large battery that has 5200 mAh rating and can serve users up to 22 minutes in air. This is average rating for a drone unit and is comparable to popular DJI Phantom model that offers about 28 minute flight time. The battery takes about 70 minutes to get fully charged so you may need to wait so long to make it ready for the next flight. You cannot connect any third party charged to this device and also third party batteries are not supported. If you want to buy the spare batteries from 3DR then you need to pay $149/battery.
-
-#### 4\. Flight Performance
-
- This device possesses very simple and intuitive controls for flight with automated landing and takeoff feature. When you are ready for the flight, switch your drone and wait for one minute so that it can activate the GPS system and then press fly button. It will immediately move in the air and hover at about 4 feel height from ground. There are numerous flight modes over which users can easily switch from application: four video modes and five advanced flight modes. If you are a beginner in the world of drones then you may probably love its autonomous flying feature. In this mode, drone takes all flight decisions itself instead of depending on application based controls.
-
-#### 5\. Control Range
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
-
- The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
-
-#### 6\. Camera
-
- If you need to record videos or stills in air using your drone then you need to invest on one additional product. Buy a GoPro camera for your drone and soon it will become able to get best aerial shots for you. This camera is connected to drone via control and HDMI cable and all the captured shots are sent back to drone as well as to the controlling application. You can also change device settings via application. 3DR solo is compatible with [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) Hero 3+ and 4 and they allow users to shoot 4K videos at 60 fps frame rate with ease. One can also make adjustments for frame rate as well as resolution from application to have customized control over videos.
-
-#### 7\. Repairable
-
- You will be glad to know that 3DR solo is a repairable drone and 3DR keeps on selling all parts for this product. You will get everything ranging from rotor blades to quadcoper legs at reasonable price range. Everything is managed with easy to replace mode where users can easily take the old faulty parts out and new ones can be placed inside within very less time. All the rotors have colour coding on them so that users can easily assemble them at right locations. Most of the users review that few parts of this drone are fragile. Commonly, rotor blades demand replacements as they get damaged with crashes and if your drone hits the ground very hard then you may also need to replace its frame. But the process of replacement is very easy.
-
-**You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Pros and Cons of 3DR Solo
-
-**Pros:**
-
-* Comes with Gimbal Stabilization and it works with GoPro cameras.
-* Offers repetition with smart shots.
-* Provides automated and smooth adjustment facility for the gimbal.
-* Return to home feature added.
-* Can be connected with android and iOS devices using dedicated application.
-
-**Cons:**
-
-* It offers very short battery life and takes too long to get charged.
-* People find its GPS system little spotty.
-* Drifts are observed during hovers.
-
- **Verdict:**
-
- The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
-
-## Complete Review
-
-#### 1\. Basic Specs Info
-
-| Item name            | 3DR Solo                                    |                       |                                  |
-| -------------------- | ------------------------------------------- | --------------------- | -------------------------------- |
-| Manufacture          | 3DR Robotics                                |                       |                                  |
-| Price:               | Official: $1099                             |                       |                                  |
-| Basic Specifications |                                             |                       |                                  |
-| Weight               | 3.35 lbs                                    | Dimensions            | 18.5x1.8x0.7 feet                |
-| Application          | Android and iOS compatible                  | Flight Time           | 22 minutes                       |
-| FAA Registration     | Yes                                         | Smartphone Controlled | Yes                              |
-| Camera               | GoPro 3+/4                                  | Battery Life          | 20/22 minutes (5200 mAh, Li-ion) |
-| Video Resolution     | 4K/60P (as per GoPro Camera Specifications) | Rotors                | 4 replaceable (10 inch diameter) |
-
-#### 2\.  Design
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
-![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
-
- People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
-
-#### 3\. Battery Life
-
- Solo makes use of a very heavy and large battery that has 5200 mAh rating and can serve users up to 22 minutes in air. This is average rating for a drone unit and is comparable to popular DJI Phantom model that offers about 28 minute flight time. The battery takes about 70 minutes to get fully charged so you may need to wait so long to make it ready for the next flight. You cannot connect any third party charged to this device and also third party batteries are not supported. If you want to buy the spare batteries from 3DR then you need to pay $149/battery.
-
-#### 4\. Flight Performance
-
- This device possesses very simple and intuitive controls for flight with automated landing and takeoff feature. When you are ready for the flight, switch your drone and wait for one minute so that it can activate the GPS system and then press fly button. It will immediately move in the air and hover at about 4 feel height from ground. There are numerous flight modes over which users can easily switch from application: four video modes and five advanced flight modes. If you are a beginner in the world of drones then you may probably love its autonomous flying feature. In this mode, drone takes all flight decisions itself instead of depending on application based controls.
-
-#### 5\. Control Range
-
-![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
-
- The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
-
-#### 6\. Camera
-
- If you need to record videos or stills in air using your drone then you need to invest on one additional product. Buy a GoPro camera for your drone and soon it will become able to get best aerial shots for you. This camera is connected to drone via control and HDMI cable and all the captured shots are sent back to drone as well as to the controlling application. You can also change device settings via application. 3DR solo is compatible with [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) Hero 3+ and 4 and they allow users to shoot 4K videos at 60 fps frame rate with ease. One can also make adjustments for frame rate as well as resolution from application to have customized control over videos.
-
-#### 7\. Repairable
-
- You will be glad to know that 3DR solo is a repairable drone and 3DR keeps on selling all parts for this product. You will get everything ranging from rotor blades to quadcoper legs at reasonable price range. Everything is managed with easy to replace mode where users can easily take the old faulty parts out and new ones can be placed inside within very less time. All the rotors have colour coding on them so that users can easily assemble them at right locations. Most of the users review that few parts of this drone are fragile. Commonly, rotor blades demand replacements as they get damaged with crashes and if your drone hits the ground very hard then you may also need to replace its frame. But the process of replacement is very easy.
-
-**You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
 
@@ -333,9 +158,6 @@ Follow @Max Wales
 
 #### 2\.  Design
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -352,9 +174,180 @@ Follow @Max Wales
 
 #### 5\. Control Range
 
+![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
+
+#### 6\. Camera
+
+ If you need to record videos or stills in air using your drone then you need to invest on one additional product. Buy a GoPro camera for your drone and soon it will become able to get best aerial shots for you. This camera is connected to drone via control and HDMI cable and all the captured shots are sent back to drone as well as to the controlling application. You can also change device settings via application. 3DR solo is compatible with [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) Hero 3+ and 4 and they allow users to shoot 4K videos at 60 fps frame rate with ease. One can also make adjustments for frame rate as well as resolution from application to have customized control over videos.
+
+#### 7\. Repairable
+
+ You will be glad to know that 3DR solo is a repairable drone and 3DR keeps on selling all parts for this product. You will get everything ranging from rotor blades to quadcoper legs at reasonable price range. Everything is managed with easy to replace mode where users can easily take the old faulty parts out and new ones can be placed inside within very less time. All the rotors have colour coding on them so that users can easily assemble them at right locations. Most of the users review that few parts of this drone are fragile. Commonly, rotor blades demand replacements as they get damaged with crashes and if your drone hits the ground very hard then you may also need to replace its frame. But the process of replacement is very easy.
+
+**You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Pros and Cons of 3DR Solo
+
+**Pros:**
+
+* Comes with Gimbal Stabilization and it works with GoPro cameras.
+* Offers repetition with smart shots.
+* Provides automated and smooth adjustment facility for the gimbal.
+* Return to home feature added.
+* Can be connected with android and iOS devices using dedicated application.
+
+**Cons:**
+
+* It offers very short battery life and takes too long to get charged.
+* People find its GPS system little spotty.
+* Drifts are observed during hovers.
+
+ **Verdict:**
+
+ The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
+
+## Complete Review
+
+#### 1\. Basic Specs Info
+
+| Item name            | 3DR Solo                                    |                       |                                  |
+| -------------------- | ------------------------------------------- | --------------------- | -------------------------------- |
+| Manufacture          | 3DR Robotics                                |                       |                                  |
+| Price:               | Official: $1099                             |                       |                                  |
+| Basic Specifications |                                             |                       |                                  |
+| Weight               | 3.35 lbs                                    | Dimensions            | 18.5x1.8x0.7 feet                |
+| Application          | Android and iOS compatible                  | Flight Time           | 22 minutes                       |
+| FAA Registration     | Yes                                         | Smartphone Controlled | Yes                              |
+| Camera               | GoPro 3+/4                                  | Battery Life          | 20/22 minutes (5200 mAh, Li-ion) |
+| Video Resolution     | 4K/60P (as per GoPro Camera Specifications) | Rotors                | 4 replaceable (10 inch diameter) |
+
+#### 2\.  Design
+
+![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
+
+ People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
+
+#### 3\. Battery Life
+
+ Solo makes use of a very heavy and large battery that has 5200 mAh rating and can serve users up to 22 minutes in air. This is average rating for a drone unit and is comparable to popular DJI Phantom model that offers about 28 minute flight time. The battery takes about 70 minutes to get fully charged so you may need to wait so long to make it ready for the next flight. You cannot connect any third party charged to this device and also third party batteries are not supported. If you want to buy the spare batteries from 3DR then you need to pay $149/battery.
+
+#### 4\. Flight Performance
+
+ This device possesses very simple and intuitive controls for flight with automated landing and takeoff feature. When you are ready for the flight, switch your drone and wait for one minute so that it can activate the GPS system and then press fly button. It will immediately move in the air and hover at about 4 feel height from ground. There are numerous flight modes over which users can easily switch from application: four video modes and five advanced flight modes. If you are a beginner in the world of drones then you may probably love its autonomous flying feature. In this mode, drone takes all flight decisions itself instead of depending on application based controls.
+
+#### 5\. Control Range
+
+![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
+
+#### 6\. Camera
+
+ If you need to record videos or stills in air using your drone then you need to invest on one additional product. Buy a GoPro camera for your drone and soon it will become able to get best aerial shots for you. This camera is connected to drone via control and HDMI cable and all the captured shots are sent back to drone as well as to the controlling application. You can also change device settings via application. 3DR solo is compatible with [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) Hero 3+ and 4 and they allow users to shoot 4K videos at 60 fps frame rate with ease. One can also make adjustments for frame rate as well as resolution from application to have customized control over videos.
+
+#### 7\. Repairable
+
+ You will be glad to know that 3DR solo is a repairable drone and 3DR keeps on selling all parts for this product. You will get everything ranging from rotor blades to quadcoper legs at reasonable price range. Everything is managed with easy to replace mode where users can easily take the old faulty parts out and new ones can be placed inside within very less time. All the rotors have colour coding on them so that users can easily assemble them at right locations. Most of the users review that few parts of this drone are fragile. Commonly, rotor blades demand replacements as they get damaged with crashes and if your drone hits the ground very hard then you may also need to replace its frame. But the process of replacement is very easy.
+
+**You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
+
+## Pros and Cons of 3DR Solo
+
+**Pros:**
+
+* Comes with Gimbal Stabilization and it works with GoPro cameras.
+* Offers repetition with smart shots.
+* Provides automated and smooth adjustment facility for the gimbal.
+* Return to home feature added.
+* Can be connected with android and iOS devices using dedicated application.
+
+**Cons:**
+
+* It offers very short battery life and takes too long to get charged.
+* People find its GPS system little spotty.
+* Drifts are observed during hovers.
+
+ **Verdict:**
+
+ The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
+
+## Complete Review
+
+#### 1\. Basic Specs Info
+
+| Item name            | 3DR Solo                                    |                       |                                  |
+| -------------------- | ------------------------------------------- | --------------------- | -------------------------------- |
+| Manufacture          | 3DR Robotics                                |                       |                                  |
+| Price:               | Official: $1099                             |                       |                                  |
+| Basic Specifications |                                             |                       |                                  |
+| Weight               | 3.35 lbs                                    | Dimensions            | 18.5x1.8x0.7 feet                |
+| Application          | Android and iOS compatible                  | Flight Time           | 22 minutes                       |
+| FAA Registration     | Yes                                         | Smartphone Controlled | Yes                              |
+| Camera               | GoPro 3+/4                                  | Battery Life          | 20/22 minutes (5200 mAh, Li-ion) |
+| Video Resolution     | 4K/60P (as per GoPro Camera Specifications) | Rotors                | 4 replaceable (10 inch diameter) |
+
+#### 2\.  Design
+
+![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
+
+ People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
+
+#### 3\. Battery Life
+
+ Solo makes use of a very heavy and large battery that has 5200 mAh rating and can serve users up to 22 minutes in air. This is average rating for a drone unit and is comparable to popular DJI Phantom model that offers about 28 minute flight time. The battery takes about 70 minutes to get fully charged so you may need to wait so long to make it ready for the next flight. You cannot connect any third party charged to this device and also third party batteries are not supported. If you want to buy the spare batteries from 3DR then you need to pay $149/battery.
+
+#### 4\. Flight Performance
+
+ This device possesses very simple and intuitive controls for flight with automated landing and takeoff feature. When you are ready for the flight, switch your drone and wait for one minute so that it can activate the GPS system and then press fly button. It will immediately move in the air and hover at about 4 feel height from ground. There are numerous flight modes over which users can easily switch from application: four video modes and five advanced flight modes. If you are a beginner in the world of drones then you may probably love its autonomous flying feature. In this mode, drone takes all flight decisions itself instead of depending on application based controls.
+
+#### 5\. Control Range
+
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -370,6 +363,10 @@ Follow @Max Wales
 **You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -399,7 +396,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-blueprinting-breathtaking-film-prologues/"><u>[New] Blueprinting Breathtaking Film Prologues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>[Updated] Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-exploring-the-spectrum-projectors-and-televisions-in-a-4k-world/"><u>2024 Approved Exploring the Spectrum Projectors & Televisions in a 4K World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-analog-to-digital-srt-conversion-into-modern-audio-standards/"><u>2024 Approved From Analog to Digital SRT Conversion Into Modern Audio Standards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/becoming-a-pro-at-using-zoom-on-win10-systems/"><u>Becoming a Pro at Using Zoom on WIN10 Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clipcomposers-journey-thorough-review-of-androvid-for-2024/"><u>ClipComposer's Journey – Thorough Review of AndroVid for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/converting-ordinary-images-into-artistic-hdr-works/"><u>Converting Ordinary Images Into Artistic HDR Works</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-auto-gpt-hold-up-on-its-own-insights-for-users-lacking-gpt-4/"><u>Does Auto-GPT Hold Up on Its Own? Insights for Users Lacking GPT-4</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ice-warriors-battle-the-spectacular-winter-olympics-snowboard-showdown/"><u>Ice Warriors Battle - The Spectacular Winter Olympics Snowboard Showdown</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-assessing-djis-flight-vision-tx-headset-performance/"><u>In 2024, Assessing DJI's Flight Vision TX Headset Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boosting-visual-impact-incorporate-apple-music/"><u>In 2024, Boosting Visual Impact Incorporate Apple Music</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-the-features-of-google-podcasts-app/"><u>In 2024, Comprehensive Guide The Features of Google Podcasts App</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-11-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 11 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-14-showdown-unlocking-features-of-pro-vs-pro-max-for-smart-shoppers/"><u>IPhone 14 Showdown: Unlocking Features of Pro Vs. Pro Max for Smart Shoppers!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/scrutinizing-the-value-in-a-new-apple-watch-release/"><u>Scrutinizing the Value in a New Apple Watch Release</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-say-goodbye-to-format-issues-stream-any-video-to-chromecast-seamlessly/"><u>Updated 2024 Approved Say Goodbye to Format Issues Stream Any Video to Chromecast Seamlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-media-player-alternative/"><u>Windows Media Player Alternative</u></a></li>
+</ul></div>
 

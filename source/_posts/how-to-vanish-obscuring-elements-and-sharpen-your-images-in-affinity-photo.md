@@ -1,7 +1,7 @@
 ---
 title: "How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo"
-date: 2024-12-22T11:08:05.119Z
-updated: 2024-12-28T23:15:07.101Z
+date: 2025-01-04T17:51:18.251Z
+updated: 2025-01-07T18:17:02.072Z
 tags: 
   - screen-recording
   - ai video
@@ -22,13 +22,13 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Erase a White Background in Affinity Designer
 
@@ -44,6 +44,10 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
@@ -57,7 +61,7 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
@@ -91,6 +95,10 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 ## The Best Alternative of Affinity Photo
@@ -100,10 +108,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -120,10 +124,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,10 +143,6 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -162,6 +158,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -197,16 +197,18 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-secrets-of-slow-motion-video-production-for-instagram-impact/"><u>[New] In 2024, Unveiling the Secrets of Slow Motion Video Production for Instagram Impact</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-ps-tips-for-perfecting-photo-shades-and-saturation/"><u>2024 Approved PS Tips for Perfecting Photo Shades and Saturation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/best-practices-for-mobile-snapchat-recording-techniques-for-2024/"><u>Best Practices for Mobile Snapchat Recording Techniques for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elder-scrolls-online-wont-start-heres-the-fix/"><u>Elder Scrolls Online Won't Start? Here's the Fix</u></a></li>
-<li><a href="https://extra-information.techidaily.com/examining-key-features-in-vr-headsets/"><u>Examining Key Features in VR Headsets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/game-on-unlocking-full-potential-in-funimate/"><u>Game On Unlocking Full Potential in Funimate</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oneplus-11r-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your OnePlus 11R</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-vs-2-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic Vs 2 Phone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/srt-file-playback-windows-and-mac-integration/"><u>SRT File Playback Windows & Mac Integration</u></a></li>
-<li><a href="https://extra-information.techidaily.com/syncing-sonata-to-still-images-in-the-cyberrealm/"><u>Syncing Sonata to Still Images in the Cyberrealm</u></a></li>
-<li><a href="https://win-dash.techidaily.com/toshiba-bluetooth-drivers-quick-and-easy-installation-guide/"><u>Toshiba Bluetooth Drivers: Quick and Easy Installation Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-quick-remedies-for-common-youtube-short-mishaps/"><u>[Updated] In 2024, Quick Remedies for Common YouTube Short Mishaps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-quick-diy-moviemaking-secrets-unveiled/"><u>10 Quick DIY Moviemaking Secrets Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-do-shopping-blogs-have-a-payment-scheme-for-reports/"><u>2024 Approved Do Shopping Blogs Have a Payment Scheme for Reports?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canvas-magic-how-to-banish-the-unwanted-backdrop/"><u>Canva's Magic How to Banish the Unwanted Backdrop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-slug-lines-a-step-by-step-approach-for-2024/"><u>Crafting Compelling Slug Lines A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/dazzling-dynamics-the-essence-of-grading-aesthetics-for-2024/"><u>Dazzling Dynamics The Essence of Grading Aesthetics for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breakdown-of-essential-features-in-movie-maker-for-windows-8/"><u>In 2024, Breakdown of Essential Features in Movie Maker for Windows 8</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-redmi-note-12-proplus-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Redmi Note 12 Pro+ 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-latest-steelseries-drivers-on-your-pc-easy-instructions-for-windows-systems/"><u>Install the Latest SteelSeries Drivers on Your PC: Easy Instructions for Windows Systems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-premier-selection-of-podcast-audio-to-text-transcribers-freepaid/"><u>New In 2024, The Premier Selection of Podcast Audio-to-Text Transcribers (Free/Paid)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-blueprint-for-telegram-marketplace-success/"><u>The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-resource-compilation-for-media-imagery/"><u>Ultimate Resource Compilation for Media Imagery</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-the-world-of-omegle-an-overview-and-safety-concerns-for-2024/"><u>Updated Navigating the World of Omegle An Overview and Safety Concerns for 2024</u></a></li>
 </ul></div>
 

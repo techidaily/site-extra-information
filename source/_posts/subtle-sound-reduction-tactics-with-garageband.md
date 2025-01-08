@@ -1,7 +1,7 @@
 ---
 title: "Subtle Sound Reduction Tactics with Garageband"
-date: 2024-07-27T04:44:57.677Z
-updated: 2024-07-28T04:44:57.677Z
+date: 2025-01-07T01:45:55.439Z
+updated: 2025-01-08T01:24:38.999Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ In the music production industry, an element that is often used in a song is fad
 
 In the article, we will educate you on various topics related to GarageBand; if you are new in the field of music production, then this article will benefit you.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Part 1\. How to Fade Audio with Garageband on Mac?
 
 We all know that Garageband is a program that allows its users to produce music and podcasts on iOS, macO, and ipadOS devices. It has many in-built audio effects that can enhance your music. Fade-out and fade-in are two of the most used products in Garageband. Many beginners face trouble on **how to fade out in Garageband** as it is not a popular feature that everyone practices.
@@ -38,22 +34,28 @@ Step1 Turn on the application and open the song from the home screen.
 
 ![open songs in garageband](https://images.wondershare.com/filmora/article-images/2022/07/open-songs-in-garageband.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Press the track> show the master track from the icon menu, and then the master track will come below the last track.
 
 Step3 Choose the mix> produce volume fade out on the main output option.
 
 Step4 Press the volume button from the menu in the track header, and use the volume point to adjust the fade-out length.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start fade out length garageband](https://images.wondershare.com/filmora/article-images/2022/07/start-fade-out-length-garageband.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. How to Fade Audio with Garageband on iPhone?
 
 Fading out of music is very popular when going through your favorite track. As soon as the song comes closer to the end, you will get to hear it fade slowly-slowly. You can use this effect even if you produce your music in Garageband. Fading out a song is not a widespread practice, but you can go through the article to gather information about how to **fade in Garageband**.
@@ -66,9 +68,6 @@ Step2 Go to the setting option at the top right corner and open the song set.
 
 Step3 Scroll down to the fade-out option and turn it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fade audio garageband iphone](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-garageband-iphone.jpg)
 
 Step4 Hit the done icon.
@@ -101,9 +100,6 @@ After the installation procedure, select the import icon from the menu. Choose t
 
 After the drag and drop procedure, double click on the file and direct yourself to the audio column; there, you will get numerous settings that include volume, fade-out, fade-in, and pitch. Adjust as per your need until and unless you get the desired clip.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Save the video
@@ -111,6 +107,10 @@ After the drag and drop procedure, double click on the file and direct yourself 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -134,9 +134,6 @@ After the installation procedure, select the import icon from the menu. Choose t
 
 After the drag and drop procedure, double click on the file and direct yourself to the audio column; there, you will get numerous settings that include volume, fade-out, fade-in, and pitch. Adjust as per your need until and unless you get the desired clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Save the video
@@ -146,8 +143,9 @@ Choose the create option to save the new file if you are done with the adjusting
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 According to the survey, one of the most searched topics is **how to fade music in Garageband**. If you are also facing the same issue, this article will offer you a simple guide on the topic related to fade-in and fade-out features. You can also browse the internet to search for other benefits, and you can explore the application to learn more about its uses.
@@ -174,7 +172,24 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-guide-to-using-snapchats-influencer-showcase/"><u>[New] A Guide to Using Snapchat's Influencer Showcase</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleash-potential-deciding-between-studio-and-beta-version/"><u>[New] Unleash Potential Deciding Between Studio and Beta Version</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discovering-whos-watching-your-videos/"><u>[Updated] 2024 Approved Discovering Who's Watching Your Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-selective-selection-best-bands-for-ringtones/"><u>[Updated] In 2024, Selective Selection Best Bands for Ringtones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-srt-to-txt-mastery-the-2023-guide-for-rapid-changeover/"><u>[Updated] In 2024, SRT to TXT Mastery The 2023 Guide for Rapid Changeover</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-guide-to-excellence-full-screen-preview-in-premiere/"><u>2024 Approved Advanced Guide to Excellence Full Screen Preview in Premiere</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-constructing-visually-captivating-photo-collections/"><u>2024 Approved Constructing Visually Captivating Photo Collections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-scrutiny-gopro-silver-hero4-version/"><u>Complete Scrutiny GoPro Silver Hero4 Version</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-metaverse-and-multimeva-what-sets-them-apart-insightful-guide/"><u>Dissecting Metaverse and Multimeva What Sets Them Apart (Insightful Guide)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-your-content-techniques-for-combining-sound-and-sight-in-instareels/"><u>Elevate Your Content Techniques for Combining Sound and Sight in InstaReels</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-to-address-windows-camera-hiccups/"><u>Immediate Actions to Address Windows Camera Hiccups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-charting-the-top-8-online-photo-hybrid-creator/"><u>In 2024, Charting the Top 8 Online Photo Hybrid Creator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/new-karaoke-app-update-free-download-of-latest-public-beta-v086321-for-enthusiastic-singers/"><u>New Karaoke App Update: Free Download of Latest Public Beta v0.8.6321 for Enthusiastic Singers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-your-online-presence-with-these-18-elite-recording-systems/"><u>Perfect Your Online Presence with These 18 Elite Recording Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-9-key-video-file-types-advantages-limitations-and-when-to-use-them/"><u>The Ultimate Guide to 9 Key Video File Types - Advantages, Limitations & When to Use Them</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-gratuite-programmi-di-animazione-3d-migliori-nellagosto-2024/"><u>Top 12 Gratuite Programmi Di Animazione 3D Migliori Nell'agosto 2024</u></a></li>
+</ul></div>
 
