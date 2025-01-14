@@ -1,7 +1,7 @@
 ---
 title: "Essential Techniques for Erasing Background Elements in Figma"
-date: 2024-07-27T04:35:26.886Z
-updated: 2024-07-28T04:35:26.886Z
+date: 2025-01-13T12:42:26.705Z
+updated: 2025-01-14T10:09:33.458Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ As aforementioned, **Figma** does not offer a **Background Remover** tool but co
 
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -61,10 +58,11 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
 
@@ -75,6 +73,10 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
@@ -89,9 +91,6 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -112,9 +111,6 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 ### (3) Using Online Removers
@@ -124,8 +120,9 @@ Another alternative is to use any tool that **removes the image background onlin
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
@@ -148,15 +145,16 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -164,8 +162,9 @@ Another alternative is to use any tool that **removes the image background onlin
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
@@ -200,7 +199,26 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-embrace-the-future-now-transforming-your-mobile-device-for-vr/"><u>[Updated] In 2024, Embrace the Future Now Transforming Your Mobile Device for VR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/17-best-background-remover-apps-to-remove-image-background-easily-for-2024/"><u>17 Best Background Remover Apps to Remove Image Background Easily for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>2024 Approved Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-fainter-frequencies-for-pc-and-mac-harmony/"><u>2024 Approved Fainter Frequencies for PC & Mac Harmony</u></a></li>
+<li><a href="https://discover-help.techidaily.com/5aac5l2v6ieq5yqo5rif55cg6lwe5rqq5zue5ps25rgg5pah5lu2ic0g5lij56en5l65o236kej5yaz5pa55rov/"><u>如何自动清理资源回收池文件 - 三种便捷解决方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-ai-for-professional-photography/"><u>Advanced AI for Professional Photography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras-for-2024/"><u>Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blur-it-out-simplified-identity-obscuration-techniques/"><u>Blur It Out Simplified Identity Obscuration Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-room-luminosity-using-daylight-tactics/"><u>Enhancing Room Luminosity Using Daylight Tactics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-secrets-to-sizzling-unboxing-reels-on-social-media/"><u>In 2024, 10 Secrets to Sizzling Unboxing Reels on Social Media</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-brightening-tactics-for-android-video-enthusiasts/"><u>In 2024, Brightening Tactics for Android Video Enthusiasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-phantom-v-fold-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Phantom V Fold FRP Bypass</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-discover-the-top-time-lapse-video-editing-software-from-free-to-pro/"><u>New 2024 Approved Discover the Top Time-Lapse Video Editing Software From Free to Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-locations-for-purchasing-youtube-ringtone-content-for-2024/"><u>Superior Locations for Purchasing YouTube Ringtone Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sync-sound-files-with-ppt-slides/"><u>Sync Sound Files with PPT Slides</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-4k-all-in-one-touch-screen-desktops/"><u>Top 4K All-in-One Touch Screen Desktops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-spark-illuminating-techniques-for-stellar-footage/"><u>Video Spark Illuminating Techniques for Stellar Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808235815-whats-new-in-windows-10-creators-update-insider-preview-build-1503/"><u>What's New in Windows 10 Creators Update: Insider Preview Build 1503</u></a></li>
+</ul></div>
 

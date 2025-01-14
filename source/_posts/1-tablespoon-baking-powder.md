@@ -1,7 +1,7 @@
 ---
 title: 1 Tablespoon Baking Powder
-date: 2025-01-04T22:03:27.388Z
-updated: 2025-01-07T23:06:12.455Z
+date: 2025-01-11T08:15:06.088Z
+updated: 2025-01-13T19:21:32.055Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab9c0b620709.jpg)
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Cortana not working?
 
@@ -45,12 +49,16 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
@@ -59,10 +67,6 @@ Check your region and language settings on your computer:
 
 5) Try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
@@ -70,10 +74,6 @@ Check your region and language settings on your computer:
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -104,7 +104,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
@@ -115,6 +115,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -123,16 +127,12 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
@@ -159,22 +159,22 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-dichotomy-of-digital-minis-youtubes-efficiency-versus-tiktoks-trendiness/"><u>[New] The Dichotomy of Digital Minis YouTube's Efficiency Versus TikTok's Trendiness</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-critical-look-at-the-action-focused-polaroid-cubeplus/"><u>2024 Approved A Critical Look at the Action-Focused Polaroid Cube+</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-applications-for-transforming-photo-content-into-video/"><u>2024 Approved Best Applications for Transforming Photo Content Into Video</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-list-iphone-video-recording-hacks-for-2024/"><u>A-List iPhone Video Recording Hacks for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/achetez-un-transfert-instantane-et-direct-dinformations-entre-ordinateurs-sans-utiliser-le-nuage-2-techniques-essentielles/"><u>Achetez Un Transfert Instantané Et Direct D’Informations Entre Ordinateurs Sans Utiliser Le Nuage : 2 Techniques Essentielles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ai-naming-power-the-top-ten-podcast-renamers-for-2024/"><u>AI Naming Power The Top Ten Podcast Renamers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/easy-plot-development-basics/"><u>Easy Plot Development Basics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-insights-into-windows-superior-video-players/"><u>Exclusive Insights Into Window's Superior Video Players</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-audiovisual-speed-adjustment-arsenal-list/"><u>In 2024, Audiovisual Speed Adjustment Arsenal List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-blueprints-for-the-ultimate-home-studio-a-4k-editing-powerhouse/"><u>In 2024, Blueprints for the Ultimate Home Studio A 4K Editing Powerhouse</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-m34-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy M34 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/morphvox-mastery-a-complete-voice-modification-companion/"><u>MorphVOX Mastery A Complete Voice Modification Companion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-tech-wisdom/"><u>Navigating the World of Computer Hardware with Tom's Tech Wisdom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-most-shared-stock-photos-and-their-tales-for-2024/"><u>Top 10 Most Shared Stock Photos and Their Tales for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-setup-tutorial-installing-logitechs-mx-master-desktop-software/"><u>Ultimate Setup Tutorial: Installing Logitech's MX Master Desktop Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-x-crashing-heres-the-ultimate-fix-for-2024/"><u>Updated Final Cut Pro X Crashing? Heres the Ultimate Fix for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-hand-tracking-deciphered-a-users-guide/"><u>[New] 2024 Approved Hand Tracking Deciphered A User's Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-discover-your-inner-artist-with-these-leading-android-graphics-tools/"><u>[Updated] 2024 Approved Discover Your Inner Artist with These Leading Android Graphics Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-professional-recording-essentials-evaluating-apeaksofts-capabilities/"><u>[Updated] Professional Recording Essentials – Evaluating Apeaksoft's Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-the-best-vr-games-for-google-cardboard/"><u>[Updated] The Best VR Games for Google Cardboard</u></a></li>
+<li><a href="https://extra-information.techidaily.com/abletons-techniques-for-diminishing-sound-intensity/"><u>Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-installation-of-amd-radeon-hd-7770-drivers-for-optimal-performance/"><u>Effortless Installation of AMD Radeon HD 7770 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-oppo-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Oppo ?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-methods-for-iphone-image-arrangement/"><u>Innovative Methods for iPhone Image Arrangement</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-close-up-views-in-minecraft/"><u>Mastering Close-Up Views in Minecraft</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-video-aspects-online/"><u>Mastering Video Aspects Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-stylish-portability-with-the-acer-chromebook-r-11-our-expert-review-insights/"><u>Navigating Stylish Portability with the Acer Chromebook R 11 – Our Expert Review Insights</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-basic-to-brilliant-top-premiere-pro-transition-plugins/"><u>New 2024 Approved From Basic to Brilliant Top Premiere Pro Transition Plugins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-start-guide-easy-steps-for-effective-video-calling-on-zoom/"><u>Quick Start Guide Easy Steps for Effective Video Calling on Zoom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better/"><u>Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-srt-file-craftsmanship-manual/"><u>The Ultimate SRT File Craftsmanship Manual</u></a></li>
+<li><a href="https://fox-links.techidaily.com/transition-to-hdr-a-step-forward-in-high-quality-video/"><u>Transition to HDR A Step Forward in High-Quality Video</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Boosting VFX Efficiency with FREE LUT Downloads"
-date: 2024-12-31T21:20:45.210Z
-updated: 2025-01-07T21:55:15.069Z
+date: 2025-01-12T10:21:52.057Z
+updated: 2025-01-13T22:30:26.040Z
 tags: 
   - screen-recording
   - ai video
@@ -29,11 +29,7 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
@@ -56,10 +52,6 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
@@ -67,7 +59,7 @@ The patch graph that renders the color gradation effect looks like this:
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **To create the effect:**
@@ -76,9 +68,17 @@ The patch graph that renders the color gradation effect looks like this:
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
@@ -87,7 +87,7 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Fur
@@ -104,7 +104,7 @@ Here are the key building principles.
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Shockwave
@@ -112,6 +112,10 @@ Here are the key building principles.
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Transition Curves
 
@@ -124,10 +128,6 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Rainbow Glitter
 
@@ -169,16 +169,19 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-simplified-guide-for-ios-users-transforming-images-to-pdfs/"><u>[Updated] Simplified Guide for iOS Users Transforming Images to PDFs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-beam-wise-video-setups-expert-strategies-to-shine/"><u>2024 Approved Beam-Wise Video Setups Expert Strategies to Shine</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-cameras-to-capture-slow-motion-videos/"><u>Best Cameras to Capture Slow Motion Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/effortlessly-compact-exceptionally-capable-meet-the-acer-aspire-c27-all-in-one-workstation/"><u>Effortlessly Compact, Exceptionally Capable: Meet the Acer Aspire C27 All-in-One Workstation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-6-online-spaces-fueling-business-success/"><u>Elite 6 Online Spaces Fueling Business Success</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y55s-5g-2023-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y55s 5G (2023) Phones with/without a PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-share-links-to-your-chatgpt-chats/"><u>How to Share Links to Your ChatGPT Chats</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-auditory-capture-techniques-for-professional-note-takers/"><u>In 2024, Auditory Capture Techniques for Professional Note-Takers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids/"><u>The Definitive 10 Screenshot Boosters with Stickers on iPhones & Androids</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728478075483-windows-11-usb/"><u>Windows 11 製作 USB 隨身碟映像的基本指南</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/powerful-kt/"><u>즉시 구입하세요! Powerful 프로젝кт: 이미지 사진회 제작기</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevating-your-workflow-with-audio-content-consumption/"><u>[New] Elevating Your Workflow with Audio Content Consumption</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xperts-choice-aspertronics-for-phones-for-2024/"><u>[New] Expert's Choice Aspertronics For Phones for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-meme-mastery-money-making-the-financial-figures-of-a-video-virtuoso-for-2024/"><u>[New] Meme Mastery Money-Making The Financial Figures of a Video Virtuoso for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-treasure-trove-discovering-the-most-inspiring-5-book-tts/"><u>[Updated] A Treasure Trove Discovering the Most Inspiring 5 Book TTs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cost-calculations-for-your-dream-podcast-project/"><u>[Updated] Cost Calculations for Your Dream Podcast Project</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-pip-feature-in-youtube-app-for-iphones/"><u>[Updated] Mastering PIP Feature in YouTube App for iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-youtube-experience-with-chrome-tweaks/"><u>Enhance Your YouTube Experience with Chrome Tweaks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18e-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S18e Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-360-degree-rigging-solutions-vr-production/"><u>In 2024, 360 Degree Rigging Solutions VR Production</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-huawei-nova-y91-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Huawei Nova Y91 Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-14-ultra-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi 14 Ultra Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/launch-free-portable-dvd-software-today/"><u>Launch Free, Portable DVD Software Today</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-gopro-quik-for-pc-a-comprehensive-review-and-alternatives-for-2024/"><u>Updated GoPro Quik for PC A Comprehensive Review and Alternatives for 2024</u></a></li>
 </ul></div>
 

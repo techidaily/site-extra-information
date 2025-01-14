@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Aerial Adventures with Husqvarna's X4 FPV Quadcopter"
-date: 2025-01-06T18:30:49.729Z
-updated: 2025-01-07T20:08:27.090Z
+date: 2025-01-13T10:51:57.406Z
+updated: 2025-01-14T12:29:50.094Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 )
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 #### Verdict
 
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Complete Review for Hubsan H501S X4
 
@@ -117,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
@@ -127,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
@@ -135,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 #### 7. Camera
 
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
 
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -163,22 +163,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-2024s-leading-cloud-stores-by-price/"><u>[New] 2024'S Leading Cloud Stores by Price</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-breakdown-of-theta-s-specifications/"><u>[New] Comprehensive Breakdown of Theta S Specifications</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nter-the-world-of-online-promotion-exclusive-free-youtube-banner-access-in-2024/"><u>[New] Enter the World of Online Promotion Exclusive Free YouTube Banner Access, In 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-discovering-free-anime-gifs-the-no-nitro-method-in-discord/"><u>[New] In 2024, Discovering Free Anime GIFs The No-Nitro Method in Discord</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-innovative-shooting-the-best-cinematographic-tips-and-ideas-for-2024/"><u>[Updated] Innovative Shooting The Best Cinematographic Tips & Ideas for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-clipcreatorassessment-full-dissection/"><u>2024 Approved ClipCreatorAssessment – Full Dissection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-gaming-setups-in-small-packages-a-comprehensive-guide/"><u>Best Gaming Setups in Small Packages: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/clear-cut-strategies-for-watermark-free-photography-for-2024/"><u>Clear-Cut Strategies for Watermark-Free Photography for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/critical-top-10-camera-gimbals-evaluation-iphoneandroiddslr-analysis/"><u>Critical Top 10 Camera Gimbals Evaluation IPhone/Android/DSLR Analysis</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fetch-and-update-hp-laptop-driver-software-on-windows-systems/"><u>How to Fetch and Update HP Laptop Driver Software on Windows Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-aerial-artistry-in-motion-examining-gopro-karma-performance/"><u>In 2024, Aerial Artistry in Motion Examining GoPro Karma Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-rank-the-top-free-tools-convert-srt-files-efficiently/"><u>In 2024, Rank the Top Free Tools Convert Srt Files Efficiently</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-starting-with-social-giving-best-practices-for-fb-posts/"><u>In 2024, Starting with Social Giving Best Practices for FB Posts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-motorola-moto-g24-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Motorola Moto G24 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-subtitle-manipulation-in-macos/"><u>Mastering Subtitle Manipulation in macOS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-windows-10-must-have-techniques/"><u>Navigating Windows 10 Must-Have Techniques</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782684-9781594777899-the-vaastu-workbook/"><u>The Vaastu Workbook | Free Book</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pivotal-8-image-packs-for-elevated-mac-aesthetics/"><u>[New] In 2024, Pivotal 8 Image Packs for Elevated Mac Aesthetics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-zooming-on-social-media-platform-snapchat/"><u>[New] Mastering the Art of Zooming on Social Media Platform, Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capture-speeches-and-load-onto-ppt-clips/"><u>[Updated] Capture Speeches and Load Onto PPT Clips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-instagram-circle-of-power-the-leading-25-titans-revealed/"><u>[Updated] In 2024, The Instagram Circle of Power The Leading 25 Titans Revealed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquer-gopro-time-lapse-video-creation-like-a-pro-for-2024/"><u>Conquer GoPro Time Lapse Video Creation Like a Pro for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/converte-i-tuoi-dvd-gratuitamente-in-mp4-hevc-h265-per-una-migliore-qualita-visiva/"><u>Converte I Tuoi DVD Gratuitamente in MP4 HEVC H.265 Per Una Migliore Qualità Visiva</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easing-video-delays-after-upgrading-to-win11/"><u>Easing Video Delays After Upgrading to Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flawless-picture-preservation-gratis-space-plus-charged-cloud-sanctuaries-await/"><u>Flawless Picture Preservation Gratis Space + Charged Cloud Sanctuaries Await</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-change-time-lapse-on-samsung-smartphones/"><u>In 2024, Capturing Change Time-Lapse on Samsung Smartphones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech/"><u>M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027539097-mp3windows-10/"><u>MP3ファイル品質を上げるためのWindows 10用変換プログラムリスト</u></a></li>
+<li><a href="https://extra-information.techidaily.com/passport-photo-creator-access-to-top-quality-portraits-for-desktoponline-use/"><u>Passport Photo Creator – Access to Top Quality Portraits for Desktop/Online Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-top-ten-webcam-enhancers-master-stream-quality/"><u>The Top-Ten Webcam Enhancers Master Stream Quality</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 6s? | Dr.fone</u></a></li>
 </ul></div>
 

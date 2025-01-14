@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Windows Photos Experience with Added Filters/Music"
-date: 2025-01-05T16:35:29.190Z
-updated: 2025-01-08T03:22:50.480Z
+date: 2025-01-08T21:17:57.057Z
+updated: 2025-01-14T05:19:33.737Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -50,7 +46,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
@@ -60,7 +56,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
@@ -78,24 +74,28 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-**Step 5**: Hit the ‘Done’ button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Hit the ‘Done’ button.
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,24 +112,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-craft-your-unique-ringtone-from-favorite-tiktok-music-to-cellphone-alarms/"><u>[New] Craft Your Unique Ringtone - From Favorite TikTok Music to Cellphone Alarms</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-methods-for-converting-twitter-videos-into-mp3-format/"><u>[New] Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-binge-watch-with-flexibility-mastering-the-pip-functionality-in-netflix/"><u>[Updated] In 2024, Binge-Watch With Flexibility Mastering the PIP Functionality in Netflix</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamline-your-conversations-with-twitter-video-uploads-on-whatsapp/"><u>[Updated] In 2024, Streamline Your Conversations with Twitter Video Uploads on WhatsApp</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-bigger-photos-equal-quality-output/"><u>2024 Approved Bigger Photos, Equal Quality Output</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-review-of-powerdirector-pro-suite/"><u>2024 Approved Comprehensive Review of PowerDirector Pro Suite</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dynamic-images-made-simple-in-illustrator/"><u>Dynamic Images Made Simple in Illustrator</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-clip-weaver-workshop/"><u>In 2024, Clip Weaver Workshop</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-hot-40i-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Hot 40i Phone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>New In 2024, How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-locations-to-find-rich-text-enhancements/"><u>Prime Locations to Find Rich Text Enhancements</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016575811-pubg-mobile-voice-communication-problems-heres-how-to-solve-them/"><u>PUBG Mobile Voice Communication Problems? Here's How to Solve Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamped-speaker-performance-lg-televisions-now-offer-top-notch-sound-perfect-for-apple-enthusiasts-a-closer-look-by-zdnet/"><u>Revamped Speaker Performance: LG Televisions Now Offer Top-Notch Sound, Perfect for Apple Enthusiasts - A Closer Look by ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/starting-points-for-motion-visual-creation/"><u>Starting Points for Motion Visual Creation</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-future-of-social-media-cryptocurrency-promos/"><u>The Future of Social Media: Cryptocurrency Promos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-fixing-and-replacing-fallen-computer-keyboard-buttons/"><u>The Ultimate Tutorial: Fixing and Replacing Fallen Computer Keyboard Buttons</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-collection-no-cost-ae-template-gold/"><u>Ultimate Collection No-Cost AE Template Gold</u></a></li>
-<li><a href="https://extra-information.techidaily.com/virtual-worlds-reimagined-the-most-spectacular-sci-fi-films-of-the-metaverse-era/"><u>Virtual Worlds Reimagined The Most Spectacular Sci-Fi Films of the Metaverse Era</u></a></li>
-<li><a href="https://extra-information.techidaily.com/woven-wisdom-in-digital-weaves-arvr-quote-compilation/"><u>Woven Wisdom in Digital Weaves AR/VR Quote Compilation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-guide-to-signing-up-for-twitter/"><u>[New] In 2024, The Essential Guide to Signing Up for Twitter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-seamless-audiovisual-mixes-in-audacity/"><u>[Updated] Crafting Seamless Audiovisual Mixes in Audacity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-capture-screen-grabs-on-windows-pcs/"><u>[Updated] In 2024, Quick Capture Screen Grabs on Windows PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-video-aspect-ratio-selection-for-2024/"><u>A Step-by-Step Guide to Video Aspect Ratio Selection for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bridge-the-gap-between-skype-and-zoom-with-simple-steps/"><u>Bridge the Gap Between Skype & Zoom with Simple Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/debunking-myths-top-7-misconceptions-about-switching-from-windows-to-linux/"><u>Debunking Myths: Top 7 Misconceptions About Switching From Windows to Linux</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-a05-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy A05 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-4gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 4GFRP Lock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/t7-kit-review-highlights-improved-dslr-features/"><u>T7 Kit Review Highlights Improved DSLR Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211311050--transforming-the-legacy/"><u>Transforming the Legacy | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-task-scheduler-automate-batch-operations/"><u>Unlocking Task Scheduler: Automate Batch Operations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-veracity-versus-physical-prowess-in-live-links/"><u>Virtual Veracity Versus Physical Prowess in Live Links</u></a></li>
 </ul></div>
 

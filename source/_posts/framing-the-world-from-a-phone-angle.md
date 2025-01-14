@@ -1,7 +1,7 @@
 ---
 title: "Framing the World From a Phone Angle"
-date: 2025-01-02T23:24:03.543Z
-updated: 2025-01-08T00:02:49.093Z
+date: 2025-01-08T13:11:31.018Z
+updated: 2025-01-14T15:36:31.742Z
 tags: 
   - screen-recording
   - ai video
@@ -35,17 +35,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone users
 
@@ -56,13 +52,17 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -112,18 +112,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comparing-the-gopro-max-360-and-hero-11-determining-the-superior-gopro-video-camera/"><u>[New] Comparing the GoPro Max 360 and Hero 11 Determining the Superior GoPro Video Camera</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>[New] The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-three-key-strategies-for-acquiring-youtube-srt-files/"><u>[New] Three Key Strategies for Acquiring YouTube SRT Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-unified-media-playback-on-youtube-flv-files-tutorial/"><u>[New] Unified Media Playback on YouTube FLV Files Tutorial</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-reclaim-lost-facebook-watch-button/"><u>2024 Approved Reclaim Lost Facebook Watch Button</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-vlc-mastery-essential-tips-and-secret-features/"><u>2024 Approved VLC Mastery Essential Tips and Secret Features</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/clonare-un-sistema-ssd-utilizzando-clonezilla-con-supporto-uefi-gpt-sotto-windows-11-o-10-guida-alla-sicurezza-avviabile/"><u>Clonare Un Sistema SSD Utilizzando Clonezilla Con Supporto UEFI, GPT Sotto Windows 11 O 10 – Guida Alla Sicurezza Avviabile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-the-latest-rivals-googles-pixel-watch-vs-apple-watch-series-9-invest-wisely-in-your-next-upgrade/"><u>Comparing the Latest Rivals: Google's Pixel Watch Vs. Apple Watch Series 9 - Invest Wisely in Your Next Upgrade!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-basics-non-inshot-pc-video-tools/"><u>In 2024, Beyond the Basics Non-Inshot PC Video Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-multitasking-via-firefoxs-pip-mode/"><u>Seamless Multitasking via Firefox's PIP Mode</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-definitive-vivacut-video-editing-manual-for-24/"><u>The Definitive VivaCut Video Editing Manual for '24</u></a></li>
-<li><a href="https://extra-information.techidaily.com/virtual-frontiers-notable-vr-creators/"><u>Virtual Frontiers Notable VR Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-explore-google-meets-full-potential-free-edition-for-2024/"><u>[New] Explore Google Meet's Full Potential (Free Edition) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-record-video-presentations-using-adobe-presenter-for-2024/"><u>[New] How to Record Video Presentations Using Adobe Presenter for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-color-perfection-interface/"><u>[Updated] Color Perfection Interface</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gliding-giants-olympic-skate-tales/"><u>[Updated] Gliding Giants Olympic Skate Tales</u></a></li>
+<li><a href="https://extra-information.techidaily.com/20plus-fresh-collages-elevate-your-environment/"><u>20+ Fresh Collages Elevate Your Environment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-affordable-desktop-recording-solutions-reviewed/"><u>2024 Approved Affordable Desktop Recording Solutions Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvds-auf-einem-hp-laptop-ohne-internes-laufwerk-abspielen-tipps-und-tricks/"><u>DVDs Auf Einem HP-Laptop Ohne Internes Laufwerk Abspielen - Tipps Und Tricks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-insights-into-mov-file-recording-on-latest-win-11-edition/"><u>Expert Insights Into .MOV File Recording on Latest Win 11 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-visual-spectacle-gears-challenge-to-lgcam/"><u>Immersive Visual Spectacle Gear's Challenge to LGCam</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-boost-your-post-with-three-video-border-methods/"><u>In 2024, Boost Your Post with Three Video Border Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-building-powerful-relationships-through-strategic-social-media-engagement/"><u>In 2024, Building Powerful Relationships Through Strategic Social Media Engagement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-to-prominence-unveiling-the-most-visited-websites-in-the-world/"><u>Navigate to Prominence: Unveiling the Most Visited Websites in the World</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-beyond-the-basics-secrets-for-tiktok-live-studio-success/"><u>New In 2024, Beyond the Basics Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-photogs-cameras-the-top-entry-level-picks-of-24/"><u>New Photog's Cameras The Top Entry-Level Picks of '24</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-securely-attach-a-link-to-your-tiktok-profile/"><u>Step-by-Step Securely Attach a Link to Your TikTok Profile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
 </ul></div>
 

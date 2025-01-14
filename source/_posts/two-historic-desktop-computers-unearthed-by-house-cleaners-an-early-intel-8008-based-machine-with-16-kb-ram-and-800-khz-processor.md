@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2025-01-01T03:28:03.411Z
-updated: 2025-01-07T23:23:09.594Z
+date: 2025-01-07T13:26:41.128Z
+updated: 2025-01-13T17:18:30.622Z
 tags:
   - desktop
 categories:
@@ -46,26 +46,28 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-rewind-designers-toolkit/"><u>[New] In 2024, Rewind Designer's Toolkit</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ultimate-airborne-colossus-collection/"><u>[Updated] 2024 Approved Ultimate Airborne Colossus Collection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-analyzing-major-editions-and-phases-of-windows-movie-maker/"><u>[Updated] Analyzing Major Editions and Phases of Windows Movie Maker</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-the-skyline-drone-cinematography-tips/"><u>[Updated] Capturing the Skyline Drone Cinematography Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-corpse-comic-connoisseur/"><u>[Updated] Corpse Comic Connoisseur</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-nimbusaieditor-soaring-edits-to-new-heights/"><u>[Updated] NimbusAiEditor Soaring Edits to New Heights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-blocking-unsolicited-emergency-messages-on-your-android-phone/"><u>Comprehensive Guide: Blocking Unsolicited Emergency Messages on Your Android Phone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-effortlessly-download-and-setup-movie-maker-6/"><u>How to Effortlessly Download and Setup Movie Maker 6</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iconic-story-arcs-in-cinemas-pantheon/"><u>Iconic Story Arcs in Cinema’s Pantheon</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-reality-of-now-vrs-evolution-and-challenges/"><u>In 2024, The Reality of Now VR's Evolution and Challenges</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-spark-10-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Spark 10 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-guide-to-infectious-internet-memes-gifs/"><u>Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/swiftly-transform-swf-content-to-webm-access-unlimited-free-online-tools/"><u>Swiftly Transform SWF Content to WebM - Access Unlimited Free Online Tools!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-30-windows-10-utilities-you-cant-ignore/"><u>Top 30 Windows 10 Utilities You Can't Ignore</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tune-into-the-beats-with-these-free-online-scanners/"><u>Tune Into the Beats with These Free Online Scanners</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-iphones-podcast-potential/"><u>Unlocking iPhone's Podcast Potential</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>[New] Channel Charisma Standing Out with Strategic Telegram Promotion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-competing-visions-of-virtual-space-google-against-samsung/"><u>[New] Competing Visions of Virtual Space Google Against Samsung</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-haul-vids-creation-and-editing-basics/"><u>[New] Mastering Haul Vids Creation & Editing Basics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-professional-panoramas-and-cinematography-with-hero5-black/"><u>[New] Professional Panoramas & Cinematography with Hero5 Black</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-meme-magic-adobe-edition/"><u>[Updated] Craft Meme Magic, Adobe Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-acoustic-ambiance-in-photo-videos/"><u>2024 Approved Acoustic Ambiance in Photo Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-airborne-cameras-clash-dji-inspire-vs-gopro-max/"><u>2024 Approved Airborne Cameras Clash DJI Inspire vs GoPro MAX</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/conversion-libera-online-di-file-ogg-in-formato-ogv-con-movavi/"><u>Conversion Libera Online Di File OGG in Formato OGV Con Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-guide-apples-m1-max-attachment/"><u>Essential Guide Apple's M1 Max Attachment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-running-android-applications-on-your-windows-11-system/"><u>Essential Guide: Running Android Applications on Your Windows 11 System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-techniques-for-dynamic-and-dramatic-ae-heads-ups/"><u>In 2024, Advanced Techniques for Dynamic and Dramatic AE Heads-Ups</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-money-all-fcp-unveiled-methods/"><u>In 2024, No Money, All FCP – Unveiled Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-platforms-optimizing-youtube-video-views/"><u>Key Platforms Optimizing YouTube Video Views</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easily-animate-your-photos-8-essential-tools/"><u>New Easily Animate Your Photos 8 Essential Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-phantoms-slow-mo-magic/"><u>Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-alert-cleared-nvidia-display-responding-anew/"><u>System Alert Cleared: NVidia Display Responding Anew</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

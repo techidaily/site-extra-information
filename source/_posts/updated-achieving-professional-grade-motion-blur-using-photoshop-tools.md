@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Achieving Professional-Grade Motion Blur Using Photoshop Tools\""
-date: 2024-07-27T04:36:34.151Z
-updated: 2024-07-28T04:36:34.151Z
+date: 2025-01-13T14:37:35.712Z
+updated: 2025-01-13T22:07:57.678Z
 tags: 
   - screen-recording
   - ai video
@@ -36,34 +36,36 @@ Do you know how to motion blur in Photoshop? Creating a motion blur effect while
 
 The latest version of Photoshop comprises tons of advanced editing features that can add a new dimension to the pictures. It offers AI-supported neural filters and photo correction tools. Along with a sky replacement feature, it also provides drawing and typography tools. You can also execute layer editing on this tool. Moreover, you can also add a perfect motion blur effect in Photoshop with a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Create a Motion Blur Effect in Photoshop
 
 Are you excited to generate a motion blur effect through Photoshop? Read this section to find out the easy and simple instructions to add a motion blur in Photoshop:
 
 Step1 First, download and install the Photoshop tool on your PC. Upload your picture and navigate to the "Layers" tab. If you are a Windows user, then press "Ctrl + J" to copy the layer. For MacBook, press "Command+ J".
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![duplicate the layer](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-2.jpg)
 
 Step2 Now head to the "Filter" section and locate the option called "Blur." From the drop-down menu, select "Radial Blur." From the new window, adjust the amount to 10 and choose "Spin" in the "Blur Method" section.
 
 ![adjust the radial blur settings](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Under the "Quality" section, select "Best." Once done, click on the "OK" button. Wait for some time until the changes get saved. Now head back to the Layer section and tap on the "Vector Mask" option given below. Afterward, select the "Brush" tool from the left side.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the brush tool](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Now head to the "Flow" option displayed above and decrease the flow percentage to 50\. Also, choose a black color for the foreground. Now, using the "Brush," press on some of the areas of the face to add some depth of field.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the flow percentage to 50](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-5.jpg)
 
 Step5 Head back to the layer section and select the bottom layer. Now copy the layer for the second time by either pressing Ctrl + J or Command + J. Afterward, head to the "Filter" tab and locate the option called "Blur." From the drop-down menu, tap on "Motion Blur."
@@ -72,10 +74,15 @@ Step5 Head back to the layer section and select the bottom layer. Now copy the l
 
 Step6 Now set the angle on the displayed window and adjust the distance to 200 pixels. Once done, press the "OK "button. For this layer, add a mask and execute the dabbing process on the face as we did before. For more modifications, you can add a high-contrast black-and-white effect to your photo.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust motion blur distance](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Photoshop to Create Motion Blur Effect
 
@@ -88,8 +95,9 @@ Do you want to simplify the whole process of adding motion blur to photos? The b
 To perform advanced editing, it offers features like Green Screen and AI Portrait. Using Filmora, you can also add a motion blur effect to your photos in its intuitive interface. After editing, you can instantly render your clip on this tool. Moreover, you can choose a desired output file format and resolution while exporting your file. Hence, it's a complete platform to modify and enhance photos in a friendly user interface.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steps to Add Motion Blur on Wondershare Filmora
 
 Filmora is an efficient and cost-effective tool for video and photo editing. To create a motion blur effect on your photos without seeking any professional help, check the following instructions:
@@ -98,37 +106,29 @@ Filmora is an efficient and cost-effective tool for video and photo editing. To 
 
 Start by launching Wondershare Filmora on your Windows or macOS device. Next, click on the "Create New Project" option and hit the "Arrow" icon on its main interface. By doing so, you can import the photo from your system.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import your picture](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-8.jpg)
 
 ##### Step 2 Split the Clip
 
 After importing the picture, drag it to the timeline. Now play the clip on the timeline carefully. Pause the play head where you want to create a motion blur. Tap on the "Scissor" icon on the timeline to split your clip. Perform the same steps on your clip where you want to end the motion blur effect.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-9.jpg)
 
 ##### Step 3 Go to the Effects Tab
 
 Navigate to the "Effects" section and locate the "Background Blur" option. Afterward, you would be able to see tons of blur effects. Next, choose your favorite blur effect from the options and apply it to the specific part of your clip on the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![access the background blurs](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-10.jpg)
 
 ##### Step 4 Adjust the Parameters
 
 Now play your clip to see the results on your screen. You can adjust its parameters by proceeding to the "Transitions" tab. Here, select the "Dissolve" option. By applying this transition effect, you can quickly make your clip look smooth. For more modifications, you can also adjust the phase increment and zoom rate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose the dissolve transition](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 5 Export the Blurred Photo File
 
@@ -158,10 +158,11 @@ Start by launching Wondershare Filmora on your Windows or macOS device. Next, cl
 
 After importing the picture, drag it to the timeline. Now play the clip on the timeline carefully. Pause the play head where you want to create a motion blur. Tap on the "Scissor" icon on the timeline to split your clip. Perform the same steps on your clip where you want to end the motion blur effect.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![split the added clip](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3 Go to the Effects Tab
 
@@ -173,9 +174,6 @@ Navigate to the "Effects" section and locate the "Background Blur" option. After
 
 Now play your clip to see the results on your screen. You can adjust its parameters by proceeding to the "Transitions" tab. Here, select the "Dissolve" option. By applying this transition effect, you can quickly make your clip look smooth. For more modifications, you can also adjust the phase increment and zoom rate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![choose the dissolve transition](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-11.jpg)
 
 ##### Step 5 Export the Blurred Photo File
@@ -185,8 +183,9 @@ Once you are done with editing, access the "Export" setting of Filmora. Choose y
 ![export the blurred media file](https://images.wondershare.com/filmora/article-images/2022/12/motion-blur-to-photos-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Do you want to add an artistic look to your photos? One of the great ways to enhance the visual appeal in still images is by adding a motion blur effect. In this article, we have shed light on how to create motion blur in Photoshop with detailed and easy instructions. Moreover, we have also provided the best alternative to Photoshop called Wondershare Filmora. This tool offers more simple and efficient ways to add motion blur in photos.
@@ -213,7 +212,21 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-brilliant.techidaily.com/cuales-son-las-razones-para-evitar-la-copia-directa-de-un-dvd-al-disco-duro-sin-ripearlo-primero/"><u>¿Cuáles Son Las Razones Para Evitar La Copia Directa De Un DVD Al Disco Duro Sin Ripearlo Primero?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-audio-designers-for-iphone-ringtones/"><u>[New] Leading Audio Designers for iPhone Ringtones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pro-audios-essential-guide-to-top-10-free-luts-for-2024/"><u>[New] Pro Audio's Essential Guide to Top 10 Free LUTs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-best-photo-grid-apps-to-make-your-pictures-stand-out/"><u>[Updated] 10 Best Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-cutting-edge-practices-video-acceleration-techniques/"><u>[Updated] Cutting-Edge Practices Video Acceleration Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-professional-visual-narratives-with-lut-usage-in-premiere/"><u>2024 Approved Crafting Professional Visual Narratives with LUT Usage in Premiere</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-common-culprsits-to-weak-mobile-internet-via-wi-fi-know-them-inside-out/"><u>7 Common Culprsits to Weak Mobile Internet Via Wi-Fi: Know Them Inside Out</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensible-guide-to-chromebooks-best-digital-pencils-for-2024/"><u>A Comprehensible Guide to Chromebook's Best Digital Pencils for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-hp-pro-3500-mt-drivers-in-a-twin-pronged-approach-for-optimal-performance/"><u>Download HP Pro 3500 MT Drivers in a Twin-Pronged Approach for Optimal Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-digital-narratives-the-powerful-combo-of-storyremix-and-windows-11/"><u>Enhance Digital Narratives The Powerful Combo of StoryRemix & Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-rapid-ways-to-access-obliviated-reddit-content/"><u>In 2024, 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-high-dynamic-range-in-photoshop-artistry/"><u>Mastering High Dynamic Range in Photoshop Artistry</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-installing-your-dell-mouse-driver-successfully/"><u>Step-by-Step Guide to Installing Your Dell Mouse Driver Successfully</u></a></li>
+<li><a href="https://extra-information.techidaily.com/variants-of-windows-movie-maker-a-comprehensive-list/"><u>Variants of Windows Movie Maker A Comprehensive List</u></a></li>
+</ul></div>
 

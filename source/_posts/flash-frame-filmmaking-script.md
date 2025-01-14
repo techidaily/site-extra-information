@@ -1,7 +1,7 @@
 ---
 title: "Flash Frame Filmmaking Script"
-date: 2025-01-04T23:55:54.066Z
-updated: 2025-01-07T18:15:25.378Z
+date: 2025-01-08T13:15:46.502Z
+updated: 2025-01-14T07:10:02.315Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ Today, we look at seven important aspects of a great short film script and how y
 There's never been a better time to learn the craft of writing short film scripts. Interest and access to creating and viewing short films and series episodes have exploded worldwide, both on television and on the web. A great short film can also open doors for you into the film industry, as Barry Jenkins discovered with his great screenplay for the short film My Josephine, which I wrote in my screenwriting class at Florida State University.
 
 But writing a successful short script is not easy. It requires the craft and concentration of a medieval artist carving scenes into walnut. So here are seven tips for creating a short script.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Storyline
 
@@ -58,17 +54,29 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Turning Point
 
 It's helpful to think of a screenplay as a pattern of significant human change that you create at specific moments of change—the discoveries and decisions your main character makes that change the character and move the story forward. What your character wants and is trying to achieve in your short is the surface action – the events we see on screen. And how these events forever change a character's inner landscape is deep action—your character arc.
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Sublimation
 
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Ending
 
@@ -78,6 +86,10 @@ The end of a script is often more important than the 90 pages that preceded it. 
 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to edit your short film?
 
 Have you ever stored various videos and photos on a memory card or on a computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
@@ -86,10 +98,6 @@ Have you ever stored various videos and photos on a memory card or on a computer
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Import your files and arrange the order
 
 Open Wondershare Filmora, click the "Import" button, and use the navigation import panel to load media files. You can also directly drag and drop your media files into the program. Then, trim or cut the video clips in the timeline with options in the Toolbox
@@ -97,7 +105,7 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
@@ -117,14 +125,6 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -146,6 +146,10 @@ It's also a useful way to think of the script as an energy system, as William Gi
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Conflict
 
 Conflict is every point of opposition between two forces (physical or intellectual), as well as the consequences of this opposition - all in full view of what can be seen on the screen, whether through cinema, television, or devices.
@@ -157,7 +161,7 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Turning Point
@@ -167,7 +171,7 @@ It's helpful to think of a screenplay as a pattern of significant human change t
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Sublimation
@@ -185,7 +189,7 @@ The end of a script is often more important than the 90 pages that preceded it. 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to edit your short film?
@@ -197,7 +201,7 @@ Have you ever stored various videos and photos on a memory card or on a computer
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Import your files and arrange the order
@@ -213,10 +217,6 @@ After you've added your media files for editing and placed them on the Timeline,
 Select the ones you want to add by clicking "Transition" and dragging them between the video clips. Then, double-click to change the Time Duration, and then click "Apply to All" if you want all transition effects to be the same length.
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
@@ -260,18 +260,18 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-dissecting-and-ranking-cost-saving-clouds/"><u>[New] 2024 Approved Dissecting and Ranking Cost-Saving Clouds</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-capture-your-ride-top-5-action-camera-headsets-reviewed-for-23-motorcyclists/"><u>[Updated] 2024 Approved Capture Your Ride – Top 5 Action Camera Headsets Reviewed for '23 Motorcyclists</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-prolific-productions-top-10-text-techniques-to-captivate-viewers/"><u>[Updated] 2024 Approved Prolific Productions Top 10 Text Techniques to Captivate Viewers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-churn-your-own-custom-internet-laughter/"><u>[Updated] Churn Your Own Custom Internet Laughter</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-benq-sw320-monitor-review-a-leap-into-4k-territory/"><u>2024 Approved BenQ SW320 Monitor Review A Leap Into 4K Territory</u></a></li>
-<li><a href="https://techtrends.techidaily.com/adding-several-locations-simultaneously-in-google-maps-explained/"><u>Adding Several Locations Simultaneously in Google Maps Explained</u></a></li>
-<li><a href="https://fox-info.techidaily.com/comprehensive-list-of-free-video-intros/"><u>Comprehensive List of Free Video Intros</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decoding-the-nuances-of-whatsapp-audio-messages/"><u>Decoding the Nuances of WhatsApp Audio Messages</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x-flip-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X Flip To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-scenes-of-vivacut-full-video-editing-review-24/"><u>In 2024, Behind the Scenes of VivaCut Full Video Editing Review '24</u></a></li>
-<li><a href="https://extra-information.techidaily.com/inside-the-high-definition-world-of-nikon-j5/"><u>Inside the High-Definition World of Nikon J5</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/manual-how-to-turn-off-igtv/"><u>Manual How to Turn Off IGTV</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transformative-tech-effortlessly-turning-phones-into-vr-gear/"><u>Transformative Tech Effortlessly Turning Phones Into VR Gear</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-productivity-io-screen-capture-secrets/"><u>[New] Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-becoming-a-pro-at-visual-effects-creation/"><u>[Updated] Becoming a Pro at Visual Effects Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-vlc-capture-a-comprehensive-recording-tutorial/"><u>[Updated] VLC Capture A Comprehensive Recording Tutorial</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-green-screen-apps-for-mac-a-comprehensive-guide-for-2024/"><u>Best Green Screen Apps for Mac A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bridging-the-gap-how-to-successfully-export-srt-from-premiere-for-2024/"><u>Bridging the Gap How to Successfully Export SRT From Premiere for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-rotation-recording-versus-stereo-capture-for-2024/"><u>Complete Rotation Recording Versus Stereo Capture for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-on-eliminating-windows-10-memory-dump-records/"><u>Expert Advice on Eliminating Windows 10 Memory Dump Records</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-kitchens-to-cameras-7-essentials-for-flavorful-filmmaking/"><u>From Kitchens to Cameras 7 Essentials for Flavorful Filmmaking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-write-a-hit-podcast-script-10plus-examples-revealed/"><u>How to Write a Hit Podcast Script (10+ Examples Revealed)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-the-art-of-intel-imac-modification-with-this-in-depth-guide/"><u>Master the Art of Intel iMac Modification with This In-Depth Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-your-phone-personalizing-the-ios-alert-sound/"><u>Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-whatsapps-full-arsenal-for-efficient-communication-for-2024/"><u>Unlocking WhatsApp's Full Arsenal for Efficient Communication for 2024</u></a></li>
 </ul></div>
 
