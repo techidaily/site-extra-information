@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2025-01-07T13:26:41.128Z
-updated: 2025-01-13T17:18:30.622Z
+date: 2025-01-18T17:28:32.856Z
+updated: 2025-01-20T16:21:01.002Z
 tags:
   - desktop
 categories:
@@ -46,28 +46,26 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>[New] Channel Charisma Standing Out with Strategic Telegram Promotion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-competing-visions-of-virtual-space-google-against-samsung/"><u>[New] Competing Visions of Virtual Space Google Against Samsung</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-haul-vids-creation-and-editing-basics/"><u>[New] Mastering Haul Vids Creation & Editing Basics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-professional-panoramas-and-cinematography-with-hero5-black/"><u>[New] Professional Panoramas & Cinematography with Hero5 Black</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-craft-meme-magic-adobe-edition/"><u>[Updated] Craft Meme Magic, Adobe Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-acoustic-ambiance-in-photo-videos/"><u>2024 Approved Acoustic Ambiance in Photo Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-airborne-cameras-clash-dji-inspire-vs-gopro-max/"><u>2024 Approved Airborne Cameras Clash DJI Inspire vs GoPro MAX</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/conversion-libera-online-di-file-ogg-in-formato-ogv-con-movavi/"><u>Conversion Libera Online Di File OGG in Formato OGV Con Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-guide-apples-m1-max-attachment/"><u>Essential Guide Apple's M1 Max Attachment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-running-android-applications-on-your-windows-11-system/"><u>Essential Guide: Running Android Applications on Your Windows 11 System</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-advanced-techniques-for-dynamic-and-dramatic-ae-heads-ups/"><u>In 2024, Advanced Techniques for Dynamic and Dramatic AE Heads-Ups</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-no-money-all-fcp-unveiled-methods/"><u>In 2024, No Money, All FCP – Unveiled Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/key-platforms-optimizing-youtube-video-views/"><u>Key Platforms Optimizing YouTube Video Views</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easily-animate-your-photos-8-essential-tools/"><u>New Easily Animate Your Photos 8 Essential Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-phantoms-slow-mo-magic/"><u>Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-alert-cleared-nvidia-display-responding-anew/"><u>System Alert Cleared: NVidia Display Responding Anew</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-detailed-guide-to-advanced-human-interface-systems/"><u>[New] A Detailed Guide to Advanced Human Interface Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-complex-projects-on-magix-video-pro-x/"><u>[New] Navigating Complex Projects on Magix Video Pro X</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>[Updated] In 2024, FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-platforms-for-hearing-westeros-tones/"><u>[Updated] Premium Platforms for Hearing Westeros Tones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-virtual-reality-bike-adventures-listed-here-for-2024/"><u>Best Virtual Reality Bike Adventures Listed Here for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/commence-your-journey-with-xps-film-editor-suite/"><u>Commence Your Journey with XP's Film Editor Suite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversational-innovation-showdown-why-you-should-consider-using-snapchats-my-ai-over-chatgpt/"><u>Conversational Innovation Showdown: Why You Should Consider Using Snapchat's My AI Over ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-updated-sony-bdp-s6700-features/"><u>Exploring the Updated Sony BDP-S6700 Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/four-essential-tips-for-downloading-youtubes-srt/"><u>Four Essential Tips for Downloading YouTube's SRT</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-snapchats-spotlight-system/"><u>Mastering Snapchat's Spotlight System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicktime-video-downsizing-made-simple-achieve-smaller-sizes-using-just-4-basic-tricks/"><u>QuickTime Video Downsizing Made Simple: Achieve Smaller Sizes Using Just 4 Basic Tricks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-realtek-drivers-for-optimal-performance/"><u>Revamping Realtek Drivers for Optimal Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/selecting-the-ideal-360-cameras-for-videography/"><u>Selecting the Ideal 360° Cameras for Videography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/supercharge-your-system-discover-7-speedy-solutions-for-your-pc/"><u>Supercharge Your System: Discover 7 Speedy Solutions for Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-improve-your-pcs-gpu-usage-tackling-windows-1n-desktop-manager-issues/"><u>Troubleshoot and Improve Your PC's GPU Usage – Tackling Windows 1N Desktop Manager Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-the-metaverse-6-compelling-realities-unveiled/"><u>Understanding the Metaverse 6 Compelling Realities Unveiled</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

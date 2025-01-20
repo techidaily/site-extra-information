@@ -1,7 +1,7 @@
 ---
 title: "\"Nostalgia on Screen  Step-by-Step for Image to Video Conversion\""
-date: 2025-01-11T02:51:01.692Z
-updated: 2025-01-14T02:19:07.086Z
+date: 2025-01-14T17:44:11.708Z
+updated: 2025-01-20T17:11:29.690Z
 tags: 
   - screen-recording
   - ai video
@@ -65,7 +65,7 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Convert Old Photos into a Video Effortlessly?
@@ -91,7 +91,7 @@ To start with, you can just launch Filmora on your system and import your photos
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Create a timeline for your photos
@@ -99,6 +99,10 @@ To start with, you can just launch Filmora on your system and import your photos
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Edit the video
 
@@ -114,13 +118,13 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
@@ -135,7 +139,7 @@ That’s it! After making all the changes, you can preview your video on the rig
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
@@ -166,10 +170,6 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -189,19 +189,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-advanced-streaming-equipment-for-broadcasters/"><u>[New] Advanced Streaming Equipment for Broadcasters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-boost-bandw-vibrancy-ps-grading-hacks/"><u>[New] Boost B&W Vibrancy PS Grading Hacks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-syncing-soundscape-and-scene-editing-tips-for-canva-videographers/"><u>[New] Syncing Soundscape and Scene Editing Tips for Canva Videographers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-harmonious-hush-managing-music-on-pc-mac/"><u>[Updated] Harmonious Hush Managing Music on PC, Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-virtual-skirmishes-of-legends-top-7-total-war-battles-for-2024/"><u>[Updated] Virtual Skirmishes of Legends – Top 7 Total War Battles for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>2024 Approved Connect with Community Spots A Dynamic Guide for Local Explorers on the Move</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-steer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips/"><u>2024 Approved Steer Clear of Obscurity Secure a Top Spot with YouTube SEO Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accelerated-approach-eliminating-signatures-quickly/"><u>Accelerated Approach Eliminating Signatures Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-remote-teamwork-effective-strategies-with-chatgpt-integration-in-meetings/"><u>Enhancing Remote Teamwork: Effective Strategies with ChatGPT Integration in Meetings</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722954491991-get-steelseries-engine-optimize-your-pc-gaming-on-windows-10-now/"><u>Get SteelSeries Engine: Optimize Your PC Gaming on Windows 10 Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphone-night-scene-mastery-guide/"><u>IPhone Night Scene Mastery Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-battle-of-broadcasts-comparing-cable-with-online-streaming-platforms/"><u>The Battle of Broadcasts: Comparing Cable with Online Streaming Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-the-secrets-of-perfect-aspect-ratios/"><u>Unlocking the Secrets of Perfect Aspect Ratios</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-2024s-cheapest-cloud-providers-exposed/"><u>[New] 2024’S Cheapest Cloud Providers Exposed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cultivating-a-thriving-audience-for-your-channel/"><u>[New] Cultivating a Thriving Audience for Your Channel</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-of-the-best-smartphone-ready-vr-headset-roundup/"><u>[Updated] Best of the Best Smartphone-Ready VR Headset Roundup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pro-video-creators-guide-to-ideal-laptops/"><u>[Updated] Pro Video Creators' Guide to Ideal Laptops</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-voice-from-images-turning-instagram-into-mp3s/"><u>[Updated] Voice From Images Turning Instagram Into MP3s</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-maximize-tiktok-impact-unique-usernames-that-attract-viewers/"><u>2024 Approved Maximize TikTok Impact Unique Usernames That Attract Viewers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adobes-quest-for-giggles-and-grins/"><u>Adobe's Quest for Giggles and Grins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/become-a-lunapic-wizard-top-editorial-techniques-for-2024/"><u>Become a LunaPic Wizard Top Editorial Techniques for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-compact-guide-to-top-5-apps-for-picture-plus-sound-blend/"><u>In 2024, Compact Guide to Top 5 Apps for Picture + Sound Blend</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-buyers-guide-to-anti-blue-light-glasses-a-thorough-assessment-of-reading-spectacles-with-uv-protection-features/"><u>The Ultimate Buyer's Guide to Anti-Blue Light Glasses: A Thorough Assessment of Reading Spectacles with UV Protection Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-convenience-the-ultimate-tutorial-on-leveraging-your-android-for-google-tv-navigation/"><u>Unlocking Convenience: The Ultimate Tutorial on Leveraging Your Android for Google TV Navigation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-strategies-to-stand-out-with-a-great-podcast-name/"><u>Unveiling Strategies to Stand Out with a Great Podcast Name</u></a></li>
 </ul></div>
 

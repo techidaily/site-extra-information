@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Craftsmits and Cinematography  Precision in Aspect Ratios\""
-date: 2024-07-27T04:31:54.149Z
-updated: 2024-07-28T04:31:54.149Z
+date: 2025-01-15T18:05:58.166Z
+updated: 2025-01-20T16:10:00.050Z
 tags: 
   - screen-recording
   - ai video
@@ -32,20 +32,22 @@ Aspect ratio is a digital image projection attribute describing the distance bet
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 16:9 Widescreen
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4:3 Standard
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### 9:16 Vertical
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
@@ -55,8 +57,9 @@ The 9:16 aspect ratio has become the mainstream resolution for smartphones for e
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
@@ -103,6 +106,10 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 
 9:16 for IGTV
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### TikTok
 
 Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it's dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There's also a feature to work together and collaborate with other Tik Tok creators across the globe.
@@ -114,30 +121,21 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 1:1; 16:9 or 9:16 for TikTok advertisements
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 Having your video tested on multiple devices will allow you to see a preview of what the viewer will see and make necessary changes if needed. When your video looks perfect, you can be sure that it will give a seamless experience across all platforms, without the fear of losing video quality.
@@ -172,7 +170,26 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>[New] 2024 Approved Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-high-definition-facebook-video-downloads/"><u>[New] 2024 Approved Mastering High-Definition Facebook Video Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-av1-vs-vp9-a-detailed-comparison/"><u>[New] AV1 Vs. VP9 A Detailed Comparison</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-become-an-iconic-crafter-kapwings-meme-toolkit/"><u>[New] Become an Iconic Crafter Kapwing's Meme Toolkit</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-novice-to-expert-free-lut-techniques-for-color-grading/"><u>[New] In 2024, From Novice to Expert Free LUT Techniques for Color Grading</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-understanding-your-potential-earnings-as-a-podcaster-for-2024/"><u>[Updated] Understanding Your Potential Earnings as a Podcaster for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-best-toy-drones/"><u>5 Best Toy Drones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blades-new-vision-in-ultra-high-definition-clarity/"><u>Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/endless-entertainment-building-addictive-ig-boomerangs/"><u>Endless Entertainment Building Addictive IG Boomerangs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-online-subtitle-converters-our-recommended-10/"><u>Free Online Subtitle Converters Our Recommended 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-70-lite-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor 70 Lite 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/introducing-efficient-speech-to-text-utilization-in-powerpoint-for-2024/"><u>Introducing Efficient Speech-to-Text Utilization in PowerPoint for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proving-ideal-for-iphone-users-9-photo-watermarking-tools/"><u>Proving Ideal for iPhone Users 9 Photo Watermarking Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/saving-big-on-vr-equipment-from-china/"><u>Saving Big on VR Equipment From China</u></a></li>
+<li><a href="https://article-posts.techidaily.com/say-goodbye-to-data-limits-explore-the-best-of-30-free-clouds-offering-1tbplus-included-for-2024/"><u>Say Goodbye to Data Limits - Explore the Best of 30 Free Clouds Offering 1TB+ Included for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-rectify-windows-defenders-error-0x80004004/"><u>Step-by-Step to Rectify Windows Defender’s Error 0X80004004</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-most-advanced-virtual-reality-engines-of-2023/"><u>The Most Advanced Virtual Reality Engines of 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-3-ae-plugin-reviews-for-optimal-editing/"><u>Top 3 AE Plugin Reviews for Optimal Editing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-worlds-contrasted-metaverse-vs-multiverse-analysis/"><u>Virtual Worlds Contrasted Metaverse vs Multiverse Analysis</u></a></li>
+</ul></div>
 

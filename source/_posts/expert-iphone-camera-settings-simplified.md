@@ -1,7 +1,7 @@
 ---
 title: "Expert iPhone Camera Settings Simplified"
-date: 2024-07-27T04:32:26.003Z
-updated: 2024-07-28T04:32:26.003Z
+date: 2025-01-16T17:16:27.433Z
+updated: 2025-01-20T17:23:55.017Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://www.lifewire.com/thmb/IVUFCsNZuNwq-xRb7upOLePnGRs=/400x300/fi
 
 # Photography Tips for iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -43,18 +40,118 @@ thumbnail: https://www.lifewire.com/thmb/IVUFCsNZuNwq-xRb7upOLePnGRs=/400x300/fi
 
 **How to Avoid Sources of Light in a Shot:** The first and most basic rule of photography is to try to avoid having sources of light in your shot, and the best way to achieve this is to turn your back to the light source and have the subject of the photo positioned in the direction from which the light is coming from. If you do this, taking pictures that depict stark contrast of shadows and light will become much easier.
 
+![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Image resource: Contrastly
+
+**How to Take a Silhouette Photo:** If you want to take a silhouette photo, simply place the subject of a photo between the light source and your iPhone camera. The source of light in the background will direct too much light into your camera, which will force you to reduce the exposure of a photo, thus the subject of the photo will become underexposed or a mere silhouette.
+
+![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Image resource: YouTube
+
+**How to Take Advantage of Natural Light:** The best periods during the day for photography are the sunrise and the sunset because the light provided by the sun is the softest. Portrait and numerous other genres of photography benefit from soft, diffused light. The colors in your pictures will appear much warmer and the results you'll be able to get will be much more visually pleasing than on photos on which you used direct lightning.
+
+![golden-hour-photo](https://images.wondershare.com/filmora/article-images/golden-hour-photo.jpg)
+
+ Image resource: Contrastly
+
+#### 2\.  Learn How To Compose Your Photos and Videos
+
+ Organization of the elements depicted within a frame is called composition, and each iPhone videographer or photographer has to practice shot composition in order to be able to improve the quality of the visual content they are producing. Some of the most basic principles of picture composition include the rule of thirds or the diagonal method of arranging objects on a photo.
+
+**How to Use the Grid feature:** The Grid feature on iPhone camera app can help you master the rule of thirds because it will divide your screen into nine equal rectangles, so you can use each rectangle to improve the organization of the elements within a shot.
+
+![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
+
+ Image resource: Macworld
+
+**How to Use the Diagonal Method of Image Composition:** Using the diagonal method of photo composition is also a fairly simple task, since you just need to follow a diagonal of the frame, and you can use this method on horizontally and vertically oriented images.
+
+![diagonal-photography](https://images.wondershare.com/filmora/article-images/diagonal-photography.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Image resource: PictureCorrect
+
+**How to Use Symetry on a Photo:** Symmetry is often used for the depiction of reflections because this method of photo composition enables you to show the real object or a scene and its reflections in equal measure. Symmetric photos are more pleasing to the human eye than asymmetric images, which is the reason why pictures that use symmetry as the guiding compositional principal have a better chance of being recognized as good or beautiful.
+
+![symetry-photography](https://images.wondershare.com/filmora/article-images/symetry-photography.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Image resource: PictureCorrect
+
+#### 3\.  Use Different Camera Angles to Depict a Scene
+
+**How to Use 180-degree Rule:** When approaching a new scene, even a simple scene such as a selfie, try to visualize a straight line at the height of your eye level between the iPhone camera you are holding and the subject of the photo. The so-called 180-degree rule suggests that you shouldn't ever cross that imaginary line, but each degree between 0 and 180 degrees can be an angle from which you take the shot.
+
+**How to Use Low-Angle Shots:** Every camera position that goes above this line is called the bird's eye view, and each camera position below this line is called a low-angle shot. Placing the camera below the level of your eyesight can be quite beneficial for the photo's aesthetic qualities because it will offer a unique view of the scene to the viewer.
+
+![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
+
+ Image resource: Storyboard Class
+
+ Exploring different camera angles will enable you to show the scene from different points of view and it will allow you to 'solve' the scene in a more efficient way. Assuming that the best angle for a certain scene is at our eye level is natural, but trying to depict a scene from different points of view usually results in better pictures.
+
+#### 4\.  Accentuate Depth in Your Images
+
+**How to Separate the Foreground From the Background:** The illusion of depth in a photo makes the picture look more realistic, and it also creates a visual dynamics between the foreground and the background of an image. There are a number of techniques you can use to accentuate depth on your photos or in your videos. The most common trick is to move the subject of your photo into the background and have the elements in the foreground lead the spectator to the subject.
+
+ **How to Use Shallow Depth of Field:** Alternatively, you can place the subject of a photo in the foreground, thus creating a considerable amount of separation between the two picture planes. The blurry background surrounding the razor-sharp foreground creates an illusion of depth that captivates the viewer's attention. In order to achieve this you need to create a shallow depth of field, which may not be an easy task when using an iPhone camera, fortunately, there are a lot of apps at the App Store that can be used to highlight the illusion of depth in a photo.
+
+![separate-the-foreground-from-background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
+
+ Image resource: Makeuseof
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+ iPhone photography has developed so much that now you can even enter [photo competitions](https://www.ippawards.com/) with images taken on these devices. In this article, we are going to show you how to use your iPhone as a tool for capturing breathtaking images and supply you with a healthy dose of photography tips that will enable you to take better photos.
+
+**You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## iPhone Photography Tips
+
+ Curiosity is the most important trait of any successful photographer because you have to be a tireless explorer of the world around you, in order to capture its beauty. The following tips will help you take your iPhone photography to a new level.
+
+#### 1\.  Become a Master of Light
+
+ Photography is the art of writing with light, as a matter of fact, the way you use light in a photo will determine how good it is. The trouble is, that each scene you shoot is going to have different light values, which means that you'll have to adjust the iPhone camera settings each time you decide to take a photo on a new location.
+
+**How to Avoid Sources of Light in a Shot:** The first and most basic rule of photography is to try to avoid having sources of light in your shot, and the best way to achieve this is to turn your back to the light source and have the subject of the photo positioned in the direction from which the light is coming from. If you do this, taking pictures that depict stark contrast of shadows and light will become much easier.
+
 ![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
 
  Image resource: Contrastly
 
 **How to Take a Silhouette Photo:** If you want to take a silhouette photo, simply place the subject of a photo between the light source and your iPhone camera. The source of light in the background will direct too much light into your camera, which will force you to reduce the exposure of a photo, thus the subject of the photo will become underexposed or a mere silhouette.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
 
  Image resource: YouTube
@@ -71,9 +168,6 @@ thumbnail: https://www.lifewire.com/thmb/IVUFCsNZuNwq-xRb7upOLePnGRs=/400x300/fi
 
 **How to Use the Grid feature:** The Grid feature on iPhone camera app can help you master the rule of thirds because it will divide your screen into nine equal rectangles, so you can use each rectangle to improve the organization of the elements within a shot.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
  Image resource: Macworld
@@ -114,6 +208,10 @@ thumbnail: https://www.lifewire.com/thmb/IVUFCsNZuNwq-xRb7upOLePnGRs=/400x300/fi
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -128,9 +226,6 @@ Follow @Liza Brown
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## iPhone Photography Tips
 
  Curiosity is the most important trait of any successful photographer because you have to be a tireless explorer of the world around you, in order to capture its beauty. The following tips will help you take your iPhone photography to a new level.
@@ -147,9 +242,6 @@ Follow @Liza Brown
 
 **How to Take a Silhouette Photo:** If you want to take a silhouette photo, simply place the subject of a photo between the light source and your iPhone camera. The source of light in the background will direct too much light into your camera, which will force you to reduce the exposure of a photo, thus the subject of the photo will become underexposed or a mere silhouette.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
 
  Image resource: YouTube
@@ -166,18 +258,12 @@ Follow @Liza Brown
 
 **How to Use the Grid feature:** The Grid feature on iPhone camera app can help you master the rule of thirds because it will divide your screen into nine equal rectangles, so you can use each rectangle to improve the organization of the elements within a shot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
  Image resource: Macworld
 
 **How to Use the Diagonal Method of Image Composition:** Using the diagonal method of photo composition is also a fairly simple task, since you just need to follow a diagonal of the frame, and you can use this method on horizontally and vertically oriented images.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![diagonal-photography](https://images.wondershare.com/filmora/article-images/diagonal-photography.jpg)
 
  Image resource: PictureCorrect
@@ -194,9 +280,6 @@ Follow @Liza Brown
 
 **How to Use Low-Angle Shots:** Every camera position that goes above this line is called the bird's eye view, and each camera position below this line is called a low-angle shot. Placing the camera below the level of your eyesight can be quite beneficial for the photo's aesthetic qualities because it will offer a unique view of the scene to the viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
 
  Image resource: Storyboard Class
@@ -211,11 +294,12 @@ Follow @Liza Brown
 
 ![separate-the-foreground-from-background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Makeuseof
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -232,6 +316,10 @@ Follow @Liza Brown
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone Photography Tips
 
  Curiosity is the most important trait of any successful photographer because you have to be a tireless explorer of the world around you, in order to capture its beauty. The following tips will help you take your iPhone photography to a new level.
@@ -242,9 +330,6 @@ Follow @Liza Brown
 
 **How to Avoid Sources of Light in a Shot:** The first and most basic rule of photography is to try to avoid having sources of light in your shot, and the best way to achieve this is to turn your back to the light source and have the subject of the photo positioned in the direction from which the light is coming from. If you do this, taking pictures that depict stark contrast of shadows and light will become much easier.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
 
  Image resource: Contrastly
@@ -269,109 +354,9 @@ Follow @Liza Brown
 
 ![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
- Image resource: Macworld
-
-**How to Use the Diagonal Method of Image Composition:** Using the diagonal method of photo composition is also a fairly simple task, since you just need to follow a diagonal of the frame, and you can use this method on horizontally and vertically oriented images.
-
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![diagonal-photography](https://images.wondershare.com/filmora/article-images/diagonal-photography.jpg)
-
- Image resource: PictureCorrect
-
-**How to Use Symetry on a Photo:** Symmetry is often used for the depiction of reflections because this method of photo composition enables you to show the real object or a scene and its reflections in equal measure. Symmetric photos are more pleasing to the human eye than asymmetric images, which is the reason why pictures that use symmetry as the guiding compositional principal have a better chance of being recognized as good or beautiful.
-
-![symetry-photography](https://images.wondershare.com/filmora/article-images/symetry-photography.jpg)
-
- Image resource: PictureCorrect
-
-#### 3\.  Use Different Camera Angles to Depict a Scene
-
-**How to Use 180-degree Rule:** When approaching a new scene, even a simple scene such as a selfie, try to visualize a straight line at the height of your eye level between the iPhone camera you are holding and the subject of the photo. The so-called 180-degree rule suggests that you shouldn't ever cross that imaginary line, but each degree between 0 and 180 degrees can be an angle from which you take the shot.
-
-**How to Use Low-Angle Shots:** Every camera position that goes above this line is called the bird's eye view, and each camera position below this line is called a low-angle shot. Placing the camera below the level of your eyesight can be quite beneficial for the photo's aesthetic qualities because it will offer a unique view of the scene to the viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
-
- Image resource: Storyboard Class
-
- Exploring different camera angles will enable you to show the scene from different points of view and it will allow you to 'solve' the scene in a more efficient way. Assuming that the best angle for a certain scene is at our eye level is natural, but trying to depict a scene from different points of view usually results in better pictures.
-
-#### 4\.  Accentuate Depth in Your Images
-
-**How to Separate the Foreground From the Background:** The illusion of depth in a photo makes the picture look more realistic, and it also creates a visual dynamics between the foreground and the background of an image. There are a number of techniques you can use to accentuate depth on your photos or in your videos. The most common trick is to move the subject of your photo into the background and have the elements in the foreground lead the spectator to the subject.
-
- **How to Use Shallow Depth of Field:** Alternatively, you can place the subject of a photo in the foreground, thus creating a considerable amount of separation between the two picture planes. The blurry background surrounding the razor-sharp foreground creates an illusion of depth that captivates the viewer's attention. In order to achieve this you need to create a shallow depth of field, which may not be an easy task when using an iPhone camera, fortunately, there are a lot of apps at the App Store that can be used to highlight the illusion of depth in a photo.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
-![separate-the-foreground-from-background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
-
- Image resource: Makeuseof
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
- iPhone photography has developed so much that now you can even enter [photo competitions](https://www.ippawards.com/) with images taken on these devices. In this article, we are going to show you how to use your iPhone as a tool for capturing breathtaking images and supply you with a healthy dose of photography tips that will enable you to take better photos.
-
-**You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## iPhone Photography Tips
-
- Curiosity is the most important trait of any successful photographer because you have to be a tireless explorer of the world around you, in order to capture its beauty. The following tips will help you take your iPhone photography to a new level.
-
-#### 1\.  Become a Master of Light
-
- Photography is the art of writing with light, as a matter of fact, the way you use light in a photo will determine how good it is. The trouble is, that each scene you shoot is going to have different light values, which means that you'll have to adjust the iPhone camera settings each time you decide to take a photo on a new location.
-
-**How to Avoid Sources of Light in a Shot:** The first and most basic rule of photography is to try to avoid having sources of light in your shot, and the best way to achieve this is to turn your back to the light source and have the subject of the photo positioned in the direction from which the light is coming from. If you do this, taking pictures that depict stark contrast of shadows and light will become much easier.
-
-![take-use-shadows-in-photography](https://images.wondershare.com/filmora/article-images/take-use-shadows-in-photography.jpg)
-
- Image resource: Contrastly
-
-**How to Take a Silhouette Photo:** If you want to take a silhouette photo, simply place the subject of a photo between the light source and your iPhone camera. The source of light in the background will direct too much light into your camera, which will force you to reduce the exposure of a photo, thus the subject of the photo will become underexposed or a mere silhouette.
-
-![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
-
- Image resource: YouTube
-
-**How to Take Advantage of Natural Light:** The best periods during the day for photography are the sunrise and the sunset because the light provided by the sun is the softest. Portrait and numerous other genres of photography benefit from soft, diffused light. The colors in your pictures will appear much warmer and the results you'll be able to get will be much more visually pleasing than on photos on which you used direct lightning.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![golden-hour-photo](https://images.wondershare.com/filmora/article-images/golden-hour-photo.jpg)
-
- Image resource: Contrastly
-
-#### 2\.  Learn How To Compose Your Photos and Videos
-
- Organization of the elements depicted within a frame is called composition, and each iPhone videographer or photographer has to practice shot composition in order to be able to improve the quality of the visual content they are producing. Some of the most basic principles of picture composition include the rule of thirds or the diagonal method of arranging objects on a photo.
-
-**How to Use the Grid feature:** The Grid feature on iPhone camera app can help you master the rule of thirds because it will divide your screen into nine equal rectangles, so you can use each rectangle to improve the organization of the elements within a shot.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
-![grid-mode-iphone](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
  Image resource: Macworld
 
@@ -385,6 +370,10 @@ Follow @Liza Brown
 
 ![symetry-photography](https://images.wondershare.com/filmora/article-images/symetry-photography.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: PictureCorrect
 
 #### 3\.  Use Different Camera Angles to Depict a Scene
@@ -393,9 +382,6 @@ Follow @Liza Brown
 
 **How to Use Low-Angle Shots:** Every camera position that goes above this line is called the bird's eye view, and each camera position below this line is called a low-angle shot. Placing the camera below the level of your eyesight can be quite beneficial for the photo's aesthetic qualities because it will offer a unique view of the scene to the viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
 
  Image resource: Storyboard Class
@@ -408,9 +394,6 @@ Follow @Liza Brown
 
  **How to Use Shallow Depth of Field:** Alternatively, you can place the subject of a photo in the foreground, thus creating a considerable amount of separation between the two picture planes. The blurry background surrounding the razor-sharp foreground creates an illusion of depth that captivates the viewer's attention. In order to achieve this you need to create a shallow depth of field, which may not be an easy task when using an iPhone camera, fortunately, there are a lot of apps at the App Store that can be used to highlight the illusion of depth in a photo.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![separate-the-foreground-from-background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
  Image resource: Makeuseof
@@ -445,7 +428,26 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-crafting-visionary-art-top-10-apps-for-vector-enthusiasts/"><u>[New] Crafting Visionary Art Top 10 Apps for Vector Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-steps-to-implement-video-card-anchors-on-youtube-for-2024/"><u>[New] Essential Steps to Implement Video Card Anchors on YouTube for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-scene-stealer-snapshot-study-for-2024/"><u>[New] Scene-Stealer Snapshot Study for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-navigating-the-necessary-youtube-viewer-threshold/"><u>[Updated] 2024 Approved Navigating the Necessary Youtube Viewer Threshold</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-walkthrough-of-youtube-timestamping-techniques/"><u>[Updated] A Comprehensive Walkthrough of YouTube Timestamping Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-box-it-up-the-top-10-online-houses-for-customized-gift-boxes/"><u>2024 Approved Box It Up! The Top 10 Online Houses for Customized Gift Boxes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bringing-out-the-best-advanced-color-correction-in-gopro/"><u>2024 Approved Bringing Out the Best Advanced Color Correction in GoPro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-chronological-displacement-effects/"><u>2024 Approved Crafting Chronological Displacement Effects</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-fast-snapfinders-handbook/"><u>2024 Approved Fast Snapfinder's Handbook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967424645-authentic-and-protected-sades-headset-drivers-for-windows-get-your-free-download-here/"><u>Authentic and Protected Sades Headset Drivers for Windows - Get Your Free Download Here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-directory-ultimate-free-vectr-and-illustration-websites/"><u>Cutting-Edge Directory Ultimate Free Vectr and Illustration Websites</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-tech-aid-pinnacle-apps-for-changing-virtual-voices/"><u>Essential Tech Aid Pinnacle Apps for Changing Virtual Voices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-smart-8-plus-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Smart 8 Plus Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instant-file-accessibility-syncing-from-pc-to-iphone/"><u>Instant File Accessibility Syncing From PC to iPhone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-solutions-for-correcting-a-corrupted-steam-game-installation/"><u>Simple Solutions for Correcting a Corrupted Steam Game Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-workflow-with-printer-driver/"><u>Streamline Workflow with Printer Driver</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-magic-6-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor Magic 6 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-choice-10-excellent-camera-lenses/"><u>Ultimate Choice 10 Excellent Camera Lenses</u></a></li>
+</ul></div>
 

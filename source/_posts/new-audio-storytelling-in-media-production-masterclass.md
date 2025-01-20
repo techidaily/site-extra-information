@@ -1,7 +1,7 @@
 ---
 title: "[New] Audio Storytelling in Media Production Masterclass"
-date: 2024-12-17T21:36:33.981Z
-updated: 2024-12-23T17:25:59.686Z
+date: 2025-01-15T17:29:40.399Z
+updated: 2025-01-20T16:52:34.753Z
 tags: 
   - screen-recording
   - ai video
@@ -25,7 +25,7 @@ And when you learn how to use this technique the right way, your YouTube videos 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Voiceover or Narration?
@@ -48,15 +48,15 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
@@ -71,7 +71,7 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
@@ -93,7 +93,7 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Always use a good mic
@@ -102,11 +102,11 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
-Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
 ## Should you use narration in your next project?
 
@@ -146,19 +146,24 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-precision-video-correction-eradicating-fish-eye-from-gopro/"><u>[New] Precision Video Correction Eradicating Fish Eye From GoPro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-2022-olympic-sprint-ice-key-moments-and-winners/"><u>[Updated] 2022 Olympic Sprint Ice Key Moments and Winners</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-expert-tips-for-smooth-win11-meetings-via-zoom/"><u>[Updated] Expert Tips for Smooth Win11 Meetings via Zoom</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods/"><u>[Updated] Navigating YouTube's Subtitle System Download with Ease Using 3 Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028402050-dvd/"><u>市販DVDが動き出さない? ストレスなしでこの簡単対策を学べ</u></a></li>
-<li><a href="https://extra-information.techidaily.com/choosing-your-gopro-an-exhaustive-comparison/"><u>Choosing Your GoPro An Exhaustive Comparison</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fixing-the-dreaded-class-not-found-problem-in-windows-computers-easily/"><u>Fixing the Dreaded 'Class Not Found' Problem in Windows Computers Easily</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-huawei-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Huawei Phones with/without a PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/masterful-plot-crafting-in-film-history/"><u>Masterful Plot Crafting in Film History</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximum-clarity-video-transformer-windowsmac/"><u>Maximum Clarity Video Transformer (Windows/Mac)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-orientation-top-tripods-for-iphones-and-androids/"><u>Optimal Orientation Top Tripods for iPhones & Androids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/secrets-to-proficient-mobile-and-desktop-film-recording-for-2024/"><u>Secrets to Proficient Mobile and Desktop Film Recording for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-how-to-address-bootmgr-error-messages/"><u>Troubleshooting Guide: How to Address BOOTMGR Error Messages</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unleashing-laughter-on-screen-essential-tactics-for-youtube-reaction-video-making-3-ways/"><u>[New] In 2024, Unleashing Laughter on Screen Essential Tactics for YouTube Reaction Video Making (3 Ways)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-kickstart-your-telegram-promotion-journey-tips-for-newbies/"><u>[New] Kickstart Your Telegram Promotion Journey Tips for Newbies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>[New] Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-10-simple-strategies-for-establishing-successful-biz-youtubes/"><u>[Updated] 2024 Approved Top 10 Simple Strategies for Establishing Successful Biz YouTubes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-budget-cloud-price-rankings-of-2024/"><u>[Updated] Best Budget Cloud Price Rankings of 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-campaign-tactics-for-enhancing-health-awareness/"><u>[Updated] Campaign Tactics for Enhancing Health Awareness</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-affordable-shutterbug-gear-for-dynamic-action-scenes/"><u>2024 Approved Affordable Shutterbug Gear for Dynamic Action Scenes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-becoming-a-onestream-pro-tips-and-tricks-from-the-pros/"><u>2024 Approved Becoming a OneStream Pro Tips and Tricks From the Pros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-closer-look-at-vlc-critiques-and-options/"><u>A Closer Look at VLC Critiques and Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bloodhunt-pc-troubleshooting-guide-overcoming-crash-and-stutter-challenges/"><u>BloodHunt PC Troubleshooting Guide: Overcoming Crash and Stutter Challenges</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cost-efficient-game-capture-learn-to-livestran-a-match/"><u>Cost-Efficient Game Capture Learn to Livestran a Match</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-oled-laptops-expertly-tested-and-reviewed-insights/"><u>Elite Selection of OLED Laptops : Expertly Tested and Reviewed Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-pixlr-upgrades-for-enhanced-results/"><u>Essential Pixlr Upgrades for Enhanced Results</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-8-plus-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone 8 Plus Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-story-stock-pictures-and-their-internet-fame/"><u>Inside Story Stock Pictures and Their Internet Fame</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/iphone-screen-capture-simplified-guide/"><u>IPhone Screen Capture Simplified Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/symbolizing-success-affordable-and-flexible-logo-crafting-from-templates/"><u>Symbolizing Success Affordable & Flexible Logo Crafting From Templates</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-full-potential-of-your-iphone-photos/"><u>Unlock the Full Potential of Your iPhone Photos</u></a></li>
 </ul></div>
 

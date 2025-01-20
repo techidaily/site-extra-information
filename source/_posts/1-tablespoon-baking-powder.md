@@ -1,7 +1,7 @@
 ---
 title: 1 Tablespoon Baking Powder
-date: 2025-01-11T08:15:06.088Z
-updated: 2025-01-13T19:21:32.055Z
+date: 2025-01-15T16:36:49.010Z
+updated: 2025-01-20T17:31:46.322Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Cortana not working?
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 3. [Make sure your Windows 10 system is up-to-date](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
@@ -45,21 +49,17 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
@@ -75,9 +75,17 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -103,10 +111,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -114,10 +118,6 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -132,7 +132,7 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
@@ -159,22 +159,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-hand-tracking-deciphered-a-users-guide/"><u>[New] 2024 Approved Hand Tracking Deciphered A User's Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-discover-your-inner-artist-with-these-leading-android-graphics-tools/"><u>[Updated] 2024 Approved Discover Your Inner Artist with These Leading Android Graphics Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-professional-recording-essentials-evaluating-apeaksofts-capabilities/"><u>[Updated] Professional Recording Essentials – Evaluating Apeaksoft's Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-the-best-vr-games-for-google-cardboard/"><u>[Updated] The Best VR Games for Google Cardboard</u></a></li>
-<li><a href="https://extra-information.techidaily.com/abletons-techniques-for-diminishing-sound-intensity/"><u>Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-installation-of-amd-radeon-hd-7770-drivers-for-optimal-performance/"><u>Effortless Installation of AMD Radeon HD 7770 Drivers for Optimal Performance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-oppo-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Oppo ?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-methods-for-iphone-image-arrangement/"><u>Innovative Methods for iPhone Image Arrangement</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-close-up-views-in-minecraft/"><u>Mastering Close-Up Views in Minecraft</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-video-aspects-online/"><u>Mastering Video Aspects Online</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-stylish-portability-with-the-acer-chromebook-r-11-our-expert-review-insights/"><u>Navigating Stylish Portability with the Acer Chromebook R 11 – Our Expert Review Insights</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-basic-to-brilliant-top-premiere-pro-transition-plugins/"><u>New 2024 Approved From Basic to Brilliant Top Premiere Pro Transition Plugins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-start-guide-easy-steps-for-effective-video-calling-on-zoom/"><u>Quick Start Guide Easy Steps for Effective Video Calling on Zoom</u></a></li>
-<li><a href="https://extra-information.techidaily.com/samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better/"><u>Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-srt-file-craftsmanship-manual/"><u>The Ultimate SRT File Craftsmanship Manual</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transition-to-hdr-a-step-forward-in-high-quality-video/"><u>Transition to HDR A Step Forward in High-Quality Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shockingly-fast-crafting-a-google-image-collaboration/"><u>[New] Shockingly Fast Crafting a Google Image Collaboration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-high-definition-devices-top-15-for-uhd-video-for-2024/"><u>[Updated] High-Definition Devices Top 15 for UHD Video for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-is-it-possible-to-watch-fb-videos-on-tv/"><u>[Updated] Is It Possible to Watch FB Videos on TV ?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-borders-with-virtual-reality-tours/"><u>Beyond Borders with Virtual Reality Tours</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-trust-key-elements-in-forging-youtube-brand-relationships/"><u>Building Trust Key Elements in Forging Youtube Brand Relationships</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-best-methods-to-record-audio-using-windows-11-tools/"><u>Discover the Best Methods to Record Audio Using Windows 11 Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-guide-for-windows-7/"><u>Solution Guide for Windows 지정 7의 '시스템 서비스 예외'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-not-initialized-issue-a-guide-for-valorant-players/"><u>Solving the Not Initialized Issue - A Guide for Valorant Players</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-influence-essential-marketing-expressions-explained/"><u>The Art of Influence Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-peak-of-data-preservation-cloud-service-guide/"><u>The Peak of Data Preservation Cloud Service Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-games-just-like-stardew-valley/"><u>Top 10 Games Just Like Stardew Valley</u></a></li>
 </ul></div>
 

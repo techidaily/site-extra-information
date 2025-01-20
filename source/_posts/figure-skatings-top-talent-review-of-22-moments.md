@@ -1,7 +1,7 @@
 ---
 title: "\"Figure Skating's Top Talent  Review of '22 Moments\""
-date: 2025-01-03T00:32:41.517Z
-updated: 2025-01-08T05:06:45.821Z
+date: 2025-01-16T17:26:15.283Z
+updated: 2025-01-20T17:25:15.733Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
@@ -38,12 +38,16 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
@@ -55,7 +59,7 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
@@ -67,7 +71,7 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
@@ -98,10 +102,6 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
@@ -121,20 +121,18 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-advanced-strategies-for-professional-gif-craftsmanship/"><u>[New] Advanced Strategies for Professional GIF Craftsmanship</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-craft-your-vision-essential-windows-10-tips-for-future-directors/"><u>[New] Craft Your Vision Essential Windows 10 Tips for Future Directors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-game-streamers-for-your-watchlist/"><u>[New] In 2024, Essential Game Streamers for Your Watchlist</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-zoom-screen-sharpness-users-handbook/"><u>[New] Perfecting Zoom Screen Sharpness User's Handbook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-3-effective-steps-to-brighten-your-photos/"><u>[Updated] 3 Effective Steps to Brighten Your Photos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-complete-look-at-color-correction-for-gopro-videos-for-2024/"><u>A Complete Look at Color Correction for GoPro Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accessible-and-quality-the-best-10-online-passport-photo-tools-revealed/"><u>Accessible & Quality The Best 10 Online Passport Photo Tools Revealed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blending-youtube-audio-features-into-video-projects/"><u>Blending YouTube Audio Features Into Video Projects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ideal-hosts-maximizing-youtube-video-exposure/"><u>Ideal Hosts Maximizing YouTube Video Exposure</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/identifying-defective-motherboard-parts-a-step-by-step-guide-yl-computing/"><u>Identifying Defective Motherboard Parts: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Three Ways to Sim Unlock Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-itel-a05s-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Itel A05s Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-mediatrans-the-top-choice-for-seamlessly-transferring-photos-and-music-videos-between-pcs-on-your-iphoneipad/"><u>WinX MediaTrans™: The Top Choice for Seamlessly Transferring Photos and Music Videos Between PCs on Your iPhone/iPad</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>[New] The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-5-simple-yet-powerful-strategies-to-skyrocket-your-youtube-views/"><u>[Updated] 5 Simple Yet Powerful Strategies to Skyrocket Your YouTube Views</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-list-of-free-high-quality-video-playback-apps-pcmobile/"><u>[Updated] Comprehensive List of Free, High-Quality Video Playback Apps PC/Mobile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-aerial-mastery-reviewed-the-essence-of-gopro-karma/"><u>2024 Approved Aerial Mastery Reviewed The Essence of GoPro Karma</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-android-mobas-a-decade-of-favorite-titles-top-10/"><u>2024 Approved Android MOBAs A Decade of Favorite Titles - Top 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-restoring-hidden-watch-icon-for-optimal-experience/"><u>2024 Approved Restoring Hidden Watch Icon for Optimal Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-the-divide-full-sphere-vs-immersive-films/"><u>Dissecting the Divide Full Sphere Vs. Immersive Films</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-pathway-for-webp-to-jpg-transformation/"><u>Expert Pathway for WebP-to-JPG Transformation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigate-web-with-ease-using-edges-split-screen-feature/"><u>Navigate Web with Ease Using Edge's Split Screen Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-skips-the-solution-for-halo-infinites-performance-glitches/"><u>No More Skips: The Solution for Halo Infinite's Performance Glitches</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-blueprint-for-captivating-instagram-unboxing-vids/"><u>The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
 </ul></div>
 

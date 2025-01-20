@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Color Reversal  Making Blacks From Whites\""
-date: 2024-12-05T17:27:59.813Z
-updated: 2024-12-08T18:10:15.315Z
+date: 2025-01-18T16:16:59.160Z
+updated: 2025-01-20T17:52:49.050Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 During the age of analog photography, the image negative was one of the most important artifacts for photographers, because it enabled them to reproduce a picture as many times as they wanted. Years later photographers invert colors in photos for mostly aesthetical reasons since only a small number of photographers still take photos with analog cameras. Regardless of the type of camera you’re using, inverting colors in a photo is a straightforward process that doesn’t require too much effort. In this article, we are going to take you through some of the best options on Mac and PC computers, as well as Android phones and iPhones that let you invert colors in just a few easy steps. So, let’s dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make Image Negative of a Digital Photo?
@@ -83,7 +83,7 @@ The platform’s homepage contains a number of categories of tools such as **Col
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
@@ -97,7 +97,7 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
@@ -127,7 +127,7 @@ Creating a negative of photos you take with your phone can be fun, so why not us
 ![ Covert color](https://images.wondershare.com/filmora/article-images/negative-photo-effects-hd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Inverting the colors in a photo with Negative Photo Effect HD is easy since you just have to select a photo from the gallery or use the iPhone’s camera to snap a new one and apply the **negative photo effect**. You can highlight the area of the photo you’d like to invert with your finger or use some of the app’s photo editing tools to enhance the colors in the negative photo. You can save or share the photos you created, but if you use the free version of the app your photos will be watermarked unless you purchase the **Free Ads and Watermark package** for **$2.99.**
@@ -139,7 +139,7 @@ Inverting colors in a photo is not a complicated process, but finding creative w
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -157,18 +157,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-examination-of-simple-hdr-methods/"><u>[New] A Comprehensive Examination of Simple HDR Methods</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-audiophiles-guide-to-speed-adjustment-apps/"><u>[New] Audiophile's Guide to Speed Adjustment Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-quick-grab-your-complete-guide-to-effortless-video-capture/"><u>[New] In 2024, Quick-Grab Your Complete Guide to Effortless Video Capture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-bringing-your-ideas-to-life-vo-plus-ppt-perfection/"><u>[Updated] Bringing Your Ideas to Life VO + PPT Perfection</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-blending-beats-and-imagery-music-tips-for-instagram/"><u>[Updated] In 2024, Blending Beats and Imagery Music Tips for Instagram</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-internet-extension-fb-stories-grabber-for-2024/"><u>[Updated] Internet Extension Fb Stories Grabber for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/building-your-virtual-persona-with-minimal-hassle/"><u>Building Your Virtual Persona with Minimal Hassle</u></a></li>
-<li><a href="https://extra-information.techidaily.com/effortless-switch-between-video-playback-on-devices/"><u>Effortless Switch Between Video Playback on Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-dull-videos-for-apple-devices/"><u>Enhancing Dull Videos for Apple Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-vivo-y78plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y78+ in Minutes | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/securing-comfort-in-vr-experiences/"><u>Securing Comfort in VR Experiences</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-t17238628789211/"><u>Tom's Tech Review: The Ultimate Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y200-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y200 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-ultimate-windows-art-apps-review-dollar-free-to-charged/"><u>[New] 2024 Approved Ultimate Windows Art Apps Review Dollar-Free to Charged</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-advanced-techniques-for-educators-lecture-capture-on-mac/"><u>[New] In 2024, Advanced Techniques for Educator's Lecture Capture on Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-on-the-road-and-recorded-essential-helmet-cams-unveiled-for-bikers-gear/"><u>[New] On the Road & Recorded - Essential Helmet Cams Unveiled for Bikers' Gear</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-free-mac-screenshoter-extraordinaire/"><u>[Updated] 2024 Approved Free Mac Screenshoter Extraordinaire</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-stepping-up-your-gaming-stream-with-steam-capture/"><u>[Updated] 2024 Approved Stepping Up Your Gaming Stream with Steam Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-drones-visual-potential-essential-gimbal-selection-tips/"><u>2024 Approved Maximize Your Drones' Visual Potential Essential Gimbal Selection Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-restore-pristine-photos-easily-discover-top-10-online-enhancers/"><u>2024 Approved Restore Pristine Photos Easily Discover Top 10 Online Enhancers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-30-webcams-built-for-windows-os/"><u>2024 Approved Top 30 Webcams Built for Windows OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/estimating-film-budget-the-cost-of-capturing-melodies-visually/"><u>Estimating Film Budget The Cost of Capturing Melodies Visually</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieving-stable-images-in-action-cams-unsteady-world/"><u>In 2024, Achieving Stable Images in Action Cam's Unsteady World</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-free-top-10-best-drawing-software-for-mac/"><u>In 2024, FREE Top 10 Best Drawing Software for Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-8-ultimate-tripods-for-4k-video-capture/"><u>Leading 8 Ultimate Tripods for 4K Video Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/metaversal-journey-versus-omniverse-quest/"><u>Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-your-content-best-12-html5-video-tools/"><u>Streamline Your Content Best 12 HTML5 Video Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
 </ul></div>
 

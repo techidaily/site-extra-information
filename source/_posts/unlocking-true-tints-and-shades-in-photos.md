@@ -1,7 +1,7 @@
 ---
 title: "Unlocking True Tints and Shades in Photos"
-date: 2025-01-08T23:23:30.095Z
-updated: 2025-01-13T23:17:31.266Z
+date: 2025-01-19T16:18:15.432Z
+updated: 2025-01-20T16:40:14.797Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ So instead of hiring various models, you can still display your collection by ch
 
 In this section, we will give you some beneficial tips and guidelines to change the photo color through [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). Moreover, we will also mention a photo color editor online to change the colors instantly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Tip 1: Add Any Color to Your Shirt
 
 Do you want to change the color of any particular shirt in the photo? Then use Adobe Photoshop and open its main interface. Go to its "Quick Selection" tool and select around the shirt to change its color. Now go to the bottom right and click on "New Adjustment Layer," and tap on "Hue and Saturation.”
@@ -35,12 +39,20 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Tips 2: Use Black and White Colors
 
@@ -51,6 +63,10 @@ The reason for using different adjustment layers is that it can produce natural 
 Now do the tuning by navigating to the layer mask and also select the layers. After that, Tap on "CTRL+E" to merge all the settings and layers, and you will get your desired color.
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Tip 3: Add Color to White Object
 
@@ -66,10 +82,6 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
@@ -80,13 +92,13 @@ After clicking on the color range option, a pop-up window will appear from which
 
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Tip 6: Use Blend IF
 
@@ -97,27 +109,19 @@ Similarly, if you drag the “Blend IF” sliders towards white pints, it can hi
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
 
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
@@ -127,10 +131,6 @@ If you don’t have an offline tool like Adobe Photoshop, you can use an online 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
@@ -164,20 +164,22 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-practices-for-free-clipart-use-in-projects/"><u>[New] Best Practices for Free Clipart Use in Projects</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-essential-guide-to-earnings-monetizing-content-on-vimeo/"><u>[New] In 2024, The Essential Guide to Earnings Monetizing Content on Vimeo</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-secure-methods-to-transfer-instagram-media-onto-iphone-for-2024/"><u>[New] Secure Methods to Transfer Instagram Media Onto iPhone for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-your-video-workflows-selecting-the-best-players/"><u>[New] Streamline Your Video Workflows Selecting the Best Players</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-apples-m1-expedition-the-new-era-of-computing/"><u>[Updated] Apple's M1 Expedition The New Era of Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-craft-your-first-impactful-facebook-phenomenon-giveaway/"><u>[Updated] Craft Your First Impactful Facebook Phenomenon Giveaway</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mystery-maneuvers-effortless-enhancement-techniques/"><u>[Updated] Mystery Maneuvers Effortless Enhancement Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-smooth-sailing-with-instagram-fixes-for-frustrations/"><u>[Updated] Smooth Sailing with Instagram Fixes for Frustrations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-action-cameras-for-waterproof-recording-1-7/"><u>2024 Approved Action Cameras for Waterproof Recording #1-7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-practical-guide-to-downloading-audio-content-from-pinterest/"><u>A Practical Guide to Downloading Audio Content From Pinterest</u></a></li>
-<li><a href="https://extra-information.techidaily.com/google-ar-stickers-an-introduction-and-comparisons/"><u>Google AR Stickers An Introduction & Comparisons</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://extra-information.techidaily.com/image-weaving-the-art-of-photomontages/"><u>Image Weaving The Art of Photomontages</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/web-based-audio-editor-effortless-audio-file-format-conversion-mp3-wma/"><u>Web-Based Audio Editor - Effortless Audio File Format Conversion (MP3, WMA)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-decoding-sound-sequence-confluence-crossfading-explained/"><u>[Updated] 2024 Approved Decoding Sound Sequence Confluence Crossfading Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-churn-memetic-content-for-gif-hub/"><u>[Updated] Churn Memetic Content for GIF Hub</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-boring-to-buzzing-three-tactics-for-youtube-reaction-mastery/"><u>[Updated] From Boring to Buzzing Three Tactics for YouTube Reaction Mastery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-next-level-capturing-hero-4-and-hero-5-reviewed-for-2024/"><u>[Updated] Next Level Capturing Hero 4 & Hero 5 Reviewed for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-3-essential-voice-logging-tactics-for-ipad/"><u>[Updated] The 3 Essential Voice Logging Tactics for iPad</u></a></li>
+<li><a href="https://extra-information.techidaily.com/activatingdeactivating-picture-in-picture-youtube-viewing-on-iphone/"><u>Activating/Deactivating Picture In Picture YouTube Viewing on iPhone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-advanced-fcp-features-for-2024/"><u>Comprehensive Guide to Advanced FCP Features for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-tutorial-on-gdocs-voice-to-text-feature-for-2024/"><u>Comprehensive Tutorial on GDoc's Voice-to-Text Feature for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creative-tactics-for-medical-ad-success-on-facebook/"><u>Creative Tactics for Medical Ad Success on Facebook</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortlessly-enhance-your-system-with-new-intel-iris-plus-graphics-640-drivers-easy-installation-steps-inside/"><u>Effortlessly Enhance Your System with New Intel Iris + Graphics 640 Drivers - Easy Installation Steps Inside!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-cycling-top-vr-bike-games/"><u>Elevate Your Cycling TOP VR Bike Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-top-5-ultra-light-video-capturers-guide/"><u>Essential Top 5 Ultra-Light Video Capturers Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-properly-update-or-install-logitechs-rx250-drivers-for-various-windows-versions/"><u>How to Properly Update or Install Logitech's RX250 Drivers for Various Windows Versions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-7-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 7 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-civi-3-disney-100th-anniversary-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Civi 3 Disney 100th Anniversary Edition Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-2-written-by-robert-littell-for-2024/"><u>Superior 2 Written by Robert Littell for 2024</u></a></li>
 </ul></div>
 

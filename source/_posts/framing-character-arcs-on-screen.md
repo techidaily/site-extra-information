@@ -1,7 +1,7 @@
 ---
 title: "Framing Character Arcs on Screen"
-date: 2025-01-10T07:35:56.298Z
-updated: 2025-01-13T21:37:16.490Z
+date: 2025-01-17T17:32:19.910Z
+updated: 2025-01-20T16:45:08.306Z
 tags: 
   - screen-recording
   - ai video
@@ -33,7 +33,7 @@ It can be used to ensure that everything in your story is consistent with what y
 ![a screenplay](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A screenplay is a script for a film, television show, or play. It tells a story by using dialogue and action to show how the scenes are connected.
@@ -73,10 +73,14 @@ A thriller script template will structure character movement, staging, and dialo
 ![templates for screenplay](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We currently have screenplay format templates for nearly every theatrical and film genre, including drama, comedy, action, thriller, autobiography, and others. Each of these templates has a unique structure, but the best ones share some characteristics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Characteristics of the Ideal Screenplay Format Template
 
@@ -113,6 +117,10 @@ The same title page, with the same standard Courier font, text indentation, scen
 
 ![contemporary features](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, with the advent of app-based screenwriting software, we have plenty of contemporary features such as automatic page numbers, time of day, parentheses, and pop-ups with specific character names.
 
 Even the general rule of thumb "one-page equals one minute of screen time" doesn't apply to all scripts today.
@@ -134,7 +142,7 @@ For example, when I'm writing a character who's learning to write a book, I'd li
 Taking an unconventional approach to character development can seem counterproductive and time-consuming. However, a good script draft will allow the writer to do this without making the script unbalanced.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Creative Space
@@ -149,19 +157,11 @@ For example, an ideal screenwriting template should allow one character out of s
 
 ![creative space](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This prevents all characters from looking and sounding like they were cast from a similar mold and have no unique development of their own.
 
 In addition, the best templates should allow screenwriters to adjust their plot development to write for feature films as well as series.
 
 Common fictional tropes have already been adopted by thousands of screenwriters around the world. The job of a perfect template is to give you enough creative space to create a unique story from a traditional genre.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Make your own screenplay by using Filmora
 
@@ -207,24 +207,18 @@ The article has provided the most information about screenplays and how to write
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-the-ideal-whatsapp-ringtone-ios-and-android-guide/"><u>[New] Crafting the Ideal WhatsApp Ringtone - iOS & Android Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-how-much-video-can-64gb128gb-holds/"><u>[New] How Much Video Can 64GB/128GB Holds?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-framelock-the-future-of-screen-capturing-for-2024/"><u>[Updated] 'Framelock' – The Future of Screen Capturing for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-add-youtube-playlists-to-your-website-interface-for-2024/"><u>[Updated] Efficiently Add YouTube Playlists to Your Website Interface for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-revolutionizing-remote-work-selecting-the-best-live-streamers/"><u>[Updated] Revolutionizing Remote Work Selecting the Best Live Streamers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-choosing-ultrawide-vs-uhd-4k-displays-a-comprehensive-guide/"><u>2024 Approved Choosing UltraWide vs UHD 4K Displays A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-creativity-in-drone-video-post-production/"><u>2024 Approved Unleashing Creativity in Drone Video Post-Production</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-complete-guide-about-video-resolution-for-beginners/"><u>A Complete Guide About Video Resolution for Beginners</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-assortment-professional-webcam-platforms/"><u>Best Assortment Professional Webcam Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/convenient-mobile-watch-enabledisable-picture-in-picture-in-youtube-for-2024/"><u>Convenient Mobile Watch Enable/Disable Picture-In-Picture in YouTube for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevate-audio-quality-in-podcasts-using-garageband-for-2024/"><u>Elevate Audio Quality in Podcasts Using GarageBand for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/from-page-to-screen-jujutsu-kaisen-on-tiktok-for-2024/"><u>From Page to Screen Jujutsu Kaisen on TikTok for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-can-i-upgrade-the-graphic-card-driver-on-windows-tips-from-techwizard/"><u>How Can I Upgrade the Graphic Card Driver on Windows? - Tips From TechWizard</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-scenes-with-vlc-player-features/"><u>In 2024, Behind the Scenes with VLC Player Features</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-the-secrets-capturing-apple-devices-for-engaging-videos/"><u>In 2024, Unlock the Secrets Capturing Apple Devices for Engaging Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/latest-podcast-question-bank-for-engaging-audiences/"><u>Latest Podcast Question Bank for Engaging Audiences</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionizing-your-tiktok-content-collection-game/"><u>Revolutionizing Your TikTok Content Collection Game</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-update-failure-code-0x8024401c-on-microsoft-windows-systems/"><u>Understanding & Solving Update Failure: Code 0X8024401c on Microsoft Windows Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-camslice-critique/"><u>[New] 2024 Approved CamSlice Critique</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-immerse-viewers-advanced-tiktok-visuals/"><u>[Updated] In 2024, Immerse Viewers Advanced TikTok Visuals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-leveraging-ios-11-for-professional-level-iphone-shots/"><u>2024 Approved Leveraging iOS 11 for Professional-Level iPhone Shots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-psd-filters-galore/"><u>2024 Approved Superior PSD Filters Galore</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breaking-code-seeing-covert-user-reactions/"><u>Breaking Code Seeing Covert User Reactions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/create-custom-iphone/"><u>Create Custom iPhone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-hd-action-recording-devices-on-a-budget/"><u>Essential HD Action Recording Devices on a Budget</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-picture-preview-compilation/"><u>In 2024, Best Picture Preview Compilation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-mobile-and-desktop-mkv-software/"><u>In 2024, Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinterest-video-downloader-guide-the-leading-no-cost-alternatives/"><u>Pinterest Video Downloader Guide The Leading No-Cost Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-listing-sierras-best-video-maker-apps/"><u>Premier Listing Sierra's Best Video Maker Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-mystery-stop-halo-infinite-from-crashing-on-your-pc-with-these-7-simple-solutions/"><u>Solve the Mystery: Stop Halo Infinite From Crashing on Your PC with These 7 Simple Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tecnicas-expertas-para-recortar-cuadro-en-video-con-movavi/"><u>Técnicas Expertas Para Recortar Cuadro en Video Con Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Freeze-Frame  Figure Skating Best of 2022\""
-date: 2025-01-13T13:12:32.211Z
-updated: 2025-01-14T03:09:08.189Z
+date: 2025-01-19T16:15:59.345Z
+updated: 2025-01-20T17:23:23.868Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -33,6 +29,10 @@ In Olympic competition, skaters need to perform two minutes and 40 seconds short
 Nathan Chen got the combined score of 332.60 in short program and free skate competitions to win the 2022 Olympic men's figure skating title.
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
@@ -51,22 +51,26 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -88,25 +92,21 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,21 +121,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-pathway-to-visual-storytelling-on-youtube/"><u>[New] 2024 Approved The Ultimate Pathway to Visual Storytelling on YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-assessing-sns-hdr-pros-worth-with-comparative-insight/"><u>[Updated] Assessing SNS HDR Pro's Worth with Comparative Insight</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-edit-youtube-videos-in-windows-movie-maker-for-2024/"><u>[Updated] How to Edit YouTube Videos in Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-fundamentals-of-crafting-high-quality-videos-for-instagram-audiences-for-2024/"><u>[Updated] The Fundamentals of Crafting High-Quality Videos for Instagram Audiences for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-collecting-classics-copyrights-released/"><u>2024 Approved Collecting Classics Copyrights Released</u></a></li>
-<li><a href="https://extra-information.techidaily.com/clearing-clutter-background-removal-for-2024/"><u>Clearing Clutter Background Removal for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/creating-popular-jujutsu-kaisen-tiktok-content/"><u>Creating Popular Jujutsu Kaisen TikTok Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-the-top-8-digital-photomixer/"><u>Cutting-Edge The Top 8 Digital Photomixer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-dark-photos-with-iphone-skills/"><u>Enhance Dark Photos with iPhone Skills</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-interior-luminosity-naturally/"><u>Enhancing Interior Luminosity Naturally</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-counterfeit-chatgpt-applications-within-apples-official-marketplace/"><u>Identifying Counterfeit 'ChatGPT' Applications Within Apple's Official Marketplace</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-tecno-spark-10c-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Tecno Spark 10C</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/rise-above-struggles-10-empowering-movies-for-life/"><u>Rise Above Struggles 10 Empowering Movies for Life</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-assessing-inshot-a-thorough-comparative-study/"><u>[New] Assessing InShot A Thorough Comparative Study</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audiextractoreview-free-audio-tools-new-horizon/"><u>[New] AudiExtractoReview Free Audio Tool's New Horizon</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-aural-artistry-the-magic-of-sound-fading/"><u>[New] Aural Artistry The Magic of Sound Fading</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-step-by-step-guide-to-bordering-instagram-footage/"><u>[New] In 2024, Step-by-Step Guide to Bordering Instagram Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-process-for-formulating-perfect-podcast-names/"><u>[New] Step-by-Step Process for Formulating Perfect Podcast Names</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-8-immersive-titles-with-oculus-support-for-2024/"><u>[New] Top 8 Immersive Titles with Oculus Support for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads/"><u>[Updated] 2024 Approved Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-colorseeker-pro-discovering-lightroom-alternatives/"><u>2024 Approved ColorSeeker Pro Discovering Lightroom Alternatives</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dungeon-design-revolution-harness-6-powerful-chatgpt-techniques/"><u>Dungeon Design Revolution: Harness 6 Powerful ChatGPT Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y78t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y78t</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-must-have-luts-to-transform-your-lightroom-images/"><u>In 2024, 10 Must-Have LUTs to Transform Your LightRoom Images</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-11f-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 11F 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-techniques-for-designing-attractive-vlog-narratives/"><u>Innovative Techniques for Designing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/spacecraft-data-salvage-hub/"><u>Spacecraft Data Salvage Hub</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spectacular-movie-sneak-insights/"><u>Spectacular Movie Sneak Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-creativity-essential-green-screen-techniques/"><u>Unlock Creativity Essential Green Screen Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/walking-into-tomorrow-the-premier-vr-treadmills-reviewed/"><u>Walking Into Tomorrow The Premier VR Treadmills Reviewed</u></a></li>
 </ul></div>
 

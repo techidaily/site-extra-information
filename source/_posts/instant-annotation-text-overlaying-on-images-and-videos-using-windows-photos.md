@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Annotation  Text Overlaying on Images & Videos Using Windows Photos\""
-date: 2025-01-05T16:19:49.188Z
-updated: 2025-01-07T22:06:39.107Z
+date: 2025-01-16T17:13:09.113Z
+updated: 2025-01-20T16:45:32.147Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Adding the titles/text to video is a great way to explain the people about a cer
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
@@ -52,7 +52,7 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
@@ -60,7 +60,7 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -74,25 +74,25 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -115,17 +115,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-beginners-guide-to-sony-vegas-and-youtube-cutting/"><u>[New] 2024 Approved A Beginner's Guide to Sony Vegas and YouTube Cutting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cut-trim-and-enhance-youtube-editing-tips-for-the-rookie-for-2024/"><u>[New] Cut, Trim & Enhance YouTube Editing Tips for the Rookie for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-analyzing-the-impact-of-reduced-photo-jiggles-in-adobe/"><u>[Updated] Analyzing the Impact of Reduced Photo Jiggles in Adobe</u></a></li>
-<li><a href="https://extra-information.techidaily.com/20plus-free-business-slideshow-templates-makers-and-ideas/"><u>20+ Free Business Slideshow Templates, Makers, and Ideas</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/a-comprehensive-guide-understanding-and-setting-up-hyper-v-replica-with-easy-steps/"><u>A Comprehensive Guide: Understanding & Setting Up Hyper-V Replica with Easy Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertir-videos-3gp-a-formatos-avanzados-online-sin-coste-soluciones-de-movavi/"><u>Convertir Videos 3GP a Formatos Avanzados Online Sin Coste: Soluciones De Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/data-handling-done-right-fastest-5-ways-to-move-files-onto-your-computer/"><u>Data Handling Done Right Fastest 5 Ways To Move Files Onto Your Computer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/frosty-flourishes-at-the-winter-games/"><u>Frosty Flourishes at the Winter Games</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-world-of-lut-filters-for-obs-mastery/"><u>Navigating the World of LUT Filters for OBS Mastery</u></a></li>
-<li><a href="https://win-superb.techidaily.com/sandisk-secureaccess-data-restoration-guide-how-to-retrieve-deleted-files/"><u>SanDisk SecureAccess Data Restoration Guide: How To Retrieve Deleted Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-subtle-advantages-of-overlooking-ray-tracing-technology/"><u>The Subtle Advantages of Overlooking Ray Tracing Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bridge-the-gap-in-airdrop-transfers-solutions-for-iphones-ipads-and-macs/"><u>[New] Bridge the Gap in Airdrop Transfers Solutions for iPhones, iPads & Macs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-momentum-accelerating-fb-videos/"><u>[Updated] In 2024, Mastering Momentum Accelerating FB Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-the-potential-of-paid-endorsements-with-these-tips/"><u>[Updated] Unlock the Potential of Paid Endorsements with These Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-astonishing-assessment-and-alternative-choices/"><u>2024 Approved Astonishing Assessment & Alternative Choices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/changing-photo-colors-with-ease/"><u>Changing Photo Colors with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquering-iphone-glitches-on-apple-devices-expert-tips-and-tricks-for-a-smooth-experience-the-verge/"><u>Conquering iPhone Glitches on Apple Devices: Expert Tips and Tricks for a Smooth Experience | The Verge</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-unlisted-videos-a-deep-dive-into-youtube-secrecy-for-2024/"><u>Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-play-8t-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Play 8T Phone Screen?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-easily-and-quickly-draw-on-photos-app-in-windows-11-for-2024/"><u>How to Easily and Quickly Draw on Photos App in Windows 11 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transfer-your-dvd-content-onto-a-windows-pc-or-mac-step-by-step-guide/"><u>How to Transfer Your DVD Content Onto a Windows PC or Mac: Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y100-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y100 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/infuse-illustration-with-life-techniques-for-motion-in-ai-images/"><u>Infuse Illustration with Life Techniques for Motion in AI Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hing-a-lucrative-channel-youtubes-most-accessible-biz-setups-for-2024/"><u>Launching a Lucrative Channel YouTube's Most Accessible Biz Setups for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-time-lapse-mastery-full-slomo-app-evaluation-2024/"><u>Pioneering Time-Lapse Mastery Full SloMo App Evaluation, 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-android-update-for-vr-video-watchers/"><u>The Essential Android Update for VR Video Watchers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-quick-guide-to-creating-stunning-social-media-mosaics/"><u>The Quick Guide to Creating Stunning Social Media Mosaics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-showdown-midnight-warrior-vs-sunlight-champion/"><u>The Ultimate Showdown Midnight Warrior vs Sunlight Champion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-signs-of-phony-buddy-bids-online/"><u>Unveiling the Signs of Phony Buddy Bids Online</u></a></li>
 </ul></div>
 

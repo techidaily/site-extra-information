@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Windows Photos Experience with Added Filters/Music"
-date: 2025-01-08T21:17:57.057Z
-updated: 2025-01-14T05:19:33.737Z
+date: 2025-01-15T17:14:42.979Z
+updated: 2025-01-20T18:04:49.061Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -45,10 +49,6 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -56,10 +56,14 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -74,16 +78,12 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
 
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,18 +112,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-guide-to-signing-up-for-twitter/"><u>[New] In 2024, The Essential Guide to Signing Up for Twitter</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-seamless-audiovisual-mixes-in-audacity/"><u>[Updated] Crafting Seamless Audiovisual Mixes in Audacity</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-capture-screen-grabs-on-windows-pcs/"><u>[Updated] In 2024, Quick Capture Screen Grabs on Windows PCs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-video-aspect-ratio-selection-for-2024/"><u>A Step-by-Step Guide to Video Aspect Ratio Selection for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridge-the-gap-between-skype-and-zoom-with-simple-steps/"><u>Bridge the Gap Between Skype & Zoom with Simple Steps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/debunking-myths-top-7-misconceptions-about-switching-from-windows-to-linux/"><u>Debunking Myths: Top 7 Misconceptions About Switching From Windows to Linux</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-a05-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy A05 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-4gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 4GFRP Lock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/t7-kit-review-highlights-improved-dslr-features/"><u>T7 Kit Review Highlights Improved DSLR Features</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211311050--transforming-the-legacy/"><u>Transforming the Legacy | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-task-scheduler-automate-batch-operations/"><u>Unlocking Task Scheduler: Automate Batch Operations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/virtual-veracity-versus-physical-prowess-in-live-links/"><u>Virtual Veracity Versus Physical Prowess in Live Links</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-from-device-to-digital-world-recording-your-apple-gadgets/"><u>[New] 2024 Approved Direct From Device to Digital World Recording Your Apple Gadgets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-look-into-magix-graphic-designer/"><u>[New] A Look Into MAGIX Graphic Designer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-5-core-strategies-for-amplifying-your-digital-footprint-newbies-style/"><u>[Updated] 5 Core Strategies for Amplifying Your Digital Footprint, Newbies Style</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-perfect-portraits-with-background-blur/"><u>[Updated] A Guide to Perfect Portraits with Background Blur</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>2024 Approved Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guida-rapida-alla-compressione-e-riduzione-del-file-grande-dei-video-per-la-pubblicazione-su-facebook/"><u>Guida Rapida Alla Compressione E Riduzione Del File Grande Dei Video per La Pubblicazione Su Facebook</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-does-yl-computing-ensure-safe-bitcoin-trades-understanding-cybersecurity-protocols/"><u>How Does YL Computing Ensure Safe Bitcoin Trades: Understanding Cybersecurity Protocols</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 11</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/kingston/"><u>Kingstonのクローンソフトに目を見張らせ！究極のパフォーマンスと信頼性を実現します。</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-tablets-potential-with-cost-effective-customization-tips-from-changethispixel-exclusive-insights-for-savvy-users/"><u>Maximize Your Tablet's Potential with Cost-Effective Customization Tips From ChangeThisPixel - Exclusive Insights for Savvy Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quickening-media-display-on-ppt/"><u>Quickening Media Display on PPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rated-recs-top-pages-for-obtaining-snapalert-tunes/"><u>Rated Recs Top Pages for Obtaining SnapAlert Tunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-for-capturing-the-perfect-verbal-note/"><u>Techniques for Capturing the Perfect Verbal Note</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-videos-to-tweets-best-converters-revealed/"><u>Transform Videos to Tweets Best Converters Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-metaverse-simplified-avatar-designs/"><u>Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-media-maker-tool-error-x90017-on-windows/"><u>Unraveling Media Maker Tool Error X.90017 On Windows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-discover-the-top-5-mp3-tag-management-software-for-optimal-audio-organization-for-2024/"><u>Updated Discover the Top 5 MP3 Tag Management Software for Optimal Audio Organization for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-11iso-3/"><u>Windows 11におけるISOファイル実行方法: 効果的な3つのテクニックとその使用例</u></a></li>
 </ul></div>
 

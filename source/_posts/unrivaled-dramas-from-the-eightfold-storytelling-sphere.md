@@ -1,7 +1,7 @@
 ---
 title: "Unrivaled Dramas From the Eightfold Storytelling Sphere"
-date: 2024-11-09T10:32:00.782Z
-updated: 2024-11-11T21:11:52.239Z
+date: 2025-01-15T17:00:11.197Z
+updated: 2025-01-20T16:28:40.869Z
 tags: 
   - screen-recording
   - ai video
@@ -49,13 +49,6 @@ As aspiring screenwriters, it is important for us to focus on markets where we c
 
 ![annabelle](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Writer:** Gary Dauberman
 
 Of course, horror scripts aren't all about gore and shocks. You have to know how to write even the quieter moments, like this great scene from the first Conjuring spin-off: Annabelle.
@@ -76,6 +69,10 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **Download the script here:** <https://www.studiobinder.com/blog/halloween-script-screenplay-pdf-download/>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best comedy scripts
 
 **_1\. 21 Jump Street_**
@@ -93,6 +90,10 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 **_2\. The Edge of Seventeen_**
 
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Writer:** Kelly Fremon Craig
 
@@ -197,10 +198,7 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best action scripts
@@ -208,6 +206,10 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 **_1\. 2 Guns_**
 
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
 
@@ -224,13 +226,6 @@ _**2\. Casino Royale**_
 Secret Agent James Bond sets out on a mission as 007 in a screenplay that can show writers how to keep audiences guessing.
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best thriller scripts
 
@@ -252,13 +247,6 @@ Download the script here: <https://www.takarabio.com/documents/User%20Manual/RR0
 
 ![unbreakable](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Writer:** M. Night Shyamalan
 
 Night Shyamalan (not necessarily a name you'd expect on a list of 'thriller screenplays you should read') has been praised as much for THE SIXTH SENSE as he is criticized for everything that isn't THE SIXTH SENSE, but UNBREAKABLE is a film that ironically, it breaks the mold.
@@ -267,25 +255,11 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **Download the script here:** <https://www.scripts.com/script/unbreakable%5F1086>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best animation scripts
 
 **_1\. Cinderella_(1950)**
 
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
 
@@ -319,11 +293,23 @@ The key features offered by [Wondershare Filmora](https://tools.techidaily.com/w
 
 ![make a video with wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The 4K editing support feature enables users to edit and export videos at a resolution of up to 4K. The GIF support feature allows importing, editing, and exporting of GIF files. The noise removal feature facilitates removal of unwanted background noise readily.
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -349,6 +335,10 @@ As aspiring screenwriters, it is important for us to focus on markets where we c
 
 ![annabelle](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Writer:** Gary Dauberman
 
 Of course, horror scripts aren't all about gore and shocks. You have to know how to write even the quieter moments, like this great scene from the first Conjuring spin-off: Annabelle.
@@ -400,6 +390,10 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
 
@@ -495,13 +489,6 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Writers:** Blake Masters (screenplay by) Steven Grant
 
 This screenplay explores the relationship between two criminals – Denzel Washington and Mark Wahlberg – as they clash with U.S. border patrol in this fast-paced adventure.
@@ -572,6 +559,10 @@ Like any child of the 90s, I admit to having a soft spot for The Lion King. The 
 
 Have you ever stored various videos and photos on a memory card or on the computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Make a Video with Wondershare Filmora Easy Movie Maker
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that enables users to create amazing videos efficiently using a wide range of powerful editing tools. It gives filters, animated elements, and other video effects. The filters and overlays allow transforming of video with a variety of filters and graphic overlays.
@@ -583,13 +574,6 @@ Have you ever stored various videos and photos on a memory card or on the comput
 The key features offered by [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) include 4K editing support, GIF support, noise removal, color tuning, advanced text editor, audio mixer, video stabilization,[scene detection](https://tools.techidaily.com/wondershare/filmora/download/), and an audio equalizer.
 
 ![make a video with wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The 4K editing support feature enables users to edit and export videos at a resolution of up to 4K. The GIF support feature allows importing, editing, and exporting of GIF files. The noise removal feature facilitates removal of unwanted background noise readily.
 
@@ -625,24 +609,24 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-selection-of-8-instagram-schedulers-for-phones/"><u>[New] 2024 Approved The Ultimate Selection of 8 Instagram Schedulers for Phones</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-launch-your-live-session/"><u>[Updated] Mastering Instagram Launch Your Live Session</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-mix-fold-3-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Mix Fold 3 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-beat-to-freedom-online-fb-music-downloads/"><u>2024 Approved Beat to Freedom Online FB Music Downloads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-calls-recorded-and-saved-iphone-24-sound-guide/"><u>2024 Approved Calls Recorded & Saved IPhone '24 Sound Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ace-academics-with-savings-how-to-earn-a-lenovo-student-bargain-online/"><u>Ace Academics with Savings: How to Earn a Lenovo Student Bargain Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/delving-into-hidden-discussions-among-viewers/"><u>Delving Into Hidden Discussions Among Viewers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevating-your-role-play-advanced-closer-views-techniques/"><u>Elevating Your Role-Play Advanced Closer Views Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-make-facebook-collage-instantly/"><u>How to Make Facebook Collage Instantly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-compare-and-save-with-top-6-affordable-camera-picks/"><u>In 2024, Compare and Save with Top 6 Affordable Camera Picks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comparing-cloud-prices-for-maximum-savings/"><u>In 2024, Comparing Cloud Prices for Maximum Savings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-your-ultimate-style-haul-video/"><u>In 2024, Crafting Your Ultimate Style Haul Video</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/maximizing-skype-quality-with-obs-studio-plugins/"><u>Maximizing Skype Quality with OBS Studio Plugins</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/navigate-video-trimming-with-ease-on-windows-11-photos-for-2024/"><u>Navigate Video Trimming with Ease on Windows 11 Photos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-vr-peripherals-and-gadgets-review/"><u>Top VR Peripherals and Gadgets Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-creativity-discover-free-tools-for-dynamic-voice-alteration/"><u>Unleash Creativity Discover Free Tools for Dynamic Voice Alteration</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/udio-upheavals-top-rhythmic-disruptors-for-devices-for-2024/"><u>[New] Audio Upheavals Top Rhythmic Disruptors for Devices for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/elf-portraits-for-social-media-success/"><u>[New] Self-Portraits for Social Media Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ace-memes-top-template-compendium-for-2024/"><u>[Updated] Ace Memes Top Template Compendium for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-your-photo-workflow-in-windows-11/"><u>[Updated] Boost Your Photo Workflow in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-comical-caricatures-using-giphys-kit/"><u>[Updated] Craft Comical Caricatures Using Giphy's Kit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-dual-screen-on-apple-devices-through-safari/"><u>[Updated] Leveraging Dual-Screen on Apple Devices Through Safari</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-docu-scripts-a-step-by-step-guide/"><u>Crafting Compelling Docu-Scripts A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-large-file-sharing-iphone-to-mac-streamlined-guide/"><u>Effortless Large File Sharing IPhone to Mac Streamlined Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ignite-passion-an-essential-guide-to-10-motivational-films/"><u>Ignite Passion An Essential Guide to 10 Motivational Films</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-approaches-to-run-a-winning-fb-giveaway/"><u>Innovative Approaches to Run a Winning FB Giveaway</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-cutting-edge-technology-the-tomn-hardware-experience/"><u>Inside Look at Cutting-Edge Technology - The Tom'n Hardware Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-mobile-dev-editor-software-guide/"><u>Premier Mobile Dev Editor Software Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/snapping-wonders-how-to-find-optimal-iphone-viewing-points/"><u>Snapping Wonders How to Find Optimal iPhone Viewing Points</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-triggering-a-hardware-reset-on-windows-for-boot-into-safe-mode/"><u>Step-by-Step Guide: Triggering a Hardware Reset on Windows for Boot Into Safe Mode</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-tutorial-retrieving-deleted-game-progress-on-the-nintendo-switch-console/"><u>Step-by-Step Tutorial: Retrieving Deleted Game Progress on the Nintendo Switch Console</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-tech-handbook-working-with-srt-files-on-a-mac/"><u>The Ultimate Tech Handbook Working with SRT Files on a Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-infinix-hot-30-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Infinix Hot 30 5G IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

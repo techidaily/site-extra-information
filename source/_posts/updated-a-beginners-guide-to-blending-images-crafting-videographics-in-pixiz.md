@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Beginner's Guide to Blending Images, Crafting Videographics in Pixiz"
-date: 2024-12-05T17:48:23.346Z
-updated: 2024-12-08T19:33:40.385Z
+date: 2025-01-19T18:07:15.609Z
+updated: 2025-01-20T18:15:00.489Z
 tags: 
   - screen-recording
   - ai video
@@ -52,21 +52,21 @@ Step1Open the [Pixiz Website](https://en.pixiz.com/). Then, click the search bar
 
 ![open pixiz website](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2Now select any slideshow template by clicking on it.
 
 ![click on slideshow template](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3Click on the select photo option and choose a photo.
 
 ![choose a photo](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4You can add more photos, in the same way, one by one (till the maximum number). Check below if the template you've chosen has the option to control the effect and speed (optional). Then, click on the **Go** button.
 
@@ -75,10 +75,6 @@ Step4You can add more photos, in the same way, one by one (till the maximum numb
 Step5Now click on download and then save. Your photo video will be saved in GIF format.
 
 ![click on download and save](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. The best software for creating slideshows - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -98,21 +94,21 @@ Step2Now **open** **Filmora** and **click** **new project**.
 
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
 ![option to make the photo fit](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5**Click** on the **Title** option in the top right and select the **title template**. **Drag and drop** the **title template** at the point of the video you want it to appear.
 
@@ -130,16 +126,12 @@ Step8You can **double-click** the music to open the **settings box** and make ch
 
 ![change music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step9To make your slideshow more appealing, you can also add transitions or effects.
 
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step10After finishing all the editing, you can export your creation to any format you want.
@@ -147,7 +139,7 @@ Step10After finishing all the editing, you can export your creation to any forma
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -169,7 +161,7 @@ Step2Now **open** **Filmora** and **click** **new project**.
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
@@ -184,9 +176,17 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 
 ![click on the title](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
 
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7Let's add some music. **Click** the **audio tab** at the top right. Now **choose** some **music** and then **drag and drop** to add.
 
@@ -201,7 +201,7 @@ Step9To make your slideshow more appealing, you can also add transitions or effe
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step10After finishing all the editing, you can export your creation to any format you want.
@@ -240,19 +240,20 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-dual-drive-approach-video-uploads-to-twitter-plus-tumblr/"><u>[New] 2024 Approved The Dual-Drive Approach Video Uploads to Twitter + Tumblr</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-brand-alliances-elevating-youtube-content/"><u>[New] Brand Alliances Elevating YouTube Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[New] In 2024, The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-auditory-adaptability-for-ace-gamers/"><u>2024 Approved Auditory Adaptability for Ace Gamers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/arctic-athleticism-winter-olympics-spotlight-on-snowboard-cross-stars-for-2024/"><u>Arctic Athleticism Winter Olympics Spotlight on Snowboard Cross Stars for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-searchgpt-the-innovative-ai-powered-search-tool-using-chatgpt-technology/"><u>Discover SearchGPT: The Innovative AI-Powered Search Tool Using ChatGPT Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-wi-fi-integration-a-comprehensive-guide-to-os-xwindows/"><u>Effortless Wi-Fi Integration: A Comprehensive Guide to OS X/Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-contrasts-between-signal-and-whatsapp-what-sets-them-apart/"><u>Exploring the Contrasts Between Signal and WhatsApp: What Sets Them Apart?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-canva-expertise-ditching-image-backdrops-with-ease/"><u>In 2024, Canva Expertise Ditching Image Backdrops with Ease</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-memes-with-ease-on-9gag-platform/"><u>In 2024, Crafting Memes with Ease on 9GAG Platform</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-highlight-your-pc-gaming-6-effective-screen-methods/"><u>In 2024, Highlight Your PC Gaming 6 Effective Screen Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-and-power-in-nikons-d7500/"><u>In 2024, Precision and Power in Nikon's D7500</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-simple-hdr-photography-methods/"><u>Mastering Simple HDR Photography Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparing-cloud-space-charges-methods-and-results/"><u>[New] Comparing Cloud Space Charges Methods and Results</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-preserving-past-a-guide-to-digitally-archiving-faded-prints/"><u>[New] Preserving Past A Guide to Digitally Archiving Faded Prints</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-shortcuts-to-success-how-to-skip-edgenuity-online-lessons-gracefully-for-2024/"><u>[New] Shortcuts to Success How to Skip Edgenuity Online Lessons Gracefully for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-moto-g-stylus-2023-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola Moto G Stylus (2023) Activity | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>2024 Approved How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/9-techniques-for-attractive-and-engaging-unboxings-on-instagram-for-2024/"><u>9 Techniques for Attractive and Engaging Unboxings on Instagram for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-the-m1s-role-in-creative-media-editing-for-2024/"><u>Assessing the M1's Role in Creative Media Editing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/data-mastery-with-chatgpt-a-six-step-guide-for-analysts/"><u>Data Mastery with ChatGPT: A Six-Step Guide for Analysts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immutable-tiktok-hyperlink-process-for-profiles/"><u>Immutable TikTok Hyperlink Process for Profiles</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6s-plus-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6s Plus to iPad? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mirthvid-quick-start-for-video-makers/"><u>MirthVid Quick Start for Video Makers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photography-toolkit-a-comprehensive-app-analysis/"><u>Photography Toolkit A Comprehensive App Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-tips-how-to-rejuvenate-your-samsung-audio-system/"><u>Resetting Tips: How to Rejuvenate Your Samsung Audio System</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-seamless-storyteller-leveraging-inshot-for-elegant-transitions/"><u>The Seamless Storyteller Leveraging Inshot for Elegant Transitions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-every-moment-top-tasks-to-master-while-immersing-in-your-favorite-podcasts/"><u>Transform Every Moment Top Tasks to Master While Immersing in Your Favorite Podcasts</u></a></li>
 </ul></div>
 

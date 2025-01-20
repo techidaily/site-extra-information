@@ -1,7 +1,7 @@
 ---
 title: "\"Hero5 Black Vs. Yi 4K  The Latest in Action Cam Showdown\""
-date: 2024-11-11T10:59:35.857Z
-updated: 2024-11-11T23:19:00.314Z
+date: 2025-01-16T17:43:03.033Z
+updated: 2025-01-20T17:11:26.475Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 [Best 4K action cameras for 2017 >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
@@ -67,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source:elproducente.com
 
 **Waterproof:** The biggest benefit of GoPro Hero5 is that it can serve you underwater but YI 4K cannot as you need additional protective case for this camera. But you cannot save your recordings from handling noise in case of GoPro unit. When you go underwater with YI 4K while using protective housing then it is not possible to use its touch screen feature and secondly the audio quality decays by large extent.
@@ -89,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -104,24 +116,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unforeseen-tiktok-reset-are-posts-retrievable-for-2024/"><u>[New] Unforeseen TikTok Reset – Are Posts Retrievable for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-11-insider-tips-for-outstanding-hue-alignment-for-2024/"><u>[Updated] 11 Insider Tips for Outstanding Hue Alignment for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-ringtones-roundup-essential-sites/"><u>[Updated] Best Ringtones Roundup Essential Sites</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-mac-recording-choices-top-5-apps-recommended/"><u>[Updated] Optimal Mac Recording Choices Top 5 Apps Recommended</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-quick-tips-to-produce-quality-thumbnails-fast/"><u>[Updated] Quick Tips to Produce Quality Thumbnails Fast</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-apple-music-enhancement-for-exquisite-videos/"><u>2024 Approved Apple Music Enhancement for Exquisite Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/clearing-up-disrupted-visual-playback-online/"><u>Clearing Up Disrupted Visual Playback Online</u></a></li>
-<li><a href="https://fox-http.techidaily.com/cutting-edge-viewing-top-20-video-cameras/"><u>Cutting-Edge Viewing Top 20 Video Cameras</u></a></li>
-<li><a href="https://fox-search.techidaily.com/exploring-word-meanings-and-definitions-in-the-comprehensive-dictionary-hub/"><u>Exploring Word Meanings & Definitions in the Comprehensive Dictionary Hub</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-convincing-viewers-discovering-effective-video-styles/"><u>In 2024, Convincing Viewers Discovering Effective Video Styles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-upside-down-and-sideways-iphone-images/"><u>Perfect Upside-Down & Sideways iPhone Images</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-isnt-my-bluetooth-connected-fixing-the-paired-but-not-connected-problem-on-windows-10/"><u>Why Isn’t My Bluetooth Connected? Fixing the ‘Paired but Not Connected’ Problem on Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-switching-from-snippet-to-live-play-in-yt/"><u>[New] 2024 Approved Switching From Snippet to Live Play in YT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-best-360-degree-action-cameras-you-should-use/"><u>[New] 5 Best 360-Degree Action Cameras You Should Use</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-download-dos-and-donts-for-vrecorder/"><u>[Updated] Download Dos & Don’ts for VRecorder</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-film-crafting-from-script-to-screen-for-2024/"><u>[Updated] Film Crafting From Script to Screen for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>2024 Approved Brief Sequences, Lasting Impressions Time-Lapse with Samsung</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-choosing-the-right-gimbal-for-flawless-youtube-footage/"><u>2024 Approved Choosing the Right Gimbal for Flawless YouTube Footage</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-beauty-bard-in-depth-gear-and-tutorial-roundups/"><u>2024 Approved The Beauty Bard In-Depth Gear & Tutorial Roundups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoidance-tactics-for-edg-vids-in-learning-for-2024/"><u>Avoidance Tactics for EDG Vids in Learning for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cant-see-cursor-only-sony-a6400-glitch/"><u>Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-step-beyond-excavating-the-best-vr-treadmill-experiences/"><u>In 2024, A Step Beyond Excavating the Best VR Treadmill Experiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximize-your-iphones-capture-potential/"><u>Maximize Your iPhone's Capture Potential</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-messages-on-iphone-a-step-by-step-guide/"><u>Resolving 'Not Delivered' Messages on iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-tales-of-triumph-repairing-your-pc-with-chatai/"><u>Tech Tales of Triumph - Repairing Your PC with ChatAI</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-how-to-recover-deleted-photos-from-digital-camera/"><u>Video - How to Recover Deleted Photos From Digital Camera</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

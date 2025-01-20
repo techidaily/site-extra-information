@@ -1,7 +1,7 @@
 ---
 title: "Principles of Plot Construction"
-date: 2024-11-07T09:46:30.558Z
-updated: 2024-11-11T18:19:09.369Z
+date: 2025-01-13T16:01:39.718Z
+updated: 2025-01-20T17:14:05.021Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ It can be used to ensure that everything in your story is consistent with what y
 
 ![a screenplay](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A screenplay is a script for a film, television show, or play. It tells a story by using dialogue and action to show how the scenes are connected.
 
 Are you considering writing a screenplay?
@@ -43,13 +47,6 @@ This article will provide answers to your questions as well as resources to help
 A screenplay is a story that describes what will be seen on film or television. They are written in a script format, which differs from novel writing.
 
 The structure of a screenplay can differ depending on the type of film being produced and the amount of dialogue versus action.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Basic standard screenplay formats
 
@@ -65,13 +62,6 @@ You must also include all the other elements so that no one is confused about wh
 
 Screenplays are a type of written or visual storytelling in which **dialogue, action, and description are all included**. They are typically used in the film industry to pitch a film or television show idea. They can be either fiction or nonfiction, depending on whether they use fictional stories or real-life facts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Templates for screenplay
 
 In simple words, a screenplay format template is a ready-made structure into which characters, movements, and story elements can be inserted to create a usable screenplay. It is essentially a layout with specific characteristics that suit a particular genre of screenwriting.
@@ -81,6 +71,10 @@ A psychological thriller script, for example, will have a different structure an
 A thriller script template will structure character movement, staging, and dialogue delivery to look and move like an ideal thriller while preventing it from looking and moving like an action element.
 
 ![templates for screenplay](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We currently have screenplay format templates for nearly every theatrical and film genre, including drama, comedy, action, thriller, autobiography, and others. Each of these templates has a unique structure, but the best ones share some characteristics.
 
@@ -94,13 +88,6 @@ Regardless of the screenplay genre, each screenplay template has some characteri
 * Creative space
 
 Let's look at each of the characteristics individually.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Comprehensive Layout
 
@@ -118,6 +105,10 @@ That said, a great screenplay format template:
 
 Aside from some niche genres like anthology and neo-bizarro, every ideal screenplay format template has some combination of these qualities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Contemporary Features
 
 Scenarios have had a similar structure since the beginning of the last century.
@@ -125,6 +116,10 @@ Scenarios have had a similar structure since the beginning of the last century.
 The same title page, with the same standard Courier font, text indentation, scene title/slug line and subtitle prefixes (INT-EXT), action line layout, etc. All this has remained unchanged over the years.
 
 ![contemporary features](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 However, with the advent of app-based screenwriting software, we have plenty of contemporary features such as automatic page numbers, time of day, parentheses, and pop-ups with specific character names.
 
@@ -158,25 +153,11 @@ For example, an ideal screenwriting template should allow one character out of s
 
 ![creative space](https://images.wondershare.com/filmora/article-images/2022/08/what-is-screenplay-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This prevents all characters from looking and sounding like they were cast from a similar mold and have no unique development of their own.
 
 In addition, the best templates should allow screenwriters to adjust their plot development to write for feature films as well as series.
 
 Common fictional tropes have already been adopted by thousands of screenwriters around the world. The job of a perfect template is to give you enough creative space to create a unique story from a traditional genre.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Make your own screenplay by using Filmora
 
@@ -185,6 +166,10 @@ After you have chosen what template is more appropriate for your needs, you will
 (产品推荐)
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is video editing software that allows users to create amazing videos quickly and easily by utilizing a variety of powerful editing tools. It has a delightfully simple design that allows anyone to become a great video editor. Filters, animated elements, and other video effects or unique features are also available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -222,22 +207,15 @@ The article has provided the most information about screenplays and how to write
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-copyright-free-online-collections-for-games/"><u>[New] Copyright-Free Online Collections for Games</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-audio-techniques-capturing-clear-sound/"><u>[New] Essential Audio Techniques Capturing Clear Sound</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-expertly-select-the-fastest-5-chrome-plugins-for-fb-video-downloads-for-2024/"><u>[New] Expertly Select The Fastest 5 Chrome Plugins for FB Video Downloads for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avoid-being-overwhelmed-by-tiktok-drafts-edits-for-orderliness/"><u>[Updated] Avoid Being Overwhelmed by TikTok Drafts Edits for Orderliness</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capture-the-world-from-your-mobile-height/"><u>2024 Approved Capture the World From Your Mobile Height</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-dive-into-a-friends-life-without-fuss-on-tiktok/"><u>2024 Approved How To Dive Into a Friend's Life Without Fuss on TikTok</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-iphone-voice-memo-recording-guide/"><u>2024 Approved IPhone Voice Memo Recording Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/aesthetic-fusion-studio-ultimate-photo-alchemy-for-2024/"><u>Aesthetic Fusion Studio Ultimate Photo Alchemy for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/cf-and/"><u>CF卡易上手的克隆方法 & 视频教程指导 - 简单操作技巧</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decoding-windows-10-imports-a-deep-dive-into-file-transfer/"><u>Decoding Windows 10 Imports A Deep Dive Into File Transfer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/echoes-of-the-northmen-essential-sites-to-grab-got-audio-calls/"><u>Echoes of the Northmen Essential Sites to Grab GoT Audio Calls</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-perfect-placement-for-instagrams-audio-emojis-a-quick-guide/"><u>In 2024, Perfect Placement for Instagram’s Audio Emojis – A Quick Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-s18-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo S18 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-zodiac-inspired-whatsapp-bios-enhancing-personal-connections/"><u>Top Zodiac-Inspired WhatsApp Bios Enhancing Personal Connections</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-drone-racers-and-top-5-fpv-drones/"><u>Ultimate Guide to Drone Racers & Top 5 FPV Drones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-beats-and-boundaries-breaking-barriers-in-music-videos/"><u>[New] Beats & Boundaries Breaking Barriers in Music Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>[New] In 2024, Enhancing Engagement Creating Top-Tier FB Ad Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-alter-twitter-video-headline-image/"><u>[Updated] 2024 Approved Alter Twitter Video Headline Image</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-how-to-create-meme-with-kinemaster/"><u>[Updated] How to Create Meme with KineMaster</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-free-screen-cast-options-on-windows-ranked-1-to-5/"><u>2024 Approved Best Free Screen Cast Options on Windows, Ranked #1 to #5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-microphones-synergy-with-4k-cameras/"><u>Cutting-Edge Microphones Synergy with 4K Cameras</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dive-into-the-depths-with-gopro-hero7-black-review/"><u>Dive Into the Depths with GoPro HERO7 Black Review!</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-luts-unlocking-color-grading-in-ar-and-vfx/"><u>Mastering LUTs Unlocking Color Grading in AR & VFX</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pros-and-cons-of-using-chatgpt-for-creative-writing/"><u>The Pros and Cons of Using ChatGPT for Creative Writing</u></a></li>
 </ul></div>
 
