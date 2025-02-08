@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2025-01-22T16:26:41.900Z
-updated: 2025-01-26T18:01:57.685Z
+date: 2025-02-02T04:20:34.665Z
+updated: 2025-02-08T07:49:51.335Z
 tags:
   - desktop
 categories:
@@ -46,25 +46,21 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-introduction-to-plot-and-character-dynamics/"><u>[New] 2024 Approved Introduction to Plot and Character Dynamics</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mac-acoustic-arena-deep-dive-for-2024/"><u>[New] Mac Acoustic Arena Deep Dive for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-drone-deciphers-unlocking-gopro-karma-potential/"><u>[Updated] 2024 Approved Drone Deciphers Unlocking GoPro Karma Potential</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz-for-2024/"><u>[Updated] Elevate Your Storytelling Skills Transforming Images Into Engaging Videos with Pixiz for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-laugh-loop-meme-treasures-for-diverse-events-for-2024/"><u>[Updated] Laugh Loop Meme Treasures for Diverse Events for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-breathe-life-into-tweets-animating-insta-story-texts/"><u>2024 Approved Breathe Life Into Tweets Animating Insta Story Texts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-complete-visual-field-review-with-cam/"><u>2024 Approved Complete Visual Field Review with Cam</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-enhancing-your-drones-visual-capabilities-with-the-right-camera-gimbals/"><u>2024 Approved Enhancing Your Drones' Visual Capabilities with The Right Camera Gimbals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/acquiring-fcp-for-zip-legal-strategies-explained-for-2024/"><u>Acquiring FCP for Zip Legal Strategies Explained for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-beats-8-free-mp3-downloaders-transforming-android-into-a-spiritual-haven-for-2024/"><u>Beyond Beats 8 Free MP3 Downloaders Transforming Android Into a Spiritual Haven for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/goofy-unleashed-the-movie-an-examination/"><u>Goofy Unleashed The Movie – An Examination</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-to-resolve-undetected-secondary-hdd-issues-on-windows-11-a-comprehensive-guide/"><u>How to Resolve Undetected Secondary HDD Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-approaches-for-mosaic-photography/"><u>Innovative Approaches for Mosaic Photography</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-iphone-photo-cutout-feature-in-ios-16-a-comprehensive-guide/"><u>Mastering the iPhone Photo Cutout Feature in iOS 16: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfecting-npc-details-with-zoom-in-on-roblox/"><u>Perfecting NPC Details with Zoom In on Roblox</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-guide-leading-video-editing-tools-androidpc-for-2024/"><u>[Updated] Essential Guide Leading Video Editing Tools (Android/PC) for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-step-by-step-guide-uploading-imovie-videos-to-vimeo-platform/"><u>[Updated] Step-by-Step Guide Uploading iMovie Videos to Vimeo Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audiophiles-ultimate-narrative-guides/"><u>2024 Approved Audiophile's Ultimate Narrative Guides</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-best-4k-gimbals-for-mirrorless-cameras/"><u>Discover Best 4K Gimbals for Mirrorless Cameras</u></a></li>
+<li><a href="https://extra-information.techidaily.com/file-logistics-unlocked-five-streamlined-techniques-for-computer-upload/"><u>File Logistics Unlocked Five Streamlined Techniques for Computer Upload</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-free-vob-players-for-pc-and-mac/"><u>In 2024, Best Free VOB Players for PC and Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-windows-music-managers/"><u>In 2024, Best Windows Music Managers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-essential-blueprint-for-effortless-avatar-creation-in-vr/"><u>In 2024, The Essential Blueprint for Effortless Avatar Creation in VR</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pricepoint-nimbus-economical-mass-storage-haven/"><u>PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/protect-your-privacy-top-webcam-shields-ranked-for-2024/"><u>Protect Your Privacy - Top Webcam Shields Ranked for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-90-lite-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor 90 Lite Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-syncing-multiple-bluetooth-speakers-for-unified-sound-output/"><u>The Ultimate Guide to Syncing Multiple Bluetooth Speakers for Unified Sound Output</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

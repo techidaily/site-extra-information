@@ -1,7 +1,7 @@
 ---
 title: "[New] Boosting VFX Efficiency with FREE LUT Downloads"
-date: 2025-01-25T17:29:59.148Z
-updated: 2025-01-26T17:39:56.059Z
+date: 2025-02-06T09:33:45.704Z
+updated: 2025-02-08T06:06:11.951Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 
 Color LUTs (Lookup Textures) are tables of RGB color values. In Spark AR, you can use color LUTs to quickly create color gradation effects throughout the scene. Go through the article and create your color LUT effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What are Luts in Spark AR used for?
 
 To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-studio/), you need a color LUT in Spark AR.
@@ -27,10 +31,6 @@ To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-st
 To develop AR effects for mobile cameras, you can use the Mac and Windows augmented reality platform Spark AR Studio. Imagine it like Sketch or Photoshop for augmented reality. The color values of the camera texture are mapped to the x, y, and z coordinates of the location in the color LUT. This location contains a corresponding output color that is drawn over the scene to create a color gradient effect.
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
 
@@ -68,6 +68,10 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
@@ -75,7 +79,7 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Fur
@@ -92,7 +96,7 @@ Here are the key building principles.
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Shockwave
@@ -102,11 +106,7 @@ Even while using large image sequences is frequently discouraged, you can still 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Transition Curves
@@ -115,6 +115,10 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
@@ -122,11 +126,7 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Rainbow Glitter
@@ -169,21 +169,18 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-entrepreneurs-guide-to-snapchat-e-commerce/"><u>[New] 2024 Approved The Entrepreneur's Guide to Snapchat E-Commerce</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-customizable-instagram-ringtones-made-easy-for-2024/"><u>[New] Customizable Instagram Ringtones Made Easy for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-recording-reviewers-circle-downloads-for-critique/"><u>[New] In 2024, Recording Reviewers Circle Downloads for Critique</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-initial-recording-analysis-a-critique/"><u>[New] Initial Recording Analysis A Critique</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-nextv-networks-worldwide-streaming-with-your-locals/"><u>[Updated] In 2024, NexTV Networks Worldwide Streaming With Your Locals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-pro-tips-to-perfectly-piece-your-images-for-2024/"><u>10 Pro Tips to Perfectly Piece Your Images for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-25-ways-to-spice-up-your-personal-screenshot/"><u>2024 Approved 25 Ways to Spice Up Your Personal Screenshot</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-journey-through-the-landscape-of-human-computer-interaction/"><u>2024 Approved A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capture-clean-uninterrupted-media-snapshots/"><u>2024 Approved Capture Clean, Uninterrupted Media Snapshots</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-reaching-into-shared-snippets-of-life-on-messenger/"><u>2024 Approved Reaching Into Shared Snippets of Life on Messenger</u></a></li>
-<li><a href="https://extra-information.techidaily.com/action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-android-photography-essentials/"><u>Advanced Android Photography Essentials</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-clarity-optimal-tripods-for-iphone-and-android/"><u>Capture Clarity Optimal Tripods for iPhone & Android</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-trim-and-edit-mov-files-for-free-top-picks/"><u>Cut, Trim, and Edit MOV Files for Free Top Picks</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-civi-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Civi 3 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transition-mastery-in-cinematic-productions-with-kinemaster/"><u>Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-enjoy-your-favorite-songs-anytime-convert-youtube-to-mp3-now/"><u>[New] In 2024, Enjoy Your Favorite Songs Anytime Convert YouTube to MP3 Now</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-how-to-manage-and-disable-recommended-podcast-episodes-in-spotify/"><u>[New] In 2024, How to Manage and Disable Recommended Podcast Episodes in Spotify</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-command-your-cloud-data-leading-providers-to-watch/"><u>[Updated] Command Your Cloud Data Leading Providers to Watch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unearthly-utility-top-five-terrafirma-maps/"><u>2024 Approved Unearthly Utility Top Five Terrafirma Maps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/curated-list-14-captivating-text-animation-showcases/"><u>Curated List 14 Captivating Text Animation Showcases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-efficiency-employ-8-custom-gpt-models-now/"><u>Elevate Efficiency: Employ 8 Custom GPT Models Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-speeds-a-safe-guide-for-rapid-music-streaming/"><u>Enhancing Speeds A Safe Guide for Rapid Music Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cinemas-creative-edge-the-years-top-camera-trends-and-techniques-24/"><u>In 2024, Cinema's Creative Edge The Year's Top Camera Trends and Techniques - '24</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsung-galaxy-s8-4k-smartphone-review/"><u>In 2024, Samsung Galaxy S8 4K Smartphone Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instagrams-secrets-for-creating-must-watch-unboxings/"><u>Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/saving-your-data-from-a-crashing-hdd-effective-techniques-and-remedies-explored/"><u>Saving Your Data From a Crashing HDD: Effective Techniques and Remedies Explored</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-editors-playbook-top-tools-to-boost-your-ig-content-for-2024/"><u>The Editor's Playbook Top Tools to Boost Your IG Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-hdr-techniques-in-modern-photoshoots/"><u>Understanding HDR Techniques in Modern Photoshoots</u></a></li>
 </ul></div>
 

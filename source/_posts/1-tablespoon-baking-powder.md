@@ -1,7 +1,7 @@
 ---
 title: 1 Tablespoon Baking Powder
-date: 2025-01-20T18:27:53.560Z
-updated: 2025-01-26T18:35:44.761Z
+date: 2025-02-06T09:59:41.437Z
+updated: 2025-02-08T08:35:37.730Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/222addd0c18b6ed2db852f3723fa6e74ecbfffe4b
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -46,7 +42,7 @@ Check your region and language settings on your computer:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
@@ -54,24 +50,16 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
 
@@ -83,6 +71,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -92,7 +84,7 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -114,6 +106,10 @@ Check your region and language settings on your computer:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
@@ -139,6 +135,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Try Cortana again to see if it works.
 
 * [Cortana](https://tools.techidaily.com/drivereasy/download/)
@@ -159,22 +159,22 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-innovative-screen-capture-review-and-excellent-alternatives-without-payment/"><u>[New] In 2024, Innovative Screen Capture – Review & Excellent Alternatives Without Payment</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-av1-compression-a-beginners-overview/"><u>[Updated] In 2024, AV1 Compression A Beginner's Overview</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-youtube-rippers-for-media-conversion/"><u>[Updated] Top 10 YouTube Rippers for Media Conversion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-webcam-tripods-flex-neck-and-stands/"><u>2024 Approved Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-tips-for-constructing-podcast-rss-feeds/"><u>Comprehensive Tips for Constructing Podcast RSS Feeds</u></a></li>
-<li><a href="https://win-popular.techidaily.com/effective-troubleshooting-for-incorrectly-sized-cloned-drives-step-by-step-guide-to-permanent-fix/"><u>Effective Troubleshooting for Incorrectly Sized Cloned Drives: Step-by-Step Guide to Permanent Fix</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-video-quality-on-youtube/"><u>Enhancing Video Quality on YouTube</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-tpm-and-secure-boot-before-upgrading-to-windows-11/"><u>How to Enable TPM and Secure Boot Before Upgrading to Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-become-a-pic-pro-the-top-10-iphonesandroid-apps-with-stickers/"><u>In 2024, Become a Pic Pro The Top 10 iPhones/Android Apps with Stickers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/proven-marketing-spells-20-must-use-terms/"><u>Proven Marketing Spells 20 Must-Use Terms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-digital-muse-mastering-the-art-of-ai-assisted-poetry-compilation-using-chatgpt/"><u>The Digital Muse: Mastering the Art of AI-Assisted Poetry Compilation Using ChatGPT</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-the-magic-of-videos-on-windows-mobile/"><u>Unleash the Magic of Videos on Windows Mobile</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-best-live-stream-tools-for-gamers/"><u>Unveiling Best Live-Stream Tools for Gamers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-vs-lumafusion-a-comprehensive-guide-to-choosing-the-best-video-editor-for-2024/"><u>Updated Final Cut Pro vs LumaFusion A Comprehensive Guide to Choosing the Best Video Editor for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/xsplit-database-comprehensive-review-archives/"><u>XSplit Database Comprehensive Review Archives</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-initiate-insight-an-entryway-guide-to-online-product-critique-channels/"><u>[Updated] 2024 Approved Initiate Insight An Entryway Guide to Online Product Critique Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-beginners-approach-to-adding-dates-to-photographs/"><u>[Updated] A Beginner's Approach to Adding Dates to Photographs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-huawei-p10-review-unpacking-its-impressive-specs-and-features/"><u>[Updated] Huawei P10 Review Unpacking Its Impressive Specs and Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-learn-how-to-utilize-telegrams-web-functionality-professionally/"><u>[Updated] Learn How To Utilize Telegram's Web Functionality Professionally</u></a></li>
+<li><a href="https://extra-information.techidaily.com/64gb-ideal-for-light-video-content-for-2024/"><u>64Gb Ideal for Light Video Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-ios-filmmaking-software-for-2024/"><u>Best iOS Filmmaking Software for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/color-reversal-making-blacks-from-whites/"><u>Color Reversal Making Blacks From Whites</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-horizons-await-pcs-1-choice-of-vr-360-video-streaming/"><u>Digital Horizons Await PC's #1 Choice of VR 360 Video Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-reopen-battlenet-on-windows-desktop/"><u>Essential Steps to Reopen Battle.net on Windows Desktop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/framing-the-future-expert-tips-for-picture-perfection/"><u>Framing the Future Expert Tips for Picture Perfection</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-100-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor 100 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016143821-hyperx-cloud-alpha-mic-not-working-heres-how-to-restore-functionality/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-top-notch-video-editing-and-virtual-webcam-tools/"><u>Live Streaming Mastery with ManyCam: Top-Notch Video Editing and Virtual Webcam Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-platforms-3d-models-in-animation/"><u>Prime Platforms 3D Models in Animation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/selective-blur-for-enhanced-privacy-measures/"><u>Selective Blur for Enhanced Privacy Measures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-voip-problems-making-among-us-microphone-function-correctly-on-your-computer/"><u>Solving VoIP Problems: Making Among Us Microphone Function Correctly on Your Computer</u></a></li>
 </ul></div>
 

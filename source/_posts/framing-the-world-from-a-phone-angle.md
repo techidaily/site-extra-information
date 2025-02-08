@@ -1,7 +1,7 @@
 ---
 title: "Framing the World From a Phone Angle"
-date: 2025-01-23T18:51:16.079Z
-updated: 2025-01-26T17:10:50.177Z
+date: 2025-02-06T07:14:12.963Z
+updated: 2025-02-08T00:24:17.037Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,17 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For iPhone users
 
@@ -53,17 +57,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For Android users
 
@@ -74,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
@@ -81,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -112,22 +112,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unearthing-the-top-10-sleeper-social-media-stars/"><u>[New] In 2024, Unearthing the Top 10 Sleeper Social Media Stars</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-social-media-strategy-decoding-igtv-versus-youtubes-features/"><u>[New] Social Media Strategy Decoding IGTV Versus YouTube's Features</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-15-4k-video-capture-gadgets/"><u>2024 Approved Elite 15 4K Video Capture Gadgets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-beginners-pathway-to-exceptional-gopro-adventures/"><u>A Beginner's Pathway to Exceptional GoPro Adventures</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-closer-look-at-the-vegaspro-19-makeover-for-2024/"><u>A Closer Look at the VegasPro '19 Makeover for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/choreographing-spellbinding-short-films-for-2024/"><u>Choreographing Spellbinding Short Films for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-a-call-concert-customize-your-ios-sound-scape-for-2024/"><u>Crafting a Call Concert Customize Your iOS Sound Scape for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/determining-peak-frames-per-second-for-superior-slow-moto-cinematography/"><u>Determining Peak Frames Per Second for Superior Slow Moto Cinematography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fusing-iphones-media-for-cohesive-outputs/"><u>Fusing iPhones' Media for Cohesive Outputs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-detecting-and-fixing-headphone-recognition-errors-on-windows-11/"><u>Guide to Detecting and Fixing Headphone Recognition Errors on Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-share-twitch-stream-on-facebook/"><u>How to Share Twitch Stream on Facebook?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-audience-allure-spinning-solo-podcasts-that-go-viral/"><u>In 2024, Audience Allure Spinning Solo Podcasts That Go Viral</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-g24-power-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola G24 Power Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-through-ingenious-text-animation-ideas/"><u>In 2024, Journey Through Ingenious Text Animation Ideas</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-real-time-voice-to-action-no-price-tag/"><u>In 2024, Real-Time Voice to Action, No Price Tag</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-showdown-s10plus-versus-s2/"><u>Samsung Galaxy Showdown: S10+ Versus S2</u></a></li>
-<li><a href="https://extra-information.techidaily.com/windows-10-audible-tactics-top-5-list/"><u>Windows 10 Audible Tactics - Top 5 List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-divide-and-conquer-easy-chapter-addition-for-vimeo-videos/"><u>[New] In 2024, Divide and Conquer Easy Chapter Addition for Vimeo Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/decoding-snapchats-technique-for-clockwise-video-reversal-for-2024/"><u>Decoding Snapchat's Technique for Clockwise Video Reversal for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-official-fix-free-wireless-adapter-model-1535-driver/"><u>Download the Official Fix: Free Wireless Adapter Model 1535 Driver</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fun-filled-photography-how-to-use-lens-on-snapchat-for-playfulness/"><u>Fun-Filled Photography How To Use Lens on Snapchat for Playfulness</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-leveraging-instagram-hashtags-to-amplify-social-media-impact/"><u>In 2024, Leveraging Instagram Hashtags to Amplify Social Media Impact</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-snowballio-a-step-by-step-guide-for-successful-gameplay-on-your-computer/"><u>Mastering Snowball.io: A Step-by-Step Guide for Successful Gameplay on Your Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sprint-secrets-olympic-edition-22/"><u>Sprint Secrets - Olympic Edition '22</u></a></li>
+<li><a href="https://extra-information.techidaily.com/standout-instagram-unboxings-a-comprehensive-checklist/"><u>Standout Instagram Unboxings A Comprehensive Checklist</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-rebuilding-your-windows-installation-tips-from-yl-computing/"><u>Step-by-Step Guide: Rebuilding Your Windows Installation - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-6-metaverse-case-studies-for-in-depth-understanding/"><u>Top 6 Metaverse Case Studies for In-Depth Understanding</u></a></li>
 </ul></div>
 
