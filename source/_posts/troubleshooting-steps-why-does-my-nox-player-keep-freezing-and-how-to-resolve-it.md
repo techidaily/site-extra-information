@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Does My Nox Player Keep Freezing and How to Resolve It?"
-date: 2025-01-22T18:56:56.091Z
-updated: 2025-01-26T18:05:49.700Z
+date: 2025-02-11T17:56:01.075Z
+updated: 2025-02-18T04:49:27.060Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -45,11 +49,11 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
- Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 ### Fix 2: Run Discord as administrator
 
@@ -59,16 +63,12 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
@@ -82,6 +82,10 @@ See if this issue reappears. If not, you have fixed this issue.
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
 
@@ -103,11 +107,11 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
- Run your game again to see if this issue persists. If not, you have resolved this problem!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
 
@@ -119,16 +123,12 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
@@ -164,7 +164,7 @@ See if this issue reappears. If not, you have fixed this issue!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
@@ -193,24 +193,20 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>[New] Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-manycam-recorder-review-for-2024/"><u>[New] ManyCam Recorder Review for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-speedy-solutions-snapshots-of-slideshows/"><u>[Updated] 2024 Approved Speedy Solutions Snapshots of Slideshows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-detailed-guide-youtubes-most-engaging-storytellers-in-23/"><u>[Updated] A Detailed Guide YouTube's Most Engaging Storytellers in '23</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-vr-treadmills-review/"><u>[Updated] In 2024, Top VR Treadmills Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/exclusive-discounts-save-big-with-official-winx-hd-video-converter-mac-version-6e1-offer-codes/"><u>Exclusive Discounts: Save Big with Official WinX HD Video Converter Mac Version 6.e.1 Offer Codes!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-flawlessly-merge-streamlabs-and-obs-on-mac/"><u>How to Flawlessly Merge Streamlabs & OBS on Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-amplify-your-voice-on-twitter-top-video-uploading-solutions/"><u>In 2024, Amplify Your Voice on Twitter Top Video Uploading Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-budget-friendly-4k-imaging-sources/"><u>In 2024, Budget-Friendly 4K Imaging Sources</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-tips-for-smooth-screen-sharing-on-skype-while-working-from-home/"><u>In 2024, Essential Tips for Smooth Screen Sharing on Skype While Working From Home</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s18e-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S18e to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-the-art-of-steadiness-in-imaging/"><u>Master the Art of Steadiness in Imaging</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-your-photos-the-prime-selection-of-no-cost-editors/"><u>Master Your Photos The Prime Selection of No-Cost Editors</u></a></li>
-<li><a href="https://article-files.techidaily.com/photo-care-essentials-scanning-and-securing-vintage-prints/"><u>Photo Care Essentials Scanning & Securing Vintage Prints</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/pro-video-recording-software-for-mp4/"><u>Pro Video Recording Software for MP4</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sharpening-vision-in-depth-hdr-techniques-in-photoshop/"><u>Sharpening Vision In-Depth HDR Techniques in PhotoShop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-undertaking-decoding-digital-picture-resolutions/"><u>Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-dynamic-dialogue-driven-decks/"><u>[New] 2024 Approved Dynamic Dialogue Driven Decks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlocking-online-potential-mastering-the-art-of-thumbnail-sizing/"><u>[Updated] 2024 Approved Unlocking Online Potential Mastering the Art of Thumbnail Sizing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chucklecanvas-funny-images-for-social-media-sharing/"><u>[Updated] ChuckleCanvas Funny Images for Social Media Sharing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-review-of-the-latest-slomo-capture-application/"><u>[Updated] Complete Review of the Latest SloMo Capture Application</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-guaranteeing-your-stream-uninterrupted-by-ads-on-fb/"><u>2024 Approved Guaranteeing Your Stream Uninterrupted by Ads on FB</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-tutorial-embedding-srt-into-mp4-content-for-2024/"><u>Advanced Tutorial Embedding SRT Into MP4 Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chroma-mastering-toolkit/"><u>Chroma Mastering Toolkit</u></a></li>
+<li><a href="https://win-best.techidaily.com/expand-your-digital-space-boosting-computer-storage-with-external-drives-tips-from-yl-computing/"><u>Expand Your Digital Space: Boosting Computer Storage with External Drives - Tips From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-samsung-galaxy-a25-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30i-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30i Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/juxtaposing-flight-with-flair-a-bebop-parrot-analysis/"><u>Juxtaposing Flight with Flair – A Bebop Parrot Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nightshades-as-a-barrier-securing-original-art-against-ai-imitation-and-copying/"><u>Nightshades as a Barrier: Securing Original Art Against AI Imitation and Copying</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-practices-for-streaming-live-cricket-events/"><u>Prime Practices for Streaming Live Cricket Events</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-straight-ahead-top-10-simple-language-selections/"><u>Speak Straight Ahead: Top 10 Simple Language Selections</u></a></li>
 </ul></div>
 

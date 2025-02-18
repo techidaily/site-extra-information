@@ -1,7 +1,7 @@
 ---
 title: "How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo"
-date: 2025-02-04T04:14:52.848Z
-updated: 2025-02-08T04:13:29.800Z
+date: 2025-02-15T03:36:50.160Z
+updated: 2025-02-18T06:25:27.823Z
 tags: 
   - screen-recording
   - ai video
@@ -36,9 +36,17 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
@@ -55,10 +63,6 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -89,6 +93,10 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -96,10 +104,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -118,7 +122,7 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -139,10 +143,6 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -160,7 +160,7 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -197,14 +197,20 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>[New] Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/aximizing-profits-on-youtube-the-latest-policy-for-2024/"><u>[New] Maximizing Profits on YouTube The Latest Policy for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-choreographed-ice-winter-olympics-highlights/"><u>[Updated] Choreographed Ice Winter Olympics Highlights</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>2024 Approved Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-metaverse-memetic-guide-sparkle-with-satire-and-smiles/"><u>2024 Approved The Metaverse Memetic Guide - Sparkle with Satire and Smiles</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-secret-tips-for-using-canva-photo-editor/"><u>In 2024, 10 Secret Tips for Using Canva Photo Editor</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/masterful-manipulation-speedy-stylization-techniques-for-win10-apps/"><u>Masterful Manipulation Speedy Stylization Techniques for WIN10 Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revamp-your-workflow-with-top-watermarkers/"><u>Revamp Your Workflow with Top Watermarkers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-dissecting-the-technology-behind-frapss-screenshot-pro/"><u>[Updated] Dissecting the Technology Behind Fraps's Screenshot Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-giggle-graph-meme-trends-by-occasion-type/"><u>[Updated] Giggle Graph Meme Trends by Occasion Type</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-guide-to-pinpointing-a-list-video-creators/"><u>2024 Approved A Guide to Pinpointing A-List Video Creators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-ultra-2-why-it-became-my-ideal-tech-companion-and-how-you-can-save-100-on-labor-day/"><u>Apple Watch Ultra 2: Why It Became My Ideal Tech Companion and How You Can Save $100 on Labor Day</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-video-editing-apps-for-mac-from-novice-to-expert-for-2024/"><u>Best Video Editing Apps for Mac From Novice to Expert for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/complete-fixes-for-windows-11-update-failure-overcoming-the-0xc1900204-hurdle/"><u>Complete Fixes for Windows 11 Update Failure - Overcoming the 0xC1900204 Hurdle</u></a></li>
+<li><a href="https://extra-information.techidaily.com/drone-enhancement-kit-10-indispnible-components/"><u>Drone Enhancement Kit - 10 Indispnible Components</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmonizing-audioscapevisumedia-network/"><u>Harmonizing Audioscape/Visumedia Network</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-secrets-of-effortless-editing-for-windows-11-videos/"><u>In 2024, Unlock the Secrets of Effortless Editing for Windows 11 Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-review-of-dji-mavic-pro-eyewear-tech/"><u>In-Depth Review of DJI Mavic Pro Eyewear Tech</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovate-with-imagery-installing-the-windows-11-movie-maker-app/"><u>Innovate with Imagery Installing the Windows 11 Movie Maker App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722871644252-macos-15-sequoia-discover-when-its-releasing-and-check-out-its-amazing-new-capabilities/"><u>MacOS 15 (Sequoia): Discover When It's Releasing & Check Out Its Amazing New Capabilities!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/stuck-with-immovable-mac-files-learn-how-to-remove-them-effortlessly/"><u>Stuck with Immovable Mac Files? Learn How to Remove Them Effortlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-key-to-crisp-clear-cinematography/"><u>The Key to Crisp, Clear Cinematography</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
 </ul></div>
 

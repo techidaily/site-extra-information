@@ -1,7 +1,7 @@
 ---
 title: "Gas Station Tycoon Simulator - PC Issues: How to Fix Continuous Crashes"
-date: 2025-01-19T18:54:57.650Z
-updated: 2025-01-26T17:23:31.686Z
+date: 2025-02-15T16:57:28.910Z
+updated: 2025-02-17T16:40:20.814Z
 tags:
   - win11
   - win10
@@ -66,16 +66,12 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Relaunch your game to see if this has resolved your issue.
 
 If no, try the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for mod errors
@@ -103,7 +99,7 @@ Follow the instructions below to see how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-52-48.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Right-click the**Steam folder** and select**Delete** .
@@ -136,6 +132,10 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_15-38-36.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -144,10 +144,6 @@ If your game is still unplayable, move on to the next fix.
 **4)** After updating your graphics driver, try launching your game again to test your issue.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Run the game as an administrator**
 
@@ -162,28 +158,24 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-29.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Right-click **Euro Truck Simulator 2** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-46-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click the **Compatibility tab** , then check **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-40-30.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Click **Apply** , then **OK** .
 
@@ -192,10 +184,6 @@ If your game is still unplayable, move on to the next fix.
 **7)** Relaunch your game.
 
  If the_ETS2_ crashing issue continues to occur, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for software conflicts
 
@@ -217,7 +205,7 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-21.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
@@ -225,6 +213,10 @@ If your game is still unplayable, move on to the next fix.
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try relaunching_ETS2_ to see if this has resolved your issue. If your game crashes again, check the next fix, below.
 
@@ -234,15 +226,27 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-55-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch_ETS2_ to see if this has resolved your issue. If your game still crashes, try the next fix, below.
 
@@ -255,10 +259,6 @@ If your game is still unplayable, move on to the next fix.
 **2)** Right-click**Euro Truck Simulator 2** , then click**Manage > Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-33-26.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**Uninstall** .
 
@@ -291,17 +291,22 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-cloud-storage-for-your-clippings-free-tiers-and-paid-plans-explored/"><u>[Updated] Cloud Storage for Your Clippings Free Tiers & Paid Plans Explored</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-restoring-rightful-representation-amidst-misguided-chatter/"><u>[Updated] In 2024, Restoring Rightful Representation Amidst Misguided Chatter</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-pinnacle-top-5-camcorders-for-flexible-filming/"><u>[Updated] Pinnacle Top 5 Camcorders for Flexible Filming</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-talent-to-treasure-the-proactive-pursuit-of-video-profitability/"><u>2024 Approved Tailoring Talent to Treasure The Proactive Pursuit of Video Profitability</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-images-learn-photo-curvature-in-ps/"><u>Elevate Your Images Learn Photo Curvature in PS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-digital-world-laptops-mobile-phones-and-literary-treasures-await/"><u>Exploring the Digital World: Laptops, Mobile Phones & Literary Treasures Await</u></a></li>
-<li><a href="https://extra-information.techidaily.com/flawless-footage-finishing-integrating-filters-in-viewing-devices/"><u>Flawless Footage Finishing Integrating Filters in Viewing Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-boosting-engagement-tailoring-backgrounds-on-google-meet-devices/"><u>In 2024, Boosting Engagement Tailoring Backgrounds on Google Meet Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-8-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 8 Plus i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/launch-your-live-stream-a-comprehensive-beginners-manual/"><u>Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-full-picture-a-comprehensive-review-of-android-lightroom/"><u>The Full Picture A Comprehensive Review of Android Lightroom</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval-for-2024/"><u>Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/omparing-tiktok-and-youtube-shorts-for-personal-content-creation-for-2024/"><u>[New] Comparing TikTok & YouTube Shorts for Personal Content Creation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-ai-name-magic-selecting-the-best-tools-for-your-podcast-titles/"><u>[Updated] AI Name Magic Selecting the Best Tools for Your Podcast Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-capturing-details-with-intimate-filming-techniques/"><u>[Updated] Capturing Details with Intimate Filming Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-most-advanced-drone-technology-aligned-with-gopros/"><u>[Updated] Most Advanced Drone Technology Aligned with GoPros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-the-best-vr-games-for-google-cardboard/"><u>[Updated] The Best VR Games for Google Cardboard</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-clearsky-top-notch-photo-background-cleaner/"><u>2024 Approved ClearSky Top-Notch Photo Background Cleaner</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-essence-of-great-edu-videos-a-compreenasion-guide-to-youtube-excellence/"><u>2024 Approved The Essence of Great Edu-Videos A Compreenasion Guide to YouTube Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/abletons-techniques-for-diminishing-sound-intensity/"><u>Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/captivation-chronicles-top-storytellers-on-youtube-for-23/"><u>Captivation Chronicles Top Storytellers on YouTube for '23</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50 Phone?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-no-cost-no-trouble-video-introduction-kits/"><u>In 2024, No-Cost, No-Trouble Video Introduction Kits</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/interweaving-art-and-science-in-colors/"><u>Interweaving Art and Science in Colors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/profound-overview-a-full-look-at-bublcam-360-technology-for-2024/"><u>Profound Overview A Full Look at Bublcam 360 Technology for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better/"><u>Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-role-of-arvr-in-medical-training/"><u>The Role of AR/VR in Medical Training</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-srt-file-craftsmanship-manual/"><u>The Ultimate SRT File Craftsmanship Manual</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-picks-for-the-ultimate-offline-game-experience-on-android-for-2024/"><u>Top Picks for the Ultimate Offline Game Experience on Android for 2024</u></a></li>
 </ul></div>
 

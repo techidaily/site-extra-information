@@ -1,7 +1,7 @@
 ---
 title: "Two Historic Desktop Computers Unearthed by House Cleaners: An Early Intel 8008-Based Machine with 16 KB RAM and 800 kHz Processor"
-date: 2025-02-02T04:20:34.665Z
-updated: 2025-02-08T07:49:51.335Z
+date: 2025-02-12T04:05:25.954Z
+updated: 2025-02-17T19:15:39.531Z
 tags:
   - desktop
 categories:
@@ -46,21 +46,26 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-essential-guide-leading-video-editing-tools-androidpc-for-2024/"><u>[Updated] Essential Guide Leading Video Editing Tools (Android/PC) for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-step-by-step-guide-uploading-imovie-videos-to-vimeo-platform/"><u>[Updated] Step-by-Step Guide Uploading iMovie Videos to Vimeo Platform</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audiophiles-ultimate-narrative-guides/"><u>2024 Approved Audiophile's Ultimate Narrative Guides</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-best-4k-gimbals-for-mirrorless-cameras/"><u>Discover Best 4K Gimbals for Mirrorless Cameras</u></a></li>
-<li><a href="https://extra-information.techidaily.com/file-logistics-unlocked-five-streamlined-techniques-for-computer-upload/"><u>File Logistics Unlocked Five Streamlined Techniques for Computer Upload</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-free-vob-players-for-pc-and-mac/"><u>In 2024, Best Free VOB Players for PC and Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-windows-music-managers/"><u>In 2024, Best Windows Music Managers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-essential-blueprint-for-effortless-avatar-creation-in-vr/"><u>In 2024, The Essential Blueprint for Effortless Avatar Creation in VR</u></a></li>
-<li><a href="https://fox-access.techidaily.com/pricepoint-nimbus-economical-mass-storage-haven/"><u>PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/protect-your-privacy-top-webcam-shields-ranked-for-2024/"><u>Protect Your Privacy - Top Webcam Shields Ranked for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-90-lite-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor 90 Lite Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-syncing-multiple-bluetooth-speakers-for-unified-sound-output/"><u>The Ultimate Guide to Syncing Multiple Bluetooth Speakers for Unified Sound Output</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-a-guide-to-pinpointing-posted-videos-in-fb-groups/"><u>[New] 2024 Approved A Guide to Pinpointing Posted Videos in FB Groups</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-effective-streaming-strategies-facebook-crossposting/"><u>[New] 2024 Approved Effective Streaming Strategies Facebook Crossposting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-zero-price-windows-desktop-snapping-tutorials/"><u>[Updated] In 2024, Zero Price Windows Desktop Snapping Tutorials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-steps-to-perfectly-plated-food-vids/"><u>2024 Approved 10 Steps to Perfectly Plated Food Vids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieve-social-stardom-essential-tips-for-thriving-instagram-unboxings/"><u>2024 Approved Achieve Social Stardom Essential Tips for Thriving Instagram Unboxings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-professional-visual-narratives-with-lut-usage-in-premiere/"><u>2024 Approved Crafting Professional Visual Narratives with LUT Usage in Premiere</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blissful-onboarding-guide-for-new-users-for-2024/"><u>Blissful Onboarding Guide for New Users for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-a-cinematic-short-blending-images-and-melodies-for-2024/"><u>Crafting a Cinematic Short Blending Images and Melodies for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crossplatform-audiomagic-2023/"><u>CrossPlatform AudioMagic 2023</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-can-you-repair-an-internal-hardware-malfunction-in-your-scanner-insights-from-yl-computing/"><u>How Can You Repair an Internal Hardware Malfunction in Your Scanner? Insights From YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-i-forgot-my-ipad-passcodepassword/"><u>How to Fix: I Forgot My iPad Passcode/Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-rapid-ways-to-access-obliviated-reddit-content/"><u>In 2024, 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a23-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A23 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-expert-picks-top-mkv-trimmers-for-mac-this-year/"><u>New 2024 Approved Expert Picks Top MKV Trimmers for Mac This Year</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-realms-the-finest-vr-accessories-unveiled/"><u>Virtual Realms The Finest VR Accessories Unveiled</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

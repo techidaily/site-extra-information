@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Windows Photos Experience with Added Filters/Music"
-date: 2025-02-06T04:27:37.394Z
-updated: 2025-02-07T19:56:31.276Z
+date: 2025-02-14T00:10:59.850Z
+updated: 2025-02-17T17:22:26.510Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to add filters on Windows 10 Photos App
@@ -49,21 +49,17 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-**Step 5**: Just select one you like. Preview it and then click Done.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Just select one you like. Preview it and then click Done.
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -77,6 +73,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
@@ -84,7 +84,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,14 +112,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-versamix-suite-mac-and-pc/"><u>[New] VersaMix Suite - Mac & PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>2024 Approved 5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-peek-into-the-viral-world-of-stock-photo-memes/"><u>In 2024, A Peek Into the Viral World of Stock Photo Memes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-visuals-theory-to-practice-with-colors/"><u>In 2024, Crafting Visuals Theory to Practice with Colors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-harmonizing-lifestyle-through-the-most-inspiring-yoga-vlogs/"><u>In 2024, Harmonizing Lifestyle Through the Most Inspiring Yoga Vlogs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/podcast-versus-visual-media-which-suits-your-content-best-for-2024/"><u>Podcast versus Visual Media Which Suits Your Content Best for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/professional-level-editing-at-zero-price-8-exceptional-software-picks-for-2024/"><u>Professional-Level Editing at Zero Price 8 Exceptional Software Picks for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlining-video-logging-on-periscope-platforms/"><u>Streamlining Video Logging on Periscope Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-tips-for-iphone-shadow-photography/"><u>[New] 2024 Approved Essential Tips for iPhone Shadow Photography</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screenshot-supreme-in-depth-recorder-reviews/"><u>[New] Screenshot Supreme In-Depth Recorder Reviews</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-androids-lightroom-app-decoded-a-complete-analysis/"><u>[Updated] Android's Lightroom App Decoded A Complete Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-essential-film-edits-and-their-techniques/"><u>10 Essential Film Edits and Their Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6s-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6s</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-studio-examination-xstudio-unveiled/"><u>In 2024, In-Depth Studio Examination XStudio Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-editing-with-vita-an-in-depth-review-and-tutorial/"><u>In 2024, Mastering Video Editing with Vita An In-Depth Review & Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/synthesizing-best-canon-sequential-videos/"><u>Synthesizing Best Canon Sequential Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/venturing-virtuality-a-review-of-lgs-360-headset/"><u>Venturing Virtuality A Review of LG's 360 Headset</u></a></li>
+<li><a href="https://article-posts.techidaily.com/win-top-rated-rapid-image-zoomer-for-2024/"><u>Win Top-Rated Rapid Image Zoomer for 2024</u></a></li>
 </ul></div>
 

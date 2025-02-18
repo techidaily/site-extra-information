@@ -1,7 +1,7 @@
 ---
 title: "\"Accelerating or Decelerating  Mastering Snapchat's Timeline Controls for 2024\""
-date: 2024-07-27T04:16:04.861Z
-updated: 2024-07-28T04:16:04.861Z
+date: 2025-02-12T00:14:26.184Z
+updated: 2025-02-18T06:12:32.164Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ This post will discuss how it works and the steps to use the feature. Read to kn
 
 ![icons for speed up slow motion and reverse mode](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Speed Up Videos on Snapchat?
 
 In Snapchat, **the process of how do you speed up a video on Snapchat** depends on the filters available. The Speed Modifier filter options have high-quality speed-changing functions, including the Speed Up option. This filter improves the recorded video speed when you apply it, and even the audio pitch changes accordingly.
@@ -44,13 +48,14 @@ Step4 See the preview of the video you clicked at a higher speed. If satisfied, 
 
 ![click on the save or next icon](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Other Features for Speed Adjustment on Snapchat
 
 Snapchat users can use the speed-up videos feature available. But that is not where it ends with Snapchat regarding speed-based changes. The following are some notable functions available on Snapchat related to speed adjustment.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Reverse video
 
 You can use the Reverse video speed option, represented with 3 left-pointing arrows. In the Speed Modifier filters, you can click the rewind icon, which comes with a curved arrow in the bottom direction. The speed of the video here is regular, but the content plays in Reverse.
@@ -63,25 +68,20 @@ Step1 Launch your Snapchat app on your phone.
 
 Step2 Hold your finger down on the Record button to record your video. Then, release it if you are done and the video will develop. You can add other editing elements like text, stickers, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hold your finger down on the record button](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-3.jpg)
 
 Step3 On the screen, swipe left. Multiple visual filter options will appear. Keep swiping on them until you see the fifth filter (granted, you have 4 visual filters). The motion filters will appear next.
 
 Step4 Swipe until you reach the icon with three reverse arrows. You typically have to swipe 7 times in total to reach this option. The video will play in Reverse in the preview.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![icon with three reverse arrows](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-4.jpg)
 
 Step5 Click the Next button to share or save offline.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Snail
 
 This is the option for the slow-motion effect where the speed of the video is lower. The audio effect sounds low-pitched. The icon for this slo-mo function in the matter of **how to change speed of the Snapchat video** is shaped like a snail.
@@ -96,10 +96,6 @@ Step3 Swipe on the screen to the right. Keep swiping until you reach the slide w
 
 Step4 Keep swiping until you reach the Snail icon. This is the slow-mo filter on Snapchat. You will see the video is playing in slow-motion.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![reach the snail icon](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-5.jpg)
 
 Step5 Then, tap on Next to share or the Download icon to save the video into your Snaps library.
@@ -107,6 +103,10 @@ Step5 Then, tap on Next to share or the Download icon to save the video into you
 ## Part 3: Bonus Tip. Use Wondershare Filmora for Advanced Video Editing and Speed Changing Functions
 
 In terms of **how to speed up a video on Snapchat**, the Speed Modifier or Motion Filters are useful. However, they do not allow users to make many changes. If you want a more professional-looking speed adjustment tool that also offers more editing functions, Wondershare's Filmora software is a better alternative.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is Wondershare Filmora?
 
@@ -138,9 +138,6 @@ Alternatively, right-click on the top of the video clip and choose the Speed ico
 
 Or, you can click on the Speed icon from the top toolbar and select Speed Ramping.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select speed ramping](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-6.jpg)
 
 Step4 On the panel for Speed Ramping, click on the Customize icon if you want to set your personalized keyframe-based speed ramp. Or, choose the preset options like Hero Moment, Montage, Bullet time, Flash In, Jumper, and Flash Out.
@@ -151,11 +148,19 @@ Step5 Next, on the editor timeline, place your playhead at the point where you w
 
 ![place the playhead](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can further drag the keyframe dot downward or upward to decide the point speed or adjust the keyframe speed. Also, adjust the audio pitch as per the changes.
 
 Step6 Click OK if you are done or Reset to change the speed ramping setup again. Do further editing on the Filmora platform as needed, and press Export to download or share the video project later.
 
 Watch this video for a more detailed understanding of **how to speed up a snap video** and edit it using Filmora
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -175,23 +180,14 @@ Alternatively, right-click on the top of the video clip and choose the Speed ico
 
 Or, you can click on the Speed icon from the top toolbar and select Speed Ramping.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select speed ramping](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-6.jpg)
 
 Step4 On the panel for Speed Ramping, click on the Customize icon if you want to set your personalized keyframe-based speed ramp. Or, choose the preset options like Hero Moment, Montage, Bullet time, Flash In, Jumper, and Flash Out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![click on the customize icon](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-7.jpg)
 
 Step5 Next, on the editor timeline, place your playhead at the point where you want the speed-up action to start. Tap on the Add icon to include the speed keyframes. Then, the software will automatically mark the Speed Ramping function on your chosen function.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![place the playhead](https://images.wondershare.com/filmora/article-images/2023/01/beginners-guide-to-changing-speed-up-in-videos-on-snapchat-8.jpg)
 
 You can further drag the keyframe dot downward or upward to decide the point speed or adjust the keyframe speed. Also, adjust the audio pitch as per the changes.
@@ -230,7 +226,20 @@ Image/Steps URL for Filmora- <https://filmora.wondershare.com/guide/speed-rampin
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigating-apples-screen-recording-tools/"><u>[New] In 2024, Navigating Apple's Screen Recording Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-your-craft-a-guide-to-samsungs-photography-tools/"><u>[New] Mastering Your Craft A Guide to Samsung's Photography Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-encyclopedia-of-motion-sensing-types-and-applications-for-2024/"><u>[New] The Encyclopedia of Motion Sensing Types & Applications for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-quest-for-the-best-framerate-balancing-speed-and-clarity/"><u>[Updated] In 2024, The Quest for the Best Framerate - Balancing Speed & Clarity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-metaphorical-representation-of-the-internet-as-an-infinite-knowledge-storehouse/"><u>Assessing the Metaphorical Representation of the Internet as an Infinite Knowledge Storehouse</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clearing-imagery-the-canva-method-for-clean-bounds-for-2024/"><u>Clearing Imagery The Canva Method for Clean Bounds for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-linking-method-for-youtube-video-content-for-2024/"><u>Facebook Linking Method for YouTube Video Content for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-spark-20-proplus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Spark 20 Pro+ via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-into-design-your-strategy-for-career-success/"><u>In 2024, Breaking Into Design Your Strategy for Career Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-google-photos-like-a-pro/"><u>Navigating Google Photos Like a Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simple-strategies-to-craft-amazing-instagram-collages/"><u>Simple Strategies to Craft Amazing Instagram Collages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/smart-zooms-on-snapchat-enhance-photo-and-video-quality/"><u>Smart Zooms on Snapchat Enhance Photo & Video Quality</u></a></li>
+</ul></div>
 
