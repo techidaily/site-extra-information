@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Adding Accurate Dates to Photographic Records"
-date: 2025-02-13T16:21:53.653Z
-updated: 2025-02-18T02:32:08.308Z
+date: 2025-03-02T18:42:39.804Z
+updated: 2025-03-06T19:50:12.494Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,6 @@ Step2Install the app after downloading.
 Step3Add data/timestamps to both new and old pictures.
 
 You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085)here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Edit Photos and Add Date Stamps on The Phone
 
@@ -158,10 +154,6 @@ VSCO is another editing app you can use for your photo editing. VSCO has an easy
 
 The app is available for [Android](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US) and [iPhone](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Edit Photos and Add Date Stamps On The Computer
 
 Mac and windows have free image editing programs that allow you to copy an image from its source, paste it into the editor, crop it, resize it, and then save it. First, let's look at how to **edit a photo on a Mac.**
@@ -184,10 +176,6 @@ You can make your photos sharper by simply navigating to the bottom of the Modif
 
 ![sharpen your images](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3Adjust lighting and exposure
 
 When retouching your image in the Photos app, select the Adjust tab, then drag the thumb along the Lights slider to make the necessary adjustments.
@@ -207,10 +195,6 @@ Step2Then select Show Markup Tool.
 Step3Click on the text button.
 
 ![click on the text button](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4Proceed to add date and time into the text area manually.
 
@@ -251,10 +235,6 @@ Step4To create a text box, click and drag.
 Step5Enter the date you want.
 
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step6Select Menu in the upper-left corner.
 
@@ -425,10 +405,6 @@ VSCO is another editing app you can use for your photo editing. VSCO has an easy
 
 ![vsco](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key Features**
 
 * Color Correction
@@ -492,10 +468,6 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 
 Step6Finally, select File>Save to add your date to the picture.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use an inbuilt app to edit photos on Windows
 
 Step1Enter "Photos " in the taskbar's search field. Click on it. Decide the image you want to edit.
@@ -522,10 +494,6 @@ Step4To create a text box, click and drag.
 
 ![create a text box](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5Enter the date you want.
 
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
@@ -538,10 +506,6 @@ Step7Proceed to click on the Save option.
 
 ![click on save option](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. Edit Photos Online to add date stamps
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
@@ -551,10 +515,6 @@ Step7Proceed to click on the Save option.
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
 
 ![canva](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -619,20 +579,24 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>[New] In 2024, Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-simplify-audio-extraction-find-the-most-affordable-solutions/"><u>[Updated] Simplify Audio Extraction Find the Most Affordable Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/excellent-choice-7-premium-mac-videos/"><u>Excellent Choice 7 Premium Mac Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-module-not-found-errors-in-development/"><u>Expert Tips for Overcoming 'Module Not Found' Errors in Development</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-gears-up-and-running-solving-modern-warfare-3-mw3-game-crashes-and-startup-problems/"><u>Getting Gears up & Running: Solving Modern Warfare 3 (MW3) Game Crashes & Startup Problems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-androids-5-prime-photo-tools-ultimate-editing-companion/"><u>In 2024, Android's 5 Prime Photo Tools Ultimate Editing Companion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crack-open-your-marketing-potential-with-these-nine-tactics/"><u>In 2024, Crack Open Your Marketing Potential with These Nine Tactics</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-iphones-multi-tasked-capture-feature-for-2024/"><u>Master iPhone's Multi-Tasked Capture Feature for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-pcandroid-mkv-player/"><u>Premium PC/Android MKV Player</u></a></li>
-<li><a href="https://extra-information.techidaily.com/superior-class-of-8-best-4k-high-definition-players/"><u>Superior Class of 8 Best 4K High Definition Players</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-top-30-for-timeless-telephone-chimes/"><u>The Top 30 for Timeless Telephone Chimes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-to-correct-d3dx928dll-not-found-mistakes/"><u>Troubleshooting Techniques to Correct 'd3dx9_28.dll Not Found' Mistakes</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-gateway-to-pc-gaming-google-play-betas-best-titles/"><u>Your Gateway to PC Gaming - Google Play Beta's Best Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-clipcomposer-critique-thorough-examination/"><u>[New] 2024 Approved ClipComposer Critique – Thorough Examination</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-clearing-up-black-screens-in-youtube-playback-for-2024/"><u>[New] Clearing Up Black Screens in YouTube Playback for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-inquiry-into-youtubes-monetary-frequency/"><u>[New] In 2024, Inquiry Into YouTube's Monetary Frequency</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-urban-ecosystem-fostering-resilience-through-green-policies/"><u>[Updated] The Urban Ecosystem Fostering Resilience Through Green Policies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-techniques-for-gradual-volume-change/"><u>2024 Approved Advanced Techniques for Gradual Volume Change</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Yuva 3 FRP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-timestamps-in-video-sharing-for-2024/"><u>A Step-by-Step Guide to Timestamps in Video Sharing for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nokia-c300-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nokia C300</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/google-suggested-mondly-the-pathway-to-global-communication/"><u>Google-Suggested Mondly: The Pathway to Global Communication</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-discounts-await-snag-a-450-off-deal-on-the-new-samsung-galaxy-book2-laptop-this-cyber-monday-zdnet/"><u>Huge Discounts Await: Snag a $450 Off Deal on the New Samsung Galaxy Book2 Laptop This Cyber Monday | ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/illustrate-instantly-image-to-illustration-on-any-device/"><u>Illustrate Instantly Image to Illustration on Any Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-made-easy-10-best-mac-drawing-programs-complimentary/"><u>Mastery Made Easy 10 Best Mac Drawing Programs (Complimentary)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-windows-11-a-deep-dive-into-zoom-usage/"><u>Navigating Windows 11 A Deep Dive Into Zoom Usage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pathway-for-pixels-transferring-data-to-computers/"><u>Pathway for Pixels Transferring Data to Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-your-mp3-files-into-high-quality-dts-format/"><u>Step-by-Step Guide: Converting Your MP3 Files Into High-Quality DTS Format</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-insiders-guide-to-excellence-in-zoom-webinars/"><u>The Insider’s Guide to Excellence in Zoom Webinars</u></a></li>
+<li><a href="https://extra-information.techidaily.com/time-stamping-your-photographs-efficiently/"><u>Time Stamping Your Photographs Efficiently</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-6-video-downloaders-preserve-your-linkedin-media-masterfully/"><u>Top 6 Video Downloaders Preserve Your LinkedIn Media Masterfully</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vivid-vistas-in-video-a-closer-look-at-lgs-monitor-31mu97-b/"><u>Vivid Vistas in Video A Closer Look at LG's Monitor, 31MU97-B</u></a></li>
 </ul></div>
 

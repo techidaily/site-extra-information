@@ -1,7 +1,7 @@
 ---
 title: "The Art of Altering Photographic Contrast"
-date: 2025-02-17T00:33:14.372Z
-updated: 2025-02-17T22:27:04.505Z
+date: 2025-03-02T16:09:30.224Z
+updated: 2025-03-06T20:27:10.972Z
 tags: 
   - screen-recording
   - ai video
@@ -54,17 +54,9 @@ Besides creating image negatives, the Preview app lets you convert image files a
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
 
@@ -86,10 +78,6 @@ The platform’s homepage contains a number of categories of tools such as **Col
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
 
 #### 5. Using [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)’s Invert Option
@@ -99,10 +87,6 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 **Compatibility:** macOS, Windows
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
@@ -138,10 +122,6 @@ Inverting colors in a photo is not a complicated process, but finding creative w
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -157,24 +137,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-exploring-legal-restrictions-for-broadcasting-content-online-for-2024/"><u>[New] Exploring Legal Restrictions for Broadcasting Content Online for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-first-timers-and-children-choose-these-drone-models/"><u>[New] In 2024, First-Timers & Children Choose These Drone Models</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-hdr-image-processing-steps-in-adobe-lightroom/"><u>[Updated] Advanced HDR Image Processing Steps in Adobe Lightroom</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-closer-inspection-pro-tips-for-pixelated-play/"><u>[Updated] Closer Inspection Pro Tips for Pixelated Play</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-must-collect-blog-for-business-8-trending-videos-on-facebook/"><u>[Updated] In 2024, Must-Collect Blog for Business! 8 Trending Videos on Facebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>2024 Approved From Zero to Hero Crafting an Authoritative Online Self</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adobes-guide-to-memetic-artistry/"><u>Adobe's Guide to Memetic Artistry</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-visual-narratives-effective-titling-for-2024/"><u>Crafting Visual Narratives Effective Titling for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-image-vault-sites/"><u>Cutting-Edge Image Vault Sites</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-how-to-troubleshoot-non-functional-laptop-speakers/"><u>Fixing Common Issues: How to Troubleshoot Non-Functional Laptop Speakers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/focused-insights-the-best-camera-gimbals-for-iphones-androids-and-dslrs-1-10/"><u>Focused Insights The Best Camera Gimbals for iPhones, Androids, and DSLRs #1-#10</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-configure-youtube-pip-on-iphone-quickly/"><u>In 2024, Configure YouTube PIP on iPhone Quickly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>In 2024, Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-timing-duration-for-a-20mb-high-definition-video/"><u>In 2024, Timing Duration for a 20Mb High-Definition Video</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-night-time-captures-with-iphone/"><u>Navigating Night-Time Captures with iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/repairing-a-broken-wi-fi-link-with-your-surface-pro-a-comprehve-guide/"><u>Repairing a Broken Wi-Fi Link with Your Surface Pro - A Comprehve Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-imagination-to-reality-top-10-graphic-designers-on-android/"><u>Transform Imagination to Reality Top 10 Graphic Designers on Android</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-pinnacle-studio-25-review-2023/"><u>[New] Pinnacle Studio 25 Review 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-amp-up-your-sessions-with-essential-tips-from-zooms-changer-suite/"><u>[Updated] Amp Up Your Sessions with Essential Tips From Zoom's Changer Suite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-vr-equipment-enhancing-flight-control/"><u>[Updated] Best VR Equipment Enhancing Flight Control</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-stealthy-strategies-for-eliminating-hashtags-for-2024/"><u>[Updated] Stealthy Strategies for Eliminating Hashtags for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-apex-fb-platforms-topping-the-10-list/"><u>2024 Approved Apex FB Platforms Topping the 10 List</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-80-pro-straight-screen-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 80 Pro Straight Screen Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guia-paso-a-paso-habilitar-el-modo-de-inicio-seguro-en-portatiles-lenovo/"><u>Guía Paso a Paso: Habilitar El Modo De Inicio Seguro en Portátiles Lenovo</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-13-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 13 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-colorful-conga-crow/"><u>In 2024, Colorful Conga Crow</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone SE?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-15-pro-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 15 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/smilesphere-endless-possibrancies-in-meme-land/"><u>SmileSphere Endless Possibrancies in Meme Land</u></a></li>
 </ul></div>
 

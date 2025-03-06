@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Annotation  Text Overlaying on Images & Videos Using Windows Photos\""
-date: 2025-02-10T20:13:52.882Z
-updated: 2025-02-17T19:08:16.994Z
+date: 2025-02-28T19:27:12.865Z
+updated: 2025-03-06T17:07:28.791Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -50,10 +46,6 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
@@ -70,10 +62,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -84,15 +72,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -115,21 +95,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ace-bgm-selection-perfect-backdrops-for-video-calling/"><u>[Updated] 2024 Approved Ace BGM Selection Perfect Backdrops for Video Calling</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-beginners-guide-to-producing-and-polishing-haul-videos/"><u>[Updated] A Beginner's Guide to Producing & Polishing Haul Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfect-package-presentation-transformative-openings/"><u>[Updated] Perfect Package Presentation Transformative Openings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>[Updated] Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-complete-tutorial-for-professional-gopro-vlogs-for-2024/"><u>A Complete Tutorial for Professional GoPro Vlogs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-walkthrough-to-unveil-ms-paint-windows-11/"><u>A Quick Walkthrough to Unveil MS Paint, Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breaking-into-the-periscope-livestream-arena/"><u>Breaking Into the Periscope Livestream Arena</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/breakthrough-in-budget-friendly-tech-the-impressive-features-and-functionality-of-the-new-apple-ipad-air-102-8th-generation/"><u>Breakthrough in Budget-Friendly Tech: The Impressive Features and Functionality of the New Apple iPad Air (10.2, 8Th Generation)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-thera/"><u>Enhancing Thera</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-g310-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia G310 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-exploration-how-to-closely-inspect-roblox-environments-for-2024/"><u>In-Depth Exploration How to Closely Inspect Roblox Environments for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximizing-efficiency-with-azures-audio-transcription/"><u>Maximizing Efficiency with Azure's Audio Transcription</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sony-bdp-s6500-review-updated/"><u>Sony BDP-S6500 Review - Updated</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tech-trial-vlle-outlook-on-apps/"><u>Tech Trial VLLE Outlook on Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-slack-filmora-duo-for-meeting-management-excellence/"><u>The Ultimate Slack-Filmora Duo for Meeting Management Excellence</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-12-most-excellent-cost-free-video-apps-for-modern-devices/"><u>Top 12 Most Excellent, Cost-Free Video Apps For Modern Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlock-your-characters-potential-with-these-essential-sound-changing-techniques-in-free-fire/"><u>[New] Unlock Your Character's Potential with These Essential Sound Changing Techniques in Free Fire</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comic-crafting-on-apple-devices/"><u>[Updated] Comic Crafting on Apple Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-and-mastering-google-chromes-pip-functionality/"><u>[Updated] Understanding and Mastering Google Chrome’s PIP Functionality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-raw-footage-to-final-cut-adopting-luts-in-premiere-for-2024/"><u>From Raw Footage to Final Cut Adopting LUTs in Premiere for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/fundamental-furnishings-in-mc-the-basics-of-homesteading/"><u>Fundamental Furnishings in MC The Basics of Homesteading</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovating-audio-visuals-podcast-covers-explained/"><u>Innovating Audio Visuals Podcast Covers Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-audio-connection-must-have-tips-for-podcasters/"><u>Perfect Audio Connection Must-Have Tips for Podcasters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sculpting-success-in-visual-communications/"><u>Sculpting Success in Visual Communications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/televersement-gratuit-dun-fichier-mov-au-format-swf-methode-etape-par-etape-avec-moveavi/"><u>Téléversement Gratuit D'un Fichier MOV Au Format SWF - Méthode Étape Par Étape Avec MoveAVI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-ranking-of-2024s-elite-gaming-laptops-evaluating-the-markets-best-from-razer-to-msi-featuring-zdnet-reviews/"><u>Ultimate Ranking of 2024'S Elite Gaming Laptops: Evaluating the Market's Best From Razer to MSI, Featuring ZDNet Reviews</u></a></li>
 </ul></div>
 

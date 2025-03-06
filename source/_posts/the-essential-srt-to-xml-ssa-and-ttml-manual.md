@@ -1,7 +1,7 @@
 ---
 title: "The Essential SRT to XML, SSA & TTML Manual"
-date: 2024-07-27T04:09:37.914Z
-updated: 2024-07-28T04:09:37.914Z
+date: 2025-03-04T17:29:44.890Z
+updated: 2025-03-06T22:32:04.821Z
 tags: 
   - screen-recording
   - ai video
@@ -53,18 +53,12 @@ Step1 Visit [GoTranscript Subtitle Converter](https://gotranscript.com/subtitle-
 
 Step2 Click the “Upload” button to upload your SRT file.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![convert srt to xml](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-1.jpg)
 
 Step3 Select the file output format as “Flash XML (.xml)”. Then hit the “Convert” button to convert SRT to XML.
 
 After the conversion process is finalized, you can download the XML file to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Convert SRT to SSA
 
 Are you looking to convert SRT to SSA? SSA is a more advanced subtitle file format, and it’s usually used in anime fansubs to either store subtitle data with video or to overlay subtitles on video while it’s being encoded. The subtitle is not really popular among video content creators. However, when the need to convert SRT to SSA arises, an online tool is the right solution to help you get the job done without error. And luckily, the prior mentioned GoTranscipt subtitle converter also supports such a conversion process.
@@ -79,9 +73,6 @@ Step2 Click the “Upload” button to upload your SRT file.
 
 Step3 Click Convert to begin SRT to SSA conversion.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![click convert to begin srt to ssa](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-3.jpg)
 
 Step4 Finally, click the green Download icon to download the converted file to your device.
@@ -98,9 +89,6 @@ Step1 Open [Better Converter](https://www.better-converter.com/Subtitles-Convert
 
 Step2 Use the Browse button to upload your SRT file.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![use browse to upload srt file](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-5.jpg)
 
 Step3 Once you upload the file, Better Converter will automatically convert it to TTML and download the file to your PC. You can find the file in the Download folder.
@@ -115,9 +103,6 @@ Step1 Visit REV's[official website](https://www.rev.com/captionconverter)
 
 Step2 Click on Select.SRT Files to upload the SRT file you want to convert to SCC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![click on select srt files](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-6.jpg)
 
 Step3 Under Select Output Formats, choose Scenarist (.scc).
@@ -148,9 +133,6 @@ Step3 Select FCPXML to SRT 1.5 and edit output as per requirement. Then, click S
 
 Once the conversion is completed, the FCPXML file will be saved to the Downloads folder on your PC automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 There’s no doubt that the SRT file format is one of the most popular subtitle formats that’s supported on almost all video players and social media platforms. However, there are situations when we might need to convert SRT to XML or any other subtitle format. In such cases, you can use the stepwise guides explained in this article to convert SRT. All it takes is just a few clicks.
@@ -161,18 +143,6 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
 
 Now that we’ve already known platform subtitle compatibility, let’s dive into the main discussion without wasting much of your time.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Convert SRT to XML
 
 Irrespective of the reason why you want to convert SRT to XML, the best way to get the job done is to use an online tool. Yes, this is because XML is a markup language based on Standard Generalized Markup Language (SGML), and you will require technical knowledge to understand files in such formats. The file format allows the sharing of structured information between two different programs, programs, and people, or among locally and shared networks.
@@ -183,18 +153,12 @@ Step1 Visit [GoTranscript Subtitle Converter](https://gotranscript.com/subtitle-
 
 Step2 Click the “Upload” button to upload your SRT file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![convert srt to xml](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-1.jpg)
 
 Step3 Select the file output format as “Flash XML (.xml)”. Then hit the “Convert” button to convert SRT to XML.
 
 After the conversion process is finalized, you can download the XML file to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Convert SRT to SSA
 
 Are you looking to convert SRT to SSA? SSA is a more advanced subtitle file format, and it’s usually used in anime fansubs to either store subtitle data with video or to overlay subtitles on video while it’s being encoded. The subtitle is not really popular among video content creators. However, when the need to convert SRT to SSA arises, an online tool is the right solution to help you get the job done without error. And luckily, the prior mentioned GoTranscipt subtitle converter also supports such a conversion process.
@@ -215,9 +179,6 @@ Step4 Finally, click the green Download icon to download the converted file to y
 
 ![clcik the green download icon](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Convert SRT to TTML
 
 Formerly known as DFXP (Distribution Format Exchange Profile), TTML (Time Texture Markup Language) is a time text in online media used in authoring, transcoding, or exchanging time text information used for subtitles and captions of videos. Although this format is supported in most media players, it cannot be used in web browsers. However, some people still have personal reasons why they want to convert SRT to TTML. Irrespective of what your reason to convert SRT to TTML is, you need the help of an online tool to carry out the operation.
@@ -232,9 +193,6 @@ Step2 Use the Browse button to upload your SRT file.
 
 Step3 Once you upload the file, Better Converter will automatically convert it to TTML and download the file to your PC. You can find the file in the Download folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5: How to Convert SRT to SCC
 
 There are effective steps that could also come in handy if you want to convert SRT to SCC. But first, what is SCC? SCC (Scenarist Closed Captions) is a closed caption file that is used as a sidecar file in video editing and production programs. Such programs use it in saving unrendered videos before exporting them to the final video format. Unlike SRT, this type of file format can only be opened in certain applications as it’s not a universally accepted format.
@@ -253,16 +211,10 @@ Step3 Under Select Output Formats, choose Scenarist (.scc).
 
 Step4 Enter your email into the relevant box and click the Convert button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter email into relevant box](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-8.jpg)
 
 The SRT file should be converted within a few minutes. Afterward, you can check for the converted files in your email.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: How to Convert SRT to FCPXML
 
 The FCPXML (Final Cut Pro XML) format is a totally different kind of caption file - it uses XML elements to describe data exchanged between the Final Cut Pro software and other third-party applications like Adobe Premiere Pro, LumaFusion, etc. This caption file format can only be used only on Final Cut Pro. So, if you're looking to convert SRT to FCPXML, you also need an online tool. Although the online tool that converts SRT to FCPXML is very limited, the Resolver Tool is one that does the job correctly. However, it only works efficiently with PC. So, we advise you use a PC for this operation.
@@ -273,16 +225,10 @@ Step1 Open Resolver Tools in your PC browser.
 
 Step2 Click on Choose File to upload the SRT file you want to convert.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on choose file to upload](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-9.jpg)
 
 Step3 Select FCPXML to SRT 1.5 and edit output as per requirement. Then, click Send File to begin SRT to FCPXML conversion.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select fcpxml to srt 1.5](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-10.jpg)
 
 Once the conversion is completed, the FCPXML file will be saved to the Downloads folder on your PC automatically.
@@ -317,7 +263,21 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-6-metaverse-examples-to-help-you-have-a-deep-insight-about-it-useful/"><u>[New] 6 Metaverse Examples to Help You Have a Deep Insight About It [Useful]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-artful-expression-on-tablets-leading-ios-drawers-for-2024/"><u>[New] Artful Expression on Tablets Leading iOS Drawers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boosting-content-appeal-by-including-youtube-music-in-recordings/"><u>[New] Boosting Content Appeal by Including YouTube Music in Recordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-step-into-the-details-the-quickest-ways-to-zoom-in-minecraft/"><u>[New] In 2024, Step Into the Details The Quickest Ways to ZOOM in Minecraft</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-take-long-exposure-shots-with-iphone-in-ios-11-or-previous/"><u>[Updated] How to Take Long Exposure Shots with iPhone in iOS 11 or Previous</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-selecting-the-perfect-no-fee-video-communication-tools/"><u>[Updated] Selecting the Perfect No-Fee Video Communication Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-see-what-the-stars-dont-for-your-life-path/"><u>Can ChatGPT See What the Stars Don't for Your Life Path?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-exploration-of-sierra-icloud-documentdesktop-views-for-2024/"><u>Complete Exploration of Sierra iCloud Document/Desktop Views for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangling-the-s-mode-trap-in-windows-10-and-11/"><u>Disentangling the 'S Mode' Trap in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/engineering-temporal-anomalies-on-camera-setups/"><u>Engineering Temporal Anomalies on Camera Setups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-organize-a-virtual-gathering-using-zoom-on-android/"><u>How to Organize a Virtual Gathering Using Zoom on Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/selecting-the-perfect-wedding-countdown-clock-for-android-and-ios-devices/"><u>Selecting the Perfect Wedding Countdown Clock for Android & iOS Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-the-problem-why-is-my-samsung-blu-ray-player-not-responding/"><u>Solve the Problem: Why Is My Samsung Blu-Ray Player Not Responding?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-data-via-command-line-on-windows-10/"><u>Step-by-Step Guide: Removing Data via Command Line on Windows 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"The Essence of Depth  Crafting 3D Text Art\""
-date: 2025-02-11T18:01:47.938Z
-updated: 2025-02-18T03:09:32.422Z
+date: 2025-03-03T22:12:23.819Z
+updated: 2025-03-06T20:52:14.802Z
 tags: 
   - screen-recording
   - ai video
@@ -56,25 +56,13 @@ Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be
 
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step9 Finally, it's time to export the image, and you're all done.
 
@@ -88,10 +76,6 @@ You might not believe it, but there's an even more accessible and less expensive
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -101,10 +85,6 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
@@ -135,10 +115,6 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
@@ -172,17 +148,18 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-learn-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation/"><u>[Updated] 2024 Approved Learn The Art Of Video to Animation Stepwise Guide for Efficient Gif Creation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elevate-your-snaps-mastering-snapchat-zoom-features/"><u>[Updated] In 2024, Elevate Your Snaps Mastering Snapchat Zoom Features</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-archive-all-your-images-flawlessly-infinite-no-charge-and-elite-paid-storage/"><u>2024 Approved Archive All Your Images Flawlessly Infinite, No-Charge & Elite Paid Storage</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-breakneck-speed-photo-display-on-your-pc/"><u>2024 Approved Breakneck Speed Photo Display on Your PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211064679-9789359392172-ancient-and-modern-initiation/"><u>Ancient And Modern Initiation | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bard-unleashed-how-palm-2-elevates-googles-ai-in-7-key-ways/"><u>Bard Unleashed: How PaLM 2 Elevates Google's AI in 7 Key Ways</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/end-call-silence-syndrome-how-to-make-your-iphone-ring-again/"><u>End Call Silence Syndrome: How to Make Your iPhone Ring Again</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-anglers-guide-to-premium-fishing-cameras/"><u>In 2024, Angler’s Guide to Premium Fishing Cameras</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-x90s-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo X90S to Another | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-s24-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy S24 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-saving-android-titles-a-curated-list-of-indoor-games/"><u>[New] 2024 Approved Screen-Saving Android Titles A Curated List of Indoor Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-stunning-photographic-mosaics-for-2024/"><u>[New] Mastering Stunning Photographic Mosaics for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-mac-video-software-alternatives-to-bandicam/"><u>[Updated] 2024 Approved Best Mac Video Software Alternatives to Bandicam</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blissful-movie-moments-your-summertime-classic-list/"><u>[Updated] Blissful Movie Moments Your Summertime Classic List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-steps-to-become-a-successful-smm-for-2024/"><u>10 Steps to Become a Successful SMM for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-hype-assessing-the-genuine-ecological-footprint-of-evs/"><u>Beyond Hype: Assessing the Genuine Ecological Footprint of EVs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-creativity-how-to-use-movie-maker-on-windows-8/"><u>Boost Creativity How to Use Movie Maker on Windows 8</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-vr-solutions-for-drone-flying/"><u>Ideal VR Solutions for Drone Flying</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-compreayers-guide-to-video-refinement-from-standard-definition-to-dynamic-range-zenith/"><u>In 2024, A Compreayer's Guide to Video Refinement From Standard Definition to Dynamic Range Zenith</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-6-metaverse-case-studies-for-in-depth-understanding/"><u>Top 6 Metaverse Case Studies for In-Depth Understanding</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforme-milhas-por-galao-em-imagens-animadas-o-convertidor-on-line-do-movavi-free/"><u>Transforme Milhas Por Galão Em Imagens Animadas: O Convertidor On-Line Do Movavi FREE!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tricks-for-procuring-high-end-imagery-without-spending-money-for-2024/"><u>Tricks for Procuring High-End Imagery Without Spending Money for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-potential-of-hero5-black-for-stunning-visuals/"><u>Unlock the Potential of Hero5 Black for Stunning Visuals</u></a></li>
 </ul></div>
 

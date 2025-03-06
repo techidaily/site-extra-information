@@ -1,7 +1,7 @@
 ---
 title: Fortnite Login Woes? Bypass the Frustration with Our Quick Fix Tips
-date: 2025-02-14T18:32:50.355Z
-updated: 2025-02-17T19:37:02.552Z
+date: 2025-03-01T20:12:12.729Z
+updated: 2025-03-06T20:37:40.722Z
 tags:
   - win11
   - win10
@@ -45,24 +45,12 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 ![Fix 1 step 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-1-step-2.png)
 3. **Turn on** the toggle next to **Auto update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reboot your network
 
@@ -78,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 
 See if you can log in or not. if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Test your Internet connection speed
 
  If you still suffer from this issue after you reboot your network, you need to test your Internet connection speed first. Here is how to do it:
@@ -89,10 +73,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. Click **[here](http://www.speedtest.net/)**  to access the official website of SPEEDTEST.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
@@ -118,10 +98,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
@@ -176,10 +152,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Disable the proxy server
 
  If you’re using a proxy server, it may also cause the connection problem. Follow the instructions below to disable your proxy server to see if this issue reappears:
@@ -196,10 +168,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Change the DNS server
 
 **Google Public DNS** provides you with **a speed boost** and **an increased security.** Try changing the DNS server in your PC to the Google Public DNS addresses to see if this issue can be resolved. Here is how to do it:
@@ -210,10 +178,6 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
@@ -228,10 +192,6 @@ See if you can log in or not. if not, try the next fix, below.
 7. Restart your PC and launch Fortnite.
 
 See if you can log in or not. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10: Close bandwidth hogging applications
 
@@ -266,19 +226,24 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-sweeping-visual-upgrades-with-instagrams-chroma-key-tooling/"><u>[Updated] 2024 Approved Sweeping Visual Upgrades with Instagram’s Chroma Key Tooling</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-analyzing-elite-performance-of-parrots-ar-drone-20/"><u>[Updated] Analyzing Elite Performance of Parrot's AR Drone 2.0</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-seamless-transfer-of-social-media-videos-from-twitter-to-whatsapp/"><u>2024 Approved Seamless Transfer of Social Media Videos From Twitter to WhatsApp</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-camcorder-tech-for-shooting-sports-for-2024/"><u>Best Camcorder Tech for Shooting Sports for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/color-depth-explored-windows-hdri-for-editors/"><u>Color Depth Explored Windows HDRI for Editors</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-silent-input-transcription-suites/"><u>Elite Silent Input Transcription Suites</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expertly-crafted-cloud-microphones-for-2024/"><u>Expertly-Crafted Cloud Microphones for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>In 2024, A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-chromecast-converter-how-to-play-un-supported-video-formats/"><u>In 2024, The Chromecast Converter How to Play Un-Supported Video Formats</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sky-sprinting-guide-plus-mastering-the-art-of-fpv-drone-racing/"><u>Sky Sprinting Guide + Mastering the Art of FPV Drone Racing</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-windows-1er-update-failures-cracking-the-0x800705b4-error-code-in-windows-10/"><u>Step-by-Step Resolution for Windows 1Er Update Failures: Cracking the 0X800705B4 Error Code in Windows 10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-10-best-introduction-editors-apps/"><u>Top 10 Best Introduction Editors (Apps)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ultimate-speed-boost-for-vimeo-videos-for-2024/"><u>Ultimate Speed Boost for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-360-degree-rigging-solutions-vr-production/"><u>[New] 360 Degree Rigging Solutions VR Production</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-virtual-meetings-best-practices-for-teams/"><u>[Updated] Streamlining Virtual Meetings Best Practices for Teams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-av-and-acoustic-creatives-top-5-online-leaders-roundup/"><u>2024 Approved Av & Acoustic Creatives Top 5 Online Leaders' Roundup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-illusions-examining-vrs-disadvantages/"><u>Beyond Illusions Examining VR's Disadvantages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clearing-up-disrupted-visual-playback-online/"><u>Clearing Up Disrupted Visual Playback Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/desktop-icon-vanishing-act-on-windows-11-heres-how-to-get-them-back/"><u>Desktop Icon Vanishing Act on Windows 11? Here's How to Get Them Back</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-graphic-performance-with-an-easy-update-to-your-intel-3000-graphics-on-w10/"><u>Improve Graphic Performance with an Easy Update to Your Intel 3000 Graphics on W10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-covert-measures-for-efficient-home-based-learning/"><u>In 2024, Covert Measures for Efficient Home-Based Learning</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-13-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 13 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-connecting-to-the-cellular-network-discover-10-reliable-fixes/"><u>IPhone Not Connecting to the Cellular Network? Discover 10 Reliable Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-online-subtitles-our-choice-of-free-services-for-2024/"><u>Mastering Online Subtitles Our Choice of Free Services for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-upside-down-and-sideways-iphone-images/"><u>Perfect Upside-Down & Sideways iPhone Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-level-action-recording-on-a-students-budget/"><u>Professional-Level Action Recording on a Student's Budget</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-editor-secrets-unlocked-in-canva-photo-editing/"><u>Top Editor Secrets Unlocked in Canva Photo Editing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-players-in-immersive-vision-sets/"><u>Top Players in Immersive Vision Sets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/value-for-money-internet-solution-a-thorough-assessment-of-tp-link-archer-c5e-router/"><u>Value for Money Internet Solution: A Thorough Assessment of TP-Link Archer C5e Router</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203189589-win-update-freeze-at-100-heres-how-to-get-it-moving-again-fixes-included/"><u>Win Update Freeze at 100%? Here's How to Get It Moving Again - Fixes Included</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-12-pro-4g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi Note 12 Pro 4G can’t play AVCHD .mts video</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo"
-date: 2025-02-15T03:36:50.160Z
-updated: 2025-02-18T06:25:27.823Z
+date: 2025-03-04T22:55:58.942Z
+updated: 2025-03-06T20:54:08.638Z
 tags: 
   - screen-recording
   - ai video
@@ -36,17 +36,9 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
@@ -93,10 +85,6 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -120,10 +108,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -158,10 +142,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -197,20 +177,16 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-dissecting-the-technology-behind-frapss-screenshot-pro/"><u>[Updated] Dissecting the Technology Behind Fraps's Screenshot Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-giggle-graph-meme-trends-by-occasion-type/"><u>[Updated] Giggle Graph Meme Trends by Occasion Type</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-guide-to-pinpointing-a-list-video-creators/"><u>2024 Approved A Guide to Pinpointing A-List Video Creators</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-watch-ultra-2-why-it-became-my-ideal-tech-companion-and-how-you-can-save-100-on-labor-day/"><u>Apple Watch Ultra 2: Why It Became My Ideal Tech Companion and How You Can Save $100 on Labor Day</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-video-editing-apps-for-mac-from-novice-to-expert-for-2024/"><u>Best Video Editing Apps for Mac From Novice to Expert for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/complete-fixes-for-windows-11-update-failure-overcoming-the-0xc1900204-hurdle/"><u>Complete Fixes for Windows 11 Update Failure - Overcoming the 0xC1900204 Hurdle</u></a></li>
-<li><a href="https://extra-information.techidaily.com/drone-enhancement-kit-10-indispnible-components/"><u>Drone Enhancement Kit - 10 Indispnible Components</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harmonizing-audioscapevisumedia-network/"><u>Harmonizing Audioscape/Visumedia Network</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-secrets-of-effortless-editing-for-windows-11-videos/"><u>In 2024, Unlock the Secrets of Effortless Editing for Windows 11 Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-depth-review-of-dji-mavic-pro-eyewear-tech/"><u>In-Depth Review of DJI Mavic Pro Eyewear Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovate-with-imagery-installing-the-windows-11-movie-maker-app/"><u>Innovate with Imagery Installing the Windows 11 Movie Maker App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722871644252-macos-15-sequoia-discover-when-its-releasing-and-check-out-its-amazing-new-capabilities/"><u>MacOS 15 (Sequoia): Discover When It's Releasing & Check Out Its Amazing New Capabilities!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/stuck-with-immovable-mac-files-learn-how-to-remove-them-effortlessly/"><u>Stuck with Immovable Mac Files? Learn How to Remove Them Effortlessly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-key-to-crisp-clear-cinematography/"><u>The Key to Crisp, Clear Cinematography</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bebop-unfurled-in-flight-form-the-secondary-parrot-review/"><u>[Updated] Bebop Unfurled in Flight Form – The Secondary Parrot Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope/"><u>[Updated] Unleash the Potential of Your Gopro Streaming Made Easy on Facebook/Periscope</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-facebooks-high-def-download-routes/"><u>2024 Approved Navigating Facebook's High-Def Download Routes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-like-counts-tips-for-tiktok-unboxings-for-2024/"><u>Boosting Like Counts Tips for TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-the-look-and-feel-of-zoom-videos/"><u>Elevating the Look & Feel of Zoom Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y100t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y100t</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y56-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y56 5G Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-motorola-moto-g14-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Motorola Moto G14, is it possible?</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-privileged-requirement-not-met-in-windows-1110-error-code-0x80070522/"><u>Resolving Privileged Requirement Not Met in Windows 11/10: Error Code 0X80070522</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-fisheye-lens-in-360-imagery-for-2024/"><u>The Art of Fisheye Lens in 360 Imagery for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-creme-de-la-meme-collection-10/"><u>The Crème De La Meme Collection - #10</u></a></li>
 </ul></div>
 

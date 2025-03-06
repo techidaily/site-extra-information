@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  ARCADE ADVENTURERS' APPROACHES\""
-date: 2024-07-27T04:04:31.640Z
-updated: 2024-07-28T04:04:31.640Z
+date: 2025-03-02T17:09:08.296Z
+updated: 2025-03-06T19:07:15.197Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 # POT Player Review
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -57,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ## The Pros and Cons of POT Player
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### The Good
 
 * POT Players works fine with all editions of Windows (32/64 bit versions).
@@ -67,41 +61,16 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 * User defined shortcuts makes controlling much easier.
 * It creates minimal loads of memory and CPU.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Bad
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Truth
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Deep Review of Pot Player
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Adding Files and Managing Playlists
 
  Users can add various files, even a complete directory to POT player library and allow it to play high quality content from URLs directly. The key board shortcuts make playlist editing much easier whereas drag and drop features are more beginners friendly.
@@ -110,9 +79,6 @@ No advertising on the website.
 
 ![ pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Playing Audio Files
 
  When you are ready to enjoy playbacks then it is also possible to pair up content with equalizers in order to have rich sound quality. When this paired up connection is dragged into timeline, they work in perfect synchronism and if you want to separate them at any moment then simply drag the playlist.
@@ -121,9 +87,6 @@ No advertising on the website.
 
  Users can manage audio equalizer adjustments from control panel and it can also provide services for easy settings of video frames, video ratios, play settings, control subtitles, screen captures and other video settings.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pot-play-audio ](https://images.wondershare.com/filmora/article-images/pot-play-audio.jpg)
 
 ### 3\. Playing Video Files
@@ -132,14 +95,8 @@ No advertising on the website.
 
  It is also possible to hide skin during video playbacks and users can easily hover over different elements on screen. The video playback menu of Pot Player is quite useful and it allows users to manage channel controls. NV12 offers controls for specific frames, within subtitles, frame by frame movements within videos. The first three control buttons on bottom screen works for video processing, subtitles and stream controls. If you want to access advanced control menu then simply right click over control panel button and soon you will be able to manage so many advanced controls for your player.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![pot-play-video ](https://images.wondershare.com/filmora/article-images/pot-play-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -178,14 +135,8 @@ Follow @Ollie Mattison
 * One can enjoy settings for downloadable as well as user designed skins.
 * Users can access keyboard shortcuts for subtitles, contrast, brightness, volume, zooming and seeking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## The Pros and Cons of POT Player
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Good
 
 * POT Players works fine with all editions of Windows (32/64 bit versions).
@@ -197,16 +148,10 @@ Follow @Ollie Mattison
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### The Truth
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Deep Review of Pot Player
 
 ### 1\. Adding Files and Managing Playlists
@@ -215,9 +160,6 @@ Follow @Ollie Mattison
 
  The playlist tabs are well designed where users can manage numerous albums; all added controls are later automatically saved to playlists and they are auto loaded for the next time. Albums on its library are managed in alphabetical order and your can also add files from one album to another using add and edit menu. Note that, the drag and drop feature works only within playlists, they cannot work inside a playlist.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
 
 ### 2\. Playing Audio Files
@@ -228,9 +170,6 @@ Follow @Ollie Mattison
 
  Users can manage audio equalizer adjustments from control panel and it can also provide services for easy settings of video frames, video ratios, play settings, control subtitles, screen captures and other video settings.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![pot-play-audio ](https://images.wondershare.com/filmora/article-images/pot-play-audio.jpg)
 
 ### 3\. Playing Video Files
@@ -279,14 +218,8 @@ Follow @Ollie Mattison
 * One can enjoy settings for downloadable as well as user designed skins.
 * Users can access keyboard shortcuts for subtitles, contrast, brightness, volume, zooming and seeking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## The Pros and Cons of POT Player
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Good
 
 * POT Players works fine with all editions of Windows (32/64 bit versions).
@@ -298,18 +231,10 @@ Follow @Ollie Mattison
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### The Truth
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Deep Review of Pot Player
 
 ### 1\. Adding Files and Managing Playlists
@@ -318,9 +243,6 @@ The powerful video editing program for your Windows PC</a>
 
  The playlist tabs are well designed where users can manage numerous albums; all added controls are later automatically saved to playlists and they are auto loaded for the next time. Albums on its library are managed in alphabetical order and your can also add files from one album to another using add and edit menu. Note that, the drag and drop feature works only within playlists, they cannot work inside a playlist.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
 
 ### 2\. Playing Audio Files
@@ -357,9 +279,6 @@ Follow @Ollie Mattison
 * [Part2.The Pros and Cons of POT Player](#part2)
 * [Part3.Deep Review of Pot Player](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What’s POT Player?
 
  POT Player is a feature rich platform that offers wide range of functionality even beyond expectations of common users. This player is available as a freeware for Windows OS on 32 bit as well as 64 bit platform and plays videos without posing any restriction. Users can easily download this software from internet and get started for free.
@@ -391,9 +310,6 @@ Follow @Ollie Mattison
 * User defined shortcuts makes controlling much easier.
 * It creates minimal loads of memory and CPU.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Bad
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
@@ -410,18 +326,6 @@ Follow @Ollie Mattison
 
  The playlist tabs are well designed where users can manage numerous albums; all added controls are later automatically saved to playlists and they are auto loaded for the next time. Albums on its library are managed in alphabetical order and your can also add files from one album to another using add and edit menu. Note that, the drag and drop feature works only within playlists, they cannot work inside a playlist.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
 
 ### 2\. Playing Audio Files
@@ -432,9 +336,6 @@ Follow @Ollie Mattison
 
  Users can manage audio equalizer adjustments from control panel and it can also provide services for easy settings of video frames, video ratios, play settings, control subtitles, screen captures and other video settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![pot-play-audio ](https://images.wondershare.com/filmora/article-images/pot-play-audio.jpg)
 
 ### 3\. Playing Video Files
@@ -443,9 +344,6 @@ Follow @Ollie Mattison
 
  It is also possible to hide skin during video playbacks and users can easily hover over different elements on screen. The video playback menu of Pot Player is quite useful and it allows users to manage channel controls. NV12 offers controls for specific frames, within subtitles, frame by frame movements within videos. The first three control buttons on bottom screen works for video processing, subtitles and stream controls. If you want to access advanced control menu then simply right click over control panel button and soon you will be able to manage so many advanced controls for your player.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pot-play-video ](https://images.wondershare.com/filmora/article-images/pot-play-video.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -478,7 +376,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[New] 2024 Approved Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/inpointing-potential-a-youtube-niche-journey-for-2024/"><u>[New] Pinpointing Potential A Youtube Niche Journey for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secrets-to-free-hd-video-grabs-from-facebook/"><u>[Updated] 2024 Approved Secrets to Free HD Video Grabs From Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-birds-eye-briefing-critique/"><u>[Updated] Bird's Eye Briefing Critique</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cataloging-camera-types-for-visual-media/"><u>[Updated] Cataloging Camera Types for Visual Media</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-top-5-non-twitter-social-sites/"><u>[Updated] Top 5 Non-Twitter Social Sites</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-video-changer-tools-reviewed-8-of-the-best-for-iphones-and-pcs/"><u>2024 Approved Best Video Changer Tools Reviewed 8 of the Best for iPhones and PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bigger-captures-intact-detail-quality/"><u>2024 Approved Bigger Captures, Intact Detail Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-circle-cinematic-mounts/"><u>2024 Approved Complete Circle Cinematic Mounts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/attracting-watchers-discover-the-top-6-video-types/"><u>Attracting Watchers Discover the Top 6 Video Types</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-ai-experience-with-chatgpt-desktop-app-why-it-beats-the-website/"><u>Boost Your AI Experience with ChatGPT Desktop App - Why It Beats the Website</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-continuous-flatulence-issues-with-your-amazon-echo-alexa/"><u>How to Fix Continuous Flatulence Issues with Your Amazon Echo (Alexa)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pursuit-for-perfection-exploring-4k-with-hps-z32x/"><u>Pursuit for Perfection Exploring 4K with HP's Z32X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/skip-the-hassle-find-4-ringtone-sources-here/"><u>Skip the Hassle Find 4 Ringtone Sources Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-games-to-multiple-ps5s/"><u>Streaming Games to Multiple PS5s</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-reviewers-pick-apple-iphone-xs-max-balancing-price-with-unmatched-quality/"><u>Top Reviewers Pick Apple iPhone XS Max: Balancing Price with Unmatched Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-complete-image-enhancement-capabilities-with-polarr/"><u>Unveiling the Complete Image Enhancement Capabilities with Polarr</u></a></li>
+</ul></div>
 

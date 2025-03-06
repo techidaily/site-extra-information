@@ -1,7 +1,7 @@
 ---
 title: "\"Figure Skating's Top Talent  Review of '22 Moments\""
-date: 2025-02-12T23:09:18.455Z
-updated: 2025-02-18T00:16:36.215Z
+date: 2025-03-02T18:34:45.455Z
+updated: 2025-03-06T22:07:45.211Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -41,10 +37,6 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -62,15 +54,7 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -91,10 +75,6 @@ For macOS 10.12 or later
 Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
@@ -121,22 +101,21 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mp3-export-made-easy-select-free-apps-for-iphone-and-youtube/"><u>[New] 2024 Approved MP3 Export Made Easy Select Free Apps for iPhone & YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-gameplay-modifications-in-terraria/"><u>[New] 2024 Approved Ultimate Gameplay Modifications in Terraria</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-of-the-best-8-cameras-for-top-streaming-experience/"><u>[New] Best of the Best 8 Cameras for Top Streaming Experience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-power-play-the-most-popular-female-youtube-personalities/"><u>[Updated] 2024 Approved Power Play The Most Popular Female YouTube Personalities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-core-skills-in-the-art-of-digital-animation/"><u>[Updated] Core Skills in the Art of Digital Animation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/embrace-freedom-no-cost-movie-player-software/"><u>Embrace Freedom No-Cost MOVIE PLAYER Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expanding-photography-quality/"><u>Expanding Photography Quality</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-the-essence-of-asmr-videos/"><u>In 2024, Decoding the Essence of ASMR Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-the-art-of-financial-forecasting-a-deep-dive-into-budgeting-strategies/"><u>In 2024, Mastering the Art of Financial Forecasting A Deep Dive Into Budgeting Strategies</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-motorola-moto-g14-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Motorola Moto G14</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ingenious-ways-to-alter-track-pace-on-spotify-app/"><u>Ingenious Ways to Alter Track Pace on Spotify App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-confluence-of-rag-generative-ai-and-business-insight-strategies-from-tech-visionaries-zdnet/"><u>Mastering the Confluence of RAG, Generative AI, and Business Insight: Strategies From Tech Visionaries | ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/secrets-to-selecting-a-premier-cinematographer/"><u>Secrets to Selecting a Premier Cinematographer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-12-best-free-daws-for-music-creation/"><u>The Ultimate List 12 Best Free DAWs for Music Creation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tips-for-harnessing-free-visual-content-creatively/"><u>Tips for Harnessing Free Visual Content Creatively</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-video-editing-on-windows-11-for-professionals/"><u>Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-features-of-oneplus-9-pro-sleek-design-fast-processing-superior-photography/"><u>Unveiling the Features of OnePlus 9 Pro: Sleek Design, Fast Processing, Superior Photography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premier-virtual-classrooms-a-selection-without-udemy/"><u>[New] In 2024, Premier Virtual Classrooms A Selection without Udemy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-choosing-youtube-downloader-apps-on-your-android-device/"><u>[Updated] 2024 Approved Choosing YouTube Downloader Apps on Your Android Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-5-cameras-for-precision-slow-mo/"><u>2024 Approved Prime 5 Cameras for Precision Slow-Mo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-workshop-naming-service-2023/"><u>Advanced Workshop Naming Service 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-vision-of-a-smart-home-introducing-a-robotic-helper-of-tomorrow-zdnet/"><u>Apple's Vision of a Smart Home: Introducing a Robotic Helper of Tomorrow | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-art-manipulating-photos-creatively/"><u>Digital Art Manipulating Photos Creatively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-reno-10-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/income-distribution-among-successful-podcasters/"><u>Income Distribution Among Successful Podcasters</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-common-problems-ensuring-smooth-performance-of-the-paradox-launcher/"><u>Overcoming Common Problems: Ensuring Smooth Performance of the Paradox Launcher</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplifying-the-complexity-of-digital-enhancements/"><u>Simplifying the Complexity of Digital Enhancements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swift-transformation-androids-best-vid-upgrades/"><u>Swift Transformation Android's Best Vid Upgrades</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-picks-for-sky-hdr-images-online-compilation/"><u>Top Picks for Sky HDR Images Online Compilation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformar-seus-arquivos-m4v-em-gravacoes-de-audio-wav-gratuito-com-o-conversor-on-line-da-movavi/"><u>Transformar Seus Arquivos M4V Em Gravações De Áudio WAV Gratuito Com O Conversor On-Line Da Movavi!</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor X50i+</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-full-potential-of-zoom-with-youtube-live/"><u>Unlocking the Full Potential of Zoom with YouTube Live</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/user-perspective-on-pioneer-bdr-xd0n5bs-performance-and-structural-limitations-in-blu-ray-burning/"><u>User Perspective on Pioneer BDR-XD0n5B's Performance and Structural Limitations in Blu-Ray Burning</u></a></li>
 </ul></div>
 

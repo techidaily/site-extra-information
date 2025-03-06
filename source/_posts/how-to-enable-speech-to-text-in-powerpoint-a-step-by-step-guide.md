@@ -1,7 +1,7 @@
 ---
 title: "\"How to Enable Speech-to-Text in PowerPoint  A Step-by-Step Guide\""
-date: 2025-02-16T00:16:17.334Z
-updated: 2025-02-17T19:08:40.532Z
+date: 2025-03-05T20:09:35.088Z
+updated: 2025-03-06T21:39:11.003Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ Speech-to-text is not new, especially if you are used to the internet and many a
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to enable speech-to-text in PowerPoint?
 
 Using speech-to-text in PowerPoint is the same principle guiding other platforms like Microsoft Words. Also, PowerPoint presentation on a windows device is similar to a Mac. However, some control and key functions differ in the two devices. The only thing you should note when you want to use the speech-to-text function is the type of device you are using. You can enable “speech-to-text” on devices like Mac, Windows, and mobile phones.
@@ -42,10 +38,6 @@ Please note that “enabling speech-to-text” in PowerPoint differs from “usi
 * **Activate the feature:** click on the apple logo on your Mac, and select **“system preference.”** Select **“keyboard”** options displayed in the system preference.
 
 ![click on the apple logo](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **Select the dictation option:** select dictation from the keyboard option and check the **“on/off”** The option also has an advanced feature that allows additional commands.
 
@@ -79,10 +71,6 @@ It is easy to use PowerPoint on a Mac after activating the **“dictation”** b
 
 ![reselect the option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * From “all commands,” locate the speak option and add the option. Upon selection, the microphone button appears on the home screen of the PowerPoint.
 
 ![locate the speak option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-7.jpg)
@@ -90,10 +78,6 @@ It is easy to use PowerPoint on a Mac after activating the **“dictation”** b
 ### **Use the speak option**
 
 Now you can click on the microphone button and speak to add text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Speak clearly, but conversationally**
 
@@ -103,10 +87,6 @@ The smart engine needs to hear you clearly before interpreting the speech into t
 
 Ensure the background noise does not interrupt your speech.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Use the user dictionary**
 
 Exploit the user dictionary. Visit Settings > **Languages**, and info > **Advanced** \> Personal word reference, and you can add last names and other “unofficial” words.
@@ -115,10 +95,6 @@ Exploit the user dictionary. Visit Settings > **Languages**, and info > **Advanc
 
 The only difference between real-time speech-to-text translation and other forms is the real-life experience. There are cases you need to activate speech-to-text in a life event. PowerPoint supports this through the “speech-to-text” feature available on the platform.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Set up captions and subtitles**
 
 Real-time display and translation are suitable for the multi-language purpose. You can select the real-time option on your PowerPoint and makes it display another subtitle in other languages. Thus, when you speak in a language, the captions or subtitles display another text (speech-to-text) in a different language.
@@ -126,10 +102,6 @@ Real-time display and translation are suitable for the multi-language purpose. Y
 * Click on the **slide show**, and go to **subtitle settings**; select **spoken languages.** The spoken language is the “speech input language”: the language you will speak to be translated.
 
 ![click on the slide show](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * After setting the spoken language, move on to set the **subtitle/caption language.** The subtitle or caption language is the translated language. PowerPoint allows you to translate speech without using an application. You can make a multi-language selection without much involvement - just settings.
 
@@ -153,10 +125,6 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 [Make PPT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use Filmora STT to make PowerPoint videos translation
 
 ##### Step 1
@@ -171,19 +139,11 @@ Click the "Speech-to-Text" icon, and it will show the parameter settings. You ca
 
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### **Does speech-to-text require the internet?**
 
 No, it doesn't. However, you may need the internet to set up some settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Does speech-to-text come with a subscription?**
 
@@ -214,24 +174,19 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-essential-rules-for-a-positive-youtube-experience/"><u>[New] 2024 Approved Essential Rules for a Positive YouTube Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-practices-procuring-stock-visuals-for-projects/"><u>[New] Best Practices Procuring Stock Visuals for Projects</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-choreographing-photography-and-filming-in-one-sweep/"><u>[New] Choreographing Photography and Filming in One Sweep</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mobile-live-streaming-on-yt-without-thousands-in-followers/"><u>[New] Mobile Live Streaming on YT Without Thousands in Followers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nmatched-download-experience-with-our-top-tools-list/"><u>[New] Unmatched Download Experience with Our Top Tools List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-androids-finest-podcasting/"><u>[Updated] Android's Finest Podcasting</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-elevate-your-ar-creations-with-downloadable-color-lookup-tables-for-2024/"><u>[Updated] Elevate Your AR Creations with Downloadable Color Lookup Tables for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[Updated] How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits/"><u>2024 Approved Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits</u></a></li>
-<li><a href="https://extra-information.techidaily.com/correcting-misaligned-youtube-picture-quality/"><u>Correcting Misaligned YouTube Picture Quality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/design-your-brand-free-logo-templates-and-personalization/"><u>Design Your Brand Free Logo Templates & Personalization</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-nord-n30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-8-popular-oculus-rift-games-you-should-try/"><u>In 2024, 8 Popular Oculus Rift Games You Should Try</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-discovering-if-criticism-is-monetized-in-vids/"><u>In 2024, Discovering If Criticism Is Monetized in Vids</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/monetization-mastery-how-ajay-achieves-wealth-online/"><u>Monetization Mastery How AJay Achieves Wealth Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-crypto-conversations-10-prime-prompts-for-chatgpt/"><u>Navigating Crypto Conversations: 10 Prime Prompts for ChatGPT</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-resource-powerdirector-users/"><u>The Ultimate Resource PowerDirector Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-wi-fi-connection-issues-on-your-ipad/"><u>Ultimate Guide: Resolving Wi-Fi Connection Issues on Your iPad</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-creativity-with-these-essential-vector-editors/"><u>Unleash Creativity with These Essential Vector Editors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-tiktok-vs-youtube-shorts-best-platform-for-individual-use/"><u>[New] In 2024, TikTok vs YouTube Shorts Best Platform for Individual Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-strategic-brand-alliances-for-video-influencers/"><u>[New] Strategic Brand Alliances for Video Influencers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-masterclass-in-creativity-best-free-3d-text-psds/"><u>[Updated] In 2024, Masterclass in Creativity Best Free 3D Text PSDS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapedit-overview-in-depth-editor-review/"><u>[Updated] SnapEdit Overview – In-Depth Editor Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-warzone-directx-issues-four-effective-measures-detailed/"><u>Diagnosing and Fixing 'Warzone DirectX Issues' – Four Effective Measures Detailed</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-download-of-steam-updates-for-optimal-gaming-performance/"><u>How To Ensure Smooth Download of Steam Updates for Optimal Gaming Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-pcs-auditory-experience-with-updated-drivers-guide/"><u>Optimize Your PC's Auditory Experience with Updated Drivers Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pivotal-understanding-of-internet-fables/"><u>Pivotal Understanding of Internet Fables</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-15-groundbreaking-film-processors-for-gopro-cinematography/"><u>Premium 15 Groundbreaking Film Processors for GoPro Cinematography</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-pro-mic-not-working-expert-fixes-to-restore-audio-quality/"><u>SteelSeries Arctis Pro Mic Not Working? Expert Fixes to Restore Audio Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-immersive-chronicles-a-brief-history/"><u>The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-budget-friendly-image-editing-apps-for-smartphones/"><u>Top 10 Budget-Friendly Image Editing Apps for Smartphones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshoot-network-issues-free-d-link-driver-solutions-for-windows-devices/"><u>Troubleshoot Network Issues: Free D-Link Driver Solutions for Windows Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-growth-medical-ad-tricks-on-social-media/"><u>Unlocking Growth Medical Ad Tricks on Social Media</u></a></li>
 </ul></div>
 

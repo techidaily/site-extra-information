@@ -1,7 +1,7 @@
 ---
 title: "\"Illumination Innovations  Advanced Lighting in Video Making\""
-date: 2024-07-27T04:08:59.572Z
-updated: 2024-07-28T04:08:59.572Z
+date: 2025-02-28T19:22:41.868Z
+updated: 2025-03-06T21:41:09.518Z
 tags: 
   - screen-recording
   - ai video
@@ -46,9 +46,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -61,10 +58,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -73,9 +66,6 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -90,16 +80,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
@@ -108,9 +92,6 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -143,7 +124,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flying-high-with-husqvarna-the-drone-revolution/"><u>2024 Approved Flying High with Husqvarna The Drone Revolution</u></a></li>
+<li><a href="https://extra-information.techidaily.com/economical-airborne-photography-drone-deals-under-100/"><u>Economical Airborne Photography Drone Deals Under $100</u></a></li>
+<li><a href="https://extra-information.techidaily.com/funimate-pro-apk-review-and-how-to-guide/"><u>Funimate Pro APK Review and How-To Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/guffaw-guide-the-leading-text-generator-companions/"><u>Guffaw Guide The Leading Text Generator Companions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>In 2024, Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-creating-a-narrative-structure/"><u>In 2024, Creating a Narrative Structure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-music-posting-with-legal-standards/"><u>In 2024, Harmonizing Music Posting with Legal Standards</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selecting-the-best-5-monitors-for-ps5-games/"><u>In 2024, Selecting the Best 5 Monitors for PS5 Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategizing-the-open-door-to-market-success/"><u>In 2024, Strategizing the Open Door to Market Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/screenshotsweeperpro-next-gen-bg-removal-tool/"><u>ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-fix-is-in-how-to-reactivate-sound-in-acer-computers-silently-struggling/"><u>The Fix Is In: How to Reactivate Sound in Acer Computers Silently Struggling</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-inside-scoop-on-google-pixel-tablets-debut-anticipated-release-date-and-key-specifications-revealed/"><u>The Inside Scoop on Google Pixel Tablet's Debut - Anticipated Release Date & Key Specifications Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-techniques-for-capturing-screenshots-on-windows-11/"><u>Top 4 Techniques for Capturing Screenshots on Windows 11</u></a></li>
+</ul></div>
 

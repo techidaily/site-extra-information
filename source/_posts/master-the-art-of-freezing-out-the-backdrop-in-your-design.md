@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Freezing Out the Backdrop in Your Design"
-date: 2024-07-27T04:09:07.814Z
-updated: 2024-07-28T04:09:07.814Z
+date: 2025-02-28T22:41:14.980Z
+updated: 2025-03-06T22:05:20.664Z
 tags: 
   - screen-recording
   - ai video
@@ -26,18 +26,12 @@ To make things easier, we've written a comprehensive step-by-step guide on **rem
 
 So, keep reading to find out about removing an image's background in Figma!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Best Option to Remove Image's Background in Figma
 
 As aforementioned, **Figma** does not offer a **Background Remover** tool but comes with a Plugins menu to help you find the required tool.
 
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -58,18 +52,12 @@ This function lets you use brushstrokes to remove watermarks from your target pi
 
 With its Image Englargement feature, you can expand the size of your picture up to 400% without losing the quality.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### How to use PixCut to remove the background in Figma
 
 Here's how you can get the PixCut plugin in Figma and use it to remove the background in just three simple steps:
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -84,9 +72,6 @@ Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, 
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
@@ -98,9 +83,6 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -121,14 +103,8 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -199,7 +175,22 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-boost-your-content-with-top-notch-tiktok-video-edit-tricks/"><u>[New] 2024 Approved Boost Your Content with Top-Notch TikTok Video Edit Tricks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-alternative-video-editors-for-laptops/"><u>[Updated] Alternative Video Editors for Laptops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-androids-path-to-virtual-reality-tips-and-tricks/"><u>[Updated] Android's Path to Virtual Reality Tips and Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bypassing-watermarks-for-photographic-needs/"><u>[Updated] Bypassing Watermarks for Photographic Needs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-overview-harnessing-the-power-of-googles-text-conversion/"><u>[Updated] Complete Overview Harnessing the Power of Google's Text Conversion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-achieve-peaceful-nights-with-expert-recommended-asmr/"><u>2024 Approved Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asmr-insights-understanding-its-health-benefits/"><u>ASMR Insights Understanding Its Health Benefits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audience-friendly-audio-fades-practices-in-audacity/"><u>Audience-Friendly Audio Fades Practices in Audacity</u></a></li>
+<li><a href="https://games-able.techidaily.com/display-dilemma-which-of-oled-amoled-or-lcd-triumphs/"><u>Display Dilemma: Which Of OLED, AMOLED Or LCD Triumphs?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-pathways-to-scour-for-mass-video-downloads-on-tiktok/"><u>Effortless Pathways to Scour for Mass Video Downloads on TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-for-auto-gpt-setup/"><u>Essential Steps for Auto-GPT Setup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-animating-scenes-with-windows-movie-maker-for-2024/"><u>Guide to Animating Scenes with Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-14-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 14?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-showdown-feature-analysis-of-the-new-iphone-15-plus-and-pro-max/"><u>IPhone Showdown: Feature Analysis of the New iPhone 15 Plus and Pro Max</u></a></li>
+<li><a href="https://fox-search.techidaily.com/learn-anywhere-save-your-educational-videos-as-high-quality-formats-for-offline-access/"><u>Learn Anywhere - Save Your Educational Videos as High-Quality Formats for Offline Access</u></a></li>
+</ul></div>
 

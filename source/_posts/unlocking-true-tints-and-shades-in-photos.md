@@ -1,7 +1,7 @@
 ---
 title: "Unlocking True Tints and Shades in Photos"
-date: 2025-02-16T05:14:25.204Z
-updated: 2025-02-17T17:57:46.703Z
+date: 2025-03-05T18:42:57.147Z
+updated: 2025-03-06T21:22:04.416Z
 tags: 
   - screen-recording
   - ai video
@@ -34,17 +34,9 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Tips 2: Use Black and White Colors
 
@@ -61,14 +53,6 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
@@ -92,10 +76,6 @@ Afterward, create a group in which add layers, mask, and adjustment layers to ch
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Tip 6: Use Blend IF
 
 If you want to change the color of leaves on a tree, you can use the “Blend IF” option of Adobe Photoshop to precisely do the changes. Start with duplicating the existing layer and then hiding the second layer. Double click on the layer to open the menu and then use “Blend IF” sliders. This option works when you drag the sliders to black points, and it automatically hides the dark pixels of your photo.
@@ -112,10 +92,6 @@ It helps the user create transparency across the layer. After hiding the layer a
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
@@ -124,17 +100,9 @@ To change the color, navigate to this tool and upload the images. Then, head to 
 
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -164,19 +132,22 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-8-best-website-for-3d-graffiti-fonts/"><u>[New] 8 Best Website for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-builds-for-maximum-mc-safety-for-2024/"><u>[New] Top Builds for Maximum MC Safety for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-enhance-snapchat-stories-with-these-top-6-mobile-editors-for-2024/"><u>[Updated] Enhance Snapchat Stories with These Top 6 Mobile Editors for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube/"><u>[Updated] Top Tips to Mastering the Art of Hashtag Creation on YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/analyzing-yuneecs-typhoon-h-drone-features-for-2024/"><u>Analyzing Yuneec’s Typhoon H Drone Features for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cal-selection-the-best-10-video-cards-for-seamless-playback-for-2024/"><u>Critical Selection The Best 10 Video Cards for Seamless Playback for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ice-arena-intensity-the-fastest-moments-in-olympics/"><u>Ice Arena Intensity The Fastest Moments in Olympics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-achieve-the-perfect-selfie-with-top-8-gear/"><u>In 2024, Achieve the Perfect Selfie with Top 8 Gear</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c32-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C32 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os/"><u>In 2024, Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-trimming-tamil-melodies-best-practices-for-2024/"><u>Mastering the Art of Trimming Tamil Melodies Best Practices for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pros-recommended-slow-motion-camera-apps-ios-and-android-edition/"><u>Pro's Recommended Slow Motion Camera Apps IOS & Android Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/techniques-to-rectify-iphone-photo-out-of-focus-for-2024/"><u>Techniques to Rectify iPhone Photo Out-of-Focus for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-vr-buying-guide-mobile-liberty-or-tethered-unity/"><u>The Ultimate VR Buying Guide Mobile Liberty or Tethered Unity?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-9-tips-to-become-an-instagram-star/"><u>[New] 9 Tips to Become an Instagram Star</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blackout-blitz-premiere-pro-60s/"><u>[Updated] Blackout Blitz Premiere Pro 60S</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>2024 Approved TikTok to Tokens Financial Figures of PewDiePie</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-in-laymans-terms-making-sense-of-artificial-intelligence/"><u>Demystifying AI in Layman's Terms: Making Sense of Artificial Intelligence</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-google-pixel-4a-is-it-just-right-for-your-tech-lifestyle/"><u>Evaluating the Google Pixel 4a - Is It Just Right for Your Tech Lifestyle?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-for-applying-apple-music-to-your-videos/"><u>Expert Tips for Applying Apple Music to Your Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-performance-tools-youtube-meets-twitter/"><u>High-Performance Tools YouTube Meets Twitter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/"><u>In 2024, Automated Opener Your SRT Files, Windows & Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-companionship-through-metaverse-adventures/"><u>In 2024, Best Companionship Through Metaverse Adventures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chucklecrafts-join-and-start-crafting-laughter/"><u>In 2024, ChuckleCrafts Join and Start Crafting Laughter</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 14</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-13-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 13 5G Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-chatgpt-the-technology-behind-gpt-3s-conversational-brilliance/"><u>Inside ChatGPT: The Technology Behind GPT-3's Conversational Brilliance</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-errors-in-windows-performance-dashboard/"><u>Overcoming Errors in Windows Performance Dashboard</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-guide-to-the-ifunny-meme-application/"><u>Quick Guide to the iFunny Meme Application</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-list-of-androids-best-music-video-apps/"><u>The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workspace-with-the-adonit-nest-usb-hub-now-a-steal-at-65-top-recommendation-by-zdnet/"><u>Transform Your Workspace with the Adonit Nest USB Hub – Now a Steal at $65, Top Recommendation by ZDNet!</u></a></li>
 </ul></div>
 

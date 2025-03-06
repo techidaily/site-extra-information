@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Windows Photos Experience with Added Filters/Music"
-date: 2025-02-14T00:10:59.850Z
-updated: 2025-02-17T17:22:26.510Z
+date: 2025-03-04T20:59:00.782Z
+updated: 2025-03-06T16:57:55.741Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -55,10 +51,6 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,29 +65,17 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 **Step 5**: Hit the ‘Done’ button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,15 +92,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-tips-for-iphone-shadow-photography/"><u>[New] 2024 Approved Essential Tips for iPhone Shadow Photography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-screenshot-supreme-in-depth-recorder-reviews/"><u>[New] Screenshot Supreme In-Depth Recorder Reviews</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-androids-lightroom-app-decoded-a-complete-analysis/"><u>[Updated] Android's Lightroom App Decoded A Complete Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-essential-film-edits-and-their-techniques/"><u>10 Essential Film Edits and Their Techniques</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6s-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6s</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-studio-examination-xstudio-unveiled/"><u>In 2024, In-Depth Studio Examination XStudio Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-editing-with-vita-an-in-depth-review-and-tutorial/"><u>In 2024, Mastering Video Editing with Vita An In-Depth Review & Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/synthesizing-best-canon-sequential-videos/"><u>Synthesizing Best Canon Sequential Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/venturing-virtuality-a-review-of-lgs-360-headset/"><u>Venturing Virtuality A Review of LG's 360 Headset</u></a></li>
-<li><a href="https://article-posts.techidaily.com/win-top-rated-rapid-image-zoomer-for-2024/"><u>Win Top-Rated Rapid Image Zoomer for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-perfecting-presentations-through-adobe-captivates-tools/"><u>[Updated] 2024 Approved Perfecting Presentations Through Adobe Captivate's Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-captured-words-top-10-mobile-writing-tools-for-images/"><u>[Updated] Captured Words Top 10 Mobile Writing Tools for Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-followers-with-effective-igtv-hashtag-techniques/"><u>[Updated] Elevate Followers with Effective IGTV Hashtag Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[Updated] From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-empowering-tiktok-sharing-on-twitter-networks/"><u>[Updated] In 2024, Empowering TikTok Sharing on Twitter Networks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-shooting-hdr-iphones-pathway-to-enhanced-images/"><u>[Updated] In 2024, Shooting HDR IPhone's Pathway to Enhanced Images</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-scrutiny-of-elite-parrot-ar-20/"><u>2024 Approved Comprehensive Scrutiny of Elite Parrot AR 2.0</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-rated-android-podcasters/"><u>Best-Rated Android Podcasters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-intriguing-movie-summaries/"><u>Creating Intriguing Movie Summaries</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/distinguishing-ocr-from-idp-a-comprehensive-guide-to-their-unique-features-and-uses/"><u>Distinguishing OCR From IDP: A Comprehensive Guide to Their Unique Features and Uses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-pdf-document-electronically-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How do i sign a pdf document electronically</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harness-the-power-of-azure-speech-to-text-technology/"><u>In 2024, Harness the Power of Azure Speech to Text Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-zoom-meetings-with-ease-integrating-skype-functions/"><u>Mastering Zoom Meetings with Ease Integrating Skype Functions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/most-popular-iphone-podcast-soundshare/"><u>Most Popular iPhone Podcast Soundshare</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimize-your-media-output-with-our-top-10-online-subtitles-tools/"><u>Optimize Your Media Output With Our Top 10 Online Subtitles Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pathways-of-file-formats-navigating-from-srt-to-others/"><u>Pathways of File Formats Navigating From SRT to Others</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-video-zoom-on-youtube/"><u>Perfecting Video Zoom on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-your-snapchat-presence-a-comprehensive-tutorial-for-account-recovery/"><u>Reviving Your Snapchat Presence: A Comprehensive Tutorial for Account Recovery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/slippery-surfaces-olympic-winners-of-22-for-2024/"><u>Slippery Surfaces Olympic Winners of '22 for 2024</u></a></li>
 </ul></div>
 
